@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cultura Digital I | Cuaderno Digital Inteligente</title>
+    
+    <!-- Tipografías: Inter, Poppins, Montserrat (usaremos Inter y Poppins/Outfit) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Iconos Lucide -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    
+    <!-- Librería Markdown -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <!-- Estilos -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="light-mode">
+    <div class="app-container">
+        
+        <!-- Botón menú móvil -->
+        <button id="mobile-menu-btn" class="mobile-toggle">
+            <i data-lucide="menu"></i>
+        </button>
+
+        <!-- COLUMNA IZQUIERDA: Menú Permanente -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="school-logo-placeholder">CEB 5/4</div>
+                <h1 class="main-title">Cultura Digital I</h1>
+                <p class="subtitle">Marco Curricular Común EMS 2025</p>
+                <div class="teacher-info">
+                    <p>Mtro. Felipe López Salazar</p>
+                    <p class="cycle-info">Ciclo 2026-2027</p>
+                </div>
+            </div>
+            
+            <div class="sidebar-progress">
+                <div class="progress-header">
+                    <span>Progreso del Curso</span>
+                    <span id="progress-percentage">0%</span>
+                </div>
+                <div class="progress-bar-container">
+                    <div class="progress-bar-fill" id="progress-bar-fill" style="width: 0%;"></div>
+                </div>
+            </div>
+
+            <nav class="sidebar-nav" id="sidebar-nav">
+                <!-- Se generará dinámicamente desde JS -->
+            </nav>
+            
+            <div class="sidebar-footer">
+                <button id="theme-toggle" class="theme-btn">
+                    <i data-lucide="moon"></i> <span>Modo Oscuro</span>
+                </button>
+            </div>
+        </aside>
+
+        <!-- ZONA CENTRAL: Cuaderno Digital -->
+        <main class="main-area" id="main-area">
+            
+            <!-- Buscador Superior -->
+            <header class="top-header">
+                <div class="search-bar">
+                    <i data-lucide="search"></i>
+                    <input type="text" id="search-input" placeholder="Buscar actividades, conceptos o temas...">
+                </div>
+                <div class="top-actions">
+                    <div class="class-timer" aria-label="Cronómetro de clase">
+                        <i data-lucide="timer"></i>
+                        <select id="class-timer-minutes" aria-label="Minutos del cronómetro">
+                            <option value="5">5 min</option>
+                            <option value="10">10 min</option>
+                            <option value="15">15 min</option>
+                            <option value="20">20 min</option>
+                            <option value="25">25 min</option>
+                            <option value="30" selected>30 min</option>
+                            <option value="35">35 min</option>
+                            <option value="40">40 min</option>
+                            <option value="45">45 min</option>
+                            <option value="50">50 min</option>
+                        </select>
+                        <span id="class-timer-display">30:00</span>
+                        <button id="class-timer-toggle" type="button">Iniciar</button>
+                        <button id="class-timer-reset" type="button">Reset</button>
+                    </div>
+                    <span class="status-badge sync-status"><i data-lucide="cloud-check"></i> Guardado</span>
+                </div>
+            </header>
+
+            <div class="notebook-wrapper">
+                <div class="notebook-paper no-copy" id="notebook-paper">
+                    
+                    <div class="notebook-header">
+                        <div class="week-badge" id="current-week-badge">SEMANA 01</div>
+                        <h2 class="week-title" id="current-week-title">Selecciona una semana</h2>
+                        
+                        <!-- Pestañas de Horas -->
+                        <div class="tabs-container">
+                            <button class="tab-btn active" data-hour="1"><i data-lucide="clock"></i> Hora 1</button>
+                            <button class="tab-btn" data-hour="2"><i data-lucide="clock"></i> Hora 2</button>
+                            <button class="tab-btn" data-hour="3"><i data-lucide="clock"></i> Hora 3</button>
+                            <button class="tab-btn" data-hour="productos"><i data-lucide="clipboard-check"></i> Productos</button>
+                        </div>
+                    </div>
+
+                    <!-- Contenedor Markdown (Aquí se inyecta el contenido) -->
+                    <div class="markdown-body" id="md-content">
+                        <div class="empty-state">
+                            <i data-lucide="book-open"></i>
+                            <p>Selecciona una semana en el menú lateral para comenzar a explorar tu libreta digital.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="task-marker">
+                        <label class="checkbox-container">
+                            <input type="checkbox" id="mark-done-btn">
+                            <span class="checkmark"></span>
+                            Marcar actividad como completada
+                        </label>
+                    </div>
+
+                </div>
+            </div>
+        </main>
+
+        <!-- PANEL DERECHO: Información Rápida -->
+        <aside class="right-panel" id="right-panel">
+            
+            <div class="panel-widget">
+                <h3 class="widget-title"><i data-lucide="calendar"></i> Calendario Académico</h3>
+                <div class="calendar-card">
+                    <div class="cal-date">
+                        <span class="cal-month">SEP</span>
+                        <span class="cal-day">26</span>
+                    </div>
+                    <div class="cal-info">
+                        <strong>Inicio Semana 01</strong>
+                        <p>Libreta, encuadre y diagnóstico inicial.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel-widget">
+                <h3 class="widget-title"><i data-lucide="bell"></i> Avisos Importantes</h3>
+                <div class="notice-card warning">
+                    <div class="notice-content">
+                        <strong><i data-lucide="alert-circle"></i> Evaluación</strong>
+                        <ul class="eval-list">
+                            <li><span>Portafolio</span><strong>60%</strong></li>
+                            <li><span>Examen</span><strong>20%</strong></li>
+                            <li><span>PEC</span><strong>20%</strong></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel-widget">
+                <h3 class="widget-title"><i data-lucide="link"></i> Accesos Rápidos</h3>
+                <div class="quick-links">
+                    <a href="#" class="q-link"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Google_Classroom_Logo.png" alt="Classroom" width="20"> Google Classroom</a>
+                    <a href="#" class="q-link"><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" alt="Drive" width="20"> Google Drive</a>
+                    <a href="#" class="q-link"><i data-lucide="mail"></i> Correo Institucional</a>
+                </div>
+            </div>
+
+            <div class="panel-widget">
+                <h3 class="widget-title"><i data-lucide="tags"></i> Glosario de Etiquetas</h3>
+                <div class="tags-container">
+                    <span class="tag tag-theory">Teoría</span>
+                    <span class="tag tag-practice">Práctica</span>
+                    <span class="tag tag-project">Proyecto</span>
+                    <span class="tag tag-eval">Evaluación</span>
+                    <span class="tag tag-pec">PEC</span>
+                </div>
+            </div>
+            
+        </aside>
+
+    </div>
+
+    <!-- Data Module (Generado por build.py) -->
+    <script src="js/data.js"></script>
+    <!-- App Logic -->
+    <script src="js/app.js"></script>
+</body>
+</html>
