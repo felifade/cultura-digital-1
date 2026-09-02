@@ -14,7 +14,7 @@ window.notebookData = {
     "title": "¿Cómo nos conectamos?",
     "dateRange": "7 - 11 Sep",
     "partial": 1,
-    "visible": false,
+    "visible": true,
     "hora1": "# Hora 1: Apertura\n\n**Objetivo:** Introducción al tema de ¿Cómo nos conectamos?.\n\n### Actividad\nPregunta detonadora proyectada en pantalla: *\"¿Google Chrome es lo mismo que Google.com?\"*. Debate grupal para identificar la confusión común entre \"Navegador\" (Browser) y \"Motor de Búsqueda\" (Search Engine).",
     "hora2": "# Hora 2: Desarrollo\n\n**Misión Principal:**\n\n\"Misión 2: El mapa de la red\". Mediante un ejercicio práctico en el salón/plataforma, el estudiante mapea el viaje de la información. Investiga la diferencia entre la Web (WWW) y el Internet físico (cables submarinos). Usa la plataforma web para resolver un micro-reto de velocidad de conexión (speedtest).",
     "hora3": "# Hora 3: Cierre\n\n**Reflexión Final:**\nReflexión guiada sobre quién controla el acceso a internet (Proveedores de Servicios o ISPs) y las desigualdades de conectividad en el país.\n\n---\n\n## Evaluación\n- **Entregable:** Micro-reto en plataforma superado y glosario técnico creado en Google Keep/Docs.\n- **Instrumento:** Lista de cotejo de participación web",
