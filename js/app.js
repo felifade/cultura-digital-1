@@ -116,6 +116,13 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // MODO PROFESOR SECRETO
+    // Revisar parámetro URL
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get('profe') === 'ceb54') {
+        localStorage.setItem('ceb_teacher_mode', 'true');
+    }
+    
+    // Obtener preferencia guardada
     let isTeacherMode = localStorage.getItem('ceb_teacher_mode') === 'true';
     let clickCount = 0;
     let clickTimer;
