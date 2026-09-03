@@ -1,36 +1,32 @@
-# Hora 2: Acuerdos de clase
+# Hora 2: Listado de acuerdos de clase
 
-**Propósito:** Construir acuerdos claros para trabajar durante el semestre y dejar un compromiso firmado en la libreta.
-
----
+**Propósito:** Registrar los 10 acuerdos de clase que guiarán el trabajo del semestre.
 
 <section class="momento momento-inicio">
-<h2>🟢 Inicio: las reglas tienen sentido</h2>
+<h2>Inicio: sentido de los acuerdos</h2>
 <p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
-<p>Escucha la explicación inicial y copia la idea clave en tu libreta.</p>
+<p>Copia el dictado inicial antes de escribir la lista de acuerdos.</p>
 </section>
 
-## 🧭 ¿Para qué sirven las reglas?
+## Dictado inicial
 
-Una regla no sirve solo para obedecer. Sirve para proteger el tiempo, la convivencia, el aprendizaje y la calidad del trabajo.
+Los acuerdos de clase sirven para cuidar el tiempo, la convivencia, el aprendizaje y el trabajo de todos.
 
-Cuando un grupo tiene acuerdos claros, puede avanzar con menos interrupciones y con mayor responsabilidad. Las reglas también ayudan a que todos sepan qué se espera de ellos y cómo se revisará su trabajo.
+Una regla no existe solo para obedecer. Existe para que el grupo pueda avanzar con orden, respeto y responsabilidad.
 
-> [!IMPORTANT]
-> **Idea clave para copiar:**  
-> Las reglas de clase protegen el aprendizaje del grupo. Cumplirlas permite trabajar con respeto, atención y responsabilidad.
+Durante esta hora escribiré los 10 acuerdos de clase. En la siguiente hora los organizaré en columnas y agregaré una justificación para cada uno.
 
----
+> **Idea clave:** Los acuerdos de clase protegen el aprendizaje del grupo.
 
-<section class="momento momento-explicacion">
-<h2>🔵 Desarrollo docente: acuerdos de clase</h2>
-<p><strong>Tiempo sugerido:</strong> 15 minutos.</p>
-<p>Revisa los acuerdos y entiende la razón de cada uno antes de copiarlos.</p>
+<section class="momento momento-trabajo">
+<h2>Desarrollo: actividad 2</h2>
+<p><strong>Tiempo sugerido:</strong> 35 minutos.</p>
+<p>Copia los 10 acuerdos de clase en tu libreta con fecha y título.</p>
 </section>
 
-## 📌 Acuerdos de trabajo
+## Actividad 2: listado de los 10 acuerdos
 
-Copia los acuerdos en tu libreta. Debajo de cada uno escribe una justificación breve con tus propias palabras.
+Título en libreta: **Acuerdos de clase**
 
 1. Llegar a tiempo y entrar con disposición de trabajo.
 2. Traer libreta y material básico.
@@ -43,58 +39,15 @@ Copia los acuerdos en tu libreta. Debajo de cada uno escribe una justificación 
 9. Preguntar cuando haya dudas, sin pena y con respeto.
 10. Entregar productos propios, completos y a tiempo.
 
-> [!TIP]
-> No copies por copiar. Una regla se entiende mejor cuando puedes explicar por qué existe.
-
----
-
-<section class="momento momento-trabajo">
-<h2>🟡 Trabajo del estudiante: apunte de acuerdos</h2>
-<p><strong>Tiempo sugerido:</strong> 25 minutos.</p>
-<p>Organiza tus reglas en una tabla, lista ilustrada o mapa de acuerdos.</p>
-</section>
-
-## ✍️ Producto: acuerdos con justificación
-
-Tu apunte debe incluir:
-
-- Fecha.
-- Título: **Acuerdos de clase**.
-- Los 10 acuerdos de trabajo.
-- Una justificación breve para cada acuerdo.
-- La regla que consideras más importante, encerrada o resaltada.
-- Firma y frase final: **Leído y enterado**.
-
-### Tres propuestas visuales para tu producto
-
-Elige una forma de organizar tu apunte:
-
-![Propuesta 1: tabla de acuerdos](assets/semana01/hora2_reglas_propuesta_01.png)
-
-![Propuesta 2: mapa de convivencia](assets/semana01/hora2_reglas_propuesta_02.png)
-
-![Propuesta 3: compromiso firmado](assets/semana01/hora2_reglas_propuesta_03.png)
-
----
-
 <section class="momento momento-cierre">
-<h2>🔴 Cierre: compromiso de trabajo</h2>
+<h2>Cierre: preparación para la siguiente hora</h2>
 <p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
-<p>Firma tu acuerdo y responde la pregunta final.</p>
 </section>
 
-### Pregunta de cierre
+## Mini actividad de cierre
 
-Responde en tu libreta:
+Subraya los tres acuerdos que consideres más importantes.
 
-**¿Qué regla será más fácil de cumplir y cuál debo cuidar más durante el semestre?**
+Debajo escribe:
 
-### Revisión rápida
-
-El producto se revisa con estos criterios:
-
-- Acuerdos completos.
-- Justificaciones propias.
-- Regla importante resaltada.
-- Frase **Leído y enterado**.
-- Firma del alumno.
+**En la siguiente clase organizaré estos acuerdos en columnas y explicaré por qué son importantes.**

@@ -2,7 +2,7 @@
 
 **Propósito:** Identificar las teclas principales y usar combinaciones básicas para escribir datos escolares sin errores.
 
-![Teclado realista con combinaciones para escribir arroba](assets/semana02/teclado_arroba_realista.png)
+![Teclado español realista con teclas principales señaladas](assets/semana02/teclado_espanol_teclas_senaladas.png)
 
 <section class="momento momento-inicio">
 <h2>Inicio: dictado en libreta</h2>
@@ -12,11 +12,13 @@
 
 ## Dictado inicial
 
-Hoy vamos a conocer las teclas principales del teclado para escribir correctamente usuarios, contraseñas y textos escolares.
+Hoy vamos a conocer las teclas principales del teclado para escribir correctamente usuarios, contraseñas y textos escolares. Esta clase se divide en tres momentos: inicio, desarrollo y cierre.
 
-El teclado es una herramienta de precisión. Un error en una letra, punto, arroba, número o mayúscula puede impedir entrar a una cuenta institucional.
+En el **inicio**, copiaré este dictado para saber qué vamos a hacer y para qué sirve. En el **desarrollo**, observaré el teclado, ubicaré las teclas más importantes y practicaré combinaciones como **Alt Gr + Q** y **Alt Gr + 2** para escribir el arroba. En el **cierre**, haré una mini actividad en mi libreta para comprobar que puedo escribir mi correo institucional sin errores.
 
-En esta clase voy a identificar teclas importantes, practicar combinaciones útiles y elaborar un mapa rápido del teclado en mi libreta.
+El teclado es una herramienta de precisión. Un error en una letra, punto, arroba, número, acento, comilla o mayúscula puede impedir entrar a una cuenta institucional o entregar correctamente una actividad digital.
+
+En esta clase debo identificar: **Control**, **Alt**, **Shift**, **barra espaciadora**, **Enter**, **Imprimir pantalla**, **Q**, **2/@**, **comillas** y **acentos**.
 
 > **Idea clave para copiar:** Escribir bien en el teclado evita errores al entrar a mi cuenta, buscar información y entregar actividades digitales.
 

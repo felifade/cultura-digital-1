@@ -1,90 +1,59 @@
-# Hora 3: Escucha activa
+# Hora 3: Acuerdos en columnas con justificación
 
-**Propósito:** Practicar la atención sostenida, comprender antes de reaccionar y registrar ideas importantes después de escuchar.
-
----
+**Propósito:** Organizar los 10 acuerdos de clase en formato de columnas y escribir una justificación breve para cada uno.
 
 <section class="momento momento-inicio">
-<h2>🟢 Inicio: preparar la atención</h2>
+<h2>Inicio: recuperar la lista de acuerdos</h2>
 <p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
-<p>Guarda distractores, prepara postura de escucha y copia la idea clave.</p>
+<p>Abre tu libreta en la actividad 2. Revisa que tengas escritos los 10 acuerdos completos.</p>
 </section>
 
-## 👂 ¿Qué es la escucha activa?
+## Dictado inicial
 
-Escuchar activamente no significa quedarse callado sin pensar. Significa poner atención, comprender antes de reaccionar y recuperar las ideas importantes.
+En la clase anterior escribí los 10 acuerdos de clase. Ahora voy a organizarlos en un formato más claro.
 
-En Cultura Digital esto importa porque vivimos rodeados de mensajes, notificaciones, opiniones, videos y comentarios. Si no aprendemos a escuchar y seleccionar información, reaccionamos sin pensar.
+Una justificación explica por qué un acuerdo es importante. No debo escribir solo "porque sí"; debo explicar cómo ayuda al grupo, al aprendizaje o a la convivencia.
 
-> [!IMPORTANT]
-> **Idea clave para copiar:**  
-> Escuchar activamente es atender, comprender, seleccionar ideas importantes y responder con respeto. Antes de escribir o reaccionar, primero hay que entender.
-
----
-
-<section class="momento momento-explicacion">
-<h2>🔵 Desarrollo docente: lectura para escuchar</h2>
-<p><strong>Tiempo sugerido:</strong> 15 minutos.</p>
-<p>Durante la lectura no se escribe. Primero se escucha, después se recuperan ideas.</p>
-</section>
-
-## 📖 Lectura breve: Cuando una palabra se vuelve pensamiento
-
-Una palabra no entra directamente al corazón ni a la piel. Primero llega como sonido, después el cerebro la reconoce y finalmente la persona decide qué significado darle. Por eso dos alumnos pueden escuchar la misma frase y reaccionar de manera distinta: uno puede molestarse, otro puede reírse y otro puede ignorarla.
-
-El verdadero trabajo no está solo en oír, sino en observar qué hacemos con lo que oímos. Si una palabra nos incomoda, conviene detenernos un momento y preguntar: ¿esto describe un hecho o solo una opinión?, ¿me sirve para mejorar o solo me distrae?, ¿qué decisión puedo tomar después de escucharla?
-
-Escuchar con atención no significa aceptar todo lo que dicen los demás. Significa entender antes de reaccionar. Una persona que aprende a escuchar, seleccionar ideas y responder con calma tiene una herramienta poderosa para estudiar, trabajar y convivir.
-
----
+En esta hora haré una tabla o formato en columnas para que mis acuerdos queden ordenados y con una razón propia.
 
 <section class="momento momento-trabajo">
-<h2>🟡 Trabajo del estudiante: recuperar ideas</h2>
-<p><strong>Tiempo sugerido:</strong> 20 minutos.</p>
-<p>Después de escuchar, registra conceptos importantes y una reflexión breve.</p>
+<h2>Desarrollo: formato en columnas</h2>
+<p><strong>Tiempo sugerido:</strong> 35 minutos.</p>
+<p>Organiza los acuerdos en una tabla limpia y escribe una justificación breve con tus propias palabras.</p>
 </section>
 
-## ✍️ Producto: registro de escucha activa
+## Actividad 3: acuerdos en columnas
 
-Tu producto debe incluir:
+Copia este formato en tu libreta:
+
+| No. | Acuerdo | Justificación |
+| --- | --- | --- |
+| 1 | Llegar a tiempo | Ayuda a iniciar la clase sin interrupciones. |
+| 2 | Traer libreta y material | Permite trabajar sin retrasos. |
+| 3 | Escuchar sin interrumpir | Favorece el respeto y la atención. |
+
+Después completa los 10 acuerdos.
+
+## Requisitos
 
 - Fecha.
-- Título: **Escucha activa**.
-- Tres conceptos importantes que recuerdes de la lectura.
-- Explicación breve de uno de esos conceptos.
-- Una frase significativa de la lectura o de la explicación del profesor.
-- Un compromiso personal para escuchar mejor en clase.
-
-### Tres propuestas visuales para tu producto
-
-Elige una forma de organizar tu registro:
-
-![Propuesta 1: tres ideas clave](assets/semana01/hora3_escucha_propuesta_01.png)
-
-![Propuesta 2: semáforo de escucha](assets/semana01/hora3_escucha_propuesta_02.png)
-
-![Propuesta 3: oreja, idea y compromiso](assets/semana01/hora3_escucha_propuesta_03.png)
-
----
+- Título: **Acuerdos de clase con justificación**.
+- Tres columnas: **No.**, **Acuerdo**, **Justificación**.
+- Los 10 acuerdos completos.
+- Una justificación breve para cada acuerdo.
+- Limpieza, orden y letra legible.
 
 <section class="momento momento-cierre">
-<h2>🔴 Cierre: reflexión personal</h2>
+<h2>Cierre: compromiso personal</h2>
 <p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
-<p>Conecta la escucha activa con tu forma de estudiar y convivir.</p>
 </section>
 
-### Pregunta de cierre
+## Mini actividad de cierre
 
-Responde en tu libreta:
+Al final de tu tabla escribe:
 
-**¿Qué necesito mejorar para escuchar con más atención en clase?**
+**El acuerdo que más debo cuidar durante el semestre es: __________ porque __________.**
 
-### Revisión rápida
+Firma tu actividad con la frase:
 
-El producto se revisa con estos criterios:
-
-- Tres conceptos pertinentes.
-- Explicación propia.
-- Frase significativa.
-- Compromiso personal.
-- Orden, limpieza y letra legible.
+**Leído y enterado.**
