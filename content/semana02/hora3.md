@@ -1,25 +1,72 @@
-# 🕒 Hora 3: Brecha Digital y Glosario
+# Hora 3: Primer documento en Google Docs
 
-### 🟢 Inicio (10 min)
-- **Reflexión Grupal:** ¿Qué pasaría si hoy nos cortaran el internet en todo Pachuca por una semana completa? ¿Quiénes sufrirían más y por qué?
+**Propósito:** Crear una portada digital institucional usando la cuenta escolar, Google Docs y formato básico.
 
-### 🟡 Desarrollo (30 min)
-<div class="digital-notebook">
-<h3>📖 Brecha Digital y Glosario Técnico</h3>
-<p>El acceso a internet determina las oportunidades educativas, laborales y sociales de las personas. A esto le llamamos <strong>Brecha Digital</strong>.</p>
-<p>Para no quedarnos atrás, vamos a construir un vocabulario base. Busca y construye la definición de estas 5 palabras clave:</p>
-<ol>
-<li><strong>ISP</strong> (Proveedor de Servicios de Internet).</li>
-<li><strong>Navegador Web</strong> (Ej. Chrome, Safari).</li>
-<li><strong>Motor de Búsqueda</strong> (Ej. Google, Bing).</li>
-<li><strong>Fibra Óptica.</strong></li>
-<li><strong>Brecha Digital.</strong></li>
-</ol>
+<section class="momento momento-inicio">
+<h2>Inicio: documento limpio, datos correctos</h2>
+<p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
+<p>El objetivo no es decorar por decorar. El objetivo es abrir Docs, escribir datos correctos y presentar un documento escolar ordenado.</p>
+</section>
+
+## Actividad: portada digital institucional
+
+<section class="momento momento-explicacion">
+<h2>Desarrollo guiado</h2>
+<p><strong>Tiempo sugerido:</strong> 30 minutos.</p>
+</section>
+
+Sigue estos pasos:
+
+1. Entra a Classroom.
+2. Abre la actividad de Semana 02.
+3. Crea o abre el documento de Google Docs.
+4. Escribe el título: **Cultura Digital I**.
+5. Agrega tus datos completos.
+6. Aplica formato básico.
+7. Inserta una imagen relacionada con Cultura Digital si el tiempo alcanza.
+8. Verifica que el archivo esté en tu cuenta institucional.
+9. Entrega o deja listo el archivo en Classroom.
+
+## Datos obligatorios
+
+<div class="doc-cover-checklist">
+<span>Nombre completo</span>
+<span>Grupo</span>
+<span>Materia</span>
+<span>Docente</span>
+<span>Plantel</span>
+<span>Ciclo escolar</span>
 </div>
 
-- **Micro-reto:** En binas, escribir en sus libretas las 5 definiciones usando sus propias palabras (no copiado y pegado literal de Google).
-- Repaso de la diferencia entre Navegador y Buscador (que suele venir en los exámenes parciales).
+## Formato mínimo
 
-### 🔴 Cierre (10 min)
-- **Evidencia Esperada:** Glosario técnico completo de las 5 palabras en su libreta, revisado por el profesor.
-- **Pase de lista y limpieza de la sala / laboratorio.**
+- Título centrado.
+- Título más grande que el resto del texto.
+- Datos ordenados.
+- Uso básico de negritas.
+- Ortografía revisada.
+- Archivo creado desde la cuenta institucional.
+
+<section class="momento momento-trabajo">
+<h2>Trabajo del estudiante</h2>
+<p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
+</section>
+
+## Producto digital: portada institucional
+
+Requisitos mínimos:
+
+- Título claro.
+- Datos completos.
+- Formato ordenado.
+- Cuenta institucional usada correctamente.
+- Archivo ubicado o entregado desde Classroom.
+
+<section class="momento momento-cierre">
+<h2>Cierre: reflexión breve</h2>
+<p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
+</section>
+
+Responde en tu libreta:
+
+**¿Qué fue lo más difícil de trabajar con mi cuenta institucional y Google Docs?**
