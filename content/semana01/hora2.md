@@ -1,53 +1,71 @@
-# Hora 2: Listado de acuerdos de clase
+# Hora 2: Boceto de portada
 
-**Propósito:** Registrar los 10 acuerdos de clase que guiarán el trabajo del semestre.
+**Propósito:** Elaborar el boceto de la portada de Cultura Digital I en la libreta, usando ejemplos visuales como referencia.
 
 <section class="momento momento-inicio">
-<h2>Inicio: sentido de los acuerdos</h2>
+<h2>Inicio: indicaciones para la portada</h2>
 <p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
-<p>Copia el dictado inicial antes de escribir la lista de acuerdos.</p>
+<p>Copia el dictado inicial antes de comenzar el boceto.</p>
 </section>
 
 ## Dictado inicial
 
-Los acuerdos de clase sirven para cuidar el tiempo, la convivencia, el aprendizaje y el trabajo de todos.
+La portada de mi libreta representa el inicio de mi trabajo en Cultura Digital I.
 
-Una regla no existe solo para obedecer. Existe para que el grupo pueda avanzar con orden, respeto y responsabilidad.
+Una portada no debe ser solo decoración. Debe comunicar de forma clara la materia, mis datos y una idea relacionada con tecnología, internet, comunicación, seguridad o ciudadanía digital.
 
-Durante esta hora escribiré los 10 acuerdos de clase. En la siguiente hora los organizaré en columnas y agregaré una justificación para cada uno.
+Hoy elaboraré un boceto de portada. El boceto me sirve para ordenar mis ideas antes de hacer la versión final.
 
-> **Idea clave:** Los acuerdos de clase protegen el aprendizaje del grupo.
+> **Idea clave:** Una buena portada identifica mi libreta y comunica visualmente el tema de la materia.
 
-<section class="momento momento-trabajo">
-<h2>Desarrollo: actividad 2</h2>
-<p><strong>Tiempo sugerido:</strong> 35 minutos.</p>
-<p>Copia los 10 acuerdos de clase en tu libreta con fecha y título.</p>
+<section class="momento momento-explicacion">
+<h2>Ejemplos visuales</h2>
+<p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
+<p>Observa las imágenes. Toma ideas de composición, colores, título y elementos digitales, sin copiar exactamente el diseño.</p>
 </section>
 
-## Actividad 2: listado de los 10 acuerdos
+## Imágenes de referencia
 
-Título en libreta: **Acuerdos de clase**
+![Ejemplo de portada Cultura Digital I](./assets/semana01/portada_cultura_digital_ia.png)
 
-1. Llegar a tiempo y entrar con disposición de trabajo.
-2. Traer libreta y material básico.
-3. Escuchar sin interrumpir cuando alguien participa.
-4. Respetar a compañeros, docente, aula y materiales.
-5. Evitar burlas, groserías, apodos o comentarios que dañen la convivencia.
-6. Cuidar el uso del celular y otros distractores.
-7. Registrar evidencias en cada clase.
-8. Trabajar con limpieza, orden y letra legible.
-9. Preguntar cuando haya dudas, sin pena y con respeto.
-10. Entregar productos propios, completos y a tiempo.
+![Segundo ejemplo de portada Cultura Digital I](./assets/semana01/portada_cultura_digital_ia_02.png)
+
+![Tercer ejemplo de portada Cultura Digital I](./assets/semana01/portada_cultura_digital_ia_03.png)
+
+<section class="momento momento-trabajo">
+<h2>Desarrollo: actividad 1</h2>
+<p><strong>Tiempo sugerido:</strong> 30 minutos.</p>
+<p>Diseña en tu libreta el boceto de portada. Debe verse limpio, centrado y completo.</p>
+</section>
+
+## Actividad 1: boceto de portada
+
+El boceto debe incluir:
+
+- Título: **Cultura Digital I**.
+- Nombre completo.
+- Grupo.
+- Plantel: **CEB 5/4 "Profr. Rafael Ramírez"**.
+- Docente: **Mtro. Felipe López Salazar**.
+- Ciclo escolar: **2026-2027**.
+- Una idea visual relacionada con tecnología, internet, comunicación, seguridad o ciudadanía digital.
+- Tres elementos personales: gustos, intereses, metas o pasatiempos.
+
+## Requisitos de presentación
+
+- Usar toda la hoja.
+- Cuidar márgenes.
+- Escribir con letra clara.
+- Separar título, datos e imagen principal.
+- No saturar la hoja.
 
 <section class="momento momento-cierre">
-<h2>Cierre: preparación para la siguiente hora</h2>
+<h2>Cierre: revisión del boceto</h2>
 <p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
 </section>
 
 ## Mini actividad de cierre
 
-Subraya los tres acuerdos que consideres más importantes.
+Debajo del boceto escribe:
 
-Debajo escribe:
-
-**En la siguiente clase organizaré estos acuerdos en columnas y explicaré por qué son importantes.**
+**Mi portada representa Cultura Digital porque __________.**

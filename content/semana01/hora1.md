@@ -1,11 +1,11 @@
-# Hora 1: Presentación del curso y boleto de portada
+# Hora 1: Presentación del curso
 
-**Propósito:** Presentar Cultura Digital I, explicar cómo se trabajará durante el semestre y elaborar el primer boleto de portada.
+**Propósito:** Presentar Cultura Digital I, explicar la forma de trabajo y ubicar qué se hará durante el semestre.
 
 <section class="momento momento-inicio">
-<h2>Inicio: presentación de la materia</h2>
+<h2>Inicio: bienvenida y presentación</h2>
 <p><strong>Tiempo sugerido:</strong> 15 minutos.</p>
-<p>Escucha la presentación del curso y copia en tu libreta la idea central de la materia.</p>
+<p>Escucha la presentación del docente y de la materia. Copia en tu libreta el dictado inicial.</p>
 </section>
 
 ## Dictado inicial
@@ -14,14 +14,14 @@ Cultura Digital I es una materia que me ayuda a usar la tecnología con responsa
 
 No se trata solo de usar computadoras o celulares. También se trata de pensar antes de publicar, compartir información, aceptar permisos, buscar datos o entregar trabajos digitales.
 
-Durante el semestre trabajaré con mi libreta, mi cuenta institucional, actividades digitales y productos que mostrarán mi avance.
+Durante el semestre trabajaré con mi libreta, mi cuenta institucional, Classroom, actividades digitales y productos que mostrarán mi avance.
 
 > **Idea clave:** Cultura Digital me ayuda a tomar mejores decisiones cuando uso tecnología, internet, información y medios digitales.
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: encuadre breve</h2>
-<p><strong>Tiempo sugerido:</strong> 15 minutos.</p>
-<p>El docente explica materiales, forma de trabajo y criterios generales de evaluación.</p>
+<h2>Desarrollo: encuadre de la materia</h2>
+<p><strong>Tiempo sugerido:</strong> 35 minutos.</p>
+<p>El docente explica los datos generales del curso, materiales, forma de trabajo, evidencias y acuerdos iniciales.</p>
 </section>
 
 ## Datos importantes del curso
@@ -35,31 +35,21 @@ Durante el semestre trabajaré con mi libreta, mi cuenta institucional, activida
 ## Materiales solicitados
 
 - Libreta profesional forrada de azul.
-- Datos de identificación.
-- Imagen, dibujo o composición alusiva a Cultura Digital I.
+- Datos de identificación completos.
 - Plumas o lápices rojo, negro y azul.
 - Colores y regla.
+- Cuenta institucional cuando sea entregada por el docente.
 
-<section class="momento momento-trabajo">
-<h2>Trabajo del estudiante: boleto de portada</h2>
-<p><strong>Tiempo sugerido:</strong> 20 minutos.</p>
-<p>Elabora un boleto de portada como primer borrador visual. No es la portada final.</p>
-</section>
+## Temas generales que se trabajarán
 
-## Actividad 1: boleto de portada
-
-El boleto de portada debe incluir:
-
-- Título: **Cultura Digital I**.
-- Nombre completo.
-- Grupo.
-- Una idea visual relacionada con tecnología, internet, comunicación, seguridad o ciudadanía digital.
-- Tres elementos personales: gustos, intereses, metas o pasatiempos.
-
-> **Nota:** Este boleto servirá como base para diseñar después la portada final de la libreta.
+- Uso responsable de tecnología.
+- Ciudadanía digital.
+- Seguridad y cuidado de datos.
+- Manejo de información.
+- Herramientas digitales para crear productos escolares.
 
 <section class="momento momento-cierre">
-<h2>Cierre: revisión rápida</h2>
+<h2>Cierre: idea personal</h2>
 <p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
 </section>
 

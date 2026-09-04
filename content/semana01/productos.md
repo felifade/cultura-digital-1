@@ -2,14 +2,14 @@
 
 | Hora | Producto | Medio |
 | --- | --- | --- |
-| 1 | Boleto de portada | Libreta |
-| 2 | Listado de los 10 acuerdos | Libreta |
-| 3 | Acuerdos en columnas con justificación | Libreta |
+| 1 | Apunte de presentación del curso | Libreta |
+| 2 | Boceto de portada | Libreta |
+| 3 | Tabla de acuerdos con justificación | Libreta |
 
 ## Evidencias esperadas
 
-- Boleto de portada con título, datos e idea visual.
-- Lista completa de 10 acuerdos de clase.
+- Apunte inicial de Cultura Digital I.
+- Boceto de portada con título, datos e idea visual.
 - Tabla de acuerdos con columna de justificación.
 - Frase final **Leído y enterado**.
 
