@@ -20,7 +20,7 @@
 
 Sigue los pasos de la infografía proyectada en pantalla. Primero repasaremos combinaciones clave del teclado, y luego haremos nuestra primera práctica de escaneo.
 
-*(Espacio para la infografía: Teclado y Escáner)*
+![Teclado y Escáner Escolar](./assets/semana02/semana02_hora03_escaner_teclado.png)
 
 <section class="momento momento-trabajo">
 <h2>Registro de Evidencia</h2>
