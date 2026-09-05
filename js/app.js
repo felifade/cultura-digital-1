@@ -311,19 +311,28 @@ document.addEventListener('DOMContentLoaded', () => {
     // 5. CÁLCULO DE PROGRESO
     function updateProgress() {
         if(!window.notebookData) return;
-        const totalWeeks = Object.keys(window.notebookData).length;
-        const totalTasks = totalWeeks * 3; // 3 horas por semana
-        let completed = 0;
-
-        for (const w in completedTasks) {
-            if(completedTasks[w].hora1 || completedTasks[w].h1) completed++;
-            if(completedTasks[w].hora2 || completedTasks[w].h2) completed++;
-            if(completedTasks[w].hora3 || completedTasks[w].h3) completed++;
+        
+        let visibleWeeks = 0;
+        const totalSemanasEfectivas = 16;
+        
+        for (const weekKey in window.notebookData) {
+            if (window.notebookData[weekKey].meta && window.notebookData[weekKey].meta.visible !== false) {
+                visibleWeeks++;
+            }
         }
 
-        const percentage = totalTasks > 0 ? Math.round((completed / totalTasks) * 100) : 0;
-        progressBar.style.width = `${percentage}%`;
-        progressText.textContent = `${percentage}%`;
+        const percentage = Math.round((visibleWeeks / totalSemanasEfectivas) * 100);
+        
+        const progressBar = document.getElementById("progress-bar-fill");
+        const progressText = document.getElementById("progress-percentage");
+        
+        if (progressBar) progressBar.style.width = `${Math.min(percentage, 100)}%`;
+        if (progressText) progressText.textContent = `${Math.min(percentage, 100)}%`;
+        
+        const progressTitle = document.getElementById("progress-title");
+        if (progressTitle) {
+            progressTitle.textContent = `Avance Semestral (${visibleWeeks}/16)`;
+        }
     }
 
     // Inicialización
