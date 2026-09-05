@@ -193,11 +193,15 @@ document.addEventListener('DOMContentLoaded', () => {
             { id: 3, title: 'Parcial 3', range: 'Semanas 11-15' },
         ];
 
-        partials.forEach((partial) => {
-            const partialWeeks = weeks
+        // Invertimos partials para que el parcial más reciente quede arriba
+        partials.slice().reverse().forEach((partial) => {
+            let partialWeeks = weeks
                 .map((weekKey, index) => ({ weekKey, index, weekInfo: window.notebookData[weekKey] }))
                 .filter(({ weekInfo }) => Number(weekInfo.partial || 1) === partial.id)
                 .filter(({ weekInfo }) => isTeacherMode || weekInfo.visible);
+
+            // Invertimos las semanas para que la más reciente (mayor número) quede arriba
+            partialWeeks.reverse();
 
             if (!partialWeeks.length) return;
 
