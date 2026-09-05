@@ -1,51 +1,42 @@
-# Hora 3: Conozco el teclado antes de trabajar
-
-**Propósito:** Identificar las teclas principales y usar combinaciones básicas para escribir datos escolares sin errores.
+# Hora 3: Teclado y Escáner de Documentos
 
 <section class="momento momento-inicio">
 <h2>Inicio: Dictado en libreta</h2>
-<p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
-<p>Copia el dictado inicial antes de tocar el teclado. Este apunte explica qué haremos y por qué es importante.</p>
 </section>
 
 > **Dictado Inicial:**
-> El teclado de una computadora es una herramienta de precisión y nuestra principal forma de comunicarnos con el sistema. Un solo error al teclear una letra, un punto, o confundir una mayúscula con una minúscula, puede impedirnos el acceso a nuestras cuentas institucionales.
+> Para entregar trabajos digitales de calidad, necesitamos dominar dos herramientas: el teclado para escribir sin errores, y el celular para digitalizar nuestras tareas físicas.
 > 
-> Durante nuestras prácticas escolares, es fundamental aprender a localizar rápidamente teclas especiales como el Control, Alt, Shift y conocer las combinaciones exactas para obtener símbolos importantes, especialmente el arroba (@).
+> Hoy repasaremos los atajos del teclado y aprenderemos a usar la aplicación de Google Drive (o Microsoft Lens) para convertir la cámara de nuestro celular en un escáner profesional. Un documento escaneado pesa menos, se lee mejor y le da una presentación impecable a nuestras tareas.
 > 
-> **Idea Clave:** Dominar el uso del teclado y escribir con atención evita retrasos, frustraciones y errores técnicos al entregar nuestras actividades digitales.
+> **Idea Clave:** Tomarle una foto oscura a la libreta no es lo mismo que escanear. Un escáner digital recorta, ilumina y convierte tu trabajo a un formato profesional.
 
 **Responde en tu libreta:**
-¿Qué podría pasar si escribo mal una letra, número o símbolo de mi correo institucional?
+¿Por qué crees que los maestros prefieren recibir un documento escaneado en lugar de una simple fotografía de la libreta?
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Práctica con Infografía</h2>
-<p><strong>Tiempo sugerido:</strong> 30 minutos.</p>
-<p>Observa la infografía proyectada. Ubica las teclas señaladas en tu teclado físico y practica las combinaciones y atajos indicados.</p>
+<h2>Desarrollo: Teclas clave y Escáner</h2>
 </section>
 
-![Mapa del Teclado](./assets/semana02/semana02_hora02_teclado.jpg)
+Sigue los pasos de la infografía proyectada en pantalla. Primero repasaremos combinaciones clave del teclado, y luego haremos nuestra primera práctica de escaneo.
+
+*(Espacio para la infografía: Teclado y Escáner)*
 
 <section class="momento momento-trabajo">
 <h2>Registro de Evidencia</h2>
-<p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
-<p>Elabora un mapa rápido del teclado en tu libreta basándote en lo que practicaste.</p>
 </section>
 
-Crea un apunte que incluya:
-- Un dibujo o esquema simple de un teclado.
-- Al menos 10 teclas importantes señaladas.
-- Anota las dos formas de obtener el arroba (Alt Gr + Q, Alt Gr + 2).
-- Anota cuatro atajos útiles (Ctrl+C, Ctrl+V, etc.).
-- Respuesta breve: **¿Por qué escribir bien el correo y la contraseña evita problemas?**
+**Práctica de digitalización:**
+1. Abre la app de Google Drive en tu celular (asegúrate de usar tu cuenta institucional).
+2. Toca el ícono de la cámara (Escanear).
+3. Escanea tus **apuntes de la Semana 01** (El boceto de portada y los Acuerdos de Clase).
+4. Inserta ese documento o imágenes escaneadas dentro de tu Cuaderno Digital de Google Docs, específicamente en la pestaña que creamos llamada **"Semana 01 📓"**.
 
 <section class="momento momento-cierre">
-<h2>Cierre: Mini actividad en libreta</h2>
-<p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
-<p>Verifica tu aprendizaje antes de salir.</p>
+<h2>Cierre: Verificación</h2>
 </section>
 
-En tu libreta escribe:
-1. Tu correo institucional completo (sin iniciar sesión).
-2. Encierra el signo **@** con color rojo.
-3. Responde en una línea: **¿qué error común debo evitar cuando escribo mi usuario o contraseña?**
+Asegúrate de no salir del salón sin haber cumplido esto:
+- [ ] Conozco cómo sacar el **@** (Alt Gr + Q o Alt Gr + 2).
+- [ ] Logré escanear una hoja de mi libreta con el celular.
+- [ ] Subí el archivo escaneado a la pestaña "Semana 01" de mi Google Docs.
