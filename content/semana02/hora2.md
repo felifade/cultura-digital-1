@@ -1,72 +1,40 @@
-# Hora 2: Conozco el teclado antes de trabajar
-
-**Propósito:** Identificar las teclas principales y usar combinaciones básicas para escribir datos escolares sin errores.
+# Hora 2: Primer documento en Google Docs
 
 <section class="momento momento-inicio">
-<h2>Inicio: dictado en libreta</h2>
-<p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
-<p>Copia el dictado inicial antes de tocar el teclado. Este apunte explica qué haremos y por qué es importante.</p>
+<h2>Inicio: Dictado en libreta</h2>
 </section>
 
-## Dictado inicial
+> **Dictado Inicial:**
+> En el ámbito académico y profesional, el orden digital habla de nuestro nivel de compromiso. Todo documento escolar debe contar con datos correctos, una estructura lógica y un formato limpio.
+> 
+> Hoy crearemos nuestro Cuaderno Digital en Google Docs usando la función de pestañas. Esto nos permitirá organizar todas las evidencias del semestre en un solo archivo, sin perder trabajos ni saturar nuestro Drive.
+> 
+> **Idea Clave:** Un documento digital bien estructurado por pestañas facilita el estudio y demuestra cuidado por nuestro propio trabajo.
 
-Hoy vamos a conocer las teclas principales del teclado para escribir correctamente usuarios, contraseñas y textos escolares.
-
-El teclado es una herramienta de precisión. Un error en una letra, punto, arroba, número, acento, comilla o mayúscula puede impedir entrar a una cuenta institucional o entregar correctamente una actividad digital.
-
-En esta clase debo identificar: **Control**, **Alt**, **Alt Gr**, **Shift**, **barra espaciadora**, **Enter**, **Imprimir pantalla**, **Q**, **2/@**, **comillas** y **acentos**.
-
-> **Idea clave para copiar:** Escribir bien en el teclado evita errores al entrar a mi cuenta, buscar información y entregar actividades digitales.
-
-## Pregunta inicial
-
-Responde en tu libreta:
-
-**¿Qué podría pasar si escribo mal una letra, número o símbolo de mi correo institucional?**
+**Responde en tu libreta:**
+¿Por qué es mejor tener todas las tareas del semestre en pestañas dentro de un solo documento, en lugar de crear 20 archivos distintos?
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: infografía del teclado</h2>
-<p><strong>Tiempo sugerido:</strong> 30 minutos.</p>
-<p>Observa la infografía. Ubica las teclas en tu teclado físico y practica las combinaciones indicadas.</p>
+<h2>Desarrollo: Cuaderno Digital</h2>
 </section>
 
-![Infografía Semana 2 Hora 2: Conozco el teclado antes de trabajar](./assets/semana02/semana02_hora02_teclado.jpg)
+Sigue los pasos de esta infografía para crear tu documento, activar las pestañas y diseñar tu portada digital:
 
-## Instrucciones de trabajo
-
-Realiza lo siguiente:
-
-1. Ubica en el teclado las teclas señaladas en la infografía.
-2. Practica dos formas de escribir el signo **@**: **Alt Gr + Q** y **Alt Gr + 2**.
-3. Prueba los atajos útiles: **Ctrl + C**, **Ctrl + V**, **Ctrl + Z** y **Ctrl + S**.
-4. Revisa cómo se escriben acentos, comillas, números y mayúsculas.
+![Tu Cuaderno Digital en Docs](./assets/semana02/semana02_hora02_cuaderno_digital.png)
 
 <section class="momento momento-trabajo">
-<h2>Trabajo del estudiante</h2>
-<p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
-<p>Elabora un mapa rápido del teclado en tu libreta.</p>
+<h2>Registro de Evidencia</h2>
 </section>
 
-## Producto en libreta: Mapa rápido del teclado
-
-Debe incluir:
-
-- Dibujo o esquema simple de un teclado.
-- Al menos 10 teclas importantes señaladas.
-- Dos formas de obtener el arroba.
-- Cuatro atajos útiles.
-- Respuesta: **¿por qué escribir bien el correo y la contraseña evita problemas?**
+Asegúrate de que tu Cuaderno Digital en Docs contenga exactamente esto antes de salir de la clase:
+- Una pestaña llamada **"Semana 01 📓"**.
+- Una pestaña llamada **"Semana 02 🚀"**.
+- Dentro de la pestaña Semana 02 debe estar tu portada con: Título centrado (más grande), datos completos ordenados (Nombre, Grupo, Materia, Docente, Plantel, Ciclo escolar) y uso básico de negritas.
+- El archivo debe estar creado desde tu **cuenta institucional**.
 
 <section class="momento momento-cierre">
-<h2>Cierre: mini actividad en libreta</h2>
-<p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
+<h2>Cierre: Reflexión en Libreta</h2>
 </section>
 
-## Mini actividad de cierre
-
-En tu libreta escribe:
-
-1. Tu correo institucional completo, sin iniciar sesión.
-2. Encierra el signo **@**.
-3. Debajo escribe las dos combinaciones para obtenerlo: **Alt Gr + Q** y **Alt Gr + 2**.
-4. Responde en una línea: **¿qué error debo evitar cuando escribo mi usuario o contraseña?**
+**Responde en tu libreta:**
+¿Qué fue lo más fácil o difícil de usar la nueva función de pestañas de Google Docs?
