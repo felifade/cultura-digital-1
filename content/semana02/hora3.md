@@ -1,30 +1,40 @@
-# Hora 3: Teclado y Escáner de Documentos
+# Hora 3: Primer documento en Google Docs
+
+**Propósito:** Crear una portada digital institucional usando la cuenta escolar, Google Docs y formato básico.
 
 <section class="momento momento-inicio">
-<h2>Inicio: Dictado en libreta</h2>
+<h2>Inicio: dictado en libreta</h2>
+<p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
+<p>Copia el dictado inicial antes de abrir Google Docs.</p>
 </section>
 
-> **Dictado Inicial:**
-> Para entregar trabajos digitales de calidad, necesitamos dominar dos herramientas: el teclado para escribir sin errores, y el celular para digitalizar nuestras tareas físicas.
-> 
-> Hoy repasaremos los atajos del teclado y aprenderemos a usar la aplicación de Google Drive (o Microsoft Lens) para convertir la cámara de nuestro celular en un escáner profesional. Un documento escaneado pesa menos, se lee mejor y le da una presentación impecable a nuestras tareas.
-> 
-> **Idea Clave:** Tomarle una foto oscura a la libreta no es lo mismo que escanear. Un escáner digital recorta, ilumina y convierte tu trabajo a un formato profesional.
+## Dictado inicial
 
-**Responde en tu libreta:**
-¿Por qué crees que los maestros prefieren recibir un documento escaneado en lugar de una simple fotografía de la libreta?
+Un documento escolar debe tener datos correctos, orden visual y formato limpio.
+
+Hoy crearé mi primera portada digital institucional en Google Docs usando mi cuenta escolar. El objetivo no es decorar por decorar, sino aprender a abrir un documento, escribir mis datos, aplicar formato básico y dejar el archivo listo para Classroom.
+
+Una portada bien hecha permite identificar mi trabajo y muestra cuidado en la presentación.
+
+> **Idea clave para copiar:** Un documento digital ordenado comunica mejor mi trabajo escolar.
+
+## Pregunta inicial
+
+Responde en tu libreta:
+
+**¿Qué datos no deben faltar en una portada escolar?**
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Teclas clave y Escáner</h2>
+<h2>Desarrollo: infografía paso a paso</h2>
+<p><strong>Tiempo sugerido:</strong> 30 minutos.</p>
+<p>Observa la infografía. Sigue los pasos para crear tu portada digital en Google Docs.</p>
 </section>
 
-Sigue los pasos de la infografía proyectada en pantalla. Primero repasaremos combinaciones clave del teclado, y luego haremos nuestra primera práctica de escaneo.
-
-![Teclado y Escáner Escolar](./assets/semana02/semana02_hora03_escaner_teclado.png)
+![Infografía Semana 2 Hora 3: Primer documento en Google Docs](./assets/semana02/semana02_hora03_google_docs.jpg)
 
 ## Actividad en libreta: dibujo rápido del teclado
 
-Antes de iniciar la práctica de escaneo, dibuja en tu libreta un teclado sencillo para reconocer las teclas que necesitas al escribir tu usuario, contraseña y datos escolares.
+Antes de crear la portada digital, dibuja en tu libreta un teclado sencillo para recordar las teclas que necesitas al escribir usuario, contraseña y datos escolares.
 
 Tu dibujo debe señalar:
 
@@ -46,25 +56,58 @@ Debajo del dibujo escribe:
 - **Alt Gr + 2** sirve para escribir **@** en otros teclados.
 - Debo revisar letras, números, puntos, mayúsculas y símbolos antes de entrar a mi cuenta.
 
+## Instrucciones de trabajo
+
+Sigue estos pasos:
+
+1. Entra a Classroom.
+2. Abre la actividad de Semana 02.
+3. Crea o abre el documento de Google Docs.
+4. Escribe el título: **Cultura Digital I**.
+5. Agrega tus datos completos.
+6. Aplica formato básico.
+7. Inserta una imagen relacionada con Cultura Digital si el tiempo alcanza.
+8. Verifica que el archivo esté en tu cuenta institucional.
+9. Entrega o deja listo el archivo en Classroom.
+
 <section class="momento momento-trabajo">
-<h2>Registro de Evidencia</h2>
+<h2>Trabajo del estudiante</h2>
+<p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
+<p>Crea la portada digital y revisa que incluya todos los datos obligatorios.</p>
 </section>
 
-**Evidencia en libreta:**
-- Dibujo rápido del teclado con teclas señaladas.
-- Dos combinaciones para escribir el signo **@**.
+## Producto digital: portada institucional
 
-**Práctica de digitalización:**
-1. Abre la app de Google Drive en tu celular (asegúrate de usar tu cuenta institucional).
-2. Toca el ícono de la cámara (Escanear).
-3. Escanea tus **apuntes de la Semana 01** (El boceto de portada y los Acuerdos de Clase).
-4. Inserta ese documento o imágenes escaneadas dentro de tu Cuaderno Digital de Google Docs, específicamente en la pestaña que creamos llamada **"Semana 01 📓"**.
+La actividad completa de esta hora debe incluir dos evidencias:
+
+1. Dibujo rápido del teclado en libreta.
+2. Portada institucional en Google Docs.
+
+La portada digital debe incluir:
+
+- Nombre completo.
+- Grupo.
+- Materia.
+- Docente.
+- Plantel.
+- Ciclo escolar.
+
+## Formato mínimo
+
+- Título centrado.
+- Título más grande que el resto del texto.
+- Datos ordenados.
+- Uso básico de negritas.
+- Ortografía revisada.
+- Archivo creado desde la cuenta institucional.
 
 <section class="momento momento-cierre">
-<h2>Cierre: Verificación</h2>
+<h2>Cierre: reflexión breve</h2>
+<p><strong>Tiempo sugerido:</strong> 10 minutos.</p>
 </section>
 
-Asegúrate de no salir del salón sin haber cumplido esto:
-- [ ] Conozco cómo sacar el **@** (Alt Gr + Q o Alt Gr + 2).
-- [ ] Logré escanear una hoja de mi libreta con el celular.
-- [ ] Subí el archivo escaneado a la pestaña "Semana 01" de mi Google Docs.
+## Mini actividad de cierre
+
+Responde en tu libreta:
+
+**¿Qué fue lo más difícil de trabajar con mi cuenta institucional y Google Docs?**
