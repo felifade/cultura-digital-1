@@ -22,9 +22,37 @@ Sigue los pasos de la infografía proyectada en pantalla. Primero repasaremos co
 
 ![Teclado y Escáner Escolar](./assets/semana02/semana02_hora03_escaner_teclado.png)
 
+## Actividad en libreta: dibujo rápido del teclado
+
+Antes de iniciar la práctica de escaneo, dibuja en tu libreta un teclado sencillo para reconocer las teclas que necesitas al escribir tu usuario, contraseña y datos escolares.
+
+Tu dibujo debe señalar:
+
+- **Control / Ctrl**
+- **Alt**
+- **Alt Gr**
+- **Shift**
+- **Barra espaciadora**
+- **Enter**
+- **Imprimir pantalla**
+- **Q**
+- **2/@**
+- **Comillas**
+- **Acentos**
+
+Debajo del dibujo escribe:
+
+- **Alt Gr + Q** sirve para escribir **@** en algunos teclados.
+- **Alt Gr + 2** sirve para escribir **@** en otros teclados.
+- Debo revisar letras, números, puntos, mayúsculas y símbolos antes de entrar a mi cuenta.
+
 <section class="momento momento-trabajo">
 <h2>Registro de Evidencia</h2>
 </section>
+
+**Evidencia en libreta:**
+- Dibujo rápido del teclado con teclas señaladas.
+- Dos combinaciones para escribir el signo **@**.
 
 **Práctica de digitalización:**
 1. Abre la app de Google Drive en tu celular (asegúrate de usar tu cuenta institucional).
