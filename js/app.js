@@ -342,10 +342,17 @@ document.addEventListener('DOMContentLoaded', () => {
     // Inicialización
     // Solo renderizar si data.js cargó correctamente
     if (window.notebookData) {
-        // Encontrar la primera semana automáticamente
+        // Encontrar la semana visible más reciente (semana actual)
         const weeks = Object.keys(window.notebookData);
         if (weeks.length > 0) {
-            currentWeek = weeks[0];
+            let initialWeek = weeks[0];
+            // Filtrar las que oficialmente son visibles
+            const visibleWeeks = weeks.filter(w => window.notebookData[w].visible === true);
+            if (visibleWeeks.length > 0) {
+                // Tomar la más avanzada (la última del array)
+                initialWeek = visibleWeeks[visibleWeeks.length - 1];
+            }
+            currentWeek = initialWeek;
             renderSidebar();
             updateView();
         }
