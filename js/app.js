@@ -320,7 +320,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const totalSemanasEfectivas = 16;
         
         for (const weekKey in window.notebookData) {
-            if (window.notebookData[weekKey].meta && window.notebookData[weekKey].meta.visible !== false) {
+            if (window.notebookData[weekKey].visible === true) {
                 visibleWeeks++;
             }
         }
