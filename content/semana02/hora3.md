@@ -30,6 +30,7 @@ Sigue los pasos de la infografía proyectada en pantalla para conocer las combin
 Dibuja en tu libreta un teclado sencillo para identificar físicamente las teclas que más usarás. Señala claramente dónde se ubican:
 - **Control / Ctrl**, **Alt**, y **Alt Gr**
 - **Shift** (Mayús)
+- **Impr Pant / PrtScn** (Capturar pantalla)
 - **Barra espaciadora** y **Enter**
 - La tecla **Q** y el número **2** (claves para sacar el **@**)
 
