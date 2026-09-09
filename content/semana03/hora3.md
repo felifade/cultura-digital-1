@@ -13,7 +13,7 @@
 <h2>Desarrollo: Carpetas en la Nube</h2>
 </section>
 
-*(Espacio reservado para infografía: Ordenando el Portafolio CEB)*
+![Ordenando el Portafolio CEB](./assets/semana03/semana03_hora03_drive.png)
 1. Instala la app de **Google Drive**.
 2. Revisa que estés usando tu cuenta institucional.
 3. Usa el botón "+" para crear carpetas.
