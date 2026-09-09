@@ -16,6 +16,11 @@
 
 <section class="momento momento-explicacion">
 <h2>Desarrollo: Cuaderno Digital</h2>
+
+**🕵🏻‍♂️ REGLA DE LABORATORIO: ¡Usa Modo Incógnito!**
+Antes de iniciar sesión en Google Docs, debes abrir una ventana en **Modo Incógnito (Ctrl + Shift + N)**. Al usar computadoras compartidas en la escuela, esto garantiza que tu cuenta institucional se cierre automáticamente al salir, evitando que alguien más tenga acceso a tus archivos y correos.
+
+
 </section>
 
 Sigue los pasos de esta infografía para crear tu documento, activar las pestañas y diseñar tu portada digital:
