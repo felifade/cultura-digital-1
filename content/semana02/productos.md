@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | 1 | Registro de cuenta institucional y correo de recuperación | Libreta |
 | 2 | Creación de Cuaderno Digital (Pestañas) y Portada | Google Docs |
-| 3 | Dibujo rápido del teclado y escaneo de apuntes de la Semana 1 | Libreta + celular a Google Docs |
+| 3 | Dibujo rápido del teclado y atajos | Libreta |
 
 ## Evidencias esperadas
 
@@ -12,9 +12,8 @@
 - **Libreta:** Registro de datos de la cuenta (Hora 1).
 - **Google Docs (Cuaderno Digital):** 
   - Pestaña "Semana 02": Portada digital completa (Hora 2).
-  - Pestaña "Semana 01": Apuntes físicos de la Semana 1 escaneados e insertados (Hora 3).
-- **Teclado:** Dibujo rápido en libreta con teclas importantes y dos formas de escribir el signo **@**.
+- **Libreta:** Dibujo del teclado con teclas clave y apuntes de atajos (Hora 3).
 
 ## Recordatorios
-- Usa el escáner de Google Drive o Microsoft Lens; evita fotos oscuras.
 - El Cuaderno Digital debe crearse estrictamente desde la cuenta institucional.
+- Escribir bien la contraseña y el correo evita perder el acceso.
