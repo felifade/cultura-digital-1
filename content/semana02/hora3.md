@@ -34,7 +34,6 @@ Dibuja en tu libreta un teclado sencillo para identificar físicamente las tecla
 - **Barra espaciadora** y **Enter**
 - La tecla **Q** y el número **2** (claves para sacar el **@**)
 
-![Teclado de Referencia](./assets/semana02/teclado_espanol_teclas_senaladas.png)
 
 <section class="momento momento-cierre">
 <h2>Cierre: Verificación</h2>
