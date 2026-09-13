@@ -302,15 +302,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // 4. CHECKBOX DE COMPLETADO
-    // markDoneBtn?.addEventListener('change', (e) => {
-        if (!completedTasks[currentWeek]) completedTasks[currentWeek] = {};
-        const contentKey = currentHour === 'productos' ? 'productos' : `hora${currentHour}`;
-        completedTasks[currentWeek][contentKey] = e.target.checked;
-        localStorage.setItem('ceb_completed_tasks', JSON.stringify(completedTasks));
-        renderSidebar();
-        updateProgress();
-    });
 
     // 5. CÁLCULO DE PROGRESO
     function updateProgress() {
