@@ -1,22 +1,18 @@
-# Hora 1: Digitalización Profesional
+# Hora 1: Identidad Digital y Escaneo Profesional
 
 <section class="momento momento-inicio">
 <h2>Inicio: Dictado en libreta</h2>
 </section>
 
 > **Dictado Inicial:**
-> Tomar una fotografía normal a una libreta genera archivos muy pesados y oscuros que saturan el almacenamiento. 
+> En el entorno escolar, nuestra presencia digital importa tanto como en la vida real. Esto comienza con nuestra foto de perfil oficial y termina con la calidad de los trabajos que entregamos.
 > 
-> La solución correcta es la **digitalización**. Un escáner digital limpia el fondo, ilumina el texto y comprime el archivo para que sea ultra ligero. Hoy aprenderemos a escanear nuestras tareas como imágenes para que pesen poco, suban rápido y no gasten nuestros datos de internet.
+> Tomar una foto oscura a una libreta da un aspecto descuidado, por lo que hoy aprenderemos a usar la **digitalización** (escáner) para hacer entregas impecables y súper ligeras. Además, configuraremos nuestra identidad visual.
 > 
-> **Idea Clave:** Un escaneo profesional no solo se ve mejor, sino que pesa mucho menos, facilitando la entrega de tareas en cualquier plataforma.
+> **Idea Clave:** Un escaneo profesional y una foto de perfil académica (de frente, rostro descubierto y formal) demuestran madurez, esfuerzo y respeto por tu educación.
 
 <section class="momento momento-explicacion">
 <h2>Desarrollo: Apps Especializadas</h2>
-
-**El Truco para otras materias (Classroom y PDF):**
-En nuestra clase insertamos imágenes (JPEG) en el Cuaderno, pero **los demás maestros te pedirán tareas en Google Classroom**. Para esas materias, usarás esta misma aplicación de escáner, pero elegirás la opción **Guardar como PDF**, ya que es el formato profesional para entregar tareas formales.
-
 </section>
 
 Para que el maestro vea tu tarea directo en tu Cuaderno Digital, **necesitamos insertar imágenes (JPEG)**, no PDFs.
@@ -26,11 +22,18 @@ Para que el maestro vea tu tarea directo en tu Cuaderno Digital, **necesitamos i
 1. **Escanear:** Usa una app 100% gratuita y ligera como **Notebloc Scanner** o **Clear Scan**. (Estas apps borran las rayas del cuaderno y comprimen la imagen).
 2. **Guardar:** Selecciona la opción "Guardar en Galería" o "Guardar como JPEG". ¡No lo guardes como PDF!
 
+**El Truco para otras materias (Classroom y PDF):**
+En nuestra clase insertamos imágenes (JPEG) en el Cuaderno, pero **los demás maestros te pedirán tareas en Google Classroom**. Para esas materias, usarás esta misma aplicación de escáner, pero elegirás la opción **Guardar como PDF**, ya que es el formato profesional para entregar tareas formales.
+
 <section class="momento momento-trabajo">
 <h2>Registro de Evidencia</h2>
 </section>
 
-**Práctica de digitalización:**
+**Parte 1: Tu Foto Institucional**
+1. Pide a un compañero que te tome una fotografía (o tómate una tú mismo) que sea **estrictamente académica**: de frente, cabeza descubierta (sin gorras/capuchas), cabello recogido o bien peinado, y con buena iluminación.
+2. Entra a tu app de **Google Classroom** y cambia tu foto de perfil por esta nueva imagen formal.
+
+**Parte 2: Práctica de Digitalización**
 1. Instala en tu celular **Notebloc Scanner**.
 2. Escanea el **Dibujo del Teclado** que hiciste en la libreta la clase pasada.
 3. Asegúrate de guardarlo como imagen (JPEG) en tu galería de fotos.
@@ -39,6 +42,7 @@ Para que el maestro vea tu tarea directo en tu Cuaderno Digital, **necesitamos i
 <h2>Cierre: Verificación</h2>
 </section>
 
-Muestra tu galería a tu compañero:
-- [ ] ¿La imagen escaneada se ve blanca, limpia y sin los bordes de la mesa?
-- [ ] ¿El archivo ya está guardado en las fotos del celular?
+Muestra tu celular a tu compañero de al lado:
+- [ ] ¿Su foto de perfil de Classroom ya está actualizada y cumple con el formato académico?
+- [ ] ¿Su escaneo se ve blanco, limpio y sin los bordes de la mesa?
+- [ ] ¿El archivo del escaneo ya está guardado en las fotos del celular?
