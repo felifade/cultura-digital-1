@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const weekBadge = document.getElementById('current-week-badge');
     const weekTitle = document.getElementById('current-week-title');
     const tabBtns = document.querySelectorAll('.tab-btn');
-    const markDoneBtn = document.getElementById('mark-done-btn');
+    // const markDoneBtn = null;
     
     // UI: Progreso
     const progressBar = document.getElementById('progress-bar-fill');
@@ -287,7 +287,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Actualizar estado del Checkbox
         if (!completedTasks[currentWeek]) completedTasks[currentWeek] = {};
-        markDoneBtn.checked = !!completedTasks[currentWeek][contentKey];
+        // markDoneBtn.checked = !!completedTasks[currentWeek][contentKey];
 
         // Re-render sidebar para marcar activa
         renderSidebar();
@@ -303,7 +303,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // 4. CHECKBOX DE COMPLETADO
-    markDoneBtn.addEventListener('change', (e) => {
+    // markDoneBtn?.addEventListener('change', (e) => {
         if (!completedTasks[currentWeek]) completedTasks[currentWeek] = {};
         const contentKey = currentHour === 'productos' ? 'productos' : `hora${currentHour}`;
         completedTasks[currentWeek][contentKey] = e.target.checked;
