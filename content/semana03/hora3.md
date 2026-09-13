@@ -13,7 +13,7 @@
 <h2>Desarrollo: Carpetas en la Nube</h2>
 </section>
 
-*(Espacio reservado para infografía: Ordenando el Portafolio CEB)*
+![El Portafolio CEB en Drive](./assets/semana03/semana03_hora03_drive.png)
 
 Desde tu **computadora**:
 1. Abre el navegador y entra a **Google Drive**.
