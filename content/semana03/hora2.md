@@ -5,27 +5,27 @@
 </section>
 
 > **Dictado Inicial:**
-> No siempre tendremos acceso a una computadora para hacer nuestras tareas. Aprender a dominar las aplicaciones móviles de la escuela nos da libertad para avanzar, corregir o entregar trabajos desde cualquier lugar, ya sea en el transporte o en la casa.
+> No siempre tendremos acceso a una computadora para hacer nuestras tareas. Aprender a dominar las aplicaciones móviles de la escuela nos da libertad para avanzar, corregir o entregar trabajos desde cualquier lugar.
 > 
-> Hoy instalaremos nuestro procesador de textos en el celular para aprender a insertar evidencias sobre la marcha y abriremos la sección de nuestra nueva semana de trabajo.
+> Hoy instalaremos nuestro procesador de textos en el celular. El objetivo no es escribir todo desde cero aquí, sino aprender a abrir el documento que ya creamos en la computadora para **insertar evidencias directamente desde nuestro teléfono**.
 > 
-> **Idea Clave:** Tu celular no es solo para redes sociales; configurado correctamente, es tu principal herramienta de estudio.
+> **Idea Clave:** Tu celular no es solo para redes sociales; es la herramienta más rápida para subir las fotos de tus libretas a tu Cuaderno Digital.
 
 <section class="momento momento-explicacion">
 <h2>Desarrollo: Pestañas e Inserción Móvil</h2>
 </section>
 
 ![Google Docs Móvil](./assets/semana03/semana03_hora02_docs_movil.png)
+
 1. Instala la app de **Google Docs (Documentos)**.
 2. Inicia sesión usando estrictamente tu **cuenta institucional**.
-3. Abre tu Cuaderno Digital y navega por las pestañas.
-4. Usa el botón de "+" (Insertar) para agregar contenido desde tu teléfono.
+3. Busca y abre tu archivo de "Cuaderno Digital" que habías creado en la computadora.
 
 <section class="momento momento-trabajo">
 <h2>Registro de Evidencia</h2>
 </section>
 
-**Apertura de la Semana 03:**
+**Apertura e Inserción:**
 1. Abre tu Cuaderno Digital en la app de celular.
 2. Crea una **nueva pestaña** y llámala **"Semana 03 📱"**.
 3. Escribe un título rápido a modo de portada (Ej. "Semana 3: Herramientas Móviles").
@@ -37,5 +37,5 @@
 <h2>Cierre: Verificación</h2>
 </section>
 
-- [ ] ¿Lograste crear la pestaña de la Semana 03 desde el celular?
-- [ ] ¿Insertaste la imagen escaneada correctamente dentro de esa nueva pestaña?
+- [ ] ¿Lograste abrir el documento que hiciste en la PC desde tu celular?
+- [ ] ¿Insertaste la imagen escaneada correctamente dentro de la nueva pestaña?

@@ -13,6 +13,10 @@
 
 <section class="momento momento-explicacion">
 <h2>Desarrollo: Apps Especializadas</h2>
+
+**El Truco para otras materias (Classroom y PDF):**
+En nuestra clase insertamos imágenes (JPEG) en el Cuaderno, pero **los demás maestros te pedirán tareas en Google Classroom**. Para esas materias, usarás esta misma aplicación de escáner, pero elegirás la opción **Guardar como PDF**, ya que es el formato profesional para entregar tareas formales.
+
 </section>
 
 Para que el maestro vea tu tarea directo en tu Cuaderno Digital, **necesitamos insertar imágenes (JPEG)**, no PDFs.

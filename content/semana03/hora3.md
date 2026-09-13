@@ -34,9 +34,14 @@
 3. En la pestaña de la **Semana 03**, inserta esa captura de pantalla debajo de tu escaneo anterior y ponle como subtítulo: *"Portafolio Estudiantil"*.
 
 <section class="momento momento-cierre">
-<h2>Cierre: Verificación</h2>
+<section class="momento momento-cierre">
+<h2>Cierre: Cuestionario de Repaso</h2>
 </section>
 
-El maestro pasará a revisar tu Cuaderno Digital en la pantalla de tu celular:
-- [ ] ¿Tus carpetas están creadas en Drive sin haber movido el Cuaderno Digital?
-- [ ] ¿Pegaste la captura de pantalla en la pestaña de la Semana 03?
+Mientras el maestro pasa a tu lugar a calificar y verificar tus carpetas en el celular, **copia y responde estas 5 preguntas en tu libreta**. Tienes 10 minutos:
+
+1. ¿Por qué es fundamental abrir una pestaña en **Modo Incógnito** cuando usas las computadoras del laboratorio escolar?
+2. ¿Cuál es la diferencia principal entre tomarle una foto normal a tu libreta y usar una aplicación de escáner digital?
+3. ¿Por qué es importante crear una estructura de carpetas por materias (Portafolio) en lugar de guardar todo suelto en Google Drive?
+4. ¿Qué problema ocurre si mueves a otra carpeta un archivo que ya habías enviado o adjuntado en una tarea de **Google Classroom**?
+5. Escribe un breve compromiso personal sobre cómo vas a mantener organizada tu vida escolar digital durante este semestre.
