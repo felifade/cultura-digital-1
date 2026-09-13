@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Estado de la aplicación
     let currentWeek = 'semana01';
     let currentHour = '1';
-    const completedTasks = JSON.parse(localStorage.getItem('ceb_completed_tasks')) || {};
+    let completedTasks = {}; try { completedTasks = JSON.parse(localStorage.getItem('ceb_completed_tasks')) || {}; } catch(e) {}
 
     // Elementos del DOM
     const sidebarNav = document.getElementById('sidebar-nav');
@@ -119,11 +119,13 @@ document.addEventListener('DOMContentLoaded', () => {
     // Revisar parámetro URL
     const urlParams = new URLSearchParams(window.location.search);
     if (urlParams.get('profe') === 'ceb54') {
-        localStorage.setItem('ceb_teacher_mode', 'true');
+        try { localStorage.setItem('ceb_teacher_mode', 'true'); } catch(e) {}
     }
     
     // Obtener preferencia guardada
-    let isTeacherMode = localStorage.getItem('ceb_teacher_mode') === 'true';
+    let isTeacherMode = false; try { isTeacherMode = localStorage.getItem('ceb_teacher_mode') === 'true'; } catch(e) {}
+if (urlParams.get('profe') === 'ceb54') isTeacherMode = true;
+
     let clickCount = 0;
     let clickTimer;
     
