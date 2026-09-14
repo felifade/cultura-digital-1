@@ -1,5 +1,4 @@
-// Archivo Auto-Generado por build.py
-window.notebookData = {
+// Archivo Auto-Generado por build.py\nwindow.notebookData = {
   "semana01": {
     "title": "Cultura Digital y portada",
     "dateRange": "31 Ago - 4 Sep",
@@ -38,7 +37,7 @@ window.notebookData = {
     "hora1": "# Hora 1: Apertura\n\n**Objetivo:** Introducción al tema de El modelo de negocio del internet.\n\n### Actividad\nAnálisis de la frase: *\"Si el producto es gratis, el producto eres tú\"*. Lluvia de ideas sobre cómo ganan dinero plataformas como TikTok, Instagram o Google si no cobran suscripción.",
     "hora2": "# Hora 2: Desarrollo\n\n**Misión Principal:**\n\n\"Misión 4: El precio de lo gratis\". Lectura crítica de un artículo breve sobre la \"Economía de la Atención\" (diseños adictivos como el scroll infinito) y el \"Colonialismo de datos\". Los alumnos, trabajando en parejas mediante un Google Doc compartido, redactan un decálogo de buenas prácticas para evitar la hiper-dependencia tecnológica en la preparatoria.",
     "hora3": "# Hora 3: Cierre\n\n**Reflexión Final:**\nPresentación de los decálogos frente al grupo. Repaso general de las Semanas 1 a 4 como preparación para el examen parcial automatizado de la Semana 5.\n\n---\n\n## Evaluación\n- **Entregable:** Decálogo colaborativo en Google Docs.\n- **Instrumento:** Rúbrica de pensamiento crítico y colaboración",
-    "productos": "### Productos de la semana\nEl profesor aún no ha publicado los productos de esta semana."
+    "productos": "### Productos de la semana\\nEl profesor aún no ha publicado los productos de esta semana."
   },
   "semana05": {
     "title": "Semana de Evaluación / Proyecto",
@@ -48,7 +47,7 @@ window.notebookData = {
     "hora1": "# Hora 1\n\nEl profesor aún no ha publicado las instrucciones para la apertura de esta semana.",
     "hora2": "# Hora 2\n\nEl profesor aún no ha publicado la misión principal.",
     "hora3": "# Hora 3\n\nEl profesor aún no ha publicado el cierre.",
-    "productos": "### Productos de la semana\nEl profesor aún no ha publicado los productos de esta semana."
+    "productos": "### Productos de la semana\\nEl profesor aún no ha publicado los productos de esta semana."
   },
   "semana06": {
     "title": "La guerra del Software (Libre vs Propietario)",
@@ -58,7 +57,7 @@ window.notebookData = {
     "hora1": "# Hora 1: Apertura\n\n**Objetivo:** Introducción al tema de La guerra del Software (Libre vs Propietario).\n\n### Actividad\nPlática exploratoria: *\"¿Quién de aquí tiene Office o Windows pirata?\"*. Debate sobre las implicaciones legales y de seguridad de usar software \"crackeado\".",
     "hora2": "# Hora 2: Desarrollo\n\n**Misión Principal:**\n\n\"Misión 6: Alternativas Libres\". Los estudiantes investigan el movimiento del Software Libre fundado por Richard Stallman. Deben elaborar una tabla comparativa encontrando 3 alternativas gratuitas y libres (ej. LibreOffice, GIMP, Ubuntu) para 3 programas de paga que usan habitualmente.",
     "hora3": "# Hora 3: Cierre\n\n**Reflexión Final:**\nPlenaria para desmitificar que el software libre es \"de menor calidad\" o \"solo para hackers\", valorando el trabajo colaborativo mundial.\n\n---\n\n## Evaluación\n- **Entregable:** Tabla comparativa en Google Docs.\n- **Instrumento:** Rúbrica de análisis (Formativa)",
-    "productos": "### Productos de la semana\nEl profesor aún no ha publicado los productos de esta semana."
+    "productos": "### Productos de la semana\\nEl profesor aún no ha publicado los productos de esta semana."
   },
   "semana07": {
     "title": "Derechos y Normatividad en Internet",
@@ -68,7 +67,7 @@ window.notebookData = {
     "hora1": "# Hora 1: Apertura\n\n**Objetivo:** Introducción al tema de Derechos y Normatividad en Internet.\n\n### Actividad\nPresentación de un caso de estudio real (ej. multa a una empresa por robar un diseño de internet o la filtración masiva de datos en una red social).",
     "hora2": "# Hora 2: Desarrollo\n\n**Misión Principal:**\n\n\"Misión 7: Policías de la Red\". El alumno debe buscar una imagen en Google que esté bajo licencia Creative Commons (permitida para su uso) y otra bajo estricto Copyright, explicando cómo filtraron los resultados de búsqueda.",
     "hora3": "# Hora 3: Cierre\n\n**Reflexión Final:**\nReflexión guiada sobre las políticas de privacidad: \"Al aceptar los términos y condiciones sin leer, ¿qué estamos regalando?\".\n\n---\n\n## Evaluación\n- **Entregable:** Documento con la prueba de búsqueda de imágenes y su respectiva licencia explicada.\n- **Instrumento:** Lista de cotejo",
-    "productos": "### Productos de la semana\nEl profesor aún no ha publicado los productos de esta semana."
+    "productos": "### Productos de la semana\\nEl profesor aún no ha publicado los productos de esta semana."
   },
   "semana08": {
     "title": "Inteligencia Artificial Ética",
@@ -78,7 +77,7 @@ window.notebookData = {
     "hora1": "# Hora 1: Apertura\n\n**Objetivo:** Introducción al tema de Inteligencia Artificial Ética.\n\n### Actividad\nPregunta al grupo: *\"¿Quién ha usado ChatGPT para una tarea?\"*. En vez de prohibirlo, dialogar sobre qué es trampa y qué es usarlo como un asistente (\"copiloto\").",
     "hora2": "# Hora 2: Desarrollo\n\n**Misión Principal:**\n\n\"Misión 8: Entrevistando a la Máquina\". Los alumnos interactúan con una IA generativa gratuita. El reto es hacerle una pregunta cargada de un dilema ético (ej. \"¿Qué vale más, la seguridad o la libertad?\") y analizar la respuesta de la IA. ¿Es neutral? ¿Tiene sesgos?",
     "hora3": "# Hora 3: Cierre\n\n**Reflexión Final:**\nCreación grupal de un \"Manifiesto de Uso de IA en el Salón\" (Reglas para no plagiar, sino potenciar el aprendizaje).\n\n---\n\n## Evaluación\n- **Entregable:** Captura del \"prompt\" (pregunta) enviada a la IA y el análisis escrito de la respuesta.\n- **Instrumento:** Escala estimativa",
-    "productos": "### Productos de la semana\nEl profesor aún no ha publicado los productos de esta semana."
+    "productos": "### Productos de la semana\\nEl profesor aún no ha publicado los productos de esta semana."
   },
   "semana09": {
     "title": "El costo oculto del internet (Contaminación)",
@@ -88,7 +87,7 @@ window.notebookData = {
     "hora1": "# Hora 1: Apertura\n\n**Objetivo:** Introducción al tema de El costo oculto del internet (Contaminación).\n\n### Actividad\nVisualización de un video corto sobre las \"granjas de servidores\" de Google/Meta que necesitan enfriarse con miles de litros de agua.",
     "hora2": "# Hora 2: Desarrollo\n\n**Misión Principal:**\n\n\"Misión 9: Mi Basurero Digital\". El estudiante revisa cuántos correos sin leer, fotos duplicadas y archivos pesados tiene en su cuenta escolar. Se realiza una jornada de \"Limpieza Digital\", donde deben borrar al menos 500 MB de basura digital para ahorrar energía en los servidores de Google.",
     "hora3": "# Hora 3: Cierre\n\n**Reflexión Final:**\nDiscusión sobre el e-waste: ¿Dónde terminan los celulares viejos que ya no sirven?\n\n---\n\n## Evaluación\n- **Entregable:** Captura del \"Antes y Después\" del almacenamiento de su Google Drive/Gmail.\n- **Instrumento:** Rúbrica de impacto",
-    "productos": "### Productos de la semana\nEl profesor aún no ha publicado los productos de esta semana."
+    "productos": "### Productos de la semana\\nEl profesor aún no ha publicado los productos de esta semana."
   },
   "semana10": {
     "title": "Semana de Evaluación / Proyecto",
@@ -98,7 +97,7 @@ window.notebookData = {
     "hora1": "# Hora 1\n\nEl profesor aún no ha publicado las instrucciones para la apertura de esta semana.",
     "hora2": "# Hora 2\n\nEl profesor aún no ha publicado la misión principal.",
     "hora3": "# Hora 3\n\nEl profesor aún no ha publicado el cierre.",
-    "productos": "### Productos de la semana\nEl profesor aún no ha publicado los productos de esta semana."
+    "productos": "### Productos de la semana\\nEl profesor aún no ha publicado los productos de esta semana."
   },
   "semana11": {
     "title": "Solución de Problemas Cotidianos",
@@ -108,7 +107,7 @@ window.notebookData = {
     "hora1": "# Hora 1: Apertura\n\n**Objetivo:** Introducción al tema de Solución de Problemas Cotidianos.\n\n### Actividad\nDinámica de \"Instrucciones Ciegos\". El docente pide a un alumno que dicte, paso a paso, cómo hacerse un sándwich. El docente actúa exactamente como un robot siguiendo esas instrucciones (normalmente fallan por omitir pasos obvios). Introducción al concepto de \"Algoritmo\".",
     "hora2": "# Hora 2: Desarrollo\n\n**Misión Principal:**\n\n\"Misión 11: El Algoritmo de mi Vida\". El estudiante selecciona un problema cotidiano de la prepa (ej. \"Llegar tarde a la primera clase\"). Debe desglosar los pasos exactos para solucionarlo aplicando la metodología: Identificar, Comprender, Proponer 3 alternativas, Seleccionar la mejor y escribir la secuencia de pasos lógicos para ejecutarla.",
     "hora3": "# Hora 3: Cierre\n\n**Reflexión Final:**\nLectura grupal de algunos algoritmos. Explicación de que las computadoras no son inteligentes, solo son muy rápidas siguiendo pasos como los que ellos escribieron.\n\n---\n\n## Evaluación\n- **Entregable:** Algoritmo redactado en Google Docs.\n- **Instrumento:** Lista de cotejo de pasos lógicos",
-    "productos": "### Productos de la semana\nEl profesor aún no ha publicado los productos de esta semana."
+    "productos": "### Productos de la semana\\nEl profesor aún no ha publicado los productos de esta semana."
   },
   "semana12": {
     "title": "Diagramas de Flujo",
@@ -118,7 +117,7 @@ window.notebookData = {
     "hora1": "# Hora 1: Apertura\n\n**Objetivo:** Introducción al tema de Diagramas de Flujo.\n\n### Actividad\nExplicación visual de los símbolos estandarizados para diagramas de flujo (Óvalo, Rectángulo, Rombo).",
     "hora2": "# Hora 2: Desarrollo\n\n**Misión Principal:**\n\n\"Misión 12: Dibujando la Lógica\". El alumno toma el algoritmo que redactó en la semana 11 y lo traduce a un diagrama de flujo. Para esto, usará la herramienta integrada de Dibujos de Google Docs (Insertar > Dibujo) o una herramienta externa libre como `draw.io` (diagrams.net).",
     "hora3": "# Hora 3: Cierre\n\n**Reflexión Final:**\nIntercambio de diagramas entre compañeros para \"ejecutar\" (hacer prueba de escritorio) la lógica del compañero y ver si se atora en algún ciclo infinito (Rombo sin salida).\n\n---\n\n## Evaluación\n- **Entregable:** Diagrama de flujo digital exportado como imagen o incrustado en el Doc.\n- **Instrumento:** Rúbrica de simbología correcta",
-    "productos": "### Productos de la semana\nEl profesor aún no ha publicado los productos de esta semana."
+    "productos": "### Productos de la semana\\nEl profesor aún no ha publicado los productos de esta semana."
   },
   "semana13": {
     "title": "El Lenguaje de las Máquinas",
@@ -128,7 +127,7 @@ window.notebookData = {
     "hora1": "# Hora 1: Apertura\n\n**Objetivo:** Introducción al tema de El Lenguaje de las Máquinas.\n\n### Actividad\nExplicación de qué es una \"Variable\" (una caja que guarda datos que cambian, como la edad) y una \"Constante\" (algo que no cambia, como la fecha de nacimiento o PI).",
     "hora2": "# Hora 2: Desarrollo\n\n**Misión Principal:**\n\n\"Misión 13: Jugando a Programar\". Los estudiantes ingresan a una plataforma web gamificada (como Lightbot, Code.org o Blockly Games). Deben superar los primeros 10 niveles usando bucles (repetitivas) y condiciones lógicas (If/Else). Al finalizar, toman captura de pantalla de su diploma o nivel alcanzado.",
     "hora3": "# Hora 3: Cierre\n\n**Reflexión Final:**\nRelacionar lo jugado con los conceptos teóricos: \"Cuando le dijiste al robot 'Repite 3 veces', creaste un bucle\".\n\n---\n\n## Evaluación\n- **Entregable:** Capturas de pantalla de los niveles superados en el simulador lógico.\n- **Instrumento:** Evidencia de cumplimiento",
-    "productos": "### Productos de la semana\nEl profesor aún no ha publicado los productos de esta semana."
+    "productos": "### Productos de la semana\\nEl profesor aún no ha publicado los productos de esta semana."
   },
   "semana14": {
     "title": "Cierre del Proyecto Integrador",
@@ -138,7 +137,7 @@ window.notebookData = {
     "hora1": "# Hora 1: Apertura\n\n**Objetivo:** Introducción al tema de Cierre del Proyecto Integrador.\n\n### Actividad\nRecordatorio de las fechas de cierre semestral y las especificaciones del Proyecto Escolar Comunitario (PEC).",
     "hora2": "# Hora 2: Desarrollo\n\n**Misión Principal:**\n\n\"Misión 14: Entrega Final\". El estudiante utiliza esta semana para pulir su Portafolio Digital y dar formato final a su investigación del PEC. Deben aplicar estilos (Títulos, Subtítulos), generar un índice automático e insertar hipervínculos hacia sus misiones anteriores.",
     "hora3": "# Hora 3: Cierre\n\n**Reflexión Final:**\nDespedida del semestre. Autoevaluación del alumno sobre su dominio de las herramientas digitales.\n\n---\n\n## Evaluación\n- **Entregable:** Portafolio Digital Completo (Enlace al documento final).\n- **Instrumento:** Rúbrica de Proyecto Integrador",
-    "productos": "### Productos de la semana\nEl profesor aún no ha publicado los productos de esta semana."
+    "productos": "### Productos de la semana\\nEl profesor aún no ha publicado los productos de esta semana."
   },
   "semana15": {
     "title": "Semana de Evaluación / Proyecto",
@@ -148,6 +147,6 @@ window.notebookData = {
     "hora1": "# Hora 1\n\nEl profesor aún no ha publicado las instrucciones para la apertura de esta semana.",
     "hora2": "# Hora 2\n\nEl profesor aún no ha publicado la misión principal.",
     "hora3": "# Hora 3\n\nEl profesor aún no ha publicado el cierre.",
-    "productos": "### Productos de la semana\nEl profesor aún no ha publicado los productos de esta semana."
+    "productos": "### Productos de la semana\\nEl profesor aún no ha publicado los productos de esta semana."
   }
 };
