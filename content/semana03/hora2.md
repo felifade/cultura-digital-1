@@ -15,7 +15,7 @@
 <h2>Desarrollo: Transferencia de Archivos</h2>
 </section>
 
-*(Espacio reservado para infografía: Enviar por Correo e Identidad)*
+![Identidad y Transferencia](./assets/semana03/semana03_hora02_identidad.png)
 
 **El Reto de la Foto Institucional:**
 Necesitas poner tu foto de perfil en Google Classroom, pero la foto se toma con el celular y la plataforma está en la computadora. 

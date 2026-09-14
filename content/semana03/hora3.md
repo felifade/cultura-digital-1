@@ -15,7 +15,7 @@
 <h2>Desarrollo: Uso de Notebloc Scanner</h2>
 </section>
 
-*(Espacio reservado para infografía: Digitalizando con Notebloc)*
+![Digitalización con Notebloc](./assets/semana03/semana03_hora03_notebloc.png)
 
 1. Instala la app gratuita **Notebloc Scanner** (o Clear Scan) en tu celular.
 2. Escanea el "Dibujo del Teclado" que hiciste la semana pasada en tu libreta.
