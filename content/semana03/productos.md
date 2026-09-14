@@ -2,16 +2,16 @@
 
 | Hora | Producto | Medio |
 | --- | --- | --- |
-| 1 | Digitalización de dibujo (Escáner) | Celular (Galería) |
-| 2 | Apertura de pestaña "Semana 03" e Inserción de escaneo | Google Docs (Celular) |
-| 3 | Portafolio CEB en Drive y Captura de Pantalla | Google Docs (Computadora) |
+| 1 | Portada y Dictado con formato estricto (Tamaños y Emojis) | Google Docs |
+| 2 | Foto de perfil académica actualizada mediante correo | Google Classroom |
+| 3 | Escaneo de dibujo insertado mediante transferencia de correo | Google Docs |
 
 ## Evidencias esperadas
 
-Toda la evidencia de esta semana se concentra visualmente en tu **Cuaderno Digital de Google Docs**:
+Toda la evidencia de esta semana demuestra tu dominio entre el celular y la computadora:
 
-- **Pestaña "Semana 03 📱":**
-  - Título/Portada de la semana (Tamaño 18-20).
-  - Texto base (Tamaño 14, Justificado).
-  - **Evidencia 1 (Hora 1 y 2):** Imagen ligera y limpia del teclado, insertada desde el celular usando Notebloc.
-  - **Evidencia 2 (Hora 3):** Captura de pantalla de la estructura de carpetas de Drive (tomada e insertada desde la computadora).
+- **Google Classroom:** Foto de perfil académica actualizada (rostro descubierto, formal).
+- **Cuaderno Digital (Pestaña "Semana 03"):**
+  - Título/Portada de la semana.
+  - Dictado con formato correcto (Títulos 20, Texto 14 Justificado, palabras clave con color y emojis).
+  - **Evidencia Hora 3:** Imagen limpia del teclado, escaneada con Notebloc y transferida por correo a la PC para ser insertada.

@@ -1,48 +1,39 @@
-# Hora 3: El Portafolio CEB en Drive
+# Hora 3: Digitalización Profesional
 
 <section class="momento momento-inicio">
 <h2>Inicio: Dictado en libreta</h2>
 </section>
 
 > **Dictado Inicial:**
-> Si guardas todos tus trabajos sueltos en la nube, para mitad de semestre tendrás un desastre digital. Hoy crearemos nuestro Portafolio CEB: una estructura de carpetas en Google Drive para cada materia.
+> Tomar una fotografía oscura a una libreta da un aspecto descuidado y satura el almacenamiento porque la imagen pesa mucho. 
 > 
-> **Idea Clave:** Ordenar es vital, pero hay una regla de oro insuperable: **NUNCA muevas de lugar un archivo que ya fue creado o adjuntado a través de Google Classroom**. Si lo cambias de carpeta, romperás el enlace y el maestro perderá el acceso para poder calificarte.
+> La solución correcta es la digitalización mediante apps especializadas. Un escáner digital limpia el fondo de la mesa, ilumina el texto y comprime el archivo para que sea ultra ligero y fácil de enviar.
+> 
+> **Idea Clave:** Un escaneo profesional no solo se ve mejor, sino que pesa mucho menos, lo que ayuda a que nuestras tareas suban rápido y no gasten nuestros datos de internet.
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Carpetas en la Nube</h2>
+<h2>Desarrollo: Uso de Notebloc Scanner</h2>
 </section>
 
-![El Portafolio CEB en Drive](./assets/semana03/semana03_hora03_drive.png)
+*(Espacio reservado para infografía: Digitalizando con Notebloc)*
 
-Desde tu **computadora**:
-1. Abre el navegador y entra a **Google Drive**.
-2. Revisa que estés usando tu cuenta institucional.
-3. Usa el botón "Nuevo > Carpeta" para crear la estructura.
-4. **Regla de oro:** Crea la estructura para tus futuros archivos, pero **NO muevas tu Cuaderno Digital actual** para no romper el enlace con Classroom.
+1. Instala la app gratuita **Notebloc Scanner** (o Clear Scan) en tu celular.
+2. Escanea el "Dibujo del Teclado" que hiciste la semana pasada en tu libreta.
+3. Asegúrate de que los bordes de la libreta queden bien recortados.
+4. **Guárdalo como Imagen (JPEG)** en tu galería, ¡no lo guardes como PDF!
 
 <section class="momento momento-trabajo">
 <h2>Registro de Evidencia</h2>
 </section>
 
-**1. Creación del Portafolio:**
-1. En la computadora, entra a tu unidad de Google Drive.
-2. Crea una carpeta principal llamada: **"1er Semestre CEB 5/4"**.
-3. Entra a esa carpeta y crea subcarpetas para tus materias: Cultura Digital I, Química I, Humanidades I, etc.
-
-**2. Captura de Evidencia:**
-1. Usando la computadora, toma una **captura de pantalla (Recorte)** donde se vean tus carpetas recién creadas.
-2. Abre tu Cuaderno Digital de Google Docs en otra pestaña.
-3. En la sección de la **Semana 03**, pega esa captura de pantalla debajo de tu escaneo anterior y ponle como subtítulo: *"Portafolio Estudiantil"*.
+**Reto Final (Juntando lo aprendido):**
+1. Usa el truco de la Hora 2: **Envíate el escaneo por correo** desde tu celular.
+2. Ábrelo en la computadora y descárgalo.
+3. Inserta esa imagen escaneada en tu Cuaderno Digital (pestaña Semana 03).
 
 <section class="momento momento-cierre">
-<h2>Cierre: Cuestionario de Repaso</h2>
+<h2>Cierre: Verificación</h2>
 </section>
 
-Mientras el maestro pasa a tu lugar a calificar y verificar tus carpetas en la computadora, **copia y responde estas 5 preguntas en tu libreta**. Tienes 10 minutos:
-
-1. ¿Por qué es fundamental abrir una pestaña en **Modo Incógnito** cuando usas las computadoras del laboratorio escolar?
-2. ¿Cuál es la diferencia principal entre tomarle una foto normal a tu libreta y usar una aplicación de escáner digital?
-3. ¿Por qué es importante crear una estructura de carpetas por materias (Portafolio) en lugar de guardar todo suelto en Google Drive?
-4. ¿Qué problema ocurre si mueves a otra carpeta un archivo que ya habías enviado o adjuntado en una tarea de **Google Classroom**?
-5. Escribe un breve compromiso personal sobre cómo vas a mantener organizada tu vida escolar digital durante este semestre.
+- [ ] ¿Lograste usar Notebloc para escanear en lugar de tomar una foto normal?
+- [ ] ¿El escaneo ya está pegado dentro de tu documento de Google Docs en la computadora?

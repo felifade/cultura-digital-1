@@ -1,41 +1,40 @@
-# Hora 2: Docs en tu Bolsillo
+# Hora 2: Identidad y Transferencia por Correo
 
 <section class="momento momento-inicio">
 <h2>Inicio: Dictado en libreta</h2>
 </section>
 
 > **Dictado Inicial:**
-> No siempre tendremos acceso a una computadora para hacer nuestras tareas. Aprender a dominar las aplicaciones móviles de la escuela nos da libertad para avanzar, corregir o entregar trabajos desde cualquier lugar.
+> Saber transferir archivos entre nuestros propios dispositivos es una habilidad vital. El correo electrónico institucional no solo sirve para recibir avisos de los maestros, sino que funciona como un puente seguro para pasarnos fotos y documentos del celular a la computadora.
 > 
-> Hoy instalaremos nuestro procesador de textos en el celular. El objetivo no es escribir todo desde cero aquí, sino aprender a abrir el documento que ya creamos en la computadora para **insertar evidencias directamente desde nuestro teléfono**.
+> Hoy usaremos este puente para transferir una fotografía nuestra y establecer de forma correcta nuestra identidad digital oficial.
 > 
-> **Idea Clave:** Tu celular no es solo para redes sociales; es la herramienta más rápida para subir las fotos de tus libretas a tu Cuaderno Digital.
+> **Idea Clave:** Un estudiante competente sabe mover sus archivos sin cables, utilizando la nube y su correo electrónico como herramientas de trabajo.
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Pestañas e Inserción Móvil</h2>
+<h2>Desarrollo: Transferencia de Archivos</h2>
 </section>
 
-![Google Docs Móvil](./assets/semana03/semana03_hora02_docs_movil.png)
+*(Espacio reservado para infografía: Enviar por Correo e Identidad)*
 
-1. Instala la app de **Google Docs (Documentos)**.
-2. Inicia sesión usando estrictamente tu **cuenta institucional**.
-3. Busca y abre tu archivo de "Cuaderno Digital" que habías creado en la computadora.
+**El Reto de la Foto Institucional:**
+Necesitas poner tu foto de perfil en Google Classroom, pero la foto se toma con el celular y la plataforma está en la computadora. 
+
+**Pasos:**
+1. **Fotografía:** Pide a un compañero que te tome una foto académica con tu celular (de frente, rostro descubierto, cabello recogido/peinado, buena luz).
+2. **Transferencia:** Abre el correo en tu celular, adjunta la foto y **envíatela a ti mismo** (pon tu propio correo en el "Para:").
+3. **Descarga:** Abre tu correo institucional en la computadora, busca tu propio mensaje y **descarga** la foto.
 
 <section class="momento momento-trabajo">
 <h2>Registro de Evidencia</h2>
 </section>
 
-**Apertura e Inserción:**
-1. Abre tu Cuaderno Digital en la app de celular.
-2. Crea una **nueva pestaña** y llámala **"Semana 03 📱"**.
-3. Escribe un título rápido a modo de portada (Ej. "Semana 3: Herramientas Móviles").
-4. Toca el botón de Editar (el lápiz) y luego el botón **"+" > Imagen > Desde las Fotos**.
-5. Selecciona la imagen de tu teclado que escaneaste en la Hora 1 y ponle como subtítulo: *"Evidencia de Escaneo"*.
-6. Espera a que se guarde la sincronización (la palomita azul).
+1. Entra a tu cuenta de Google o Classroom desde la computadora.
+2. Ve a los ajustes de perfil y **cambia tu foto actual** por la imagen académica que acabas de descargar.
 
 <section class="momento momento-cierre">
 <h2>Cierre: Verificación</h2>
 </section>
 
-- [ ] ¿Lograste abrir el documento que hiciste en la PC desde tu celular?
-- [ ] ¿Insertaste la imagen escaneada correctamente dentro de la nueva pestaña?
+- [ ] ¿Lograste enviarte el correo a ti mismo y descargar la foto en la PC?
+- [ ] ¿Tu foto de perfil ya está actualizada en Classroom y cumple el formato escolar?

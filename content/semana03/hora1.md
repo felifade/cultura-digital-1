@@ -1,48 +1,45 @@
-# Hora 1: Identidad Digital y Escaneo Profesional
+# Hora 1: Portada y Formato Digital
 
 <section class="momento momento-inicio">
-<h2>Inicio: Dictado en libreta</h2>
+<h2>Inicio: Pase de Lista</h2>
+</section>
+
+**Mientras el maestro pasa lista (5 min):** 
+1. Enciende tu computadora.
+2. Inicia sesión con tu correo institucional.
+3. Abre tu archivo de Cuaderno Digital en Google Docs.
+
+<section class="momento momento-explicacion">
+<h2>Desarrollo: Portada Semana 03</h2>
+</section>
+
+Crea una **nueva pestaña** llamada **"Semana 03 📱"**. 
+Dedica los próximos 10 minutos a diseñar la portada de esta semana. Recuerda poner tus datos completos (Nombre, Grupo, Materia, etc.).
+
+<section class="momento momento-trabajo">
+<h2>Registro de Evidencia: Dictado y Formato</h2>
 </section>
 
 > **Dictado Inicial:**
 > En el entorno escolar, nuestra presencia digital importa tanto como en la vida real. Esto comienza con nuestra foto de perfil oficial y termina con la calidad de los trabajos que entregamos.
 > 
-> Tomar una foto oscura a una libreta da un aspecto descuidado, por lo que hoy aprenderemos a usar la **digitalización** (escáner) para hacer entregas impecables y súper ligeras. Además, configuraremos nuestra identidad visual.
+> Un documento sin formato es como un trabajo entregado en una hoja arrugada. Hoy aprenderemos a darle estructura, tamaño y color a nuestros textos para que luzcan impecables.
 > 
-> **Idea Clave:** Un escaneo profesional y una foto de perfil académica (de frente, rostro descubierto y formal) demuestran madurez, esfuerzo y respeto por tu educación.
+> **Idea Clave:** Darle formato a un documento demuestra atención al detalle, madurez y respeto por tu propia educación.
 
-<section class="momento momento-explicacion">
-<h2>Desarrollo: Apps Especializadas</h2>
-</section>
+*(Espacio reservado para infografía: Reglas de Formato)*
 
-Para que el maestro vea tu tarea directo en tu Cuaderno Digital, **necesitamos insertar imágenes (JPEG)**, no PDFs.
-
-**El flujo correcto:**
-![Digitalización Profesional](./assets/semana03/semana03_hora01_escaner.png)
-1. **Escanear:** Usa una app 100% gratuita y ligera como **Notebloc Scanner** o **Clear Scan**. (Estas apps borran las rayas del cuaderno y comprimen la imagen).
-2. **Guardar:** Selecciona la opción "Guardar en Galería" o "Guardar como JPEG". ¡No lo guardes como PDF!
-
-**El Truco para otras materias (Classroom y PDF):**
-En nuestra clase insertamos imágenes (JPEG) en el Cuaderno, pero **los demás maestros te pedirán tareas en Google Classroom**. Para esas materias, usarás esta misma aplicación de escáner, pero elegirás la opción **Guardar como PDF**, ya que es el formato profesional para entregar tareas formales.
-
-<section class="momento momento-trabajo">
-<h2>Registro de Evidencia</h2>
-</section>
-
-**Parte 1: Tu Foto Institucional**
-1. Pide a un compañero que te tome una fotografía (o tómate una tú mismo) que sea **estrictamente académica**: de frente, cabeza descubierta (sin gorras/capuchas), cabello recogido o bien peinado, y con buena iluminación.
-2. Entra a tu app de **Google Classroom** y cambia tu foto de perfil por esta nueva imagen formal.
-
-**Parte 2: Práctica de Digitalización**
-1. Instala en tu celular **Notebloc Scanner**.
-2. Escanea el **Dibujo del Teclado** que hiciste en la libreta la clase pasada.
-3. Asegúrate de guardarlo como imagen (JPEG) en tu galería de fotos.
+**Aplicación de Formato Estricto:**
+Debes aplicarle el siguiente formato a lo que acabas de teclear:
+1. **El Título:** Tamaño 20, en **Negritas** y con alineación **Centrada**.
+2. **El Cuerpo del Texto:** Tamaño 14 y con alineación **Justificada** (cuadradito perfecto de ambos lados).
+3. **Idea Clave:** Identifica 3 palabras clave del último párrafo, cámbiales el **color** para que resalten, y ponles un **emoji** (ej. 💡, ✨, 🎯) justo enfrente para que se vea lindo y llamativo.
 
 <section class="momento momento-cierre">
 <h2>Cierre: Verificación</h2>
 </section>
 
-Muestra tu celular a tu compañero de al lado:
-- [ ] ¿Su foto de perfil de Classroom ya está actualizada y cumple con el formato académico?
-- [ ] ¿Su escaneo se ve blanco, limpio y sin los bordes de la mesa?
-- [ ] ¿El archivo del escaneo ya está guardado en las fotos del celular?
+Revisa la pantalla de tu compañero:
+- [ ] ¿El título está en 20, negritas y centrado?
+- [ ] ¿El texto general está en 14 y justificado?
+- [ ] ¿Las palabras clave tienen color y emojis?
