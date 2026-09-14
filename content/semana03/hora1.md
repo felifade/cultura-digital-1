@@ -27,7 +27,7 @@ Dedica los próximos 10 minutos a diseñar la portada de esta semana. Recuerda p
 > 
 > **Idea Clave:** Darle formato a un documento demuestra atención al detalle, madurez y respeto por tu propia educación.
 
-*(Espacio reservado para infografía: Reglas de Formato)*
+![Reglas de Formato Estricto](./assets/semana03/semana03_hora01_formato.png)
 
 **Aplicación de Formato Estricto:**
 Debes aplicarle el siguiente formato a lo que acabas de teclear:
