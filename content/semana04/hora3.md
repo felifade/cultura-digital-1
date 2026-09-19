@@ -15,7 +15,7 @@
 <h2>Desarrollo: El Arte de Justificar</h2>
 </section>
 
-*(Espacio reservado para infografía: El Botón Justificar)*
+![El Arte de Justificar](./assets/semana04/semana04_hora03_justificar.png)
 
 **1. Orden de Mayor a Menor:**
 Arrastra tus pestañas en Google Docs para que la más reciente quede hasta arriba y la más antigua hasta abajo. 
