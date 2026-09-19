@@ -15,7 +15,7 @@
 <h2>Desarrollo: Google Docs en tu Celular</h2>
 </section>
 
-*(Espacio reservado para infografía: Docs Móvil)*
+![Docs en Celular](./assets/semana04/semana04_hora01_docsmovil.png)
 
 Saca tu teléfono, instala o abre la aplicación **Documentos de Google** y asegúrate de iniciar sesión con tu cuenta institucional. Busca y abre tu archivo de "Cuaderno Digital".
 
