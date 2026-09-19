@@ -15,7 +15,7 @@
 <h2>Desarrollo: Entrenamiento Ninja (Adiós al Mouse)</h2>
 </section>
 
-*(Espacio reservado para infografía: Atajos de Teclado)*
+![Superpoderes del Teclado](./assets/semana04/semana04_hora02_teclado.png)
 
 **¡Manos arriba! Suelta el ratón.** En esta clase solo usaremos el teclado:
 1. **Segundas Funciones:** Usa la tecla `Shift` (Mayús) para "desbloquear" los símbolos especiales que están arriba de los números (ej. `?`, `!`, `%`, `$`).
