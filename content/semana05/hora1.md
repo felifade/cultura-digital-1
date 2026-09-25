@@ -21,16 +21,20 @@ Mientras el profesor revisa, asegúrate de cumplir con estos dos requisitos inqu
 <h2>Registro de Evidencia (Libreta Física)</h2>
 </section>
 
-**Actividad de Concentración:**
-Saca tu libreta física, toma tus colores, plumas y regla. 
-Deberás crear un **Organizador Gráfico (Mapa Mental o Conceptual)** a doble página que resuma los temas clave que hemos visto:
-- *Semana 1:* Ciudadanía Digital y Reglas.
-- *Semana 2:* Hardware, Teclado y Modo Incógnito.
-- *Semana 3:* Identidad Digital, Correo y Escáner (Notebloc).
-- *Semana 4:* Atajos de Teclado y Formato Justificado.
+**Actividad de Concentración: El Mapa Mental**
+
+Saca tu libreta física, toma tus colores, plumas y regla. Vas a crear un **Mapa Mental a doble página** que resuma todo lo que hemos aprendido. Para que te quede excelente y tengas un punto de partida claro, sigue esta estructura:
+
+1. **El Centro:** Dibuja un círculo grande justo en el medio de las dos páginas. Adentro escribe el título principal: *"Cultura Digital - Primer Parcial"*.
+2. **Los Nodos (Ramas Principales):** Saca 4 ramas gruesas que salgan desde el centro hacia las orillas. Cada rama será una semana: *Semana 1*, *Semana 2*, *Semana 3* y *Semana 4*.
+3. **Las Palabras Clave:** De cada semana, saca ramas más delgadas para anotar lo que aprendimos. **Usa solo palabras clave o frases muy cortas**, no copies textos largos.
+   - *Ejemplo Semana 1:* Ciudadanía, Reglas del Lab, Respeto.
+   - *Ejemplo Semana 2:* Hardware, Teclado, Modo Incógnito, Privacidad.
+   - *Ejemplo Semana 3:* Identidad, Escáner Notebloc, La Nube.
+   - *Ejemplo Semana 4:* Atajos, Eficiencia, Formato Justificado.
 
 <section class="momento momento-cierre">
 <h2>Cierre: Preparación</h2>
 </section>
 
-Guarda silencio y concéntrate en tu mapa. Este trabajo te servirá de repaso visual para el examen.
+Empieza trazando tu centro y ramas principales con lápiz para organizar tu espacio. Guarda silencio y concéntrate; este trabajo te servirá de repaso visual para tu examen.
