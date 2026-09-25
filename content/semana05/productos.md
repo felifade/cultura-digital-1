@@ -1,16 +1,13 @@
-# Productos de la Semana 05
+# Productos de la Semana 05 (Evaluación Parcial)
 
 | Hora | Producto | Medio |
 | --- | --- | --- |
-| 1 | Organizador Gráfico de Repaso (Sem 1 a 4) | Libreta Física |
-| 2 | Continuación de Organizador Gráfico | Libreta Física |
-| 3 | Presentación del Examen de Primer Parcial | Google Forms (Vía Classroom) |
+| 1 | Captura de foto de perfil y checklist de auto-auditoría | Google Docs |
+| 2 | Gran Mapa Mental del Primer Parcial a doble página | Libreta Física |
+| 3 | Evaluación del Primer Parcial (Formulario Oficial) | Google Classroom |
 
-## Cierre del Primer Parcial
+## Evidencias para Cierre de Parcial
 
-Con esta semana concluimos el primer bloque de la materia. Tu calificación final del parcial estará compuesta por:
-- **Tu Cuaderno Digital** (Evidencias completas de la Sem 1 a la 4, perfectamente justificadas y ordenadas).
-- **Tu Foto de Perfil Institucional** (Requisito indispensable).
-- **El resultado de tu Examen de 40 reactivos.**
-
-¡Felicidades por llegar hasta aquí!
+1. **Cuaderno Digital (Docs):** 100% justificado, pestañas ordenadas de la 04 a la 01 y evidencias completas.
+2. **Libreta Física:** Forrada (morado / azul 110), acuerdos firmados y mapa mental sellado.
+3. **Examen Parcial:** Cuestionario respondido y enviado en Google Forms.
