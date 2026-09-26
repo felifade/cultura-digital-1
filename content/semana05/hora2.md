@@ -11,15 +11,20 @@
 <h2>Desarrollo: El Andamio del Mapa Mental</h2>
 </section>
 
-Saca tu libreta física forrada, colores, plumas y regla. Vas a construir un **Mapa Mental a doble página** que conecte todo lo aprendido en el Primer Parcial:
+![Ejemplo Gráfico del Mapa Conceptual](./assets/semana05/semana05_mapa_conceptual.svg)
+
+> **Guía Visual para tu Libreta (A Doble Página):**
+> Observa el esquema gráfico de arriba. Tu mapa mental debe estructurarse de la misma manera: un núcleo central con 4 ramas de colores, íconos temáticos y palabras clave concisas.
+
+Saca tu libreta física forrada, colores, plumas y regla. Construye tu mapa siguiendo esta estructura:
 
 1. **El Núcleo Central:** Dibuja un círculo grande en medio de las dos páginas con el título: *"Cultura Digital - Primer Parcial"*.
 2. **Las 4 Ramas Principales (Nodos):** Saca 4 ramas gruesas desde el centro hacia las esquinas:
    - **Rama 1 (Morada o Azul):** *Semana 01* (Encuadre, Libreta, Portada con metas, Acuerdos y "Leído y enterado").
-   - **Rama 2:** *Semana 02* (Cuenta institucional, Modo Incógnito, Teclado de precisión, Arroba `@`).
-   - **Rama 3:** *Semana 03* (Formato estricto 20/14, Foto formal en Classroom, Notebloc JPEG).
-   - **Rama 4:** *Semana 04* (Google Docs en celular, Atajos de teclado sin mouse, Justificar de 04 a 01).
-3. **Impacto Visual:** Pinta cada semana de un color distinto y dibuja pequeños símbolos (un sombrerito espía en la Semana 2, un celular escaneando en la Semana 3, las teclas de atajo en la Semana 4).
+   - **Rama 2 (Azul Eléctrico):** *Semana 02* (Cuenta institucional, Modo Incógnito, Teclado de precisión, Arroba `@`).
+   - **Rama 3 (Verde):** *Semana 03* (Formato estricto 20/14, Foto formal en Classroom, Notebloc JPEG).
+   - **Rama 4 (Ámbar / Naranja):** *Semana 04* (Google Docs en celular, Atajos de teclado sin mouse, Justificar de 04 a 01).
+3. **Impacto Visual:** Pinta cada semana de su color y dibuja pequeños símbolos (un sombrerito espía en la Semana 2, un celular escaneando en la Semana 3, las teclas de atajo en la Semana 4).
 4. **Palabras Clave:** Usa frases breves o conceptos directos, ¡no copies párrafos enteros!
 
 <section class="momento momento-trabajo">
