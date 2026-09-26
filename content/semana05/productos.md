@@ -2,12 +2,13 @@
 
 | Hora | Producto | Medio |
 | --- | --- | --- |
-| 1 | Captura de foto de perfil y checklist de auto-auditoría | Google Docs |
+| 1 | Creación de pestaña "Semana 05", captura de perfil y auto-auditoría | Google Docs |
 | 2 | Gran Mapa Mental del Primer Parcial a doble página | Libreta Física |
-| 3 | Evaluación del Primer Parcial (Formulario Oficial) | Google Classroom |
+| 3 | Captura de calificación del examen con leyenda de conformidad | Google Docs (Semana 05) |
 
-## Evidencias para Cierre de Parcial
+## Evidencias para Cierre de Parcial en Google Docs
 
-1. **Cuaderno Digital (Docs):** 100% justificado, pestañas ordenadas de la 04 a la 01 y evidencias completas.
-2. **Libreta Física:** Forrada (morado / azul 110), acuerdos firmados y mapa mental sellado.
-3. **Examen Parcial:** Cuestionario respondido y enviado en Google Forms.
+Tu pestaña **"Semana 05 🏁"** (ubicada hasta arriba) debe contener:
+1. Captura de pantalla de tu foto formal de Classroom.
+2. Captura de pantalla del resultado/puntuación de tu examen oficial en Google Forms.
+3. Calificación anotada con la leyenda obligatoria firmada digitalmente: *"Recibí mi calificación y retroalimentación correspondiente a la evaluación del Primer Parcial de Cultura Digital I."*
