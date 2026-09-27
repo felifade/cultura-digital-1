@@ -1,21 +1,26 @@
 # Hora 1: Reto de Capturas y Auto-Auditoría
 
 <section class="momento momento-inicio">
-<h2>Inicio: Apertura de la Semana 05</h2>
+<h2>Inicio: Dictado en libreta</h2>
 </section>
 
-> **Paso Inicial Obligatorio:**
-> Abre tu Cuaderno Digital en Google Docs y crea una pestaña nueva llamada **"Semana 05 🏁"**.
+> **Dictado Inicial:**
+> Un estudiante de bachillerato no trabaja únicamente para entregar tareas, sino para construir un portafolio digital con calidad profesional. Una evaluación no debe vivirse con miedo ni estrés, sino como la oportunidad formal de demostrar autonomía, orden y disciplina.
 > 
-> Recuerda la regla de oro: arrastra la pestaña para que quede **hasta arriba** de todo tu documento.
-> El orden final de tu portafolio debe ser: **Semana 05, Semana 04, Semana 03, Semana 02, Semana 01**.
+> Hoy nos convertiremos en auditores de nuestro propio trabajo: aprenderemos a capturar evidencias de pantalla al instante sin usar el mouse, verificaremos que no falte ningún producto de las semanas anteriores y dejaremos nuestro Cuaderno Digital blindado antes del examen.
+> 
+> **Idea Clave:** Quien aprende a auditar y corregir su propio esfuerzo, jamás le teme a una evaluación.
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Misión Cazadores de Pantallas</h2>
+<h2>Desarrollo: Apertura y Misión de Capturas</h2>
 </section>
 
-**El Reto Ninja: Captura y Pega en 5 Segundos (¡Sin Mouse!)**
+**Paso 1: Creación de la Pestaña "Semana 05 🏁"**
+Abre tu Cuaderno Digital en Google Docs y crea una pestaña nueva llamada **"Semana 05 🏁"**.
+- Recuerda la regla de oro: arrastra la pestaña para que quede **hasta arriba** de todo tu documento.
+- El orden final de tu portafolio debe ser: **Semana 05, Semana 04, Semana 03, Semana 02, Semana 01**.
 
+**Paso 2: El Reto Ninja (Captura y Pega en 5 Segundos Sin Mouse)**
 Aprende a tomar evidencias visuales como un profesional:
 - **En la Computadora (Windows):**
   - Presiona la tecla **`Impr Pant` (o `PrtScn`)** para capturar la pantalla completa.
