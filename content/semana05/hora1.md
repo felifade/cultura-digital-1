@@ -28,15 +28,28 @@ Aprende a tomar evidencias visuales como un profesional:
   - *El truco de magia:* Salta a tu Google Docs con **`Alt + Tab`** y presiona **`Ctrl + V`**. ¡La captura se pegará al instante sin tener que guardarla como archivo!
 - **En el Celular:** Presiona al mismo tiempo los botones de **Encendido + Bajar Volumen**.
 
+**Paso 3: Subida Obligatoria de tu Foto de Perfil Institucional**
+Si todavía tienes la letra inicial genérica, un dibujo, un avatar o una foto informal en tu cuenta institucional, **debes subir tu foto formal hoy mismo**:
+
+> 🎯 **¿Por qué se debe hacer?**
+> 1. **Identidad Digital Oficial:** En el bachillerato federal (CEB 5/4), tu cuenta institucional es un entorno escolar y formal de trabajo. Tu fotografía te acredita oficialmente ante docentes y directivos.
+> 2. **Certeza en Evaluaciones y Calificaciones:** En periodos de evaluación, tu foto evita confusiones o suplantaciones, asegurando que cada calificación registrada en las actas corresponda inequívocamente a ti.
+> 3. **Huella Digital y Profesionalismo:** Una meta clave de Cultura Digital es acostumbrarse a proyectar una imagen ética, seria y profesional en plataformas de trabajo y estudio.
+
+**¿Cómo actualizarla en Google Classroom?**
+1. Haz clic en el círculo de tu perfil (esquina superior derecha en Classroom o Google).
+2. Da clic en el ícono de la cámara sobre tu foto y sube tu imagen académica (de frente, rostro descubierto, sin filtros ni distractores).
+3. Guarda los cambios para que se reflejen en toda la suite de Google.
+
 **Misión de Práctica en la pestaña "Semana 05":**
-Abre una pestaña en Google Classroom, toma captura de pantalla donde se vea tu **Foto de Perfil formal y académica**, salta a tu Cuaderno Digital (pestaña Semana 05) y pégala con `Ctrl + V` como evidencia de identidad.
+Abre una pestaña en Google Classroom, toma captura de pantalla donde se vea tu **Foto de Perfil formal y académica**, salta a tu Cuaderno Digital (pestaña Semana 05) y pégala con `Ctrl + V` en la parte superior como evidencia de identidad.
 
 <section class="momento momento-trabajo">
 <h2>Registro de Evidencia: Checklist de Auto-Auditoría</h2>
 </section>
 
 Revisa tu propio archivo en Google Docs y asegúrate de cumplir con estos 4 requisitos de oro:
-- [ ] **1. Identidad:** Mi foto de Classroom es académica (de frente, rostro descubierto, buena luz).
+- [ ] **1. Identidad:** Mi foto de Classroom es académica (de frente, rostro descubierto, formal) y ya pegué su captura en la pestaña Semana 05.
 - [ ] **2. Orden Inverso:** Mis pestañas están ordenadas de mayor a menor (**Semana 05 al 01**).
 - [ ] **3. Formato Rey:** Todo el texto de mis dictados está **Justificado** (parejito por ambos lados).
 - [ ] **4. Evidencias Completas:** Los dibujos y escaneos de Notebloc (JPEG) están insertados en su respectiva semana.
