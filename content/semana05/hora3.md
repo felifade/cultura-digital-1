@@ -23,11 +23,13 @@ El enlace oficial al examen de **Cultura Digital I** (Primer Parcial) ha sido pu
 <h2>Registro de Evidencia Obligatorio (Pestaña Semana 05)</h2>
 </section>
 
-Al enviar tu examen y ver tu puntuación en pantalla, debes registrar tu evidencia legal de inmediato:
+Al responder los 40 reactivos, llegarás a la **Sección 5 (Entrega Final y Captura)**. Sigue este orden exacto para no confundirte:
 
-1. **Captura tu Resultado:** Presiona **`Impr Pant`** (o `Win + Shift + S`) para capturar la pantalla donde se muestre claramente tu puntuación obtenida.
-2. **Pégala en tu Cuaderno Digital:** Salta a Google Docs (`Alt + Tab`), entra a la pestaña **"Semana 05 🏁"** y pega tu captura con **`Ctrl + V`** debajo de la foto de perfil.
-3. **Escribe tu Calificación y la Leyenda Formal:** Debajo de la imagen del resultado, escribe con formato correcto (Tamaño 14 Justificado):
+1. **Paso 1: Da clic en "Enviar":** Al terminar la Sección 5, marca la casilla de confirmación y presiona el botón morado **`ENVIAR`**. *(⚠️ No tomes captura antes de enviar, porque tus resultados aún no se han generado)*.
+2. **Paso 2: Da clic en "Ver puntuación":** En la pantalla de confirmación que aparecerá de inmediato, haz clic en el botón morado que dice **`VER PUNTUACIÓN`**.
+3. **Paso 3: Captura tu Resultado:** En la nueva ventana que se abrirá, verás tu calificación oficial con tus aciertos obtenidos (ejemplo: 36/40). Presiona **`Impr Pant`** (o `Win + Shift + S`) para capturar la pantalla completa donde se vea tu puntaje.
+4. **Paso 4: Pégala en tu Cuaderno Digital:** Salta a Google Docs (`Alt + Tab`), entra a la pestaña **"Semana 05 🏁"** y pega tu captura con **`Ctrl + V`** debajo de tu foto de perfil.
+5. **Paso 5: Escribe tu Calificación y la Leyenda Formal:** Debajo de la imagen del resultado, escribe con formato correcto (Tamaño 14 Justificado):
 
 > **Calificación del Primer Parcial:** _____ / 40 aciertos.  
 > **Declaración de Conformidad:** *"Recibí mi calificación y retroalimentación correspondiente a la evaluación del Primer Parcial de Cultura Digital I."*  
