@@ -951,6 +951,26 @@ body.dark-mode .eval-list li {
 }
 .q-link i { color: var(--accent); }
 
+.q-link-calif {
+    background: linear-gradient(135deg, rgba(37, 99, 235, 0.08), rgba(16, 185, 129, 0.08));
+    border-color: rgba(37, 99, 235, 0.35);
+    font-weight: 600;
+}
+.q-link-calif:hover {
+    background: linear-gradient(135deg, rgba(37, 99, 235, 0.16), rgba(16, 185, 129, 0.16));
+    border-color: var(--accent);
+}
+.q-link-calif i {
+    color: #2563eb;
+}
+body.dark-mode .q-link-calif {
+    background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(16, 185, 129, 0.15));
+    border-color: rgba(59, 130, 246, 0.4);
+}
+body.dark-mode .q-link-calif i {
+    color: #60a5fa;
+}
+
 /* Etiquetas */
 .tags-container {
     display: flex;
