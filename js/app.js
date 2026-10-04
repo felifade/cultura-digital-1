@@ -123,8 +123,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     
     // Obtener preferencia guardada
-    let isTeacherMode = false; try { isTeacherMode = localStorage.getItem('ceb_teacher_mode') === 'true'; } catch(e) {}
-if (urlParams.get('profe') === 'ceb54') isTeacherMode = true;
+    let isTeacherMode = false; 
+    try { isTeacherMode = localStorage.getItem('ceb_teacher_mode') === 'true'; } catch(e) {}
+    if (urlParams.get('profe') === 'ceb54') isTeacherMode = true;
 
     let clickCount = 0;
     let clickTimer;
@@ -132,10 +133,17 @@ if (urlParams.get('profe') === 'ceb54') isTeacherMode = true;
     const mainTitle = document.querySelector('.main-title');
     const notebookPaper = document.getElementById('notebook-paper');
     
-    // Configurar estado inicial de copia
-    if (isTeacherMode) {
-        notebookPaper.classList.remove('no-copy');
-    }
+    // Configurar estado inicial de permisos (Modo Docente vs Modo Estudiante)
+    const applyTeacherMode = (enabled) => {
+        if (enabled) {
+            notebookPaper.classList.remove('no-copy');
+            document.body.classList.add('teacher-mode');
+        } else {
+            notebookPaper.classList.add('no-copy');
+            document.body.classList.remove('teacher-mode');
+        }
+    };
+    applyTeacherMode(isTeacherMode);
     
     mainTitle.style.cursor = 'pointer';
     mainTitle.addEventListener('click', () => {
@@ -147,11 +155,7 @@ if (urlParams.get('profe') === 'ceb54') isTeacherMode = true;
             localStorage.setItem('ceb_teacher_mode', isTeacherMode);
             clickCount = 0;
             
-            if (isTeacherMode) {
-                notebookPaper.classList.remove('no-copy');
-            } else {
-                notebookPaper.classList.add('no-copy');
-            }
+            applyTeacherMode(isTeacherMode);
             
             // Animación de feedback visual (destello)
             mainTitle.style.color = isTeacherMode ? '#f59e0b' : 'var(--accent)';
@@ -162,6 +166,74 @@ if (urlParams.get('profe') === 'ceb54') isTeacherMode = true;
         }
         
         clickTimer = setTimeout(() => { clickCount = 0; }, 2000);
+    });
+
+    // 🛡️ PROTECCIÓN ANTI-IMPRESIÓN Y ANTI-COPIA (MODO ESTUDIANTE)
+    
+    // 1. Bloquear atajos de teclado para imprimir (Ctrl+P, Cmd+P)
+    window.addEventListener('keydown', (e) => {
+        if ((e.ctrlKey || e.metaKey) && (e.key === 'p' || e.key === 'P' || e.keyCode === 80)) {
+            if (!isTeacherMode) {
+                e.preventDefault();
+                e.stopPropagation();
+                alert('⚠️ La función de impresión está deshabilitada en esta plataforma educativa. Debes realizar la lectura y redacción directamente en tu práctica.');
+                return false;
+            }
+        }
+    }, true);
+
+    // 2. Anular llamada programática a window.print()
+    const nativePrint = window.print;
+    window.print = function() {
+        if (!isTeacherMode) {
+            alert('⚠️ La función de impresión está deshabilitada.');
+            return false;
+        }
+        if (typeof nativePrint === 'function') {
+            nativePrint.call(window);
+        }
+    };
+
+    // 3. Interceptar evento de impresión nativo del navegador (menú de 3 puntos / opciones de Chrome)
+    let cachedMdHtml = null;
+    window.addEventListener('beforeprint', () => {
+        if (!isTeacherMode) {
+            const md = document.getElementById('md-content');
+            if (md) {
+                cachedMdHtml = md.innerHTML;
+                md.innerHTML = '<div style="padding: 3rem; text-align: center; color: #dc2626; font-weight: bold; font-size: 18px; border: 2px dashed #dc2626; border-radius: 8px;">⚠️ Impresión deshabilitada en esta plataforma educativa.</div>';
+            }
+        }
+    });
+
+    window.addEventListener('afterprint', () => {
+        if (cachedMdHtml !== null) {
+            const md = document.getElementById('md-content');
+            if (md) {
+                md.innerHTML = cachedMdHtml;
+                if (window.lucide) lucide.createIcons();
+            }
+            cachedMdHtml = null;
+        }
+    });
+
+    // 4. Bloquear clic derecho (menú contextual) sobre el contenido de la libreta
+    document.addEventListener('contextmenu', (e) => {
+        if (!isTeacherMode && e.target.closest('#notebook-paper')) {
+            e.preventDefault();
+            return false;
+        }
+    });
+
+    // 5. Bloquear evento de copiado en el portapapeles sobre la libreta
+    document.addEventListener('copy', (e) => {
+        if (!isTeacherMode && e.target.closest('#notebook-paper')) {
+            e.preventDefault();
+            if (e.clipboardData) {
+                e.clipboardData.setData('text/plain', '');
+            }
+            return false;
+        }
     });
 
     // MENU MÓVIL

@@ -1114,3 +1114,42 @@ body.dark-mode .markdown-body table tr:nth-child(even) {
     -moz-user-select: none;
     -ms-user-select: none;
 }
+
+/* ==========================================================================
+   PROTECCIÓN ANTI-IMPRESIÓN (MODO ESTUDIANTE)
+   ========================================================================== */
+
+@media print {
+    /* Ocultar completamente los elementos del sitio si no es modo docente */
+    body:not(.teacher-mode) * {
+        display: none !important;
+        visibility: hidden !important;
+    }
+
+    body:not(.teacher-mode) {
+        display: block !important;
+        background: #ffffff !important;
+        color: #1f2937 !important;
+        padding: 4rem 2rem !important;
+        text-align: center !important;
+    }
+
+    body:not(.teacher-mode)::before {
+        content: "⚠️ FUNCIÓN DE IMPRESIÓN DESHABILITADA\A\A Esta plataforma educativa está diseñada para fortalecer tus habilidades de lectura, mecanografía y captura directa en tu práctica digital.\A\A No está permitida la exportación ni impresión de los dictados.";
+        white-space: pre-wrap !important;
+        display: block !important;
+        visibility: visible !important;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+        font-size: 16pt !important;
+        font-weight: 700 !important;
+        color: #b91c1c !important;
+        background-color: #fef2f2 !important;
+        border: 2px dashed #ef4444 !important;
+        border-radius: 12px !important;
+        padding: 3rem 2rem !important;
+        margin: 2rem auto !important;
+        max-width: 600px !important;
+        line-height: 1.6 !important;
+    }
+}
+
