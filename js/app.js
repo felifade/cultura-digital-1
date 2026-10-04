@@ -168,17 +168,37 @@ document.addEventListener('DOMContentLoaded', () => {
         clickTimer = setTimeout(() => { clickCount = 0; }, 2000);
     });
 
-    // 🛡️ PROTECCIÓN ANTI-IMPRESIÓN Y ANTI-COPIA (MODO ESTUDIANTE)
+    // 🛡️ PROTECCIÓN ANTI-IMPRESIÓN, ANTI-COPIA Y ANTI-INSPECCIÓN (MODO ESTUDIANTE)
     
-    // 1. Bloquear atajos de teclado para imprimir (Ctrl+P, Cmd+P)
+    // 1. Bloquear atajos de teclado restringidos
     window.addEventListener('keydown', (e) => {
-        if ((e.ctrlKey || e.metaKey) && (e.key === 'p' || e.key === 'P' || e.keyCode === 80)) {
-            if (!isTeacherMode) {
-                e.preventDefault();
-                e.stopPropagation();
-                alert('⚠️ La función de impresión está deshabilitada en esta plataforma educativa. Debes realizar la lectura y redacción directamente en tu práctica.');
-                return false;
-            }
+        if (isTeacherMode) return;
+
+        const isCtrlOrCmd = e.ctrlKey || e.metaKey;
+        const key = e.key ? e.key.toLowerCase() : '';
+        const keyCode = e.keyCode || e.which;
+
+        // Impresión: Ctrl+P / Cmd+P
+        const isPrint = isCtrlOrCmd && (key === 'p' || keyCode === 80);
+
+        // Ver código fuente: Ctrl+U / Cmd+Option+U
+        const isViewSource = isCtrlOrCmd && (key === 'u' || keyCode === 85);
+
+        // Guardar página: Ctrl+S / Cmd+S
+        const isSavePage = isCtrlOrCmd && (key === 's' || keyCode === 83);
+
+        // F12 (Herramientas de Desarrollador)
+        const isF12 = key === 'f12' || keyCode === 123;
+
+        // Inspeccionar elemento: Ctrl+Shift+I / Ctrl+Shift+J / Ctrl+Shift+C (o Cmd+Option en Mac)
+        const isInspect = (isCtrlOrCmd && e.shiftKey && (key === 'i' || key === 'j' || key === 'c' || keyCode === 73 || keyCode === 74 || keyCode === 67)) ||
+                          (e.metaKey && e.altKey && (key === 'i' || key === 'j' || key === 'c'));
+
+        if (isPrint || isViewSource || isSavePage || isF12 || isInspect) {
+            e.preventDefault();
+            e.stopPropagation();
+            alert('⚠️ Esta función técnica está restringida en la plataforma educativa para garantizar la práctica directa de mecanografía y redacción.');
+            return false;
         }
     }, true);
 
@@ -217,9 +237,9 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    // 4. Bloquear clic derecho (menú contextual) sobre el contenido de la libreta
+    // 4. Bloquear clic derecho (menú contextual) en todo el documento para impedir "Inspeccionar" o "Imprimir"
     document.addEventListener('contextmenu', (e) => {
-        if (!isTeacherMode && e.target.closest('#notebook-paper')) {
+        if (!isTeacherMode) {
             e.preventDefault();
             return false;
         }
