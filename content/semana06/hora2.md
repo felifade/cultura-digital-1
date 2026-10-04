@@ -27,6 +27,18 @@ Vamos a crear la tabla que albergará tus finanzas durante las 5 semanas del Par
    - **Columna 4:** `Gasto Hormiga Evitado`
    - **Columna 5:** `Estatus / Cumplimiento`
 
+### 💡 Ejemplo Visual: Así debe verse tu tabla estructurada (5 Columnas × 6 Filas)
+
+| Semana / Fecha | Meta Semanal ($) | Ahorro Aportado ($) | Gasto Hormiga Evitado | Estatus / Cumplimiento |
+| :---: | :---: | :---: | :--- | :---: |
+| **Semana 06 (05-09 Oct)** | | | | |
+| **Semana 07 (12-16 Oct)** | | | | |
+| **Semana 08 (19-23 Oct)** | | | | |
+| **Semana 09 (26-30 Oct)** | | | | |
+| **Semana 10 (02-06 Nov)** | | | | |
+
+> 📌 **Tip de Formato:** Nota que los encabezados tienen fondo de color y texto blanco en negritas, las semanas y montos se centran y la columna de descripción queda lista para redactar con alineación a la izquierda.
+
 <section class="momento momento-trabajo">
 <h2>Registro de Evidencia: Estilizado Profesional</h2>
 </section>
