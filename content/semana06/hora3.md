@@ -1,57 +1,62 @@
-# Hora 3: Auditoría de Gastos Hormiga y Primer Registro
+# Hora 3: Gastos Hormiga y Primer Registro de Ahorro
 
 <section class="momento momento-inicio">
 <h2>Inicio: Dictado en Google Docs</h2>
 </section>
 
-En la pestaña **`Semana 06 📊`**, debajo de la tabla que creaste en la sesión anterior, escribe el tercer dictado en formato estricto (Título 20 Negrita Centrado, Cuerpo 14 Justificado):
+En la pestaña **`Semana 06 📊`**, debajo de la tabla de ahorro, escribe el tercer dictado con el formato solicitado:
 
-> **Dictado Inicial:**  
-> Los gastos hormiga son pequeñas compras impulsivas que parecen invisibles en el día a día, pero que destruyen cualquier presupuesto: refrescos embotellados, frituras, golosinas o pagos duplicados por falta de planeación. Cuando decidimos conscientemente sustituir un gasto impulsivo por una aportación a nuestro fondo del viaje, transformamos el desperdicio en una experiencia educativa colectiva basada en la disciplina y la empatía.  
->  
-> **Idea Clave:** Quien controla sus gastos hormiga tiene el poder de financiar sus grandes proyectos de vida.
+* **Título:** Tamaño **20**, **Negrita**, **Centrado**
+* **Texto:** Tamaño **14**, **Justificado**
+
+> **Identificación del Gasto Hormiga**  
+> *"Los gastos hormiga son compras pequeñas del día a día que casi no notamos, pero que al sumarse representan mucho dinero: frituras, refrescos, dulces o cosas que realmente no necesitamos. Cuando evitamos un gasto innecesario y guardamos ese dinero para nuestra meta escolar, aprendemos a ser organizados y logramos proyectos importantes para nuestro grupo."*
+
+* **Idea Clave:** *Cuidar los gastos pequeños nos permite ahorrar para metas grandes.*
+
+---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Llenado de la Semana 06 en la Tabla</h2>
+<h2>Desarrollo: Registrar la Semana 06 en la Tabla</h2>
 </section>
 
-Regresa a la Fila 2 de tu tabla (la fila debajo de los encabezados) y registra los datos reales de esta primera semana según tu turno:
+Regresa a la tabla que creaste en la **Hora 2** y llena los datos de la **Fila 2 (Semana 06)** según tu turno.
 
-#### ☀️ Ejemplo de Llenado para Turno Matutino:
+* **Regla de Formato:** La información dentro de la tabla debe ir en **Tamaño 10**.
+
+#### ☀️ Ejemplo para Turno Matutino:
 | Semana / Fecha | Meta Semanal ($) | Ahorro Aportado ($) | Gasto Hormiga Evitado | Estatus / Cumplimiento |
 | :---: | :---: | :---: | :--- | :---: |
-| **Semana 06 (05-09 Oct)** | `$50.00` | `$50.00` | Traje mi termo con agua y fruta picada desde casa; no compré refresco embotellado ni papas en la cooperativa. | `🟢 Cumplido` |
+| **Semana 06 (05-09 Oct)** | `$50.00` | `$50.00` | Traje agua y fruta desde casa; no compré refresco ni papas en el receso. | `Cumplido` |
 
-#### 🌙 Ejemplo de Llenado para Turno Vespertino:
+#### 🌙 Ejemplo para Turno Vespertino:
 | Semana / Fecha | Meta Semanal ($) | Ahorro Aportado ($) | Gasto Hormiga Evitado | Estatus / Cumplimiento |
 | :---: | :---: | :---: | :--- | :---: |
-| **Semana 06 (05-09 Oct)** | `$50.00` | `$50.00` | Evité comprar gomitas y una bebida azucarada en el receso vespertino; guardé el dinero para el fondo de la muestra cultural. | `🟢 Cumplido` |
+| **Semana 06 (05-09 Oct)** | `$50.00` | `$50.00` | Evité comprar dulces y refresco en el receso; guardé el dinero para el proyecto cultural. | `Cumplido` |
 
-**Pautas para la columna "Gasto Hormiga Evitado":**
-- Escribe una acción real y sincera: qué compra innecesaria o antojo evitaste hacer para aportar a tu fondo.
-- *Ejemplo correcto:* *"Traje una botella reutilizable con agua de mi casa y evité comprar refresco embotellado y papas en el receso"*.  
-- *Ejemplo incorrecto:* *"No gasté nada"* o *"Ahorré dinero"*.
+> 📌 **En la columna "Gasto Hormiga Evitado":** Escribe una acción real y sincera sobre qué compra o antojo evitaste hacer para poder ahorrar.
 
-<section class="momento momento-trabajo">
-<h2>Registro de Evidencia: Proyección de Parcial</h2>
-</section>
+---
 
-Debajo del dictado de la Hora 3, redacta tu compromiso financiero en un recuadro o texto destacado según tu turno:
+### Actividad: Proyección de Ahorro del Parcial
+Debajo del dictado de la Hora 3, escribe tu compromiso de ahorro en texto normal (**Tamaño 14, Justificado**) según tu turno:
 
-#### ☀️ Para Turno Matutino:
-> 💡 **Mi Proyección Financiera del Parcial 2:**  
-> *"Si cumplo con mi meta de \$50.00 pesos cada una de las 5 semanas del Parcial 2 (Semanas 06 a 10), acumularé un total de **\$250.00 MXN**, con lo cual cubriré oportunamente el costo de transporte y acceso para la visita al Museo Memoria y Tolerancia en la Ciudad de México."*
+#### ☀️ Turno Matutino:
+> **Mi Proyección de Ahorro:**  
+> *"Al ahorrar \$50.00 pesos cada semana durante las 5 semanas del Parcial 2 (Semanas 06 a 10), juntaré un total de **\$250.00 pesos**, con lo cual pagaré mi transporte y entrada para la visita al Museo Memoria y Tolerancia en la Ciudad de México."*
 
-#### 🌙 Para Turno Vespertino:
-> 💡 **Mi Proyección Financiera del Parcial 2:**  
-> *"Si cumplo con mi meta de \$50.00 pesos cada una de las 5 semanas del Parcial 2 (Semanas 06 a 10), acumularé un total de **\$250.00 MXN**, con lo cual financiaré oportunamente los materiales y el montaje para nuestra muestra de tradiciones e identidad comunitaria de Hidalgo."*
+#### 🌙 Turno Vespertino:
+> **Mi Proyección de Ahorro:**  
+> *"Al ahorrar \$50.00 pesos cada semana durante las 5 semanas del Parcial 2 (Semanas 06 a 10), juntaré un total de **\$250.00 pesos**, con lo cual pagaré los materiales y montaje para nuestra muestra de tradiciones comunitarias de Hidalgo."*
+
+---
 
 <section class="momento momento-cierre">
-<h2>Cierre: Blindaje y Cierre Seguro de Sesión</h2>
+<h2>Cierre: Revisión y Cierre de Sesión</h2>
 </section>
 
-Antes de salir del laboratorio:
-1. Revisa que Google Docs indique **"Guardado en Drive"** en la parte superior.
-2. Cierra tu pestaña de Google Docs y tu cuenta de Google.
-3. **Cierra completamente la ventana de Modo Incógnito** para que ningún compañero que use el equipo después pueda ver ni modificar tus archivos.
-4. Apaga la computadora correctamente desde el menú Inicio.
+Antes de salir del salón:
+1. Revisa que tu tabla tenga el registro de la Semana 06 completo con letra **tamaño 10**.
+2. Revisa que tu proyección de ahorro esté escrita abajo con letra **tamaño 14**.
+3. Confirma que en la parte superior de Google Docs aparezca la leyenda **"Guardado en Drive"**.
+4. Cierra tu sesión de Google y apaga correctamente tu computadora.

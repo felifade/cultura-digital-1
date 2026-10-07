@@ -1,16 +1,18 @@
-# Productos de la Semana 06 (Arranque Parcial 2)
+# Productos de la Semana 06 (Parcial 2)
 
-| Hora | Producto Tangible | Medio de Entrega |
-| :---: | --- | :--- |
-| **1** | Nuevo documento `Cuaderno Digital P2`, pestaña `Semana 06 📊`, dictado 20/14 y Tabla de Misión PEC (2×7) | Google Docs / Google Classroom |
-| **2** | Tabla maestra del PEC (5 columnas × 6 filas) formateada profesionalmente | Google Docs (pestaña Semana 06) |
-| **3** | Registro oficial de la Semana 06 completado en la tabla y proyección financiera redactada | Google Docs (pestaña Semana 06) |
+### 📋 Reglas Generales de Formato en Google Docs:
+* **Títulos de Dictados:** Tamaño **20**, **Negrita**, **Centrado**.
+* **Texto de Dictados y Párrafos:** Tamaño **14**, **Justificado**.
+* **Tablas (todo su contenido):** Tamaño **10**.
 
-## Contenido Obligatorio en la Pestaña `Semana 06 📊`:
-1. **Dictado Hora 1 (20/14):** Título 20 centrado negrita, cuerpo 14 justificado.
-2. **Tabla de Misión PEC (2×7):** Ficha estructurada con datos según el turno (Ahorro CDMX en Matutino / Ahorro Comunitario en Vespertino).
-3. **Dictado Hora 2 (20/14):** El poder de la información estructurada.
-4. **Tabla Maestra de Ahorro:** 5 columnas oficiales con color de fondo en encabezados y alineaciones correspondientes.
-5. **Dictado Hora 3 (20/14):** Identificación del gasto hormiga y consumo consciente.
-6. **Fila 1 Registrada:** Fecha, meta (\$50), ahorro (\$50), gasto hormiga evitado descrito con honestidad y estatus verde.
-7. **Proyección Financiera:** Párrafo de compromiso sobre la meta total acumulada al cierre del Parcial 2 (\$250 MXN).
+---
+
+### 📦 Productos Solicitados en la Pestaña `Semana 06 📊`:
+
+| Hora | Actividad a Entregar | Formato y Características |
+| :---: | :--- | :--- |
+| **Hora 1** | **Dictado 1 + Tabla de Ficha del Proyecto** | Dictado (Título 20, texto 14). Tabla de **2 columnas × 7 filas** en **tamaño 10** con fondo de color en la columna izquierda y tus datos completos. |
+| **Hora 2** | **Dictado 2 + Tabla de Control de Ahorro** | Dictado (Título 20, texto 14). Tabla de **5 columnas × 6 filas** en **tamaño 10** con encabezados en color y las 5 semanas listadas. |
+| **Hora 3** | **Dictado 3 + Registro Semana 06 + Proyección** | Dictado (Título 20, texto 14). Llenado de la Semana 06 en la tabla en **tamaño 10** y párrafo de proyección de ahorro en **tamaño 14 justificado**. |
+
+> 📌 **Medio de Entrega:** Todo se realiza en el mismo documento creado desde Google Classroom en la pestaña **`Semana 06 📊`**. Se guarda automáticamente en Google Drive.
