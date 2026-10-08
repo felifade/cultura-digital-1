@@ -975,6 +975,26 @@ body.dark-mode .q-link-calif i {
     color: #60a5fa;
 }
 
+.q-link-sagyc {
+    background: linear-gradient(135deg, rgba(147, 51, 234, 0.08), rgba(37, 99, 235, 0.08));
+    border-color: rgba(147, 51, 234, 0.35);
+    font-weight: 600;
+}
+.q-link-sagyc:hover {
+    background: linear-gradient(135deg, rgba(147, 51, 234, 0.16), rgba(37, 99, 235, 0.16));
+    border-color: #9333ea;
+}
+.q-link-sagyc i {
+    color: #9333ea;
+}
+body.dark-mode .q-link-sagyc {
+    background: linear-gradient(135deg, rgba(168, 85, 247, 0.15), rgba(59, 130, 246, 0.15));
+    border-color: rgba(168, 85, 247, 0.4);
+}
+body.dark-mode .q-link-sagyc i {
+    color: #c084fc;
+}
+
 /* Etiquetas */
 .tags-container {
     display: flex;
