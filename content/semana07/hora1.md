@@ -28,19 +28,20 @@
 
 ### 2. Mochila Digital en Google Drive (`drive.google.com`)
 1. Crea la carpeta principal: 📁 **`1er Semestre - CEB 5/4`**
-2. Entra a esa carpeta y crea **6 subcarpetas** asignando a cada una su color (clic derecho ➔ **Organizar ➔ Color**):
+2. Entra a esa carpeta y crea **7 subcarpetas** asignando a cada una su color (clic derecho ➔ **Organizar ➔ Color**):
    * 🔵 `01 Cultura Digital I` *(Azul)*
    * 🟡 `02 Lengua y Comunicación I` *(Amarillo)*
    * 🔴 `03 Pensamiento Matemático I` *(Rojo)*
    * 🟢 `04 Ciencias Sociales I` *(Verde)*
    * 🟠 `05 Humanidades I` *(Naranja)*
-   * 🟣 `06 PEC - [Nombre de tu Proyecto]` *(Morado)*  
+   * 🌸 `06 Formación Socioemocional I` *(Rosa)*
+   * 🟣 `07 PEC - [Nombre de tu Proyecto]` *(Morado)*  
      *(Matutino: Viaje Museo CDMX / Vespertino: Día de Muertos)*
 
 ---
 
 ### 3. Tabla de Materias en Google Docs *(Tamaño 10)*
-Debajo del dictado, inserta una tabla de **3 columnas por 7 filas**:
+Debajo del dictado, inserta una tabla de **3 columnas por 8 filas**:
 
 | Materia / Proyecto | Carpeta en Google Drive | Color Asignado |
 | :--- | :--- | :---: |
@@ -49,7 +50,8 @@ Debajo del dictado, inserta una tabla de **3 columnas por 7 filas**:
 | **Pensamiento Matemático I** | `03 Pensamiento Matemático I` | 🔴 Rojo |
 | **Ciencias Sociales I** | `04 Ciencias Sociales I` | 🟢 Verde |
 | **Humanidades I** | `05 Humanidades I` | 🟠 Naranja |
-| **Proyecto Escolar (PEC)** | `06 PEC - [Nombre según Turno]` | 🟣 Morado |
+| **Formación Socioemocional I** | `06 Formación Socioemocional I` | 🌸 Rosa |
+| **Proyecto Escolar (PEC)** | `07 PEC - [Nombre según Turno]` | 🟣 Morado |
 
 ---
 
@@ -64,5 +66,5 @@ Debajo del dictado, inserta una tabla de **3 columnas por 7 filas**:
 
 - [ ] Pestaña **`Semana 07 📁`** creada en Docs.
 - [ ] Dictado con título en **20 (centrado/negrita)** y texto en **14 (justificado)**.
-- [ ] Carpeta `1er Semestre - CEB 5/4` con sus 6 subcarpetas en colores en Drive.
-- [ ] Tabla de 3×7 completa en Docs con texto en **tamaño 10**.
+- [ ] Carpeta `1er Semestre - CEB 5/4` con sus 7 subcarpetas en colores en Drive.
+- [ ] Tabla de 3×8 completa en Docs con texto en **tamaño 10**.

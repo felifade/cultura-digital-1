@@ -20,7 +20,7 @@ Continúa en la pestaña **`Semana 07 📁`**, debajo de la tabla de materias.
 </section>
 
 ### 1. Subcarpetas del PEC en Google Drive
-Entra a tu Google Drive, abre tu carpeta **`06 PEC`** y crea **3 subcarpetas** según tu turno:
+Entra a tu Google Drive, abre tu carpeta **`07 PEC`** y crea **3 subcarpetas** según tu turno:
 
 * ☀️ **Turno Matutino (Museo Memoria y Tolerancia):**
   1. `1. Ahorro y Presupuesto`
@@ -54,7 +54,7 @@ Debajo del dictado, inserta la tabla de **3 columnas por 4 filas** que correspon
 ---
 
 ### 3. Enlace Seguro de la Carpeta PEC
-1. En Google Drive, clic derecho a la carpeta **`06 PEC`** ➔ **Compartir**.
+1. En Google Drive, clic derecho a la carpeta **`07 PEC`** ➔ **Compartir**.
 2. En **Acceso general**, selecciona: **Cualquiera en DGB con el enlace** en rol **Lector**.
 3. Copia el enlace y pégalo en tu Google Docs debajo de la tabla:  
    **Enlace a mi Carpeta PEC:** `[Pega tu enlace aquí]`
@@ -71,6 +71,6 @@ Debajo del dictado, inserta la tabla de **3 columnas por 4 filas** que correspon
 </section>
 
 - [ ] Dictado 2 con título en **20 (centrado/negrita)** y texto en **14 (justificado)**.
-- [ ] 3 subcarpetas creadas dentro de `06 PEC` en Drive.
+- [ ] 3 subcarpetas creadas dentro de `07 PEC` en Drive.
 - [ ] Tabla de archivos PEC de 3×4 en **tamaño 10**.
 - [ ] Enlace de la carpeta PEC pegado en Google Docs en modo **Lector**.
