@@ -4,51 +4,53 @@
 <h2>Inicio: Tu Nueva Pestaña en Google Docs</h2>
 </section>
 
-**Pasos en la computadora:**
-1. Inicia sesión en Google Chrome con tu correo institucional (`@dgb.edu.mx`).
-2. Abre tu documento **«Portafolio Digital - Segundo Parcial»** que creaste la semana pasada.
-3. En el panel izquierdo de pestañas del documento, da clic en el botón **`+`** (Añadir pestaña) y nómbrala como:  
-   **`Semana 07 📁`**.
+Sigue estos 3 pasos en tu computadora:
+
+1. **Inicia sesión** en Google Chrome con tu cuenta institucional (`@dgb.edu.mx`).
+2. **Abre tu documento** de Google Docs llamado **«Portafolio Digital - Segundo Parcial»** que creaste la semana pasada.
+3. **Crea la nueva pestaña:** En la barra izquierda de pestañas del documento, haz clic en **`+`** (Añadir pestaña) y nómbrala exactamente:  
+   **`Semana 07 📁`**
 
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Dictado y Organización de Carpetas</h2>
+<h2>Desarrollo: Dictado, Carpetas y Tabla</h2>
 </section>
 
-### 1. Dictado Inicial
-En tu nueva pestaña **`Semana 07 📁`**, escribe el siguiente texto usando el formato indicado:
+### Paso 1: Dictado Inicial
+En tu nueva pestaña **`Semana 07 📁`**, escribe el siguiente texto respetando las reglas de formato:
 
-* **Título:** Tamaño **20**, **Negrita**, **Centrado**
-* **Texto:** Tamaño **14**, **Justificado**
+> 📌 **Reglas de Formato del Dictado:**  
+> • **Título:** Tamaño **20**, **Negrita**, **Centrado**.  
+> • **Texto del Dictado:** Tamaño **14**, **Justificado**.
 
 > **La Mochila Digital y el Orden en la Nube**  
-> *"Así como en la mochila física usamos libretas separadas para no revolver los apuntes, en Google Drive debemos organizar carpetas por materia. Tener un espacio ordenado en la nube con nombres claros y colores nos ayuda a encontrar rápidamente nuestras tareas, evitar entregas equivocadas en Classroom y asegurar que ningún trabajo escolar se pierda."*
-
-* **Idea Clave:** *El orden en las carpetas digitales te ahorra tiempo y evita perder tareas escolares.*
+> *"Así como en la mochila física usamos libretas separadas para no revolver los apuntes, en Google Drive debemos organizar carpetas por materia. Tener un espacio ordenado en la nube con nombres claros y colores nos ayuda a encontrar rápidamente nuestras tareas, evitar entregas equivocadas en Classroom y asegurar que ningún trabajo escolar se pierda."*  
+>  
+> * **Idea Clave:** *El orden en las carpetas digitales te ahorra tiempo y evita perder tareas escolares.*
 
 ---
 
-### 2. Práctica en Google Drive: Crear tu Mochila Digital
-Abre una nueva pestaña del navegador y entra a **Google Drive** (`drive.google.com`):
+### Paso 2: Crear tu Mochila Digital en Google Drive
+Abre una pestaña nueva en tu navegador y ve a **Google Drive** (`drive.google.com`):
 
-1. Da clic en **`+ Nuevo` ➔ `Nueva carpeta`** y nómbrala:  
+1. **Crea la carpeta principal:** Haz clic en **`+ Nuevo` ➔ `Nueva carpeta`** y nómbrala:  
    📁 **`1er Semestre - CEB 5/4`**
-2. Entra a esa carpeta y crea **6 carpetas organizadas por materia**:
-   * `01 Cultura Digital I`
-   * `02 Lengua y Comunicación I`
-   * `03 Pensamiento Matemático I`
-   * `04 Ciencias Sociales I`
-   * `05 Humanidades I`
-   * `06 PEC - [Nombre de tu proyecto]` *(Matutino: Viaje Museo CDMX / Vespertino: Día de Muertos)*
-3. **Código de Color:** Da clic derecho sobre cada carpeta ➔ **Organizar ➔ Color** y asígnale un color distinto a cada una.
+2. **Entra a esa carpeta** y crea **6 subcarpetas con su número y materia**:
+   1. `01 Cultura Digital I`
+   2. `02 Lengua y Comunicación I`
+   3. `03 Pensamiento Matemático I`
+   4. `04 Ciencias Sociales I`
+   5. `05 Humanidades I`
+   6. `06 PEC - [Nombre de tu Proyecto]` *(Matutino: Viaje Museo CDMX / Vespertino: Día de Muertos)*
+3. **Asigna color a cada carpeta:** Clic derecho sobre la carpeta ➔ **Organizar ➔ Color**.
 
 ---
 
-### 3. Actividad en Docs: Tabla de Organización de Materias
-Regresa a tu documento de Google Docs y, debajo del dictado, inserta la siguiente tabla de control:
+### Paso 3: Tabla de Organización en Google Docs
+Regresa a tu documento de Docs y, debajo del dictado, inserta la tabla con las materias y colores:
 
-* **Regla de Formato:** Todo el texto dentro de la tabla debe ir en **Tamaño 10**.
+> 📌 **Regla de Formato:** Todo el texto dentro de la tabla debe ir en **Tamaño 10**.
 
 Inserta una tabla de **3 columnas por 7 filas**:
 
@@ -63,12 +65,20 @@ Inserta una tabla de **3 columnas por 7 filas**:
 
 ---
 
+### 🖼️ Ejemplo Visual de Cómo Debe Quedar tu Trabajo:
+
+Asegúrate de que tu pantalla se vea igual a este modelo de referencia:
+
+![Ejemplo Visual del Resultado - Hora 1](./assets/semana07/semana07_hora01_ejemplo.svg)
+
+---
+
 <section class="momento momento-cierre">
-<h2>Cierre: Revisión Rápida</h2>
+<h2>Cierre: Lista de Cotejo</h2>
 </section>
 
-Antes de salir, verifica con tu compañero de al lado:
-- [ ] Tu documento tiene la pestaña **`Semana 07 📁`**.
-- [ ] El dictado tiene título en **tamaño 20 (centrado y negrita)** y texto en **tamaño 14 (justificado)**.
-- [ ] Creaste la carpeta `1er Semestre - CEB 5/4` en Google Drive con las 6 subcarpetas en colores.
-- [ ] La tabla de materias en Google Docs está en **tamaño 10**.
+Antes de concluir la sesión, comprueba con tu compañero de al lado:
+- [ ] Tu documento tiene creada la pestaña **`Semana 07 📁`**.
+- [ ] El título del dictado está en **tamaño 20 (centrado y negrita)** y el párrafo en **tamaño 14 (justificado)**.
+- [ ] Creaste la carpeta `1er Semestre - CEB 5/4` en Drive con sus 6 subcarpetas con color.
+- [ ] La tabla de materias en Docs está completa y con texto en **tamaño 10**.

@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="100%" height="100%" style="background:#0f172a; font-family:'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+  <defs>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="driveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="docsGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Banner Superior -->
+  <rect x="20" y="20" width="1160" height="70" rx="14" fill="url(#headerGrad)" stroke="#334155" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="50" y="52" fill="#38bdf8" font-size="14" font-weight="800" letter-spacing="1.5">CEB 5/4 • CULTURA DIGITAL I</text>
+  <text x="50" y="74" fill="#ffffff" font-size="20" font-weight="800">Resultado Esperado: Hora 1 (Google Drive + Google Docs)</text>
+  <rect x="1000" y="38" width="150" height="34" rx="8" fill="#2563eb" fill-opacity="0.2" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="1075" y="60" fill="#93c5fd" font-size="13" font-weight="700" text-anchor="middle">Semana 07 📁</text>
+
+  <!-- PANEL IZQUIERDO: GOOGLE DRIVE (Mochila Digital) -->
+  <g transform="translate(20, 110)">
+    <rect x="0" y="0" width="560" height="580" rx="16" fill="url(#driveGrad)" stroke="#334155" stroke-width="1.5" filter="url(#shadow)"/>
+    
+    <!-- Header Drive -->
+    <rect x="0" y="0" width="560" height="60" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <circle cx="36" cy="30" r="14" fill="#22c55e" fill-opacity="0.2"/>
+    <text x="36" y="36" fill="#4ade80" font-size="16" text-anchor="middle">☁️</text>
+    <text x="65" y="32" fill="#ffffff" font-size="16" font-weight="700">1. En Google Drive: Tu Mochila Digital</text>
+    <text x="65" y="48" fill="#94a3b8" font-size="12">Ruta: Mi unidad > 📁 1er Semestre - CEB 5/4</text>
+
+    <!-- Carpeta Principal Tag -->
+    <rect x="24" y="80" width="512" height="42" rx="10" fill="#0f172a" stroke="#2563eb" stroke-width="1.5"/>
+    <text x="44" y="106" fill="#60a5fa" font-size="14" font-weight="700">📁 Carpeta Contenedora: 1er Semestre - CEB 5/4</text>
+
+    <!-- Subcarpetas 6 con colores -->
+    <!-- 01 Cultura Digital I (Azul) -->
+    <g transform="translate(24, 140)">
+      <rect x="0" y="0" width="246" height="60" rx="10" fill="#1e293b" stroke="#3b82f6" stroke-width="1.5"/>
+      <rect x="12" y="14" width="32" height="32" rx="8" fill="#2563eb" fill-opacity="0.25"/>
+      <text x="28" y="35" fill="#60a5fa" font-size="18" text-anchor="middle">📁</text>
+      <text x="56" y="28" fill="#f8fafc" font-size="13" font-weight="700">01 Cultura Digital I</text>
+      <text x="56" y="46" fill="#60a5fa" font-size="11" font-weight="600">Color: Azul</text>
+    </g>
+
+    <!-- 02 Lengua y Comunicación I (Amarillo) -->
+    <g transform="translate(290, 140)">
+      <rect x="0" y="0" width="246" height="60" rx="10" fill="#1e293b" stroke="#eab308" stroke-width="1.5"/>
+      <rect x="12" y="14" width="32" height="32" rx="8" fill="#eab308" fill-opacity="0.25"/>
+      <text x="28" y="35" fill="#facc15" font-size="18" text-anchor="middle">📁</text>
+      <text x="56" y="28" fill="#f8fafc" font-size="12" font-weight="700">02 Lengua y Comunicación</text>
+      <text x="56" y="46" fill="#facc15" font-size="11" font-weight="600">Color: Amarillo</text>
+    </g>
+
+    <!-- 03 Pensamiento Matemático I (Rojo) -->
+    <g transform="translate(24, 215)">
+      <rect x="0" y="0" width="246" height="60" rx="10" fill="#1e293b" stroke="#ef4444" stroke-width="1.5"/>
+      <rect x="12" y="14" width="32" height="32" rx="8" fill="#ef4444" fill-opacity="0.25"/>
+      <text x="28" y="35" fill="#f87171" font-size="18" text-anchor="middle">📁</text>
+      <text x="56" y="28" fill="#f8fafc" font-size="12" font-weight="700">03 Pensamiento Matemático</text>
+      <text x="56" y="46" fill="#f87171" font-size="11" font-weight="600">Color: Rojo</text>
+    </g>
+
+    <!-- 04 Ciencias Sociales I (Verde) -->
+    <g transform="translate(290, 215)">
+      <rect x="0" y="0" width="246" height="60" rx="10" fill="#1e293b" stroke="#10b981" stroke-width="1.5"/>
+      <rect x="12" y="14" width="32" height="32" rx="8" fill="#10b981" fill-opacity="0.25"/>
+      <text x="28" y="35" fill="#34d399" font-size="18" text-anchor="middle">📁</text>
+      <text x="56" y="28" fill="#f8fafc" font-size="12" font-weight="700">04 Ciencias Sociales I</text>
+      <text x="56" y="46" fill="#34d399" font-size="11" font-weight="600">Color: Verde</text>
+    </g>
+
+    <!-- 05 Humanidades I (Naranja) -->
+    <g transform="translate(24, 290)">
+      <rect x="0" y="0" width="246" height="60" rx="10" fill="#1e293b" stroke="#f97316" stroke-width="1.5"/>
+      <rect x="12" y="14" width="32" height="32" rx="8" fill="#f97316" fill-opacity="0.25"/>
+      <text x="28" y="35" fill="#fb923c" font-size="18" text-anchor="middle">📁</text>
+      <text x="56" y="28" fill="#f8fafc" font-size="13" font-weight="700">05 Humanidades I</text>
+      <text x="56" y="46" fill="#fb923c" font-size="11" font-weight="600">Color: Naranja</text>
+    </g>
+
+    <!-- 06 PEC (Morado) -->
+    <g transform="translate(290, 290)">
+      <rect x="0" y="0" width="246" height="60" rx="10" fill="#1e293b" stroke="#a855f7" stroke-width="1.5"/>
+      <rect x="12" y="14" width="32" height="32" rx="8" fill="#a855f7" fill-opacity="0.25"/>
+      <text x="28" y="35" fill="#c084fc" font-size="18" text-anchor="middle">📁</text>
+      <text x="56" y="28" fill="#f8fafc" font-size="13" font-weight="700">06 PEC - [Proyecto]</text>
+      <text x="56" y="46" fill="#c084fc" font-size="11" font-weight="600">Color: Morado</text>
+    </g>
+
+    <!-- Caja de Tips de Drive -->
+    <rect x="24" y="375" width="512" height="175" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="44" y="405" fill="#38bdf8" font-size="14" font-weight="700">💡 ¿Cómo asignar color en Google Drive?</text>
+    <text x="44" y="435" fill="#cbd5e1" font-size="13">1. Clic derecho sobre la carpeta</text>
+    <text x="44" y="460" fill="#cbd5e1" font-size="13">2. Selecciona <tspan fill="#60a5fa" font-weight="700">Organizar</tspan> ➔ <tspan fill="#facc15" font-weight="700">Color</tspan></text>
+    <text x="44" y="485" fill="#cbd5e1" font-size="13">3. Elige el color indicado para cada materia</text>
+    <text x="44" y="525" fill="#94a3b8" font-size="12">✨ ¡Tener colores distintos agiliza tu búsqueda de tareas!</text>
+  </g>
+
+  <!-- PANEL DERECHO: GOOGLE DOCS (Pestaña Semana 07) -->
+  <g transform="translate(600, 110)">
+    <rect x="0" y="0" width="580" height="580" rx="16" fill="url(#docsGrad)" stroke="#334155" stroke-width="1.5" filter="url(#shadow)"/>
+    
+    <!-- Header Docs -->
+    <rect x="0" y="0" width="580" height="60" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <circle cx="36" cy="30" r="14" fill="#3b82f6" fill-opacity="0.2"/>
+    <text x="36" y="36" fill="#60a5fa" font-size="16" text-anchor="middle">📝</text>
+    <text x="65" y="32" fill="#ffffff" font-size="16" font-weight="700">2. En Google Docs: Pestaña «Semana 07 📁»</text>
+    <text x="65" y="48" fill="#94a3b8" font-size="12">Documento: Portafolio Digital - Segundo Parcial</text>
+
+    <!-- Indicador Dictado 1 -->
+    <g transform="translate(24, 75)">
+      <!-- Badge Formato Título -->
+      <rect x="0" y="0" width="532" height="24" rx="6" fill="#2563eb" fill-opacity="0.15" stroke="#3b82f6" stroke-width="1"/>
+      <text x="266" y="16" fill="#93c5fd" font-size="11" font-weight="700" text-anchor="middle">TÍTULO: TAMAÑO 20 • NEGRITA • CENTRADO</text>
+
+      <!-- Título Simulado -->
+      <text x="266" y="46" fill="#ffffff" font-size="17" font-weight="800" text-anchor="middle">La Mochila Digital y el Orden en la Nube</text>
+
+      <!-- Badge Formato Texto -->
+      <rect x="0" y="58" width="532" height="22" rx="6" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1"/>
+      <text x="266" y="73" fill="#6ee7b7" font-size="11" font-weight="700" text-anchor="middle">TEXTO DEL DICTADO: TAMAÑO 14 • JUSTIFICADO</text>
+
+      <!-- Texto del Dictado Simulado -->
+      <rect x="0" y="88" width="532" height="66" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+      <text x="14" y="108" fill="#cbd5e1" font-size="12">"Así como en la mochila física usamos libretas separadas para no revolver los apuntes,</text>
+      <text x="14" y="126" fill="#cbd5e1" font-size="12">en Google Drive debemos organizar carpetas por materia. Tener un espacio ordenado...</text>
+      <text x="14" y="144" fill="#60a5fa" font-size="11" font-weight="600">Idea Clave: El orden en las carpetas digitales te ahorra tiempo y evita perder tareas."</text>
+    </g>
+
+    <!-- Indicador Tabla 3x7 -->
+    <g transform="translate(24, 250)">
+      <!-- Badge Formato Tabla -->
+      <rect x="0" y="0" width="532" height="24" rx="6" fill="#a855f7" fill-opacity="0.15" stroke="#a855f7" stroke-width="1"/>
+      <text x="266" y="16" fill="#d8b4fe" font-size="11" font-weight="700" text-anchor="middle">TABLA DE MATERIAS: 3 COLUMNAS × 7 FILAS • TAMAÑO 10</text>
+
+      <!-- Tabla Simulación Realista -->
+      <rect x="0" y="32" width="532" height="260" rx="8" fill="#0f172a" stroke="#475569" stroke-width="1.5"/>
+      
+      <!-- Fila Header -->
+      <rect x="0" y="32" width="532" height="34" rx="8" fill="#1e293b"/>
+      <line x1="170" y1="32" x2="170" y2="292" stroke="#475569" stroke-width="1"/>
+      <line x1="390" y1="32" x2="390" y2="292" stroke="#475569" stroke-width="1"/>
+      
+      <text x="20" y="54" fill="#f8fafc" font-size="11" font-weight="800">Materia / Proyecto</text>
+      <text x="185" y="54" fill="#f8fafc" font-size="11" font-weight="800">Carpeta en Google Drive</text>
+      <text x="460" y="54" fill="#f8fafc" font-size="11" font-weight="800" text-anchor="middle">Color Asignado</text>
+
+      <!-- Línea Divisoria Header -->
+      <line x1="0" y1="66" x2="532" y2="66" stroke="#475569" stroke-width="1.5"/>
+
+      <!-- Fila 1 -->
+      <text x="20" y="94" fill="#cbd5e1" font-size="11" font-weight="600">Cultura Digital I</text>
+      <text x="185" y="94" fill="#93c5fd" font-size="11">01 Cultura Digital I</text>
+      <rect x="420" y="80" width="80" height="20" rx="4" fill="#2563eb" fill-opacity="0.3"/>
+      <text x="460" y="94" fill="#93c5fd" font-size="10" font-weight="700" text-anchor="middle">Azul</text>
+      <line x1="0" y1="104" x2="532" y2="104" stroke="#334155" stroke-width="1"/>
+
+      <!-- Fila 2 -->
+      <text x="20" y="130" fill="#cbd5e1" font-size="11" font-weight="600">Lengua y Comunicación I</text>
+      <text x="185" y="130" fill="#fef08a" font-size="11">02 Lengua y Comunicación</text>
+      <rect x="420" y="116" width="80" height="20" rx="4" fill="#eab308" fill-opacity="0.3"/>
+      <text x="460" y="130" fill="#fef08a" font-size="10" font-weight="700" text-anchor="middle">Amarillo</text>
+      <line x1="0" y1="140" x2="532" y2="140" stroke="#334155" stroke-width="1"/>
+
+      <!-- Fila 3 -->
+      <text x="20" y="166" fill="#cbd5e1" font-size="11" font-weight="600">Pensamiento Matemático I</text>
+      <text x="185" y="166" fill="#fca5a5" font-size="11">03 Pensamiento Matemático</text>
+      <rect x="420" y="152" width="80" height="20" rx="4" fill="#ef4444" fill-opacity="0.3"/>
+      <text x="460" y="166" fill="#fca5a5" font-size="10" font-weight="700" text-anchor="middle">Rojo</text>
+      <line x1="0" y1="176" x2="532" y2="176" stroke="#334155" stroke-width="1"/>
+
+      <!-- Fila 4 -->
+      <text x="20" y="202" fill="#cbd5e1" font-size="11" font-weight="600">Ciencias Sociales I</text>
+      <text x="185" y="202" fill="#86efac" font-size="11">04 Ciencias Sociales I</text>
+      <rect x="420" y="188" width="80" height="20" rx="4" fill="#10b981" fill-opacity="0.3"/>
+      <text x="460" y="202" fill="#86efac" font-size="10" font-weight="700" text-anchor="middle">Verde</text>
+      <line x1="0" y1="212" x2="532" y2="212" stroke="#334155" stroke-width="1"/>
+
+      <!-- Fila 5 -->
+      <text x="20" y="238" fill="#cbd5e1" font-size="11" font-weight="600">Humanidades I</text>
+      <text x="185" y="238" fill="#fdba74" font-size="11">05 Humanidades I</text>
+      <rect x="420" y="224" width="80" height="20" rx="4" fill="#f97316" fill-opacity="0.3"/>
+      <text x="460" y="238" fill="#fdba74" font-size="10" font-weight="700" text-anchor="middle">Naranja</text>
+      <line x1="0" y1="248" x2="532" y2="248" stroke="#334155" stroke-width="1"/>
+
+      <!-- Fila 6 -->
+      <text x="20" y="274" fill="#cbd5e1" font-size="11" font-weight="600">Proyecto Escolar (PEC)</text>
+      <text x="185" y="274" fill="#d8b4fe" font-size="11">06 PEC - [Nombre Turno]</text>
+      <rect x="420" y="260" width="80" height="20" rx="4" fill="#a855f7" fill-opacity="0.3"/>
+      <text x="460" y="274" fill="#d8b4fe" font-size="10" font-weight="700" text-anchor="middle">Morado</text>
+    </g>
+  </g>
+</svg>
