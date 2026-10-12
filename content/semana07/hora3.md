@@ -48,6 +48,11 @@ Utiliza **toda la página de tu libreta** para realizar la actividad de tu turno
 
 ---
 
+### 🖼️ Ejemplo Visual: Así Debe Verse tu Libreta
+![Ejemplo Visual - Hora 3](./assets/semana07/semana07_hora03_ejemplo.svg)
+
+---
+
 <section class="momento momento-cierre">
 <h2>Cierre: Revisión y Firma Presencial</h2>
 </section>
