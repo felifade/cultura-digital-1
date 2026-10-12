@@ -4,7 +4,7 @@
 <h2>Inicio: Preparación de tu Libreta 📓</h2>
 </section>
 
-Trabajo individual en tu **libreta física de apuntes**. Abre una página limpia y anota arriba:
+Abre una página limpia en tu **libreta de apuntes** y anota arriba:
 * **Fecha:** `16 de Octubre de 2026`
 * **Título:** El título correspondiente a tu turno (ver abajo).
 
@@ -14,7 +14,7 @@ Trabajo individual en tu **libreta física de apuntes**. Abre una página limpia
 <h2>Desarrollo: Elaboración a Mano y a Color</h2>
 </section>
 
-Ocupa **toda la página de tu libreta** realizando la actividad de tu turno:
+Utiliza **toda la página de tu libreta** para realizar la actividad de tu turno:
 
 ---
 
@@ -45,11 +45,6 @@ Ocupa **toda la página de tu libreta** realizando la actividad de tu turno:
    * 🖼️ **Fotografía:** Ser querido al que se dedica.
 4. **Reflexión Escrita a Mano (Mínimo 10 renglones):**  
    *¿Cómo celebran el Día de Muertos en tu comunidad y por qué es fundamental preservar estas tradiciones mexicanas?*
-
----
-
-### 🖼️ Ejemplo Visual: Así Debe Verse tu Libreta
-![Ejemplo Visual - Hora 3](./assets/semana07/semana07_hora03_ejemplo.svg)
 
 ---
 

@@ -4,14 +4,14 @@
 <h2>Inicio: Segundo Dictado en Google Docs</h2>
 </section>
 
-Continúa en la pestaña **`Semana 07 📁`**, debajo de la tabla de materias de la Hora 1.
+Continúa en la misma pestaña **`Semana 07 📁`**, debajo de la tabla de materias.
 
 > 📐 **Reglas de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | Tablas: **Tamaño 10**
 
 > ### Organización de Archivos y Evidencias del PEC
 > *"Un proyecto escolar exitoso necesita un expediente digital ordenado donde guardar evidencias, fotos y documentos. Guardar archivos con nombres confusos provoca desorganización. Nombrar cada archivo indicando el contenido, la fecha y el nombre del estudiante garantiza que nuestro trabajo esté listo para ser evaluado y compartido."*  
 >  
-> 💡 **Idea Clave:** *Nombrar tus archivos con orden y claridad demuestra profesionalismo y evita confusiones.*
+> 💡 *Idea clave: Nombrar tus archivos con orden y claridad demuestra profesionalismo.*
 
 ---
 
@@ -19,11 +19,11 @@ Continúa en la pestaña **`Semana 07 📁`**, debajo de la tabla de materias de
 <h2>Desarrollo: Crear Carpeta PEC, Subcarpetas y Enlace</h2>
 </section>
 
-### 1. Crear Carpeta del PEC y Subcarpetas en Google Drive
-1. En Google Drive, dentro de tu carpeta **`1er Semestre - CEB 5/4`**, crea una nueva carpeta para el proyecto escolar:  
-   📁 **`08 PEC - [Nombre de tu Proyecto]`** *(Asóciale un color distintivo, ej. Morado o Café)*.  
+### 1. Crear Carpeta PEC y Subcarpetas en Google Drive
+1. Dentro de **`1er Semestre - CEB 5/4`**, crea una carpeta para tu proyecto escolar:  
+   📁 **`08 PEC - [Nombre de tu Proyecto]`**  
    *(Matutino: `08 PEC - Viaje Museo CDMX` / Vespertino: `08 PEC - Día de Muertos`)*
-2. Entra a tu carpeta **`08 PEC`** y crea **3 subcarpetas** según tu turno:
+2. Entra a esa carpeta y crea **3 subcarpetas** según tu turno:
 
 * ☀️ **Turno Matutino (Museo Memoria y Tolerancia):**
   1. `1. Ahorro y Presupuesto`
@@ -57,15 +57,10 @@ Debajo del dictado, inserta la tabla de **3 columnas por 4 filas** que correspon
 ---
 
 ### 3. Enlace Seguro de la Carpeta PEC
-1. En Google Drive, clic derecho a la carpeta **`08 PEC`** ➔ **Compartir**.
+1. En Google Drive, haz clic derecho a tu carpeta **`08 PEC`** ➔ **Compartir**.
 2. En **Acceso general**, selecciona: **Cualquiera en DGB con el enlace** en rol **Lector**.
 3. Copia el enlace y pégalo en tu Google Docs debajo de la tabla:  
    **Enlace a mi Carpeta PEC:** `[Pega tu enlace aquí]`
-
----
-
-### 🖼️ Ejemplo Visual: Así Debe Verse tu Pantalla
-![Ejemplo Visual - Hora 2](./assets/semana07/semana07_hora02_ejemplo.svg)
 
 ---
 

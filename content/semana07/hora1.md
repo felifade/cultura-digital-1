@@ -4,9 +4,8 @@
 <h2>Inicio: Pestaña en Google Docs</h2>
 </section>
 
-1. Abre Google Chrome con tu cuenta institucional (`@dgb.edu.mx`).
-2. Abre tu documento **«Portafolio Digital - Segundo Parcial»**.
-3. En la barra izquierda, haz clic en **`+`** (Añadir pestaña) y nómbrala: **`Semana 07 📁`**.
+1. Abre tu documento **«Portafolio Digital - Segundo Parcial»** en Google Docs.
+2. Agrega una nueva pestaña en el panel izquierdo y nómbrala: **`Semana 07 📁`**.
 
 ---
 
@@ -17,18 +16,18 @@
 > 📐 **Reglas de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | Tablas: **Tamaño 10**
 
 ### 1. Dictado Inicial
-*(Escribe en la pestaña `Semana 07 📁` con título 20 y texto 14)*
+En tu pestaña **`Semana 07 📁`**, escribe el siguiente texto:
 
 > ### La Mochila Digital y el Orden en la Nube
 > *"Así como en la mochila física usamos libretas separadas para no revolver los apuntes, en Google Drive debemos organizar carpetas por materia. Tener un espacio ordenado en la nube con nombres claros y colores nos ayuda a encontrar rápidamente nuestras tareas, evitar entregas equivocadas en Classroom y asegurar que ningún trabajo escolar se pierda."*  
 >  
-> 💡 **Idea Clave:** *El orden en las carpetas digitales te ahorra tiempo y evita perder tareas escolares.*
+> 💡 *Idea clave: El orden en las carpetas digitales te ahorra tiempo y evita perder tareas.*
 
 ---
 
-### 2. Mochila Digital en Google Drive (`drive.google.com`)
+### 2. Crear Carpetas en Google Drive (`drive.google.com`)
 1. Crea la carpeta principal: 📁 **`1er Semestre - CEB 5/4`**
-2. Entra a esa carpeta y crea **7 subcarpetas para tus materias**, asignando a cada una su color (clic derecho ➔ **Organizar ➔ Color**):
+2. Entra a esa carpeta y crea **7 subcarpetas**, asignando a cada una su color (clic derecho ➔ **Organizar ➔ Color**):
    * 🔵 `01 Cultura Digital I` *(Azul)*
    * 🟡 `02 Lengua y Comunicación I` *(Amarillo)*
    * 🔴 `03 Pensamiento Matemático I` *(Rojo)*
@@ -37,14 +36,12 @@
    * 🌸 `06 Formación Socioemocional I` *(Rosa)*
    * 🟣 `07 Inglés I` *(Morado)*
 
-> 📌 *Nota: La carpeta del Proyecto PEC se creará y organizará en la Hora 2.*
-
 ---
 
 ### 3. Tabla de Materias en Google Docs *(Tamaño 10)*
 Debajo del dictado, inserta una tabla de **3 columnas por 8 filas**:
 
-| Materia | Carpeta en Google Drive | Color Asignado |
+| Materia | Carpeta en Google Drive | Color |
 | :--- | :--- | :---: |
 | **Cultura Digital I** | `01 Cultura Digital I` | 🔵 Azul |
 | **Lengua y Comunicación I** | `02 Lengua y Comunicación I` | 🟡 Amarillo |
@@ -56,16 +53,11 @@ Debajo del dictado, inserta una tabla de **3 columnas por 8 filas**:
 
 ---
 
-### 🖼️ Ejemplo Visual: Así Debe Verse tu Pantalla
-![Ejemplo Visual - Hora 1](./assets/semana07/semana07_hora01_ejemplo.svg)
-
----
-
 <section class="momento momento-cierre">
 <h2>Cierre: Verificación Rápida</h2>
 </section>
 
 - [ ] Pestaña **`Semana 07 📁`** creada en Docs.
 - [ ] Dictado con título en **20 (centrado/negrita)** y texto en **14 (justificado)**.
-- [ ] Carpeta `1er Semestre - CEB 5/4` con sus 7 subcarpetas de materias en colores en Drive.
+- [ ] Carpeta `1er Semestre - CEB 5/4` con sus 7 subcarpetas en colores en Drive.
 - [ ] Tabla de 3×8 completa en Docs con texto en **tamaño 10**.
