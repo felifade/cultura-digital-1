@@ -20,11 +20,11 @@
   <!-- Banner Superior -->
   <rect x="20" y="20" width="1160" height="70" rx="14" fill="url(#headerGrad2)" stroke="#334155" stroke-width="1.5" filter="url(#shadow2)"/>
   <text x="50" y="52" fill="#c084fc" font-size="14" font-weight="800" letter-spacing="1.5">CEB 5/4 • PROYECTO PEC Y CULTURA DIGITAL I</text>
-  <text x="50" y="74" fill="#ffffff" font-size="20" font-weight="800">Resultado Esperado: Hora 2 (Subcarpetas PEC + Tabla en Docs + Enlace)</text>
+  <text x="50" y="74" fill="#ffffff" font-size="20" font-weight="800">Resultado Esperado: Hora 2 (Crear 08 PEC + Subcarpetas + Tabla + Enlace)</text>
   <rect x="1000" y="38" width="150" height="34" rx="8" fill="#9333ea" fill-opacity="0.2" stroke="#a855f7" stroke-width="1.5"/>
   <text x="1075" y="60" fill="#d8b4fe" font-size="13" font-weight="700" text-anchor="middle">Semana 07 📁</text>
 
-  <!-- PANEL IZQUIERDO: SUBCARPETAS GOOGLE DRIVE POR TURNO -->
+  <!-- PANEL IZQUIERDO: CREAR CARPETA PEC Y SUBCARPETAS -->
   <g transform="translate(20, 110)">
     <rect x="0" y="0" width="560" height="580" rx="16" fill="url(#cardGrad1)" stroke="#334155" stroke-width="1.5" filter="url(#shadow2)"/>
     
@@ -32,14 +32,14 @@
     <rect x="0" y="0" width="560" height="60" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1"/>
     <circle cx="36" cy="30" r="14" fill="#a855f7" fill-opacity="0.2"/>
     <text x="36" y="36" fill="#c084fc" font-size="16" text-anchor="middle">📂</text>
-    <text x="65" y="32" fill="#ffffff" font-size="16" font-weight="700">1. Subcarpetas en Google Drive (Dentro de 07 PEC)</text>
-    <text x="65" y="48" fill="#94a3b8" font-size="12">Crea las 3 subcarpetas correspondientes a tu turno escolar</text>
+    <text x="65" y="32" fill="#ffffff" font-size="16" font-weight="700">1. Crear Carpeta 08 PEC y Subcarpetas en Drive</text>
+    <text x="65" y="48" fill="#94a3b8" font-size="12">Dentro de: 1er Semestre - CEB 5/4 > 📁 08 PEC</text>
 
     <!-- Bloque Matutino -->
     <g transform="translate(24, 76)">
       <rect x="0" y="0" width="512" height="170" rx="12" fill="#0f172a" stroke="#eab308" stroke-width="1.5"/>
       <rect x="14" y="12" width="484" height="28" rx="6" fill="#eab308" fill-opacity="0.15"/>
-      <text x="24" y="31" fill="#facc15" font-size="13" font-weight="800">☀️ TURNO MATUTINO (Visita Educativa al Museo Memoria y Tolerancia)</text>
+      <text x="24" y="31" fill="#facc15" font-size="13" font-weight="800">☀️ TURNO MATUTINO (08 PEC - Viaje Museo Memoria y Tolerancia)</text>
 
       <!-- 3 subcarpetas matutino -->
       <g transform="translate(14, 50)">
@@ -63,7 +63,7 @@
     <g transform="translate(24, 260)">
       <rect x="0" y="0" width="512" height="170" rx="12" fill="#0f172a" stroke="#a855f7" stroke-width="1.5"/>
       <rect x="14" y="12" width="484" height="28" rx="6" fill="#a855f7" fill-opacity="0.15"/>
-      <text x="24" y="31" fill="#c084fc" font-size="13" font-weight="800">🌙 TURNO VESPERTINO (Proyecto Cultural: Altar de Día de Muertos)</text>
+      <text x="24" y="31" fill="#c084fc" font-size="13" font-weight="800">🌙 TURNO VESPERTINO (08 PEC - Tradición Día de Muertos)</text>
 
       <!-- 3 subcarpetas vespertino -->
       <g transform="translate(14, 50)">
@@ -87,7 +87,7 @@
     <g transform="translate(24, 444)">
       <rect x="0" y="0" width="512" height="114" rx="12" fill="#0f172a" stroke="#38bdf8" stroke-width="1.5"/>
       <text x="20" y="28" fill="#38bdf8" font-size="13" font-weight="800">🔗 Paso Clave: Copiar Enlace Seguro en Modo Lector</text>
-      <text x="20" y="52" fill="#cbd5e1" font-size="12">1. Clic derecho en tu carpeta <tspan fill="#c084fc" font-weight="700">07 PEC</tspan> ➔ <tspan fill="#facc15" font-weight="700">Compartir</tspan></text>
+      <text x="20" y="52" fill="#cbd5e1" font-size="12">1. Clic derecho en tu carpeta <tspan fill="#c084fc" font-weight="700">08 PEC</tspan> ➔ <tspan fill="#facc15" font-weight="700">Compartir</tspan></text>
       <text x="20" y="74" fill="#cbd5e1" font-size="12">2. Acceso general: <tspan fill="#4ade80" font-weight="700">Cualquiera en DGB con el enlace</tspan> en rol <tspan fill="#38bdf8" font-weight="700">Lector</tspan></text>
       <text x="20" y="96" fill="#cbd5e1" font-size="12">3. Da clic en <tspan fill="#60a5fa" font-weight="700">Copiar enlace</tspan> para pegarlo en tu Google Docs</text>
     </g>

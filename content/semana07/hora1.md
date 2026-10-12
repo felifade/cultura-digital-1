@@ -28,30 +28,31 @@
 
 ### 2. Mochila Digital en Google Drive (`drive.google.com`)
 1. Crea la carpeta principal: 📁 **`1er Semestre - CEB 5/4`**
-2. Entra a esa carpeta y crea **7 subcarpetas** asignando a cada una su color (clic derecho ➔ **Organizar ➔ Color**):
+2. Entra a esa carpeta y crea **7 subcarpetas para tus materias**, asignando a cada una su color (clic derecho ➔ **Organizar ➔ Color**):
    * 🔵 `01 Cultura Digital I` *(Azul)*
    * 🟡 `02 Lengua y Comunicación I` *(Amarillo)*
    * 🔴 `03 Pensamiento Matemático I` *(Rojo)*
    * 🟢 `04 Ciencias Sociales I` *(Verde)*
-   * 🟠 `05 Humanidades I` *(Naranja)*
+   * 🟠 `05 Pensamiento Filosófico I` *(Naranja)*
    * 🌸 `06 Formación Socioemocional I` *(Rosa)*
-   * 🟣 `07 PEC - [Nombre de tu Proyecto]` *(Morado)*  
-     *(Matutino: Viaje Museo CDMX / Vespertino: Día de Muertos)*
+   * 🟣 `07 Inglés I` *(Morado)*
+
+> 📌 *Nota: La carpeta del Proyecto PEC se creará y organizará en la Hora 2.*
 
 ---
 
 ### 3. Tabla de Materias en Google Docs *(Tamaño 10)*
 Debajo del dictado, inserta una tabla de **3 columnas por 8 filas**:
 
-| Materia / Proyecto | Carpeta en Google Drive | Color Asignado |
+| Materia | Carpeta en Google Drive | Color Asignado |
 | :--- | :--- | :---: |
 | **Cultura Digital I** | `01 Cultura Digital I` | 🔵 Azul |
 | **Lengua y Comunicación I** | `02 Lengua y Comunicación I` | 🟡 Amarillo |
 | **Pensamiento Matemático I** | `03 Pensamiento Matemático I` | 🔴 Rojo |
 | **Ciencias Sociales I** | `04 Ciencias Sociales I` | 🟢 Verde |
-| **Humanidades I** | `05 Humanidades I` | 🟠 Naranja |
+| **Pensamiento Filosófico I** | `05 Pensamiento Filosófico I` | 🟠 Naranja |
 | **Formación Socioemocional I** | `06 Formación Socioemocional I` | 🌸 Rosa |
-| **Proyecto Escolar (PEC)** | `07 PEC - [Nombre según Turno]` | 🟣 Morado |
+| **Inglés I** | `07 Inglés I` | 🟣 Morado |
 
 ---
 
@@ -66,5 +67,5 @@ Debajo del dictado, inserta una tabla de **3 columnas por 8 filas**:
 
 - [ ] Pestaña **`Semana 07 📁`** creada en Docs.
 - [ ] Dictado con título en **20 (centrado/negrita)** y texto en **14 (justificado)**.
-- [ ] Carpeta `1er Semestre - CEB 5/4` con sus 7 subcarpetas en colores en Drive.
+- [ ] Carpeta `1er Semestre - CEB 5/4` con sus 7 subcarpetas de materias en colores en Drive.
 - [ ] Tabla de 3×8 completa en Docs con texto en **tamaño 10**.

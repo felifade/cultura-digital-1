@@ -4,7 +4,7 @@
 <h2>Inicio: Segundo Dictado en Google Docs</h2>
 </section>
 
-Continúa en la pestaña **`Semana 07 📁`**, debajo de la tabla de materias.
+Continúa en la pestaña **`Semana 07 📁`**, debajo de la tabla de materias de la Hora 1.
 
 > 📐 **Reglas de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | Tablas: **Tamaño 10**
 
@@ -16,11 +16,14 @@ Continúa en la pestaña **`Semana 07 📁`**, debajo de la tabla de materias.
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Subcarpetas, Tabla y Enlace</h2>
+<h2>Desarrollo: Crear Carpeta PEC, Subcarpetas y Enlace</h2>
 </section>
 
-### 1. Subcarpetas del PEC en Google Drive
-Entra a tu Google Drive, abre tu carpeta **`07 PEC`** y crea **3 subcarpetas** según tu turno:
+### 1. Crear Carpeta del PEC y Subcarpetas en Google Drive
+1. En Google Drive, dentro de tu carpeta **`1er Semestre - CEB 5/4`**, crea una nueva carpeta para el proyecto escolar:  
+   📁 **`08 PEC - [Nombre de tu Proyecto]`** *(Asóciale un color distintivo, ej. Morado o Café)*.  
+   *(Matutino: `08 PEC - Viaje Museo CDMX` / Vespertino: `08 PEC - Día de Muertos`)*
+2. Entra a tu carpeta **`08 PEC`** y crea **3 subcarpetas** según tu turno:
 
 * ☀️ **Turno Matutino (Museo Memoria y Tolerancia):**
   1. `1. Ahorro y Presupuesto`
@@ -54,7 +57,7 @@ Debajo del dictado, inserta la tabla de **3 columnas por 4 filas** que correspon
 ---
 
 ### 3. Enlace Seguro de la Carpeta PEC
-1. En Google Drive, clic derecho a la carpeta **`07 PEC`** ➔ **Compartir**.
+1. En Google Drive, clic derecho a la carpeta **`08 PEC`** ➔ **Compartir**.
 2. En **Acceso general**, selecciona: **Cualquiera en DGB con el enlace** en rol **Lector**.
 3. Copia el enlace y pégalo en tu Google Docs debajo de la tabla:  
    **Enlace a mi Carpeta PEC:** `[Pega tu enlace aquí]`
@@ -71,6 +74,6 @@ Debajo del dictado, inserta la tabla de **3 columnas por 4 filas** que correspon
 </section>
 
 - [ ] Dictado 2 con título en **20 (centrado/negrita)** y texto en **14 (justificado)**.
-- [ ] 3 subcarpetas creadas dentro de `07 PEC` en Drive.
+- [ ] Carpeta `08 PEC` creada en Google Drive con sus 3 subcarpetas por turno.
 - [ ] Tabla de archivos PEC de 3×4 en **tamaño 10**.
-- [ ] Enlace de la carpeta PEC pegado en Google Docs en modo **Lector**.
+- [ ] Enlace de la carpeta `08 PEC` pegado en Google Docs en modo **Lector**.
