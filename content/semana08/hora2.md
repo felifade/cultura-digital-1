@@ -70,9 +70,13 @@ Abre tu archivo de Google Sheets (`Presupuesto_Museo_[Nombre]` o `Cotizacion_Alt
 
 ---
 
-### 📊 Ejemplo Visual de Cómo Debe Verse tu Hoja:
+### 📊 Ejemplo Visual en Pantalla según tu Turno:
 
-![Ejemplo Visual - Hoja de Cálculo en Google Sheets](./assets/semana08/semana08_hora03_ejemplo.svg)
+#### ☀️ Turno Matutino (`Presupuesto_Museo_[Nombre]`):
+![Ejemplo Visual Matutino - Google Sheets](./assets/semana08/semana08_matutino_sheets.svg)
+
+#### 🌙 Turno Vespertino (`Cotizacion_Altar_[Nombre]`):
+![Ejemplo Visual Vespertino - Google Sheets](./assets/semana08/semana08_vespertino_sheets.svg)
 
 ---
 

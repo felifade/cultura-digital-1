@@ -1,12 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 740" width="100%" height="100%" style="background:#0f172a; font-family:'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 740" width="100%" height="100%" style="background:#f1f5f9; font-family:'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
   <defs>
     <filter id="notebookShadow" x="-5%" y="-5%" width="110%" height="110%">
-      <feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#000000" flood-opacity="0.4"/>
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.12"/>
     </filter>
-    <linearGradient id="headerGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1e293b"/>
-      <stop offset="100%" stop-color="#0f172a"/>
-    </linearGradient>
     <linearGradient id="pageMatutino" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#ffffff"/>
       <stop offset="100%" stop-color="#f8fafc"/>
@@ -17,12 +13,12 @@
     </linearGradient>
   </defs>
 
-  <!-- Banner Superior -->
-  <rect x="20" y="20" width="1160" height="70" rx="14" fill="url(#headerGrad3)" stroke="#334155" stroke-width="1.5" filter="url(#notebookShadow)"/>
-  <text x="50" y="52" fill="#f59e0b" font-size="14" font-weight="800" letter-spacing="1.5">CEB 5/4 • TRABAJO MANUAL EN LIBRETA FÍSICA</text>
-  <text x="50" y="74" fill="#ffffff" font-size="20" font-weight="800">Resultado Esperado: Hora 3 (Distribución de Página en Libreta según Turno)</text>
-  <rect x="990" y="38" width="160" height="34" rx="8" fill="#f59e0b" fill-opacity="0.2" stroke="#fbbf24" stroke-width="1.5"/>
-  <text x="1070" y="60" fill="#fde68a" font-size="13" font-weight="700" text-anchor="middle">Revisión y Firma ✍️</text>
+  <!-- Banner Superior Limpio y Claro -->
+  <rect x="20" y="20" width="1160" height="65" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" filter="url(#notebookShadow)"/>
+  <text x="50" y="46" fill="#b45309" font-size="12" font-weight="800" letter-spacing="1">CEB 5/4 • TRABAJO EN LIBRETA FÍSICA</text>
+  <text x="50" y="68" fill="#1e293b" font-size="18" font-weight="800">Resultado Esperado: Hora 3 (Distribución de Página en Libreta según Turno)</text>
+  <rect x="990" y="35" width="160" height="34" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
+  <text x="1070" y="57" fill="#b45309" font-size="12" font-weight="700" text-anchor="middle">Revisión y Firma ✍️</text>
 
   <!-- LIBRETA 1: TURNO MATUTINO (Izquierda) -->
   <g transform="translate(20, 110)">
