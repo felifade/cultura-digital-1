@@ -27,7 +27,9 @@ Abre tu archivo de Google Sheets y agrega los cálculos automáticos:
    *(Resta el gasto estimado menos el dinero rescatado)*.
 3. Presiona **Enter**.
 4. Haz clic sobre la celda `D2`, toma el puntito azul de la esquina inferior derecha y **arrástralo hacia abajo hasta la fila 6** para autocompletar.
-5. En la celda **`C7`**, escribe la fórmula: **`=SUMA(C2:C6)`** para calcular el total de ahorro rescatado.
+5. En la celda **`B7`**, escribe: **`=SUMA(B2:B6)`** *(Costo total estimado)*.
+6. En la celda **`C7`**, escribe: **`=SUMA(C2:C6)`** *(Ahorro total rescatado)*.
+7. En la celda **`D7`**, escribe: **`=SUMA(D2:D6)`** *(Saldo pendiente por cubrir)*.
 
 #### 🌙 Turno Vespertino (Cálculo de Costos y Cooperación del Altar):
 1. En la celda **`D1`**, escribe el encabezado: **`Costo Total ($)`**.
@@ -40,6 +42,38 @@ Abre tu archivo de Google Sheets y agrega los cálculos automáticos:
    **`=SUMA(D2:D6)`**
 6. En la celda **`D8`**, calcula la cooperación por integrante (equipo de 5) escribiendo:  
    **`=D7/5`**
+
+---
+
+### 📊 Ejemplo de Cómo Debe Verse la Hoja en Google Sheets:
+
+#### ☀️ Turno Matutino (`Presupuesto_Museo_[Nombre]`):
+| Fila | A (Concepto de Gasto) | B (Costo $) | C (Ahorro $) | D (Saldo $) | Fórmulas que aplicas |
+| :---: | :--- | :---: | :---: | :---: | :--- |
+| **1** | **Concepto de Gasto** | **Costo ($)** | **Ahorro ($)** | **Saldo ($)** | *(Encabezados con fondo de color y negrita)* |
+| **2** | Transporte viaje CDMX | $120.00 | $30.00 | **$90.00** | En D2: `=B2-C2` |
+| **3** | Entrada al Museo | $50.00 | $10.00 | **$40.00** | En D3: `=B3-C3` |
+| **4** | Almuerzo económico | $65.00 | $25.00 | **$40.00** | En D4: `=B4-C4` |
+| **5** | Refrigerio / Agua | $25.00 | $15.00 | **$10.00** | En D5: `=B5-C5` |
+| **6** | Permiso y credencial | $15.00 | $5.00 | **$10.00** | En D6: `=B6-C6` |
+| **7** | **TOTALES:** | **$275.00** | **$85.00** | **$190.00** | En B7: `=SUMA(B2:B6)` \| C7: `=SUMA(C2:C6)` \| D7: `=SUMA(D2:D6)` |
+
+#### 🌙 Turno Vespertino (`Cotizacion_Altar_[Nombre]`):
+| Fila | A (Elemento Tradicional) | B (Cantidad) | C (Precio Unit.) | D (Costo Total) | Fórmulas que aplicas |
+| :---: | :--- | :---: | :---: | :---: | :--- |
+| **1** | **Elemento Tradicional** | **Cantidad** | **Precio Unit. ($)** | **Costo Total ($)** | *(Encabezados con fondo de color y negrita)* |
+| **2** | Flor de Cempasúchil (ramo) | 3 | $35.00 | **$105.00** | En D2: `=B2*C2` |
+| **3** | Veladoras de vaso grandes | 6 | $18.50 | **$111.00** | En D3: `=B3*C3` |
+| **4** | Papel picado tradicional | 10 | $4.00 | **$40.00** | En D4: `=B4*C4` |
+| **5** | Copal e incienso (bolsa) | 2 | $25.00 | **$50.00** | En D5: `=B5*C5` |
+| **6** | Pan de muerto tradicional | 5 | $15.00 | **$75.00** | En D6: `=B6*C6` |
+| **7** | **COSTO TOTAL DEL ALTAR:** | | | **$341.00** | En D7: `=SUMA(D2:D6)` |
+| **8** | **COOPERACIÓN POR ALUMNO (5):** | | | **$68.20** | En D8: `=D7/5` |
+
+---
+
+### 🖼️ Ejemplo Visual en Pantalla:
+![Ejemplo Visual - Hoja de Cálculo en Google Sheets](./assets/semana08/semana08_hora03_ejemplo.svg)
 
 ---
 
