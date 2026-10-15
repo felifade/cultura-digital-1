@@ -9,10 +9,11 @@
 | Hora | Actividad | Espacio de Trabajo | Entregable y Características |
 | :---: | :--- | :---: | :--- |
 | **Hora 1** | **Anatomía de la Hoja de Cálculo y Tipos de Datos** | 💻 Google Docs<br>☁️ Google Drive | • **Google Docs:** Dictado 1 (20/14) y tabla de tipos de datos 3×5 en **tamaño 10**.<br>• **Google Drive:** Archivo de Google Sheets creado en la subcarpeta del PEC. |
-| **Hora 2** | **Captura del Presupuesto y Formato de Moneda** | 📊 Google Sheets<br>💻 Google Docs | • **Google Sheets:** 5 conceptos capturados con formato de moneda (`$`), bordes y encabezados con color.<br>• **Google Docs:** Dictado 2 (20/14) y tabla resumen 3×6 en **tamaño 10**. |
-| **Hora 3** | **Fórmulas Aritméticas y Cálculo Automático** | 📊 Google Sheets<br>💻 Google Docs | • **Google Sheets:** Fórmulas con celdas (`*`, `-`), función `=SUMA(...)` y cálculo de cooperación o saldo.<br>• **Google Docs:** Enlace a la hoja de cálculo pegado en modo **Lector**. |
+| **Hora 2** | **Presupuesto PEC, Fórmulas y Enlace Compartido** | 📊 Google Sheets<br>💻 Google Docs | • **Google Sheets:** Presupuesto con formato de moneda (`$`), bordes, fórmulas de cálculo (`*`, `-`) y función `=SUMA(...)`.<br>• **Google Docs:** Dictado 2 (20/14), tabla resumen 3×6 en **tamaño 10** y **enlace compartido de Sheets en modo Lector**. |
+| **Hora 3** | **El Gran Desafío Kahoot y Nivelación de Portafolios** | 🎮 Kahoot / Blooket<br>💻 Taller de Apoyo | • **Participación:** Juego interactivo de 20 preguntas (Semanas 06, 07 y 08) con décimas extras en participación al podio.<br>• **Nivelación:** Tiempo de taller para asesoría y regularización de alumnos con dudas o inasistencias. |
 
 ---
 
-> 📌 **Modo de Entrega:**  
-> Todo el trabajo de las 3 sesiones se entrega en la pestaña **`Semana 08 📊`** de tu documento en Google Docs / Classroom, incluyendo el enlace a tu archivo de Google Sheets.
+> 📌 **Modo de Entrega y Flexibilidad:**  
+> El producto obligatorio y evaluable de la semana queda **completado y entregado al finalizar la Hora 2** en la pestaña **`Semana 08 📊`** de Google Docs.  
+> La **Hora 3** actúa como sesión de enriquecimiento lúdico y nivelación; en caso de suspensión de labores por calendario oficial, los grupos no sufren afectación ni rezago en su evaluación.
