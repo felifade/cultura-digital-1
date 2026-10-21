@@ -25,18 +25,18 @@ Continúa en la misma pestaña **`Semana 09 📊`**, debajo de la tabla anterior
 
 ---
 
-### 2. Capturar Datos y Aplicar Fórmulas
+### 2. Capturar Datos de Typing.com y Aplicar Fórmulas
 
-Crea la siguiente tabla con tus 5 intentos de velocidad:
+Crea la siguiente tabla con los resultados que obtuviste en tus 5 rondas:
 
-| Fila | A (Ronda) | B (Velocidad WPM) | C (Precisión %) | D (Errores) | Fórmulas que aplicas |
+| Fila | A (Ronda y Duración) | B (Velocidad WPM) | C (Precisión %) | D (Errores) | Fórmulas que aplicas |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| **1** | **Ronda de Prueba** | **Velocidad (WPM)** | **Precisión (%)** | **Errores** | *(Encabezados con fondo de color y negrita)* |
-| **2** | Ronda 1 | 32 | 94% | 3 | Datos de tu intento 1 |
-| **3** | Ronda 2 | 38 | 96% | 2 | Datos de tu intento 2 |
-| **4** | Ronda 3 | 41 | 95% | 2 | Datos de tu intento 3 |
-| **5** | Ronda 4 | 35 | 92% | 4 | Datos de tu intento 4 |
-| **6** | Ronda 5 | 44 | 98% | 1 | Datos de tu intento 5 |
+| **1** | **Ronda de Prueba (Typing.com)** | **Velocidad (WPM)** | **Precisión (%)** | **Errores** | *(Encabezados con fondo de color y negrita)* |
+| **2** | Ronda 1 (Test 1 min) | 32 | 94% | 3 | Tus datos de la prueba de 1 minuto |
+| **3** | Ronda 2 (Test 1 min) | 38 | 96% | 2 | Tus datos del 2º intento de 1 minuto |
+| **4** | Ronda 3 (Test 3 min) | 41 | 95% | 2 | Tus datos de la prueba de 3 minutos |
+| **5** | Ronda 4 (Test 3 min) | 35 | 92% | 4 | Tus datos del 2º intento de 3 minutos |
+| **6** | Ronda 5 (Test 5 min) | 44 | 98% | 1 | Tus datos del reto final de 5 minutos |
 | **7** | **MÁXIMO (Récord):** | **44** | | | En B7: **`=MAX(B2:B6)`** |
 | **8** | **MÍNIMO (Más baja):** | **32** | | | En B8: **`=MIN(B2:B6)`** |
 | **9** | **PROMEDIO REAL:** | **38.0** | | | En B9: **`=PROMEDIO(B2:B6)`** |

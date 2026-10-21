@@ -14,28 +14,41 @@ Abre tu documento **«Portafolio Digital - Segundo Parcial»** en Google Docs, a
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: El Reto y la Tabla Ordenada (3 Pasos)</h2>
+<h2>Desarrollo: El Reto Progresivo en Typing.com (3 Pasos)</h2>
 </section>
 
 ### 1. Escribir el Dictado
-Copia el dictado anterior en tu pestaña **`Semana 09 📊`** aplicando con exactitud los tamaños de letra. Al terminar, localiza las 5 palabras clave y aplica **<u>Negrita + Subrayado</u>** y su emoji correspondiente.
+Copia el texto anterior en tu pestaña **`Semana 09 📊`**. Localiza las 5 palabras clave, aplica **<u>Negrita + Subrayado</u>** e inserta su emoji enfrente.
 
-### 2. El Reto de Velocidad en Vivo
-1. Abre una nueva pestaña en tu navegador y entra a: 👉 **[Monkeytype.com](https://monkeytype.com/)**.
-2. Verifica que el idioma esté configurado en **Español** *(icono de globo terráqueo o presiona `Esc` y escribe `language spanish`)*.
-3. Realiza **3 intentos** de 30 o 60 segundos.
-4. Toma una captura de pantalla de tu mejor resultado usando el atajo:  
-   * En Windows: **`Tecla Windows + Shift + S`**  
-   * En Mac: **`Cmd + Shift + 4`**
+---
+
+### 2. El Reto Progresivo de 5 Rondas en Typing.com
+Entra directamente al portal en español (no requiere crear cuenta ni configurar idioma):  
+👉 **[Typing.com - Pruebas de Mecanografía en Español](https://www.typing.com/es/student/tests)**
+
+Realiza las siguientes **5 rondas progresivas** y anota tus resultados (WPM, Precisión y Errores):
+
+* 🟢 **Ronda 1:** Selecciona **«Prueba de 1 minuto»** *(Calentamiento de dedos)*.
+* 🟢 **Ronda 2:** Selecciona **«Prueba de 1 minuto»** *(Intento a máxima velocidad para romper tu marca)*.
+* 🟡 **Ronda 3:** Selecciona **«Prueba de 3 minutos»** *(Prueba de ritmo constante)*.
+* 🟡 **Ronda 4:** Selecciona **«Prueba de 3 minutos»** *(Enfócate en no cometer errores de precisión)*.
+* 🔴 **Ronda 5:** Selecciona **«Prueba de 5 minutos»** *(El Gran Desafío de resistencia y concentración)*.
+
+> 📸 **Captura tu Mejor Ronda:**  
+> Al finalizar tu mejor prueba (cuando aparezca la pantalla con tus estrellas, WPM y precisión), toma una captura con:  
+> * Windows: **`Tecla Windows + Shift + S`**  
+> * Mac: **`Cmd + Shift + 4`**
+
+---
 
 ### 3. Insertar la Tabla de Evidencia en Docs
-Para evitar que la imagen quede desordenada o mueva el texto, inserta debajo del dictado una tabla de **2 columnas por 1 fila**:
+Debajo de tu dictado, inserta una tabla de **2 columnas por 1 fila**:
 
 | Mis Resultados Escritos *(Tamaño 10)* | Captura de Pantalla Recortada |
 | :--- | :---: |
-| • **Ronda:** Mejor intento<br>• **Velocidad:** _____ WPM<br>• **Precisión:** _____%<br>• **Errores:** _____ | *(Haz clic aquí adentro y presiona `Ctrl + V` para pegar tu captura)* |
+| • **Ronda Destacada:** Mejor intento<br>• **Tipo de Prueba:** (1, 3 o 5 min)<br>• **Velocidad:** _____ WPM<br>• **Precisión:** _____%<br>• **Errores:** _____ | *(Haz clic aquí adentro y presiona `Ctrl + V` para pegar tu captura)* |
 
-> 📌 *Todo el texto escrito dentro de la columna izquierda debe ir en **Tamaño 10**.*
+> 📌 *Guarda tus datos de las 5 rondas en un borrador; los utilizaremos en la siguiente hora para construir tu hoja de estadísticas.*
 
 ---
 
@@ -46,4 +59,5 @@ Para evitar que la imagen quede desordenada o mueva el texto, inserta debajo del
 - [ ] Pestaña **`Semana 09 📊`** creada en el Portafolio Digital de Google Docs.
 - [ ] Dictado 1 con título en **20 (centrado/negrita)** y texto en **14 (justificado)**.
 - [ ] 5 palabras clave identificadas con **<u>Negrita + Subrayado</u>** y su emoji enfrente.
+- [ ] Las 5 rondas completadas en Typing.com (dos de 1 min, dos de 3 min y una de 5 min).
 - [ ] Tabla de 2×1 insertada con resultados en **tamaño 10** y captura de pantalla pegada adentro.
