@@ -50,3 +50,20 @@ El torneo evaluará tus conocimientos en 3 bloques fundamentales:
    * Espacio de asesoría personalizada con el profesor para estudiantes que hayan faltado o tengan dudas pendientes en la captura de su hoja de cálculo o en el registro de Google Docs.
 3. **Flexibilidad Institucional:**  
    * *Recuerda que la entrega formal evaluable de la semana quedó completada al 100% en la Hora 2. Si algún grupo pierde esta tercera sesión por suspensión oficial de calendario, no sufre rezago ni afectación en su calificación.*
+
+---
+
+<div style="background:#fffbeb; border:2px solid #f59e0b; border-left:8px solid #d97706; padding:18px 22px; border-radius:10px; margin:25px 0;">
+  <h2 style="color:#b45309; margin-top:0; font-size:20px; font-weight:800;">☀️ AVISO OBLIGATORIO: SOLO TURNO MATUTINO</h2>
+  <h3 style="color:#92400e; margin:6px 0 12px 0; font-size:16px; font-weight:700;">📦 Entrega Física del Proyecto PEC Impreso (Para la Semana 09)</h3>
+  <p style="color:#78350f; font-size:14px; line-height:1.6; margin:0 0 10px 0;">
+    Para la siguiente semana (Semana 09), cada equipo del turno matutino debe entregar en físico y engrapado el expediente impreso de su proyecto:
+  </p>
+  <ul style="color:#78350f; font-size:14px; line-height:1.7; margin:0 0 12px 0; padding-left:20px;">
+    <li>📄 <strong>Hoja de la Semana 06:</strong> Ficha técnica del proyecto PEC y tabla de control de ahorro / gastos hormiga impresa.</li>
+    <li>📊 <strong>Hoja de Cálculo de la Semana 08:</strong> El presupuesto de gastos del viaje al Museo CDMX (con fórmulas y formato de moneda), <strong>impreso de forma individual por cada alumno</strong> pero recopilado y <strong>entregado junto en un solo paquete por equipo</strong>.</li>
+  </ul>
+  <p style="color:#b45309; font-weight:800; font-size:14px; margin:0;">
+    ⚠️ NOTA IMPORTANTE: Esta entrega física aplica ÚNICAMENTE para los grupos del Turno Matutino.
+  </p>
+</div>

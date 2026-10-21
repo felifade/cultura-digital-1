@@ -1,5 +1,20 @@
 # Hora 1: Dictado, Reto de Velocidad y Captura en Tabla
 
+<div style="background:#fffbeb; border:2px solid #f59e0b; border-left:8px solid #d97706; padding:18px 22px; border-radius:10px; margin:20px 0 25px 0;">
+  <h2 style="color:#b45309; margin-top:0; font-size:20px; font-weight:800;">☀️ RECORDATORIO IMPORTANTE: SOLO TURNO MATUTINO</h2>
+  <h3 style="color:#92400e; margin:6px 0 12px 0; font-size:16px; font-weight:700;">📦 Recepción del Proyecto PEC Impreso (Entrega por Equipos)</h3>
+  <p style="color:#78350f; font-size:14px; line-height:1.6; margin:0 0 10px 0;">
+    Hoy se entrega en físico y engrapado el expediente impreso del PEC por equipo:
+  </p>
+  <ul style="color:#78350f; font-size:14px; line-height:1.7; margin:0 0 12px 0; padding-left:20px;">
+    <li>📄 <strong>Hoja de la Semana 06:</strong> Ficha técnica del proyecto PEC y tabla de control de ahorro / gastos hormiga impresa.</li>
+    <li>📊 <strong>Hoja de Cálculo de la Semana 08:</strong> El presupuesto de gastos del viaje al Museo CDMX (con fórmulas y formato de moneda), <strong>impreso de forma individual por cada alumno</strong> pero engrapado y <strong>entregado junto en un solo paquete por equipo</strong>.</li>
+  </ul>
+  <p style="color:#b45309; font-weight:800; font-size:14px; margin:0;">
+    ⚠️ NOTA IMPORTANTE: Esta entrega física aplica ÚNICAMENTE para los grupos del Turno Matutino.
+  </p>
+</div>
+
 <section class="momento momento-inicio">
 <h2>Inicio: Dictado en Google Docs</h2>
 </section>
