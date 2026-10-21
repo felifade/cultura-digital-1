@@ -34,21 +34,23 @@ Realiza las siguientes **5 rondas progresivas** y anota tus resultados (WPM, Pre
 * 🟡 **Ronda 4:** Selecciona **«Prueba de 3 minutos»** *(Enfócate en no cometer errores de precisión)*.
 * 🔴 **Ronda 5:** Selecciona **«Prueba de 5 minutos»** *(El Gran Desafío de resistencia y concentración)*.
 
-> 📸 **Captura tu Mejor Ronda:**  
-> Al finalizar tu mejor prueba (cuando aparezca la pantalla con tus estrellas, WPM y precisión), toma una captura con:  
+> 📸 **Captura tus 5 Intentos:**  
+> Al finalizar cada prueba (cuando aparezca la pantalla con tus estrellas, WPM y precisión), toma una captura recortada con:  
 > * Windows: **`Tecla Windows + Shift + S`**  
 > * Mac: **`Cmd + Shift + 4`**
 
 ---
 
-### 3. Insertar la Tabla de Evidencia en Docs
-Debajo de tu dictado, inserta una tabla de **2 columnas por 1 fila**:
+### 3. Insertar la Tabla de Evidencias 2×3 en Docs
+Debajo de tu dictado, inserta una tabla de **2 columnas por 3 filas (2×3)** para organizar limpiamente tus 5 capturas y tu resumen final:
 
-| Mis Resultados Escritos *(Tamaño 10)* | Captura de Pantalla Recortada |
-| :--- | :---: |
-| • **Ronda Destacada:** Mejor intento<br>• **Tipo de Prueba:** (1, 3 o 5 min)<br>• **Velocidad:** _____ WPM<br>• **Precisión:** _____%<br>• **Errores:** _____ | *(Haz clic aquí adentro y presiona `Ctrl + V` para pegar tu captura)* |
+| Columna 1 *(Izquierda)* | Columna 2 *(Derecha)* |
+| :--- | :--- |
+| 🟢 **Ronda 1 (Test 1 min):**<br>*(Pega aquí adentro la captura de la Ronda 1)* | 🟢 **Ronda 2 (Test 1 min):**<br>*(Pega aquí adentro la captura de la Ronda 2)* |
+| 🟡 **Ronda 3 (Test 3 min):**<br>*(Pega aquí adentro la captura de la Ronda 3)* | 🟡 **Ronda 4 (Test 3 min):**<br>*(Pega aquí adentro la captura de la Ronda 4)* |
+| 🔴 **Ronda 5 (Test 5 min):**<br>*(Pega aquí adentro la captura de la Ronda 5)* | 🏆 **Resumen General *(Tamaño 10)*:**<br>• **Récord Máximo:** _____ WPM<br>• **Mejor Precisión:** _____%<br>• **Menor Error:** _____ errores |
 
-> 📌 *Guarda tus datos de las 5 rondas en un borrador; los utilizaremos en la siguiente hora para construir tu hoja de estadísticas.*
+> 📌 *Al pegar cada captura dentro de su celda correspondiente, Google Docs ajusta el tamaño en automático evitando que las imágenes se desborden.*
 
 ---
 
@@ -60,4 +62,4 @@ Debajo de tu dictado, inserta una tabla de **2 columnas por 1 fila**:
 - [ ] Dictado 1 con título en **20 (centrado/negrita)** y texto en **14 (justificado)**.
 - [ ] 5 palabras clave identificadas con **<u>Negrita + Subrayado</u>** y su emoji enfrente.
 - [ ] Las 5 rondas completadas en Typing.com (dos de 1 min, dos de 3 min y una de 5 min).
-- [ ] Tabla de 2×1 insertada con resultados en **tamaño 10** y captura de pantalla pegada adentro.
+- [ ] Tabla de **2×3** insertada con las 5 capturas pegadas en su celda y el resumen en **tamaño 10**.

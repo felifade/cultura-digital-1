@@ -8,7 +8,7 @@
 
 | Hora | Actividad | Espacio de Trabajo | Entregable y Características |
 | :---: | :--- | :---: | :--- |
-| **Hora 1** | **Dictado 1, Reto de Velocidad y Captura en Tabla** | 💻 Google Docs<br>⚡ Monkeytype | • **Google Docs:** Dictado 1 (20/14) con 5 palabras intervenidas.<br>• **Tabla 2×1:** Datos escritos en tamaño 10 y captura de pantalla pegada adentro. |
+| **Hora 1** | **Dictado 1, Reto de Velocidad y Captura en Tabla** | 💻 Google Docs<br>⚡ Typing.com | • **Google Docs:** Dictado 1 (20/14) con 5 palabras intervenidas.<br>• **Tabla 2×3:** 5 capturas de pantalla pegadas en sus celdas correspondientes y tarjeta de resumen en **tamaño 10**. |
 | **Hora 2** | **Estadísticas Oficiales en Google Sheets** | 📊 Google Sheets<br>💻 Google Classroom | • **Google Docs:** Dictado 2 (20/14) con 5 palabras intervenidas.<br>• **Google Sheets:** Hoja `Metricas_Velocidad_[Nombre]` con 5 rondas, porcentaje (`%`), bordes y 4 fórmulas oficiales (`MAX`, `MIN`, `PROMEDIO`, resta).<br>• **Google Classroom:** Archivo adjunto directamente desde Google Drive. |
 | **Hora 3** | **Dictado 3, Gran Kahoot y Colchón de Nivelación** | 💻 Google Docs<br>🎮 Kahoot.it | • **Google Docs:** Dictado 3 (20/14) con 5 palabras intervenidas.<br>• **Kahoot:** Participación interactiva en el reto de 20 preguntas (décimas extras al podio).<br>• **Taller:** Espacio de regularización y apoyo a rezagados. |
 
