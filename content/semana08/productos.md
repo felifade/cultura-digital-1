@@ -10,7 +10,7 @@
 | :---: | :--- | :---: | :--- |
 | **Hora 1** | **Anatomía de la Hoja de Cálculo y Tipos de Datos** | 💻 Google Docs<br>☁️ Google Drive | • **Google Docs:** Dictado 1 (20/14) y tabla de tipos de datos 3×5 en **tamaño 10**.<br>• **Google Drive:** Archivo de Google Sheets creado en la subcarpeta del PEC. |
 | **Hora 2** | **Presupuesto PEC, Fórmulas y Enlace Compartido** | 📊 Google Sheets<br>💻 Google Docs | • **Google Sheets:** Presupuesto con formato de moneda (`$`), bordes, fórmulas de cálculo (`*`, `-`) y función `=SUMA(...)`.<br>• **Google Docs:** Dictado 2 (20/14), tabla resumen 3×6 en **tamaño 10** y **enlace compartido de Sheets en modo Lector**. |
-| **Hora 3** | **El Gran Desafío Kahoot y Nivelación de Portafolios** | 🎮 Kahoot / Blooket<br>💻 Taller de Apoyo | • **Participación:** Juego interactivo de 20 preguntas (Semanas 06, 07 y 08) con décimas extras en participación al podio.<br>• **Nivelación:** Tiempo de taller para asesoría y regularización de alumnos con dudas o inasistencias. |
+| **Hora 3** | **Dictado 3, Gran Desafío Kahoot y Nivelación** | 💻 Google Docs<br>🎮 Kahoot / Blooket | • **Google Docs:** Dictado 3 (20/14) con 5 palabras intervenidas.<br>• **Participación:** Juego interactivo de 20 preguntas (Semanas 06, 07 y 08) con décimas extras en participación al podio.<br>• **Nivelación:** Tiempo de taller para asesoría y regularización de alumnos con dudas o inasistencias. |
 
 ---
 

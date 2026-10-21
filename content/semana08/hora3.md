@@ -1,21 +1,15 @@
-# Hora 3: El Gran Desafío Kahoot de Cultura Digital (Semanas 06 a 08)
+# Hora 3: Dictado, El Gran Desafío Kahoot y Nivelación
 
 <section class="momento momento-inicio">
-<h2>Inicio: Introducción y Reglas del Torneo 🎮</h2>
+<h2>Inicio: Tercer Dictado en Google Docs</h2>
 </section>
 
-Hoy cerramos la semana con una competencia interactiva en vivo para repasar y consolidar todo lo aprendido durante el Segundo Parcial:
-* **Semana 06:** Google Docs avanzado, formato institucional y portafolio digital.
-* **Semana 07:** Google Drive, la "Mochila Digital" y las 3 subcarpetas del proyecto PEC.
-* **Semana 08:** Google Sheets, anatomía de celdas, formato financiero y fórmulas automáticas.
+Continúa en la misma pestaña **`Semana 08 📊`**, debajo de la sección de la Hora 2.
 
-### 📋 Reglas de Participación:
-1. **Modalidad:** Puedes jugar de forma individual o en parejas con la computadora del laboratorio o desde tu teléfono móvil.
-2. **Identificación:** Es obligatorio ingresar con tu **Nombre y Apellido real** para validar tu participación en la lista de asistencia.
-3. **Tiempo y Precisión:** Cada pregunta otorga puntos por responder correctamente y por la velocidad de respuesta (20 a 30 segundos por reactivo).
+> 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
 
-> 🏆 **Premiación al Esfuerzo:**  
-> Los 3 primeros lugares del **Podio de Honor** obtendrán **décimas adicionales directas** sobre su calificación de participación del Segundo Parcial.
+> ### El Valor de las Fórmulas y la Gamificación
+> *"Aprender a usar hojas de cálculo nos enseña que la **<u>automatización</u>** ⚙️ ahorra tiempo y evita errores humanos al calcular presupuestos. Las **<u>fórmulas</u>** 🔢 transforman simples listas en modelos financieros interactivos. Al evaluar nuestro avance mediante la **<u>gamificación</u>** 🎮, reforzamos el **<u>conocimiento</u>** 🧠 adquirido en clase y demostramos nuestra **<u>destreza</u>** 🚀 para resolver problemas digitales reales."*
 
 ---
 
@@ -23,16 +17,19 @@ Hoy cerramos la semana con una competencia interactiva en vivo para repasar y co
 <h2>Desarrollo: ¡A Jugar! Enlace y Conexión en Vivo 🚀</h2>
 </section>
 
-Sigue las indicaciones del profesor para conectarte a la sala de juego:
+Hoy cerramos la semana con una competencia interactiva en vivo para repasar y consolidar todo lo aprendido durante el Segundo Parcial:
+* **Semana 06:** Google Docs avanzado, formato institucional y portafolio digital.
+* **Semana 07:** Google Drive, la "Mochila Digital" y las 3 subcarpetas del proyecto PEC.
+* **Semana 08:** Google Sheets, anatomía de celdas, formato financiero y fórmulas automáticas.
 
-### 1. Entrar a la Plataforma Kahoot
-Haz clic en el siguiente enlace o ingresa desde tu navegador:
+### 🕹️ Pasos para Conectarte a la Partida:
+1. Abre tu navegador y entra a: 👉 **[Entrar a Kahoot.it](https://kahoot.it)**
+2. En la pantalla, escribe el **PIN de 6 dígitos** que el profesor proyectará al frente del aula.
+3. Ingresa tu **Nombre y Apellido real** para registrar tu participación.
+4. ¡Responde con rapidez y precisión para subir al podio!
 
-> 👉 **[Entrar a Kahoot.it](https://kahoot.it)**
-
-### 2. Ingresar el PIN de la Partida
-* En la pantalla del juego, escribe el **PIN de 6 dígitos** que el profesor tiene proyectado al frente del aula.
-* Escribe tu nombre de jugador y espera a que comience la cuenta regresiva.
+> 🏆 **Premiación al Esfuerzo:**  
+> Los 3 primeros lugares del **Podio de Honor** obtendrán **décimas adicionales directas** sobre su calificación de participación del Segundo Parcial.
 
 ---
 
