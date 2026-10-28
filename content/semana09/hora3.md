@@ -1,4 +1,4 @@
-# Hora 3: Dictado, Gran Kahoot de la Semana y Colchón de Nivelación
+# Hora 3: Dictado, Taller de Cierre y Nivelación de Evidencias
 
 <section class="momento momento-inicio">
 <h2>Inicio: Tercer Dictado en Google Docs</h2>
@@ -8,34 +8,47 @@ Continúa en la misma pestaña **`Semana 09 📊`**, debajo de la sección de la
 
 > 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
 
-> ### Gamificación y Evaluación Formativa
-> *"Aprender a través del **<u>juego</u>** 🎮 activa la memoria y refuerza el conocimiento sin la presión de un examen tradicional. La evaluación formativa nos permite medir nuestro **<u>aprendizaje</u>** 📚 al instante, identificar **<u>errores</u>** 🔍 comunes y celebrar el progreso del grupo. La sana **<u>competencia</u>** 🏆 motiva a superarnos y fortalece el trabajo en **<u>equipo</u>** 🤝."*
+> ### Consolidación y Hábitos de Estudio Digital
+> *"Mantener al corriente nuestras **<u>evidencias</u>** 📁 escolares es un hábito que garantiza nuestro **<u>aprendizaje</u>** 📚 y reduce el estrés al final del parcial. Dedicar tiempo a corregir **<u>detalles</u>** 🔍 y pulir nuestro portafolio digital fortalece la **<u>autonomía</u>** 💡 del estudiante y nos prepara con seguridad para la **<u>evaluación</u>** 🎯 sumativa."*
 
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: ¡A Jugar el Kahoot de la Semana! 🚀</h2>
+<h2>Desarrollo: Sesión Amortiguadora y Nivelación Escolar 🛠️</h2>
 </section>
 
-Hoy ponemos a prueba lo aprendido en la semana sobre métricas de velocidad, atajos de formato en Docs y las fórmulas estadísticas en Google Sheets (`MAX`, `MIN` y `PROMEDIO`).
+Debido a las suspensiones oficiales de calendario escolar y para garantizar que todos los grupos avancen de manera equitativa y con calma, **el Gran Desafío Kahoot se traslada a la Semana 10** como actividad de repaso y acumulación de décimas previa al examen.
 
-### 🕹️ Pasos para Conectarte a la Partida:
-1. Abre una pestaña en tu navegador y entra a: 👉 **[kahoot.it](https://kahoot.it)**
-2. Escribe el **PIN de 6 dígitos** que el profesor proyectará al frente del aula.
-3. Ingresa tu **Nombre y Apellido real** para registrar tu participación.
-4. ¡Responde con rapidez y precisión para subir al podio!
+Esta tercera sesión se destina al **Taller de Cierre y Verificación de Evidencias**:
 
-> 🏆 **Recompensa por Participación:**  
-> Los 3 primeros lugares del podio ganarán **décimas adicionales directas** en su calificación de participación del Segundo Parcial.
+### 1. Conclusión del Reto en Typing.com y Tabla 2×3 (Hora 1)
+* Verifica haber completado las 5 rondas progresivas en Typing.com.
+* Revisa que las 5 capturas recortadas estén insertadas dentro de su celda en la tabla de **2×3** en Docs, y que tu resumen de récord (WPM, precisión y errores) esté completo en **tamaño 10**.
+
+---
+
+### 2. Verificación de la Hoja de Métricas en Sheets (Hora 2)
+* Asegúrate de que tu hoja **`Metricas_Velocidad_[TuNombre]`** contenga:
+  - Las 4 fórmulas oficiales: **`=MAX()`**, **`=MIN()`**, **`=PROMEDIO()`** y la resta de margen de mejora.
+  - La columna de precisión con formato de porcentaje (**`%`**).
+  - Bordes completos y encabezados coloreados.
+* Confirma que el archivo esté **adjuntado directamente en la tarea de Google Classroom**.
+
+---
+
+### 3. Auditoría Rápida del Portafolio Digital (Docs)
+Revisa que tu documento «Portafolio Digital - Segundo Parcial» cuente con sus pestañas al corriente:
+* 📄 **Semana 06:** Formato formal (20/14/10) y tabla de control del PEC.
+* 📁 **Semana 07:** Mochila digital y tabla de carpetas en Google Drive.
+* 📊 **Semana 08:** Dictados y tabla resumen del presupuesto PEC.
+* 📊 **Semana 09:** Dictados 1, 2 y 3, más la tabla de evidencias 2×3.
 
 ---
 
 <section class="momento momento-cierre">
-<h2>Cierre: Podio y Taller de Nivelación Escolar ✍️</h2>
+<h2>Cierre: Checklist de Tranquilidad Curricular ✍️</h2>
 </section>
 
-1. **Celebración y Registro:** Revelación del podio final y registro de décimas ganadas.
-2. **Taller de Nivelación (Últimos 15 a 20 minutos):**  
-   * Espacio de apoyo para que cualquier alumno que haya faltado o tenga dudas termine de adjuntar su hoja de cálculo o su portafolio con asesoría directa del profesor.
-3. **Flexibilidad Institucional y Protección de Calendario:**  
-   * *La entrega evaluable de la semana quedó completada al 100% en la Hora 2. Si algún grupo pierde esta sesión por días festivos o suspensiones oficiales (Día de Muertos), no tiene ninguna penalización en su calificación.*
+1. **Revisión y Visto Bueno:** Asesoría personalizada del docente para resolver dudas o problemas de guardado.
+2. **Protección de Calendario:**  
+   * *La entrega evaluable obligatoria de la semana quedó entregada en la Hora 2. Los grupos que hayan tenido suspensiones oficiales no sufren ningún rezago ni afectación en su calificación.*

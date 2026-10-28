@@ -10,10 +10,10 @@
 | :---: | :--- | :---: | :--- |
 | **Hora 1** | **Dictado 1, Reto de Velocidad y Captura en Tabla** | 💻 Google Docs<br>⚡ Typing.com | • **Google Docs:** Dictado 1 (20/14) con 5 palabras intervenidas.<br>• **Tabla 2×3:** 5 capturas de pantalla pegadas en sus celdas correspondientes y tarjeta de resumen en **tamaño 10**. |
 | **Hora 2** | **Estadísticas Oficiales en Google Sheets** | 📊 Google Sheets<br>💻 Google Classroom | • **Google Docs:** Dictado 2 (20/14) con 5 palabras intervenidas.<br>• **Google Sheets:** Hoja `Metricas_Velocidad_[Nombre]` con 5 rondas, porcentaje (`%`), bordes y 4 fórmulas oficiales (`MAX`, `MIN`, `PROMEDIO`, resta).<br>• **Google Classroom:** Archivo adjunto directamente desde Google Drive. |
-| **Hora 3** | **Dictado 3, Gran Kahoot y Colchón de Nivelación** | 💻 Google Docs<br>🎮 Kahoot.it | • **Google Docs:** Dictado 3 (20/14) con 5 palabras intervenidas.<br>• **Kahoot:** Participación interactiva en el reto de 20 preguntas (décimas extras al podio).<br>• **Taller:** Espacio de regularización y apoyo a rezagados. |
+| **Hora 3** | **Dictado 3, Taller de Cierre y Nivelación de Evidencias** | 💻 Google Docs<br>📁 Portafolio Digital | • **Google Docs:** Dictado 3 (20/14) con 5 palabras intervenidas.<br>• **Taller:** Espacio de regularización, cotejo de evidencias de la semana y colchón curricular *(El Kahoot se traslada a la Semana 10)*. |
 
 ---
 
 > 📌 **Modo de Entrega y Protección de Calendario:**  
 > El producto obligatorio y evaluable de la semana queda **completado y entregado al finalizar la Hora 2** al adjuntar la hoja de cálculo en Google Classroom.  
-> La **Hora 3** actúa como sesión lúdica y colchón de nivelación; en caso de suspensión de labores por calendario oficial (festividades de Día de Muertos), los grupos no sufren afectación ni rezago en su evaluación.
+> La **Hora 3** actúa como colchón de nivelación y consolidación de portafolios; en caso de suspensión de labores por calendario oficial, los grupos no sufren afectación ni rezago en su evaluación.
