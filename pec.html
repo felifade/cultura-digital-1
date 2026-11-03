@@ -1,0 +1,881 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>CEB 5/4 · Cultura Digital I · Aportación PEC Parcial 2</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            /* Paleta Institucional Cultura Digital CEB 5/4 */
+            --ceb-blue: #003366;
+            --ceb-blue-light: #eff6ff;
+            --ceb-navy: #0f2744;
+            --cd-cyan: #0284c7;
+            --cd-cyan-light: #e0f2fe;
+            
+            --bg-page: #f8fafc;
+            --card-bg: #ffffff;
+            --border-subtle: #e2e8f0;
+            --border-strong: #cbd5e1;
+            
+            --text-heading: #0f172a;
+            --text-body: #334155;
+            --text-muted: #64748b;
+            --text-light: #94a3b8;
+            
+            /* Semáforo Académico */
+            --success-text: #065f46;
+            --success-bg: #ecfdf5;
+            --success-border: #a7f3d0;
+            
+            --danger-text: #991b1b;
+            --danger-bg: #fef2f2;
+            --danger-border: #fecaca;
+            
+            --warning-text: #92400e;
+            --warning-bg: #fffbeb;
+            --warning-border: #fde68a;
+
+            --shadow-sm: 0 1px 3px rgba(0, 51, 102, 0.05);
+            --shadow-md: 0 4px 14px rgba(0, 51, 102, 0.08);
+            --shadow-lg: 0 10px 25px rgba(0, 51, 102, 0.1);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        body {
+            background-color: var(--bg-page);
+            color: var(--text-body);
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            min-height: 100vh;
+            padding: 20px 14px 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .layout-wrapper {
+            width: 100%;
+            max-width: 980px;
+        }
+
+        /* CABECERA INSTITUCIONAL */
+        .masthead {
+            background: #ffffff;
+            border: 1px solid var(--border-subtle);
+            border-top: 5px solid var(--ceb-blue);
+            border-radius: 20px;
+            padding: 28px 24px 22px;
+            margin-bottom: 20px;
+            box-shadow: var(--shadow-md);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .top-meta {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            margin-bottom: 12px;
+        }
+
+        .badge-ceb {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: var(--ceb-blue-light);
+            color: var(--ceb-blue);
+            font-size: 12px;
+            font-weight: 700;
+            padding: 5px 14px;
+            border-radius: 30px;
+            letter-spacing: 0.3px;
+        }
+
+        .badge-subject {
+            font-size: 12px;
+            font-weight: 700;
+            color: #0369a1;
+            background: #e0f2fe;
+            padding: 5px 14px;
+            border-radius: 30px;
+            border: 1px solid #bae6fd;
+        }
+
+        .badge-parcial {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: #fef3c7;
+            color: #92400e;
+            font-size: 12px;
+            font-weight: 800;
+            padding: 5px 14px;
+            border-radius: 30px;
+            border: 1px solid #fde68a;
+            letter-spacing: 0.3px;
+        }
+
+        .masthead h1 {
+            font-family: 'Poppins', sans-serif;
+            font-size: 23px;
+            font-weight: 800;
+            color: var(--ceb-navy);
+            line-height: 1.25;
+            margin-bottom: 6px;
+        }
+
+        .masthead .subtitle {
+            font-size: 14px;
+            color: var(--text-muted);
+            line-height: 1.5;
+        }
+
+        .masthead .subtitle strong {
+            color: var(--text-heading);
+        }
+
+        /* CLARIFICACIÓN METODOLÓGICA DEL PEC */
+        .pec-explainer-card {
+            background: #ffffff;
+            border: 1px solid #bfdbfe;
+            border-left: 5px solid var(--cd-cyan);
+            border-radius: 14px;
+            padding: 16px 20px;
+            margin-bottom: 20px;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .pec-explainer-card h3 {
+            font-family: 'Poppins', sans-serif;
+            font-size: 14px;
+            font-weight: 700;
+            color: #0369a1;
+            margin-bottom: 4px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .pec-explainer-card p {
+            font-size: 13px;
+            color: #1e3a8a;
+            line-height: 1.5;
+        }
+
+        /* MATERIAS PARTICIPANTES DEL 2DO PARCIAL */
+        .subjects-section {
+            background: #ffffff;
+            border: 1px solid var(--border-subtle);
+            border-radius: 16px;
+            padding: 18px 20px;
+            margin-bottom: 22px;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .subjects-section-title {
+            font-family: 'Poppins', sans-serif;
+            font-size: 14px;
+            font-weight: 700;
+            color: var(--ceb-navy);
+            margin-bottom: 12px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .subjects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 12px;
+        }
+
+        .subject-box {
+            background: #f8fafc;
+            border: 1px solid var(--border-subtle);
+            border-radius: 12px;
+            padding: 12px 14px;
+            position: relative;
+        }
+
+        .subject-box.active-subject {
+            background: #f0fdf4;
+            border-color: #bbf7d0;
+        }
+
+        .subject-head {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 4px;
+        }
+
+        .subject-title {
+            font-size: 13px;
+            font-weight: 700;
+            color: var(--text-heading);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .status-tag {
+            font-size: 10px;
+            font-weight: 700;
+            padding: 2px 8px;
+            border-radius: 20px;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+
+        .status-tag.done {
+            background: #dcfce7;
+            color: #15803d;
+        }
+
+        .status-tag.pending {
+            background: #f1f5f9;
+            color: var(--text-muted);
+        }
+
+        .subject-teacher {
+            font-size: 11px;
+            color: var(--text-muted);
+            margin-bottom: 4px;
+        }
+
+        .subject-desc {
+            font-size: 11px;
+            color: var(--text-body);
+            line-height: 1.35;
+        }
+
+        /* METRICAS DE RESUMEN */
+        .kpi-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+            gap: 12px;
+            margin-bottom: 22px;
+        }
+
+        .kpi-box {
+            background: #ffffff;
+            border: 1px solid var(--border-subtle);
+            border-radius: 14px;
+            padding: 14px 16px;
+            text-align: left;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .kpi-value {
+            font-family: 'Poppins', sans-serif;
+            font-size: 26px;
+            font-weight: 800;
+            line-height: 1;
+            margin-bottom: 4px;
+        }
+
+        .kpi-label {
+            font-size: 11px;
+            font-weight: 600;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        /* PANEL DE FILTROS Y BÚSQUEDA */
+        .control-panel {
+            background: #ffffff;
+            border: 1px solid var(--border-subtle);
+            border-radius: 18px;
+            padding: 18px 20px;
+            margin-bottom: 24px;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .search-field-wrap {
+            position: relative;
+            margin-bottom: 14px;
+        }
+
+        .search-field-wrap input {
+            width: 100%;
+            background: #f8fafc;
+            border: 1.5px solid var(--border-subtle);
+            border-radius: 12px;
+            padding: 12px 16px 12px 42px;
+            font-size: 14px;
+            color: var(--text-heading);
+            font-weight: 500;
+            outline: none;
+            transition: all 0.2s;
+        }
+
+        .search-field-wrap input:focus {
+            background: #ffffff;
+            border-color: var(--cd-cyan);
+            box-shadow: 0 0 0 4px rgba(2, 132, 199, 0.12);
+        }
+
+        .search-field-wrap .icon-lupa {
+            position: absolute;
+            left: 14px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-light);
+            font-size: 16px;
+            pointer-events: none;
+        }
+
+        .group-nav {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            overflow-x: auto;
+            padding-bottom: 4px;
+            scrollbar-width: none;
+        }
+
+        .group-nav::-webkit-scrollbar {
+            display: none;
+        }
+
+        .group-pill {
+            background: #f1f5f9;
+            border: 1px solid var(--border-subtle);
+            color: var(--text-muted);
+            padding: 8px 16px;
+            border-radius: 30px;
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.15s ease-in-out;
+        }
+
+        .group-pill:hover {
+            background: #e2e8f0;
+            color: var(--text-heading);
+        }
+
+        .group-pill.active {
+            background: var(--ceb-blue);
+            color: #ffffff;
+            border-color: var(--ceb-blue);
+            box-shadow: 0 2px 8px rgba(0, 51, 102, 0.25);
+        }
+
+        .quick-status-filter {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px solid #f1f5f9;
+            font-size: 12px;
+        }
+
+        .status-chip {
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-weight: 600;
+            cursor: pointer;
+            border: 1px solid transparent;
+            background: #f8fafc;
+            color: var(--text-muted);
+        }
+
+        .status-chip.active {
+            background: #e2e8f0;
+            color: var(--text-heading);
+            border-color: var(--border-strong);
+        }
+
+        /* LISTADO DE EQUIPOS EN TARJETAS LIMPIAS */
+        .teams-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 18px;
+        }
+
+        @media (min-width: 768px) {
+            .teams-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        .team-card {
+            background: #ffffff;
+            border: 1px solid var(--border-subtle);
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: var(--shadow-sm);
+            transition: transform 0.2s, box-shadow 0.2s;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .team-card:hover {
+            box-shadow: var(--shadow-md);
+            transform: translateY(-2px);
+        }
+
+        .team-card-header {
+            background: #f8fafc;
+            border-bottom: 1px solid var(--border-subtle);
+            padding: 12px 18px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .team-card-title {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .pill-group-tag {
+            background: var(--ceb-blue);
+            color: #ffffff;
+            font-size: 11px;
+            font-weight: 800;
+            padding: 2px 8px;
+            border-radius: 6px;
+            letter-spacing: 0.5px;
+        }
+
+        .team-card-title h2 {
+            font-family: 'Poppins', sans-serif;
+            font-size: 15px;
+            font-weight: 700;
+            color: var(--ceb-navy);
+        }
+
+        .team-card-count {
+            font-size: 12px;
+            color: var(--text-muted);
+            font-weight: 600;
+        }
+
+        .student-row {
+            padding: 12px 16px;
+            border-bottom: 1px solid #f1f5f9;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+            transition: background 0.15s;
+        }
+
+        .student-row:last-child {
+            border-bottom: none;
+        }
+
+        .student-row:hover {
+            background: #fcfdfe;
+        }
+
+        .student-left {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            min-width: 0;
+            flex: 1;
+        }
+
+        .avatar-initials {
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            background: linear-gradient(135deg, var(--ceb-blue-light) 0%, #e0e7ff 100%);
+            color: var(--ceb-blue);
+            font-family: 'Poppins', sans-serif;
+            font-size: 11px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            border: 1px solid rgba(0, 51, 102, 0.1);
+        }
+
+        .student-meta {
+            min-width: 0;
+        }
+
+        .student-fullname {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--text-heading);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            line-height: 1.3;
+        }
+
+        .student-id {
+            font-size: 11px;
+            color: var(--text-muted);
+            font-weight: 500;
+        }
+
+        .student-right {
+            text-align: right;
+            flex-shrink: 0;
+        }
+
+        .grade-chip {
+            display: inline-block;
+            font-family: 'Poppins', sans-serif;
+            font-size: 13px;
+            font-weight: 700;
+            padding: 3px 10px;
+            border-radius: 8px;
+            line-height: 1.2;
+            border: 1px solid transparent;
+        }
+
+        .grade-chip.success {
+            background: var(--success-bg);
+            color: var(--success-text);
+            border-color: var(--success-border);
+        }
+
+        .grade-chip.danger {
+            background: var(--danger-bg);
+            color: var(--danger-text);
+            border-color: var(--danger-border);
+        }
+
+        .grade-chip.warning {
+            background: var(--warning-bg);
+            color: var(--warning-text);
+            border-color: var(--warning-border);
+        }
+
+        .reason-caption {
+            display: block;
+            font-size: 10px;
+            font-weight: 500;
+            color: var(--text-muted);
+            margin-top: 2px;
+            max-width: 140px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .empty-indicator {
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: 50px 20px;
+            background: #ffffff;
+            border: 2px dashed var(--border-subtle);
+            border-radius: 18px;
+            color: var(--text-muted);
+        }
+
+        .empty-indicator h3 {
+            font-family: 'Poppins', sans-serif;
+            color: var(--text-heading);
+            font-size: 16px;
+            margin-bottom: 6px;
+        }
+
+        /* PIE DE PÁGINA Y AVISO DE PRIVACIDAD */
+        .privacy-box {
+            background: #ffffff;
+            border: 1px solid var(--border-subtle);
+            border-radius: 12px;
+            padding: 14px 18px;
+            margin-top: 25px;
+            font-size: 11px;
+            color: var(--text-muted);
+            line-height: 1.5;
+            text-align: center;
+        }
+
+        .privacy-box strong {
+            color: var(--text-heading);
+        }
+
+        .colophon {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            font-size: 12px;
+            color: var(--text-muted);
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="layout-wrapper">
+        <!-- MASTHEAD INSTITUCIONAL -->
+        <header class="masthead">
+            <div class="top-meta">
+                <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+                    <a href="index.html" style="text-decoration: none; display: inline-flex; align-items: center; gap: 4px; font-size: 11px; font-weight: 700; color: #0284c7; background: #e0f2fe; padding: 4px 10px; border-radius: 6px; border: 1px solid #bae6fd;">
+                        ← Volver a la Plataforma
+                    </a>
+                    <span class="badge-ceb">🏛️ CEB 5/4 "Profr. Rafael Ramírez"</span>
+                    <span class="badge-subject">💻 Cultura Digital I</span>
+                </div>
+                <span class="badge-parcial">📅 SEGUNDO PARCIAL (P2)</span>
+            </div>
+            <h1>Registro de Evaluación PEC · Segundo Parcial (P2)</h1>
+            <p class="subtitle">
+                Turno: <strong>Matutino (Grupos 101 al 106)</strong> &bull; Periodo Evaluado: <strong style="color: #92400e; background: #fef3c7; padding: 2px 8px; border-radius: 6px; border: 1px solid #fde68a;">Segundo Parcial (P2)</strong> &bull; Titular: <strong>Mtro. Felipe López Salazar</strong> &bull; Ciclo: <strong>2026-2027</strong>
+            </p>
+        </header>
+
+        <!-- CLARIFICACIÓN: SÓLO CULTURA DIGITAL I -->
+        <div class="pec-explainer-card">
+            <h3>ℹ️ ¿Cómo funciona esta calificación en el Segundo Parcial (P2)?</h3>
+            <p>
+                La calificación mostrada abajo corresponde <strong>únicamente a la evaluación del Segundo Parcial (P2)</strong> en la materia de <strong>Cultura Digital I</strong> (hasta <strong>2.0 puntos</strong> que se suman en tu evaluación de este parcial). Esta nota es independiente del Primer Parcial y no representa la boleta final del PEC; el promedio colegiado se integrará conforme las demás materias participantes registren sus resultados.
+            </p>
+        </div>
+
+        <!-- MATERIAS PARTICIPANTES DEL SEGUNDO PARCIAL -->
+        <section class="subjects-section">
+            <div class="subjects-section-title">
+                <span>📚 Materias que evalúan el PEC en este 2° Parcial (Turno Matutino)</span>
+                <span style="font-size: 11px; font-weight: 500; color: var(--text-muted);">3 Materias colegiadas</span>
+            </div>
+            <div class="subjects-grid">
+                <div class="subject-box active-subject">
+                    <div class="subject-head">
+                        <span class="subject-title">💻 Cultura Digital I</span>
+                        <span class="status-tag done">✓ Calificado</span>
+                    </div>
+                    <div class="subject-teacher">Docente: Mtro. Felipe López Salazar</div>
+                    <div class="subject-desc">Aportación técnica, escaleta y cortometraje (Máx. 2.0 pts).</div>
+                </div>
+
+                <div class="subject-box">
+                    <div class="subject-head">
+                        <span class="subject-title">📐 Pensamiento Matemático I</span>
+                        <span class="status-tag pending">⏳ Pendiente</span>
+                    </div>
+                    <div class="subject-teacher">Docente: Mtra. Martha María López García</div>
+                    <div class="subject-desc">Presupuestos, costos, proporciones y matemáticas.</div>
+                </div>
+
+                <div class="subject-box">
+                    <div class="subject-head">
+                        <span class="subject-title">🔬 Ciencias Naturales I (CNET)</span>
+                        <span class="status-tag pending">⏳ Pendiente</span>
+                    </div>
+                    <div class="subject-teacher">Docente: Mtra. Grindelia Martínez Flores</div>
+                    <div class="subject-desc">Materiales conscientes, impacto ecológico e informe.</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- KPI METRICS -->
+        <section class="kpi-row">
+            <div class="kpi-box">
+                <div class="kpi-value" style="color: var(--ceb-blue);" id="kpiTotal">--</div>
+                <div class="kpi-label">Alumnos Mostrados</div>
+            </div>
+            <div class="kpi-box">
+                <div class="kpi-value" style="color: var(--success-text);" id="kpiSuccess">--</div>
+                <div class="kpi-label">🟢 2.0 pts Cultura Digital (P2)</div>
+            </div>
+            <div class="kpi-box">
+                <div class="kpi-value" style="color: var(--danger-text);" id="kpiDanger">--</div>
+                <div class="kpi-label">🔴 0.0 pts P2 (Por aclarar)</div>
+            </div>
+            <div class="kpi-box">
+                <div class="kpi-value" style="color: var(--warning-text);" id="kpiWarning">--</div>
+                <div class="kpi-label">🟡 Ajustes P2</div>
+            </div>
+        </section>
+
+        <!-- PANEL DE CONTROL (FILTROS) -->
+        <section class="control-panel">
+            <div class="search-field-wrap">
+                <span class="icon-lupa">🔍</span>
+                <input type="text" id="filterSearch" placeholder="Busca tu apellido, nombre, equipo o 'no entregó'..." autocomplete="off">
+            </div>
+
+            <nav class="group-nav" id="filterGroups">
+                <button class="group-pill active" data-grp="ALL">🌟 Todos los Grupos</button>
+                <button class="group-pill" data-grp="M101">Grupo 101</button>
+                <button class="group-pill" data-grp="M102">Grupo 102</button>
+                <button class="group-pill" data-grp="M103">Grupo 103</button>
+                <button class="group-pill" data-grp="M104">Grupo 104</button>
+                <button class="group-pill" data-grp="M105">Grupo 105</button>
+                <button class="group-pill" data-grp="M106">Grupo 106</button>
+            </nav>
+
+            <div class="quick-status-filter" id="statusFilterBar">
+                <span style="font-weight: 700; color: var(--text-muted); align-self: center;">Ver:</span>
+                <button class="status-chip active" data-status="ALL">Todos</button>
+                <button class="status-chip" data-status="0">Solo 0.0 pts (Aclaraciones)</button>
+                <button class="status-chip" data-status="2">Solo 2.0 pts (Acreditados)</button>
+            </div>
+        </section>
+
+        <!-- CONTENEDOR DE TARJETAS -->
+        <main class="teams-grid" id="teamsDisplay"></main>
+
+        <!-- AVISO DE PRIVACIDAD Y COLOPHON -->
+        <div class="privacy-box">
+            🔒 <strong>Aviso de Privacidad y Consulta Colaborativa:</strong><br>
+            Este tablero tiene un propósito estrictamente pedagógico y formativo para facilitar la coordinación en equipo y resolver dudas de entrega entre compañeros. No se publican CURPs, correos ni datos personales sensibles. Si detectas alguna omisión en tu registro, acércate directamente con el Mtro. Felipe López Salazar en el laboratorio escolar.
+        </div>
+
+        <footer class="colophon">
+            <strong>Centro de Estudios de Bachillerato CEB 5/4 "Profr. Rafael Ramírez"</strong><br>
+            Plataforma de Consulta Escolar · Cultura Digital I &bull; Corte Oficial: 30 de Octubre de 2026
+        </footer>
+    </div>
+
+    <script>
+        const TEAMS_SOURCE = [{"grupo": "M101", "grupo_num": "101", "equipo_id": "EQ-M101-EQUIPO-1", "equipo_nombre": "Equipo 1", "base_score": 2.0, "integrantes": [{"alumno": "ACULTECO TOTO ANGEL MANUEL", "clave_corta": "Lista #001", "iniciales": "AT", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "AQUINO ISLAS LUIS ESTEBAN", "clave_corta": "Lista #002", "iniciales": "AI", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "CAMPOS SANCHEZ ANDREA", "clave_corta": "Lista #003", "iniciales": "CS", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "CASTRO PEREZ SARA FERNANDA", "clave_corta": "Lista #004", "iniciales": "CP", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "CHAVEZ LAMPON NATALY", "clave_corta": "Lista #005", "iniciales": "CL", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M101", "grupo_num": "101", "equipo_id": "EQ-M101-EQUIPO-2", "equipo_nombre": "Equipo 2", "base_score": 2.0, "integrantes": [{"alumno": "CORTES OCADIZ JOSHUA", "clave_corta": "Lista #006", "iniciales": "CO", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "CURIEL ROCHA MARIA CAROLINA", "clave_corta": "Lista #007", "iniciales": "CR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "DE LA ROSA JUAREZ MATIAS", "clave_corta": "Lista #008", "iniciales": "DL", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "DOMINGUEZ SAN AGUSTIN JUDITH YANELI", "clave_corta": "Lista #009", "iniciales": "DS", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "GARCIA BAUTISTA YARETZI SUJEI", "clave_corta": "Lista #010", "iniciales": "GB", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M101", "grupo_num": "101", "equipo_id": "EQ-M101-EQUIPO-3", "equipo_nombre": "Equipo 3", "base_score": 2.0, "integrantes": [{"alumno": "GOMEZ RAMIREZ VICTOR MANUEL", "clave_corta": "Lista #011", "iniciales": "GR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "GUILLERMO VITE YARETZI", "clave_corta": "Lista #012", "iniciales": "GV", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ CORTES CAMILA ALEJANDRA", "clave_corta": "Lista #013", "iniciales": "HC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ ESCALANTE YOSGAR DANIEL", "clave_corta": "Lista #014", "iniciales": "HE", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "HERNANDEZ MEDINA CAMILA JOCELYN", "clave_corta": "Lista #015", "iniciales": "HM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M101", "grupo_num": "101", "equipo_id": "EQ-M101-EQUIPO-4", "equipo_nombre": "Equipo 4", "base_score": 2.0, "integrantes": [{"alumno": "HERNANDEZ MONTER MELISSA", "clave_corta": "Lista #016", "iniciales": "HM", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entregó", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "HERNANDEZ MONTER YULISSA", "clave_corta": "Lista #017", "iniciales": "HM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "ISLAS DE LUCIO SANTIAGO", "clave_corta": "Lista #018", "iniciales": "ID", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entregó", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "JACOBO CEDILLO ROSA ELENA", "clave_corta": "Lista #019", "iniciales": "JC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "JUAREZ VIGUERAS FELIPE KOTHAN", "clave_corta": "Lista #020", "iniciales": "JV", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M101", "grupo_num": "101", "equipo_id": "EQ-M101-EQUIPO-5", "equipo_nombre": "Equipo 5", "base_score": 2.0, "integrantes": [{"alumno": "LANGARICA LOZANO NICOLE", "clave_corta": "Lista #021", "iniciales": "LL", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "MARTINEZ CRUZ DALILA", "clave_corta": "Lista #022", "iniciales": "MC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "MAYORAL REYES MARIAN FERNANDA", "clave_corta": "Lista #023", "iniciales": "MR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "MEDINA CANCHOLA ZAID ISRAEL", "clave_corta": "Lista #037", "iniciales": "MC", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entregó", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "MELENDEZ PEREZ MARCO ANTONIO", "clave_corta": "Lista #024", "iniciales": "MP", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entregó", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "MUNOZ BAUTISTA LUCEYDI YAQUELIN", "clave_corta": "Lista #025", "iniciales": "MB", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M101", "grupo_num": "101", "equipo_id": "EQ-M101-EQUIPO-6", "equipo_nombre": "Equipo 6", "base_score": 2.0, "integrantes": [{"alumno": "OLMEDO CASANOVA MONICA", "clave_corta": "Lista #026", "iniciales": "OC", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entregó", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "REYES BARRAGAN ALEXANDRA", "clave_corta": "Lista #027", "iniciales": "RB", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "RUBIO LUNA MARIA INES", "clave_corta": "Lista #028", "iniciales": "RL", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "SALINAS SOTO CRISTIAN", "clave_corta": "Lista #029", "iniciales": "SS", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "SANCHEZ ESCALANTE ANGEL GAEL", "clave_corta": "Lista #030", "iniciales": "SE", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entregó", "tipo_calif": "ajuste", "badge_type": "danger"}]}, {"grupo": "M101", "grupo_num": "101", "equipo_id": "EQ-M101-EQUIPO-7", "equipo_nombre": "Equipo 7", "base_score": 2.0, "integrantes": [{"alumno": "SOLIS CRUZ MIGUEL ANGEL", "clave_corta": "Lista #031", "iniciales": "SC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entrego a destiempo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "SUAREZ GONZALEZ KAROLINE", "clave_corta": "Lista #032", "iniciales": "SG", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entregó", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "TORICES ESPINOSA XIMENA", "clave_corta": "Lista #033", "iniciales": "TE", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "TORRES MORENO DIEGO", "clave_corta": "Lista #034", "iniciales": "TM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "URENO BELLO MARIA DE LA LUZ CARIDAD", "clave_corta": "Lista #035", "iniciales": "UB", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "VALENCIA RAMIREZ NAOMI JATHZIRY", "clave_corta": "Lista #036", "iniciales": "VR", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entregó", "tipo_calif": "ajuste", "badge_type": "danger"}]}, {"grupo": "M102", "grupo_num": "102", "equipo_id": "EQ-M102-EQUIPO-1", "equipo_nombre": "Equipo 1", "base_score": null, "integrantes": [{"alumno": "ALEJOS HERNANDEZ SAMANTHA NICOLE", "clave_corta": "Lista #001", "iniciales": "AH", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "AVILA GOMEZ PEDRO DE JESUS", "clave_corta": "Lista #002", "iniciales": "AG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "BAEZ RAMIREZ DIANA VERONICA", "clave_corta": "Lista #003", "iniciales": "BR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "BALMACEDA SANCHEZ EMILIANO", "clave_corta": "Lista #004", "iniciales": "BS", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "BAZAN VARGAS ERICK DANIEL", "clave_corta": "Lista #005", "iniciales": "BV", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M102", "grupo_num": "102", "equipo_id": "EQ-M102-EQUIPO-2", "equipo_nombre": "Equipo 2", "base_score": null, "integrantes": [{"alumno": "CERVANTES FLORES JOSELIN", "clave_corta": "Lista #006", "iniciales": "CF", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "COMPARAN MARTINEZ NEYTAN", "clave_corta": "Lista #007", "iniciales": "CM", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "DURAN CRUZ EMILIANO DE JESUS", "clave_corta": "Lista #035", "iniciales": "DC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "FLORES VARGAS VANESSA", "clave_corta": "Lista #008", "iniciales": "FV", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "GARCIA HERNANDEZ DAYANNA", "clave_corta": "Lista #009", "iniciales": "GH", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ ESPINOSA EVANYELIN", "clave_corta": "Lista #010", "iniciales": "HE", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M102", "grupo_num": "102", "equipo_id": "EQ-M102-EQUIPO-3", "equipo_nombre": "Equipo 3", "base_score": null, "integrantes": [{"alumno": "HERNANDEZ GARCIA KEYLA PAULINA", "clave_corta": "Lista #011", "iniciales": "HG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ GAYOSSO BRIZA BELEN", "clave_corta": "Lista #012", "iniciales": "HG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ LUGO ALAN YUDIEL", "clave_corta": "Lista #013", "iniciales": "HL", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "HERNANDEZ MARTINEZ DAIAN BELEN", "clave_corta": "Lista #014", "iniciales": "HM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ ROSALES BRENDA YAQUELIN", "clave_corta": "Lista #015", "iniciales": "HR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M102", "grupo_num": "102", "equipo_id": "EQ-M102-EQUIPO-4", "equipo_nombre": "Equipo 4", "base_score": null, "integrantes": [{"alumno": "ISLAS DE LUCIO EMILIANO", "clave_corta": "Lista #016", "iniciales": "ID", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "LOPEZ GARCIA MARIANA", "clave_corta": "Lista #017", "iniciales": "LG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "LOZANO PEREZ MIA AMBER", "clave_corta": "Lista #018", "iniciales": "LP", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "MARTINEZ CASTRO ALEXA ELIZABETH", "clave_corta": "Lista #019", "iniciales": "MC", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "MARTINEZ GARCIA IVANA ELVIRA", "clave_corta": "Lista #020", "iniciales": "MG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M102", "grupo_num": "102", "equipo_id": "EQ-M102-EQUIPO-5", "equipo_nombre": "Equipo 5", "base_score": null, "integrantes": [{"alumno": "MAYORGA RAMIREZ YOSEF JOSTIN", "clave_corta": "Lista #021", "iniciales": "MR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "MENESES MENDOZA NICOLE", "clave_corta": "Lista #022", "iniciales": "MM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "MILLAN CABRERA MARIA AILYN", "clave_corta": "Lista #023", "iniciales": "MC", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "MUÑOZ SANCHEZ DIEGO ANTONIO", "clave_corta": "Lista #024", "iniciales": "MS", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "OLVERA HERNANDEZ NAOMI SHERLYN", "clave_corta": "Lista #025", "iniciales": "OH", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M102", "grupo_num": "102", "equipo_id": "EQ-M102-EQUIPO-6", "equipo_nombre": "Equipo 6", "base_score": null, "integrantes": [{"alumno": "ORTEGA HERNANDEZ GUILLERMO ROMAN", "clave_corta": "Lista #026", "iniciales": "OH", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "ORTIZ ORDAZ NESTOR ODVAN", "clave_corta": "Lista #027", "iniciales": "OO", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "RAMIREZ HERNANDEZ SAMARA DENNIS", "clave_corta": "Lista #028", "iniciales": "RH", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "RESENDIZ FRANCISCO ADRIAN", "clave_corta": "Lista #029", "iniciales": "RF", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "RIVERA CANALES JOSE ANTONIO", "clave_corta": "Lista #030", "iniciales": "RC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M102", "grupo_num": "102", "equipo_id": "EQ-M102-EQUIPO-7", "equipo_nombre": "Equipo 7", "base_score": null, "integrantes": [{"alumno": "RIVERO GONZALEZ CITLALI GUADALUPE", "clave_corta": "Lista #031", "iniciales": "RG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "SANCHEZ RUBIO JOSE ANGEL", "clave_corta": "Lista #032", "iniciales": "SR", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "VARGAS MARTINEZ DIEGO ERICK", "clave_corta": "Lista #033", "iniciales": "VM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "VEGA MEJIA FERNANDA DANNAE", "clave_corta": "Lista #034", "iniciales": "VM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M103", "grupo_num": "103", "equipo_id": "EQ-M103-EQUIPO-1", "equipo_nombre": "Equipo 1", "base_score": 2.0, "integrantes": [{"alumno": "ACUNA CONTRERAS LUNA SOFIA", "clave_corta": "Lista #001", "iniciales": "AC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "BRINDIS GALLARDO JESUS ALEXIS", "clave_corta": "Lista #002", "iniciales": "BG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "CASTRO CRUZ GABRIELA", "clave_corta": "Lista #003", "iniciales": "CC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "CHAVEZ PALMA XIMENA GUADALUPE", "clave_corta": "Lista #004", "iniciales": "CP", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "COMPARAN MARTINEZ EYTAN", "clave_corta": "Lista #005", "iniciales": "CM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M103", "grupo_num": "103", "equipo_id": "EQ-M103-EQUIPO-2", "equipo_nombre": "Equipo 2", "base_score": 2.0, "integrantes": [{"alumno": "COPCA ORTEGA SOFIA MARISOL", "clave_corta": "Lista #006", "iniciales": "CO", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Calificación grupal", "tipo_calif": "equipo", "badge_type": "success"}, {"alumno": "CRUZ HERNANDEZ HECTOR MIGUEL", "clave_corta": "Lista #007", "iniciales": "CH", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Calificación grupal", "tipo_calif": "equipo", "badge_type": "success"}, {"alumno": "DE LUCIO ESCALANTE RENATA MONSERRAT", "clave_corta": "Lista #008", "iniciales": "DL", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Calificación grupal", "tipo_calif": "equipo", "badge_type": "success"}, {"alumno": "GARCIA HERNANDEZ AXEL FARID", "clave_corta": "Lista #009", "iniciales": "GH", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Calificación grupal", "tipo_calif": "equipo", "badge_type": "success"}, {"alumno": "GARCIA HERNANDEZ FATIMA", "clave_corta": "Lista #010", "iniciales": "GH", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M103", "grupo_num": "103", "equipo_id": "EQ-M103-EQUIPO-3", "equipo_nombre": "Equipo 3", "base_score": 2.0, "integrantes": [{"alumno": "GARCIA LUNA ARI AIDE", "clave_corta": "Lista #011", "iniciales": "GL", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entregó", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "GONZALEZ RESENDIZ JUAN FRANCISCO", "clave_corta": "Lista #012", "iniciales": "GR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "GUTIERREZ HUERTA ARLETH AYELEN", "clave_corta": "Lista #013", "iniciales": "GH", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entrega a Destiempo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ BALTAZAR JULIAN MAURICIO", "clave_corta": "Lista #014", "iniciales": "HB", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ CASTANEDA DANIEL ENOC", "clave_corta": "Lista #015", "iniciales": "HC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "No entregó", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M103", "grupo_num": "103", "equipo_id": "EQ-M103-EQUIPO-4", "equipo_nombre": "Equipo 4", "base_score": 2.0, "integrantes": [{"alumno": "HERNANDEZ GARCIA KEVIN ROBERT", "clave_corta": "Lista #016", "iniciales": "HG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ LUGO ALISON YUSBEYDI", "clave_corta": "Lista #017", "iniciales": "HL", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ ROMERO MAYRA MICHELLE", "clave_corta": "Lista #018", "iniciales": "HR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ SOTO ESTEFANY", "clave_corta": "Lista #019", "iniciales": "HS", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "JIMENEZ MIRANDA HECTOR GABRIEL", "clave_corta": "Lista #020", "iniciales": "JM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M103", "grupo_num": "103", "equipo_id": "EQ-M103-EQUIPO-5", "equipo_nombre": "Equipo 5", "base_score": 2.0, "integrantes": [{"alumno": "JUAREZ MACIAS OMAR ISAI", "clave_corta": "Lista #021", "iniciales": "JM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "MANCILLA ALFARO GERALDINE", "clave_corta": "Lista #022", "iniciales": "MA", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "MEDINA CORONADO SANTIAGO", "clave_corta": "Lista #023", "iniciales": "MC", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "MEJIA MARTINEZ KAMILA ANALY", "clave_corta": "Lista #024", "iniciales": "MM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "PALAFOX SANCHEZ AMYLEE PAOLA", "clave_corta": "Lista #025", "iniciales": "PS", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M103", "grupo_num": "103", "equipo_id": "EQ-M103-EQUIPO-6", "equipo_nombre": "Equipo 6", "base_score": 2.0, "integrantes": [{"alumno": "PENA SANDOVAL FRIDA", "clave_corta": "Lista #026", "iniciales": "PS", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "RAMIREZ ALMANZA CARLOS ALBERTO", "clave_corta": "Lista #027", "iniciales": "RA", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "RAMIREZ BARRERA ISABEL", "clave_corta": "Lista #028", "iniciales": "RB", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "RIVAS GONZALEZ NATHALY LIZZETH", "clave_corta": "Lista #029", "iniciales": "RG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "ROJAS TENORIO ANGEL EMILIO", "clave_corta": "Lista #030", "iniciales": "RT", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M103", "grupo_num": "103", "equipo_id": "EQ-M103-EQUIPO-7", "equipo_nombre": "Equipo 7", "base_score": 2.0, "integrantes": [{"alumno": "SANCHEZ LOPEZ ALAIN GENARO", "clave_corta": "Lista #031", "iniciales": "SL", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "SOLIS MONTERRUBIO STEPHANIE", "clave_corta": "Lista #032", "iniciales": "SM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "SOLIS SEGUNDO JHADE", "clave_corta": "Lista #033", "iniciales": "SS", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "TINOCO BANOS KAMILA", "clave_corta": "Lista #034", "iniciales": "TB", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "VITE ROJAS JESUS EMMANUEL", "clave_corta": "Lista #035", "iniciales": "VR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M104", "grupo_num": "104", "equipo_id": "EQ-M104-EQUIPO-1", "equipo_nombre": "Equipo 1", "base_score": 2.0, "integrantes": [{"alumno": "AGUSTIN HERNANDEZ ERIK", "clave_corta": "Lista #001", "iniciales": "AH", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "NO ENTREGO", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "ALVARADO SANCHEZ HUGO ADRIAN", "clave_corta": "Lista #002", "iniciales": "AS", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "ANGELES CRUZ MARIELA", "clave_corta": "Lista #003", "iniciales": "AC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "ANTONIO RAMIREZ IAN", "clave_corta": "Lista #004", "iniciales": "AR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "BADILLO HERNANDEZ RAFAEL ALEXANDER", "clave_corta": "Lista #005", "iniciales": "BH", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M104", "grupo_num": "104", "equipo_id": "EQ-M104-EQUIPO-2", "equipo_nombre": "Equipo 2", "base_score": 2.0, "integrantes": [{"alumno": "BENITEZ CRUZ DAVID SABINO", "clave_corta": "Lista #006", "iniciales": "BC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entrega a destiempo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "BOLANOS DE PAZ AURORA", "clave_corta": "Lista #007", "iniciales": "BD", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "BOLANOS ISLAS CARLA IRANY", "clave_corta": "Lista #008", "iniciales": "BI", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "CERVANTES FLORES KEVIN ARMANDO", "clave_corta": "Lista #009", "iniciales": "CF", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "CHAPA CARRANZA ASHLY YOLETH", "clave_corta": "Lista #010", "iniciales": "CC", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "NO ENTREGO", "tipo_calif": "ajuste", "badge_type": "danger"}]}, {"grupo": "M104", "grupo_num": "104", "equipo_id": "EQ-M104-EQUIPO-3", "equipo_nombre": "Equipo 3", "base_score": 2.0, "integrantes": [{"alumno": "COTONIETO VAZQUEZ JAIME", "clave_corta": "Lista #011", "iniciales": "CV", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "DAMIAN RIVERA DIEGO", "clave_corta": "Lista #012", "iniciales": "DR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "ELIZARRARAS TERRAZAS DIEGO NAHUM", "clave_corta": "Lista #013", "iniciales": "ET", "calificacion_cd": 1.8, "calificacion_num": 1.8, "motivo": "Entrega a destiempo", "tipo_calif": "ajuste", "badge_type": "warning"}, {"alumno": "ESCALANTE ANGELINO RODRIGO", "clave_corta": "Lista #014", "iniciales": "EA", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "FLORES NAJERA MARIANA", "clave_corta": "Lista #015", "iniciales": "FN", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "NO ENTREGO", "tipo_calif": "ajuste", "badge_type": "danger"}]}, {"grupo": "M104", "grupo_num": "104", "equipo_id": "EQ-M104-EQUIPO-4", "equipo_nombre": "Equipo 4", "base_score": 2.0, "integrantes": [{"alumno": "GARCIA RENDON DULCE NATALIA", "clave_corta": "Lista #016", "iniciales": "GR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "GAYOSSO PEREZ GUSTAVO DANIEL", "clave_corta": "Lista #017", "iniciales": "GP", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "GUERRERO RODRIGUEZ NEIDELYN ANALLETZY", "clave_corta": "Lista #018", "iniciales": "GR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ MONTANO RENATA NATALIA", "clave_corta": "Lista #019", "iniciales": "HM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ SANTIAGO IKER DANIEL", "clave_corta": "Lista #020", "iniciales": "HS", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "NO ENTREGO", "tipo_calif": "ajuste", "badge_type": "danger"}]}, {"grupo": "M104", "grupo_num": "104", "equipo_id": "EQ-M104-EQUIPO-5", "equipo_nombre": "Equipo 5", "base_score": 2.0, "integrantes": [{"alumno": "JUAREZ GALINDO ELISA NOEMI", "clave_corta": "Lista #021", "iniciales": "JG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "LARA IBARRA ESAU", "clave_corta": "Lista #022", "iniciales": "LI", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "LUCIO CASTILLO YAIR", "clave_corta": "Lista #023", "iniciales": "LC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "MANRIQUE HERNANDEZ ALAN IVAN", "clave_corta": "Lista #024", "iniciales": "MH", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "MARTINEZ MENDEZ ALFONSO", "clave_corta": "Lista #025", "iniciales": "MM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M104", "grupo_num": "104", "equipo_id": "EQ-M104-EQUIPO-6", "equipo_nombre": "Equipo 6", "base_score": 2.0, "integrantes": [{"alumno": "MARTINEZ MEZA DIEGO ZAID", "clave_corta": "Lista #026", "iniciales": "MM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "MENDOZA RUELAS BIBAANY NAZARETH", "clave_corta": "Lista #027", "iniciales": "MR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "MERA GONZALEZ JESUS ADRIAN", "clave_corta": "Lista #028", "iniciales": "MG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "PEREZ AVILA DANNA ANGELICA", "clave_corta": "Lista #029", "iniciales": "PA", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "NO ENTREGO", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "PEREZ DOMINGUEZ CARMEN XIMENA", "clave_corta": "Lista #030", "iniciales": "PD", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Calificación grupal", "tipo_calif": "equipo", "badge_type": "success"}]}, {"grupo": "M104", "grupo_num": "104", "equipo_id": "EQ-M104-EQUIPO-7", "equipo_nombre": "Equipo 7", "base_score": 2.0, "integrantes": [{"alumno": "QUIROZ MENDOZA LEONARDO YAZAEL", "clave_corta": "Lista #031", "iniciales": "QM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "RAMIREZ FIGUEROA LESLIE SUGEY", "clave_corta": "Lista #032", "iniciales": "RF", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "ROSALES HERRERA DALIA NATHALY", "clave_corta": "Lista #033", "iniciales": "RH", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "SANCHEZ PEREZ MIGUEL BRANDON", "clave_corta": "Lista #034", "iniciales": "SP", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "NO ENTREGO", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "VAZQUEZ FERNANDEZ CAMILA MONSERRAT", "clave_corta": "Lista #035", "iniciales": "VF", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "NO ENTREGO", "tipo_calif": "ajuste", "badge_type": "danger"}]}, {"grupo": "M105", "grupo_num": "105", "equipo_id": "EQ-M105-EQUIPO-1", "equipo_nombre": "Equipo 1", "base_score": null, "integrantes": [{"alumno": "AVILA FLORES FERNANDA MICHAEL", "clave_corta": "Lista #001", "iniciales": "AF", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "BARRON MARTINEZ AISHA GUADALUPE", "clave_corta": "Lista #002", "iniciales": "BM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "CALVA SALVADOR CRISTIAN", "clave_corta": "Lista #003", "iniciales": "CS", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "CRUZ ENQUEL ZAILY MAILIN", "clave_corta": "Lista #004", "iniciales": "CE", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "DEL VALLE CONTRERAS JESUS EMMANUEL", "clave_corta": "Lista #005", "iniciales": "DV", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M105", "grupo_num": "105", "equipo_id": "EQ-M105-EQUIPO-2", "equipo_nombre": "Equipo 2", "base_score": null, "integrantes": [{"alumno": "DIAZ GONZALEZ ANA MARIELY", "clave_corta": "Lista #006", "iniciales": "DG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "FRANCO LUNA MARIA JOSE", "clave_corta": "Lista #007", "iniciales": "FL", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "GARCIA ALONSO ANDREA NAXIELY", "clave_corta": "Lista #008", "iniciales": "GA", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "GARCIA FLORES DARINA", "clave_corta": "Lista #009", "iniciales": "GF", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "GARCIA GARCIA NAHOMI TSASNAI", "clave_corta": "Lista #010", "iniciales": "GG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M105", "grupo_num": "105", "equipo_id": "EQ-M105-EQUIPO-3", "equipo_nombre": "Equipo 3", "base_score": null, "integrantes": [{"alumno": "GARCIA RAMIREZ ANGEL NICOLAZ", "clave_corta": "Lista #011", "iniciales": "GR", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "GODINEZ GARCIA CHRISTOPHER", "clave_corta": "Lista #012", "iniciales": "GG", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "HIDALGO GONZALEZ MONSERRAT", "clave_corta": "Lista #013", "iniciales": "HG", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "JUAREZ PEREZ DANNA", "clave_corta": "Lista #014", "iniciales": "JP", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "LOPEZ MONTIEL LISSET SARAI", "clave_corta": "Lista #015", "iniciales": "LM", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}]}, {"grupo": "M105", "grupo_num": "105", "equipo_id": "EQ-M105-EQUIPO-4", "equipo_nombre": "Equipo 4", "base_score": null, "integrantes": [{"alumno": "LOPEZ TELLEZ ROCIO NAHOMY", "clave_corta": "Lista #016", "iniciales": "LT", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "MARQUEZ GUZMAN JOSE RAMON", "clave_corta": "Lista #017", "iniciales": "MG", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "MARTINEZ CERON EDEN ARIADNE", "clave_corta": "Lista #018", "iniciales": "MC", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "MARTINEZ GUTIERREZ VALERIA", "clave_corta": "Lista #019", "iniciales": "MG", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "MENDOZA QUITERIO JORDAN EMMANUEL", "clave_corta": "Lista #020", "iniciales": "MQ", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}]}, {"grupo": "M105", "grupo_num": "105", "equipo_id": "EQ-M105-EQUIPO-5", "equipo_nombre": "Equipo 5", "base_score": null, "integrantes": [{"alumno": "MONTIEL HERNANDEZ DULCE VICTORIA", "clave_corta": "Lista #021", "iniciales": "MH", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "MORALES ESQUIVEL ALEXA ROMINA", "clave_corta": "Lista #022", "iniciales": "ME", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "PEREZ ESQUIVEL FERNANDO MIGUEL", "clave_corta": "Lista #024", "iniciales": "PE", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "PEÑA PEREZ EMILIANO", "clave_corta": "Lista #023", "iniciales": "PP", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "RAMIREZ NAVA ABEL VASSILI", "clave_corta": "Lista #025", "iniciales": "RN", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M105", "grupo_num": "105", "equipo_id": "EQ-M105-EQUIPO-6", "equipo_nombre": "Equipo 6", "base_score": null, "integrantes": [{"alumno": "RUIZ ZAMBRANO GUADALUPE ISABEL", "clave_corta": "Lista #026", "iniciales": "RZ", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "SAMPERIO HERNANDEZ ANGEL DOLORES", "clave_corta": "Lista #027", "iniciales": "SH", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "SANCHEZ SALINAS MONTSERRAT", "clave_corta": "Lista #028", "iniciales": "SS", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "SARMIENTO CIPRIANO ALONDRA", "clave_corta": "Lista #029", "iniciales": "SC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "SEGURA CORONADO DENCEL MICHELLE", "clave_corta": "Lista #030", "iniciales": "SC", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}]}, {"grupo": "M105", "grupo_num": "105", "equipo_id": "EQ-M105-EQUIPO-7", "equipo_nombre": "Equipo 7", "base_score": null, "integrantes": [{"alumno": "SERNA BADILLO MARIA GUADALUPE", "clave_corta": "Lista #031", "iniciales": "SB", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "SOLANO HURTADO ALEX YAIR", "clave_corta": "Lista #032", "iniciales": "SH", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "TREJO QUIJANO FERNANDA", "clave_corta": "Lista #033", "iniciales": "TQ", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "VALENCIA MEJIA YOAV ISAIAS", "clave_corta": "Lista #034", "iniciales": "VM", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "YAÑEZ CASTRO LEILANI JAZMIN", "clave_corta": "Lista #035", "iniciales": "YC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M106", "grupo_num": "106", "equipo_id": "EQ-M106-EQUIPO-1", "equipo_nombre": "Equipo 1", "base_score": 2.0, "integrantes": [{"alumno": "AGUILAR DE LA CRUZ IRIS CELESTE", "clave_corta": "Lista #001", "iniciales": "AD", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "ALEGRIA CERVANTES MICHELL", "clave_corta": "Lista #002", "iniciales": "AC", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entregó", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "BERNAL CHIRINO ANA ELISABET", "clave_corta": "Lista #003", "iniciales": "BC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "CALIXTO GARCIA BRANDON ALEXANDER", "clave_corta": "Lista #004", "iniciales": "CG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "CARBAJAL ROMERO FRIDA", "clave_corta": "Lista #005", "iniciales": "CR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M106", "grupo_num": "106", "equipo_id": "EQ-M106-EQUIPO-2", "equipo_nombre": "Equipo 2", "base_score": 2.0, "integrantes": [{"alumno": "CERON GOMEZ EDWIN ALAN", "clave_corta": "Lista #006", "iniciales": "CG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "DOMINGUEZ GARNICA RUBI", "clave_corta": "Lista #007", "iniciales": "DG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "ENSASTIGA VILLEDA DARIO ALEXANDER", "clave_corta": "Lista #008", "iniciales": "EV", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "Ajuste individual", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "GARCIA GARCIA ESVEYDY PAULINA", "clave_corta": "Lista #009", "iniciales": "GG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "GARCIA GOMEZ CITLALI", "clave_corta": "Lista #010", "iniciales": "GG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M106", "grupo_num": "106", "equipo_id": "EQ-M106-EQUIPO-3", "equipo_nombre": "Equipo 3", "base_score": null, "integrantes": [{"alumno": "HERNANDEZ AQUINO NESTOR", "clave_corta": "Lista #011", "iniciales": "HA", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ CABRERA ALICIA KAREINA", "clave_corta": "Lista #012", "iniciales": "HC", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ GALLEGOS MIGUEL ANGEL", "clave_corta": "Lista #013", "iniciales": "HG", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entrego", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "HERNANDEZ LOPEZ GABRIELA", "clave_corta": "Lista #014", "iniciales": "HL", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "HERNANDEZ VELASCO CAMILA CELESTE", "clave_corta": "Lista #015", "iniciales": "HV", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M106", "grupo_num": "106", "equipo_id": "EQ-M106-EQUIPO-4", "equipo_nombre": "Equipo 4", "base_score": null, "integrantes": [{"alumno": "HINOJOSA OLIVER ALEYDA ZOE", "clave_corta": "Lista #016", "iniciales": "HO", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "LOPEZ GONZALEZ MARIANA YOSELIN", "clave_corta": "Lista #017", "iniciales": "LG", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No trabajo", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "LOPEZ MORALES KARYME JAHDAI", "clave_corta": "Lista #018", "iniciales": "LM", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "MACHORRO ZAMORA XIMENA YUTZIL", "clave_corta": "Lista #019", "iniciales": "MZ", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "MARTINEZ AYALA KATHLEEN ESTEFANIA", "clave_corta": "Lista #020", "iniciales": "MA", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M106", "grupo_num": "106", "equipo_id": "EQ-M106-EQUIPO-5", "equipo_nombre": "Equipo 5", "base_score": 2.0, "integrantes": [{"alumno": "MARTINEZ BUSTOS SIOMARA MACBANAI", "clave_corta": "Lista #021", "iniciales": "MB", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "MARTINEZ LOPEZ VILLICANA YARETZI", "clave_corta": "Lista #022", "iniciales": "ML", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entregó", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "MENDOZA SANCHEZ KARLA PAULET", "clave_corta": "Lista #023", "iniciales": "MS", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entregó", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "MEZA BAUTISTA JOSE ROBERTO", "clave_corta": "Lista #024", "iniciales": "MB", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "OLVERA LUNA REGINA JASMIN", "clave_corta": "Lista #025", "iniciales": "OL", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M106", "grupo_num": "106", "equipo_id": "EQ-M106-EQUIPO-6", "equipo_nombre": "Equipo 6", "base_score": 2.0, "integrantes": [{"alumno": "PEREZ BARRIENTOS FERNANDA MARIEL", "clave_corta": "Lista #026", "iniciales": "PB", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "PEREZ ISLAS ZURIEL", "clave_corta": "Lista #027", "iniciales": "PI", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "PEREZ OSORNO XOCHITL ARANZA", "clave_corta": "Lista #028", "iniciales": "PO", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "RAMIREZ RANGEL ZIANYA", "clave_corta": "Lista #029", "iniciales": "RR", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "RODRIGUEZ GUTIERREZ SANTIAGO", "clave_corta": "Lista #030", "iniciales": "RG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}, {"grupo": "M106", "grupo_num": "106", "equipo_id": "EQ-M106-EQUIPO-7", "equipo_nombre": "Equipo 7", "base_score": 2.0, "integrantes": [{"alumno": "ROSALES GARDUNO YENI LIZZETH", "clave_corta": "Lista #031", "iniciales": "RG", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "SOTO LECHUGA ASTRID YAMILETH", "clave_corta": "Lista #032", "iniciales": "SL", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "TECPILE TECPILE JOSE ANTONIO", "clave_corta": "Lista #033", "iniciales": "TT", "calificacion_cd": 0.0, "calificacion_num": 0.0, "motivo": "No entregó", "tipo_calif": "ajuste", "badge_type": "danger"}, {"alumno": "VARGAS DOMINGUEZ SANTIAGO", "clave_corta": "Lista #034", "iniciales": "VD", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}, {"alumno": "VITE ORTIZ JOSE ELIAS", "clave_corta": "Lista #035", "iniciales": "VO", "calificacion_cd": 2.0, "calificacion_num": 2.0, "motivo": "Entregado completo", "tipo_calif": "ajuste", "badge_type": "success"}]}];
+
+        let activeGroup = 'ALL';
+        let activeStatus = 'ALL';
+        let queryText = '';
+
+        function renderGrid() {
+            const container = document.getElementById('teamsDisplay');
+            const q = queryText.toLowerCase().trim();
+
+            let matchedTeams = TEAMS_SOURCE.filter(t => {
+                if (activeGroup !== 'ALL' && t.grupo !== activeGroup) return false;
+                return true;
+            });
+
+            let visibleTeamsCount = 0;
+            let countTotal = 0;
+            let countSuccess = 0;
+            let countDanger = 0;
+            let countWarning = 0;
+
+            const htmlCards = matchedTeams.map(t => {
+                const studentsFiltered = t.integrantes.filter(st => {
+                    // Status filter
+                    if (activeStatus === '0' && st.calificacion_num !== 0.0) return false;
+                    if (activeStatus === '2' && st.calificacion_num !== 2.0) return false;
+
+                    // Query text filter
+                    if (!q) return true;
+                    return (
+                        st.alumno.toLowerCase().includes(q) ||
+                        st.clave_corta.toLowerCase().includes(q) ||
+                        st.motivo.toLowerCase().includes(q) ||
+                        t.equipo_nombre.toLowerCase().includes(q) ||
+                        String(st.calificacion_num).includes(q)
+                    );
+                });
+
+                if (studentsFiltered.length === 0) return '';
+
+                visibleTeamsCount++;
+                studentsFiltered.forEach(st => {
+                    countTotal++;
+                    if (st.calificacion_num === 2.0) countSuccess++;
+                    else if (st.calificacion_num === 0.0) countDanger++;
+                    else countWarning++;
+                });
+
+                const studentRowsHtml = studentsFiltered.map(st => `
+                    <div class="student-row">
+                        <div class="student-left">
+                            <div class="avatar-initials">${st.iniciales}</div>
+                            <div class="student-meta">
+                                <div class="student-fullname" title="${st.alumno}">${st.alumno}</div>
+                                <div class="student-id">${st.clave_corta}</div>
+                            </div>
+                        </div>
+                        <div class="student-right">
+                            <span class="grade-chip ${st.badge_type}">
+                                ${st.calificacion_num >= 0 ? '+' + st.calificacion_num.toFixed(1) + ' pts' : 'Pendiente'}
+                            </span>
+                            <span class="reason-caption" title="${st.motivo}">P2 &bull; ${st.motivo}</span>
+                        </div>
+                    </div>
+                `).join('');
+
+                return `
+                    <article class="team-card">
+                        <header class="team-card-header">
+                            <div class="team-card-title">
+                                <span class="pill-group-tag">G${t.grupo_num}</span>
+                                <h2>${t.equipo_nombre}</h2>
+                                <span style="font-size: 10px; font-weight: 800; color: #92400e; background: #fef3c7; padding: 2px 6px; border-radius: 4px; border: 1px solid #fde68a;">P2</span>
+                            </div>
+                            <span class="team-card-count">👥 ${t.integrantes.length} alumnos</span>
+                        </header>
+                        <div class="students-container">
+                            ${studentRowsHtml}
+                        </div>
+                    </article>
+                `;
+            }).filter(Boolean).join('');
+
+            // Update KPI Box
+            document.getElementById('kpiTotal').innerText = countTotal;
+            document.getElementById('kpiSuccess').innerText = countSuccess;
+            document.getElementById('kpiDanger').innerText = countDanger;
+            document.getElementById('kpiWarning').innerText = countWarning;
+
+            if (visibleTeamsCount === 0) {
+                container.innerHTML = `
+                    <div class="empty-indicator">
+                        <h3>No se encontraron alumnos con los criterios seleccionados</h3>
+                        <p>Intenta cambiar el grupo, limpiar el texto de búsqueda o restablecer los filtros.</p>
+                    </div>
+                `;
+            } else {
+                container.innerHTML = htmlCards;
+            }
+        }
+
+        // Search Input
+        document.getElementById('filterSearch').addEventListener('input', (e) => {
+            queryText = e.target.value;
+            renderGrid();
+        });
+
+        // Group Buttons
+        document.getElementById('filterGroups').addEventListener('click', (e) => {
+            const btn = e.target.closest('.group-pill');
+            if (btn) {
+                document.querySelectorAll('.group-pill').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                activeGroup = btn.getAttribute('data-grp');
+                renderGrid();
+            }
+        });
+
+        // Status Filter Chips
+        document.getElementById('statusFilterBar').addEventListener('click', (e) => {
+            const chip = e.target.closest('.status-chip');
+            if (chip) {
+                document.querySelectorAll('.status-chip').forEach(c => c.classList.remove('active'));
+                chip.classList.add('active');
+                activeStatus = chip.getAttribute('data-status');
+                renderGrid();
+            }
+        });
+
+        // Render inicial
+        renderGrid();
+    </script>
+</body>
+</html>

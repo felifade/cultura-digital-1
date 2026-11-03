@@ -995,6 +995,26 @@ body.dark-mode .q-link-sagyc i {
     color: #c084fc;
 }
 
+.q-link-pec {
+    background: linear-gradient(135deg, rgba(2, 132, 199, 0.08), rgba(16, 185, 129, 0.08));
+    border-color: rgba(2, 132, 199, 0.35);
+    font-weight: 600;
+}
+.q-link-pec:hover {
+    background: linear-gradient(135deg, rgba(2, 132, 199, 0.16), rgba(16, 185, 129, 0.16));
+    border-color: #0284c7;
+}
+.q-link-pec i {
+    color: #0284c7;
+}
+body.dark-mode .q-link-pec {
+    background: linear-gradient(135deg, rgba(56, 189, 248, 0.15), rgba(52, 211, 153, 0.15));
+    border-color: rgba(56, 189, 248, 0.4);
+}
+body.dark-mode .q-link-pec i {
+    color: #38bdf8;
+}
+
 /* Etiquetas */
 .tags-container {
     display: flex;
