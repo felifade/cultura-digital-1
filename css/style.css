@@ -1221,6 +1221,9 @@ body.dark-mode .cierre-checklist-box {
         grid-template-columns: 1fr !important;
     }
 }
+
+/* Responsive */
+@media (max-width: 1200px) {
     .app-container {
         grid-template-columns: 240px 1fr;
     }
