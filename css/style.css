@@ -1055,6 +1055,74 @@ body.dark-mode .q-link-typing i {
     color: #34d399;
 }
 
+.q-link-inspira {
+    background: linear-gradient(135deg, rgba(139, 92, 246, 0.08), rgba(236, 72, 153, 0.08));
+    border-color: rgba(139, 92, 246, 0.35);
+    font-weight: 600;
+}
+.q-link-inspira:hover {
+    background: linear-gradient(135deg, rgba(139, 92, 246, 0.16), rgba(236, 72, 153, 0.16));
+    border-color: #8b5cf6;
+}
+.q-link-inspira i {
+    color: #8b5cf6;
+}
+body.dark-mode .q-link-inspira {
+    background: linear-gradient(135deg, rgba(167, 139, 250, 0.15), rgba(244, 114, 182, 0.15));
+    border-color: rgba(167, 139, 250, 0.4);
+}
+body.dark-mode .q-link-inspira i {
+    color: #c4b5fd;
+}
+
+.notice-card.inspira-notice {
+    background: #faf5ff;
+    border-color: #e9d5ff;
+    display: block;
+    margin-top: 0.75rem;
+}
+body.dark-mode .notice-card.inspira-notice {
+    background: rgba(88, 28, 135, 0.15);
+    border-color: rgba(168, 85, 247, 0.3);
+}
+.notice-card.inspira-notice strong {
+    color: #7e22ce;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-bottom: 0.4rem;
+    font-size: 0.85rem;
+}
+body.dark-mode .notice-card.inspira-notice strong {
+    color: #d8b4fe;
+}
+.notice-card.inspira-notice p {
+    color: #581c87;
+    font-size: 0.76rem;
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+}
+body.dark-mode .notice-card.inspira-notice p {
+    color: #e9d5ff;
+}
+.notice-btn-inspira {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    background: #8b5cf6;
+    color: #ffffff !important;
+    padding: 0.4rem 0.75rem;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+.notice-btn-inspira:hover {
+    background: #7c3aed;
+    transform: translateY(-1px);
+}
+
 .notice-card.dgb-notice {
     background: #f8fafc;
     border-color: #cbd5e1;
