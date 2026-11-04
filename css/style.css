@@ -1035,6 +1035,26 @@ body.dark-mode .q-link-dgb i {
     color: #f87171;
 }
 
+.q-link-typing {
+    background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(245, 158, 11, 0.08));
+    border-color: rgba(16, 185, 129, 0.35);
+    font-weight: 600;
+}
+.q-link-typing:hover {
+    background: linear-gradient(135deg, rgba(16, 185, 129, 0.16), rgba(245, 158, 11, 0.16));
+    border-color: #10b981;
+}
+.q-link-typing i {
+    color: #059669;
+}
+body.dark-mode .q-link-typing {
+    background: linear-gradient(135deg, rgba(52, 211, 153, 0.15), rgba(251, 191, 36, 0.15));
+    border-color: rgba(52, 211, 153, 0.4);
+}
+body.dark-mode .q-link-typing i {
+    color: #34d399;
+}
+
 .notice-card.dgb-notice {
     background: #f8fafc;
     border-color: #cbd5e1;
