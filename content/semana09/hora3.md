@@ -14,41 +14,55 @@ Continúa en la misma pestaña **`Semana 09 📊`**, debajo de la sección de la
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Sesión Amortiguadora y Nivelación Escolar 🛠️</h2>
+<h2>Desarrollo: Sesión Amortiguadora y Nivelación en 2 Frentes (30 min)</h2>
 </section>
 
-Debido a las suspensiones oficiales de calendario escolar y para garantizar que todos los grupos avancen de manera equitativa y con calma, **el Gran Desafío Kahoot se traslada a la Semana 10** como actividad de repaso y acumulación de décimas previa al examen.
+<div class="task-grid-2">
+  <div class="task-card accent-amber">
+    <div class="task-card-header">
+      <span class="step-badge">1</span>
+      <span>🛠️ Ponerte al Corriente con la Semana</span>
+    </div>
+    <div class="task-card-body">
+      <p><strong>Cotejo rápido de entregas:</strong></p>
+      <ul>
+        <li>⌨️ <strong>Hora 1:</strong> Verifica que tus 5 capturas estén dentro de la tabla 2×3 y el resumen de WPM completo en tamaño 10.</li>
+        <li>📊 <strong>Hora 2:</strong> Confirma que tu hoja de Google Sheets tenga las 4 fórmulas aplicadas y esté adjuntada en Google Classroom.</li>
+      </ul>
+      <p style="margin-top:6px; font-size:12px; color:#d97706; font-weight:700;">
+        🎮 Recuerda: El Kahoot se juega en la Semana 10 antes del examen.
+      </p>
+    </div>
+  </div>
 
-Esta tercera sesión se destina al **Taller de Cierre y Verificación de Evidencias**:
-
-### 1. Conclusión del Reto en Typing.com y Tabla 2×3 (Hora 1)
-* Verifica haber completado las 5 rondas progresivas en Typing.com.
-* Revisa que las 5 capturas recortadas estén insertadas dentro de su celda en la tabla de **2×3** en Docs, y que tu resumen de récord (WPM, precisión y errores) esté completo en **tamaño 10**.
-
----
-
-### 2. Verificación de la Hoja de Métricas en Sheets (Hora 2)
-* Asegúrate de que tu hoja **`Metricas_Velocidad_[TuNombre]`** contenga:
-  - Las 4 fórmulas oficiales: **`=MAX()`**, **`=MIN()`**, **`=PROMEDIO()`** y la resta de margen de mejora.
-  - La columna de precisión con formato de porcentaje (**`%`**).
-  - Bordes completos y encabezados coloreados.
-* Confirma que el archivo esté **adjuntado directamente en la tarea de Google Classroom**.
-
----
-
-### 3. Auditoría Rápida del Portafolio Digital (Docs)
-Revisa que tu documento «Portafolio Digital - Segundo Parcial» cuente con sus pestañas al corriente:
-* 📄 **Semana 06:** Formato formal (20/14/10) y tabla de control del PEC.
-* 📁 **Semana 07:** Mochila digital y tabla de carpetas en Google Drive.
-* 📊 **Semana 08:** Dictados y tabla resumen del presupuesto PEC.
-* 📊 **Semana 09:** Dictados 1, 2 y 3, más la tabla de evidencias 2×3.
+  <div class="task-card accent-purple">
+    <div class="task-card-header">
+      <span class="step-badge">2</span>
+      <span>📁 Auditoría del Portafolio Digital</span>
+    </div>
+    <div class="task-card-body">
+      <p><strong>Revisa que tu documento de Docs tenga todas sus pestañas:</strong></p>
+      <ul>
+        <li>📄 <strong>Semana 06:</strong> Formato formal (20/14/10) y tabla PEC.</li>
+        <li>📁 <strong>Semana 07:</strong> Mochila digital y carpetas de Google Drive.</li>
+        <li>📊 <strong>Semana 08:</strong> Dictados y tabla del presupuesto PEC.</li>
+        <li>📊 <strong>Semana 09:</strong> Dictados 1, 2 y 3 + tabla de evidencias 2×3.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ---
 
 <section class="momento momento-cierre">
-<h2>Cierre: Checklist de Tranquilidad Curricular ✍️</h2>
+<h2>Cierre: Checklist de Tranquilidad Curricular (10 min)</h2>
 </section>
 
-1. **Revisión y Visto Bueno:** Asesoría personalizada del docente para resolver dudas o problemas de guardado.
-2. **Protección de Calendario:**  
-   * *La entrega evaluable obligatoria de la semana quedó entregada en la Hora 2. Los grupos que hayan tenido suspensiones oficiales no sufren ningún rezago ni afectación en su calificación.*
+<div class="cierre-checklist-box">
+  <div class="cierre-checklist-grid">
+    <div>✅ <strong>Dictado 3 capturado</strong> con las 5 palabras intervenidas</div>
+    <div>✅ <strong>Hoja de métricas adjuntada</strong> en Google Classroom (Hora 2)</div>
+    <div>✅ <strong>Tabla 2×3 de Typing.com completa</strong> en Google Docs (Hora 1)</div>
+    <div>✅ <strong>Portafolio revisado</strong> y listo para la nivelación de la Semana 10</div>
+  </div>
+</div>

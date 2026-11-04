@@ -14,60 +14,69 @@ Continúa en la misma pestaña **`Semana 09 📊`**, debajo de la tabla anterior
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Hoja de Métricas y Fórmulas (3 Pasos)</h2>
+<h2>Desarrollo: Hoja de Métricas y Fórmulas en 2 Pasos (30 min)</h2>
 </section>
 
-### 1. Crear tu Archivo en Google Drive
-1. Entra a `drive.google.com` con tu cuenta institucional.
-2. Abre tu carpeta: `1er Semestre - CEB 5/4` ➔ `07 Cultura Digital I`.
-3. Haz clic en **`+ Nuevo` ➔ `Hojas de cálculo de Google`**.
-4. Nombra tu archivo arriba a la izquierda como: **`Metricas_Velocidad_[TuNombre]`**.
+<div class="task-grid-2">
+  <div class="task-card accent-emerald">
+    <div class="task-card-header">
+      <span class="step-badge">1</span>
+      <span>📊 Crear Hoja en Google Drive</span>
+    </div>
+    <div class="task-card-body">
+      <ol>
+        <li>Entra a <strong>Google Drive</strong> ➔ <code>1er Semestre - CEB 5/4</code> ➔ <code>07 Cultura Digital I</code>.</li>
+        <li>Crea una nueva hoja: <strong>`+ Nuevo` ➔ `Hojas de cálculo`</strong>.</li>
+        <li>Nómbrala arriba: <strong>`Metricas_Velocidad_[TuNombre]`</strong>.</li>
+        <li>Captura tus 5 rondas y aplica las 4 fórmulas:
+          <br>• En B7: <code>=MAX(B2:B6)</code>
+          <br>• En B8: <code>=MIN(B2:B6)</code>
+          <br>• En B9: <code>=PROMEDIO(B2:B6)</code>
+          <br>• En B10: <code>=B7-B8</code> (Margen de mejora)
+        </li>
+      </ol>
+    </div>
+  </div>
 
----
+  <div class="task-card accent-purple">
+    <div class="task-card-header">
+      <span class="step-badge">2</span>
+      <span>✨ Formato Profesional y Entrega</span>
+    </div>
+    <div class="task-card-body">
+      <ul>
+        <li>🔘 <strong>Porcentaje:</strong> Selecciona <code>C2:C6</code> y da clic en el botón <strong>`%`</strong>.</li>
+        <li>🎨 <strong>Bordes y Color:</strong> Encabezados con fondo coloreado y todos los bordes aplicados.</li>
+        <li>📤 <strong>Entrega en Classroom:</strong> Abre tu tarea en Classroom, da clic en <strong>`+ Añadir o crear` ➔ `Google Drive`</strong> y adjunta directamente tu archivo.</li>
+      </ul>
+      <p style="margin-top:6px; font-size:12px; color:#059669; font-weight:700;">
+        💡 No requiere enlace compartido; se adjunta directo desde Drive.
+      </p>
+    </div>
+  </div>
+</div>
 
-### 2. Capturar Datos de Typing.com y Aplicar Fórmulas
-
-Crea la siguiente tabla con los resultados que obtuviste en tus 5 rondas:
-
-| Fila | A (Ronda y Duración) | B (Velocidad WPM) | C (Precisión %) | D (Errores) | Fórmulas que aplicas |
-| :---: | :--- | :---: | :---: | :---: | :--- |
-| **1** | **Ronda de Prueba (Typing.com)** | **Velocidad (WPM)** | **Precisión (%)** | **Errores** | *(Encabezados con fondo de color y negrita)* |
-| **2** | Ronda 1 (Test 1 min) | 32 | 94% | 3 | Tus datos de la prueba de 1 minuto |
-| **3** | Ronda 2 (Test 1 min) | 38 | 96% | 2 | Tus datos del 2º intento de 1 minuto |
-| **4** | Ronda 3 (Test 3 min) | 41 | 95% | 2 | Tus datos de la prueba de 3 minutos |
-| **5** | Ronda 4 (Test 3 min) | 35 | 92% | 4 | Tus datos del 2º intento de 3 minutos |
-| **6** | Ronda 5 (Test 5 min) | 44 | 98% | 1 | Tus datos del reto final de 5 minutos |
-| **7** | **MÁXIMO (Récord):** | **44** | | | En B7: **`=MAX(B2:B6)`** |
-| **8** | **MÍNIMO (Más baja):** | **32** | | | En B8: **`=MIN(B2:B6)`** |
-| **9** | **PROMEDIO REAL:** | **38.0** | | | En B9: **`=PROMEDIO(B2:B6)`** |
-| **10** | **MARGEN DE MEJORA:** | **+12** | | | En B10: **`=B7-B8`** *(Resta)* |
-
-> 💡 **Formato Profesional:**
-> * Selecciona las celdas de la columna C (`C2:C6`) y haz clic en el botón **`%` (Formato de porcentaje)** en la barra de herramientas.
-> * Selecciona toda la cuadrícula y aplica **Bordes ➔ Todos los bordes**.
-
----
-
-### 📊 Ejemplo Visual en Pantalla:
-![Ejemplo Visual - Estadísticas en Google Sheets](./assets/semana09/semana09_hora02_metricas.svg)
-
----
-
-### 3. Entregar tu Archivo Directamente en Classroom
-1. Entra a **Google Classroom** y abre la tarea correspondiente de Cultura Digital.
-2. En el panel lateral derecho (*"Tu trabajo"*), da clic en:  
-   **`+ Añadir o crear` ➔ `Google Drive`**.
-3. Selecciona tu hoja **`Metricas_Velocidad_[TuNombre]`** y da clic en **Insertar**.
-4. *(No es necesario generar enlace compartido, tu archivo queda adjuntado de forma directa).*
+<div class="task-card" style="margin-top:1rem; border-top-color:#0284c7;">
+  <div class="task-card-header">
+    <span class="step-badge">🖼️</span>
+    <span>Ejemplo Visual de la Cuadrícula</span>
+  </div>
+  <div class="task-card-body" style="text-align:center;">
+    <img src="./assets/semana09/semana09_hora02_metricas.svg" alt="Ejemplo Visual Sheets" style="max-width:100%; height:auto; border-radius:6px; border:1px solid #e2e8f0;">
+  </div>
+</div>
 
 ---
 
 <section class="momento momento-cierre">
-<h2>Cierre: Checklist de Verificación</h2>
+<h2>Cierre: Checklist de Verificación (10 min)</h2>
 </section>
 
-- [ ] Dictado 2 completo con título en **20 (centrado/negrita)** y texto en **14 (justificado)**.
-- [ ] 5 palabras clave identificadas con **<u>Negrita + Subrayado</u>** y emoji enfrente.
-- [ ] Hoja de cálculo con encabezados coloreados, bordes y porcentaje (`%`) en la columna C.
-- [ ] Las 4 fórmulas oficiales aplicadas (`MAX`, `MIN`, `PROMEDIO` y resta).
-- [ ] Archivo de Google Sheets adjuntado exitosamente en Classroom.
+<div class="cierre-checklist-box">
+  <div class="cierre-checklist-grid">
+    <div>✅ <strong>Dictado 2 capturado</strong> (20 / 14 con 5 palabras intervenidas)</div>
+    <div>✅ <strong>Hoja `Metricas_Velocidad_[Nombre]` creada</strong> con formato `%` y bordes</div>
+    <div>✅ <strong>4 fórmulas oficiales aplicadas</strong> (`MAX`, `MIN`, `PROMEDIO`, resta)</div>
+    <div>✅ <strong>Archivo adjuntado y entregado</strong> en Google Classroom</div>
+  </div>
+</div>
