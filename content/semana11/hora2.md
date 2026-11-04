@@ -14,67 +14,67 @@ Continúa en la misma pestaña **`Semana 11 ✉️`**, debajo de la tabla anteri
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Anatomía del Correo Formal y Práctica Real (4 Pasos)</h2>
+<h2>Desarrollo: Anatomía del Correo y Envío Real (30 min)</h2>
 </section>
 
-### 1. La Anatomía del Correo Institucional
-En Gmail, haz clic en el botón superior izquierdo: **`Redactar`** ➕ y observa sus partes esenciales:
+En Gmail, haz clic en **`Redactar`** ➕ y sigue esta estructura obligatoria:
 
-* **Para:** La persona a quien va dirigida la solicitud.
-* **CC (Con Copia):** Personas que deben estar enteradas, pero no necesariamente responder.
-* **CCO (Copia Oculta):** Envía copias sin mostrar las direcciones de los demás (protege datos personales en correos grupales).
-* **Asunto (Obligatorio y Específico):**  
-  * ❌ *Mal Asunto:* "Hola", "Tarea", "Profe", "(vacío)".
-  * ✅ *Fórmula Oficial del Asunto:*  
-    **`[Materia] - [Grupo y Turno] - [Motivo del Correo] - [Nombre y Apellidos]`**  
-    *Ejemplo:* `Cultura Digital I - Grupo 102 Matutino - Entrega de Portafolio - Luis Morales Sánchez`
+<div class="task-grid-2">
+  <div class="task-card accent-amber">
+    <div class="task-card-header">
+      <span class="step-badge">1</span>
+      <span>📌 Asunto y Destinatario</span>
+    </div>
+    <div class="task-card-body">
+      <p><strong>Para:</strong> <code>d.flopez54@dgb.edu.mx</code></p>
+      <p><strong>Fórmula del Asunto (Obligatoria):</strong></p>
+      <p style="background:#f1f5f9; padding:8px; border-radius:6px; font-size:12px; font-weight:700; color:#0f172a;">
+        [Materia] - [Grupo y Turno] - [Motivo] - [Nombre Alumno]
+      </p>
+      <p style="font-size:12px; color:#64748b; margin-top:4px;">
+        <em>Ejemplo:</em> Cultura Digital I - 102 Matutino - Envío Portafolio - Luis Morales
+      </p>
+    </div>
+  </div>
 
----
+  <div class="task-card accent-emerald">
+    <div class="task-card-header">
+      <span class="step-badge">2</span>
+      <span>✍️ Cuerpo y Enlace de Drive</span>
+    </div>
+    <div class="task-card-body">
+      <p><strong>Estructura del Mensaje:</strong></p>
+      <ul>
+        <li>👋 <strong>Saludo formal:</strong> <em>«Estimado profesor Felipe López:»</em></li>
+        <li>📄 <strong>Cuerpo:</strong> Explicar el motivo con cortesía.</li>
+        <li>🔗 <strong>Enlace Drive:</strong> Insertar hipervínculo en modo <strong>Lector</strong> (no adjuntar archivos pesados).</li>
+        <li>🤝 <strong>Firma formal:</strong> Nombre, grupo y escuela.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
-### 2. Estructura del Cuerpo del Mensaje
-Un correo escolar nunca debe enviarse vacío ni con faltas de respeto. Sigue esta plantilla:
-
-```text
-Estimado profesor Felipe López Salazar:
-
-Espero que se encuentre muy bien. Por medio del presente correo le hago entrega del enlace a mi Portafolio Digital de Cultura Digital I correspondiente al Segundo Parcial, para su debida revisión y cotejo de actividades.
-
-Quedo atento(a) a sus amables comentarios y observaciones.
-
-Atentamente,
-[Tu Nombre Completo]
-Alumno(a) del Grupo [Tu Grupo] · Turno [Matutino/Vespertino]
-CEB 5/4 "Profr. Rafael Ramírez"
-```
-
----
-
-### 3. La Regla de Oro: Enlazar desde Drive (No saturar con adjuntos pesados)
-1. En la barra inferior de la ventana de redacción, localiza el ícono de **Insertar archivos con Drive** (triangulito de Google Drive) o el ícono de **Insertar enlace** 🔗.
-2. Selecciona tu documento del **Portafolio Digital** o inserta el enlace asegurándote de que esté configurado en modo **Lector**.
-3. *¿Por qué hacemos esto?* Porque los archivos adjuntos saturan la bandeja de entrada del profesor y consumen datos innecesarios en los celulares.
-
----
-
-### 4. Envío Real al Profesor y Tabla de Evidencias en Docs
-1. Envía el correo formal de práctica a la cuenta oficial del docente:  
-   👉 **`d.flopez54@dgb.edu.mx`**
-2. Ve a la sección **Enviados** en el panel izquierdo de Gmail y abre el mensaje que acabas de mandar.
-3. Toma una captura recortada donde se aprecie claramente el **Asunto oficial**, el **Cuerpo redactado** y tu **Firma institucional**.
-4. En tu documento de Docs, inserta una tabla de **1 columna por 2 filas**:
-
-| Evidencia de Correo Formal Enviado *(Tamaño 10)* |
-| :--- |
-| 📸 **Captura del Correo Formal:**<br>*(Pega aquí adentro la captura de pantalla de tu correo enviado con el asunto oficial y la netiqueta aplicada)* |
+<div class="task-card accent-purple" style="margin-top:1rem;">
+  <div class="task-card-header">
+    <span class="step-badge">3</span>
+    <span>📸 Evidencia en Google Docs (Tabla 1×2)</span>
+  </div>
+  <div class="task-card-body">
+    <p>Envía el correo, abre la sección <strong>Enviados</strong> en Gmail, toma captura donde se vea el asunto y cuerpo formal, e insértala en una <strong>tabla 1×2</strong> en Docs.</p>
+  </div>
+</div>
 
 ---
 
 <section class="momento momento-cierre">
-<h2>Cierre: Checklist de Verificación</h2>
+<h2>Cierre: Checklist de Salida (10 min)</h2>
 </section>
 
-- [ ] Dictado 2 completo con título en **20 (centrado/negrita)** y texto en **14 (justificado)**.
-- [ ] 5 palabras clave identificadas con **<u>Negrita + Subrayado</u>** y emoji enfrente.
-- [ ] Asunto estructurado con la fórmula: `Materia - Grupo - Motivo - Nombre`.
-- [ ] Correo enviado al profesor (`d.flopez54@dgb.edu.mx`) con saludo, cuerpo, enlace de Drive y firma.
-- [ ] Captura de pantalla del correo enviado pegada en la tabla de Docs.
+<div class="cierre-checklist-box">
+  <div class="cierre-checklist-grid">
+    <div>✅ <strong>Dictado 2 completo</strong> con 5 palabras intervenidas</div>
+    <div>✅ <strong>Asunto estructurado</strong> con la fórmula oficial</div>
+    <div>✅ <strong>Correo formal enviado</strong> a `d.flopez54@dgb.edu.mx`</div>
+    <div>✅ <strong>Captura de Enviados pegada</strong> en la tabla de Docs</div>
+  </div>
+</div>
