@@ -270,9 +270,28 @@ document.addEventListener('DOMContentLoaded', () => {
         lucide.createIcons();
     });
 
+    // 0. CANDADO AUTOMÁTICO POR FECHA/HORA (unlockAt en meta.json)
+    function applyScheduledUnlocks() {
+        if (!window.notebookData) return false;
+        const now = Date.now();
+        let newlyUnlocked = null;
+        for (const weekKey of Object.keys(window.notebookData)) {
+            const info = window.notebookData[weekKey];
+            if (info && !info.visible && info.unlockAt) {
+                const unlockTime = new Date(info.unlockAt).getTime();
+                if (!isNaN(unlockTime) && now >= unlockTime) {
+                    info.visible = true;
+                    newlyUnlocked = weekKey;
+                }
+            }
+        }
+        return newlyUnlocked;
+    }
+
     // 1. RENDERIZAR MENÚ LATERAL
     function renderSidebar() {
         if (!window.notebookData) return;
+        applyScheduledUnlocks();
         
         sidebarNav.innerHTML = '';
         const weeks = Object.keys(window.notebookData);
@@ -283,8 +302,8 @@ document.addEventListener('DOMContentLoaded', () => {
         
         const partials = [
             { id: 1, title: 'Parcial 1', range: 'Semanas 1-5' },
-            { id: 2, title: 'Parcial 2', range: 'Semanas 6-10' },
-            { id: 3, title: 'Parcial 3', range: 'Semanas 11-15' },
+            { id: 2, title: 'Parcial 2', range: 'Semanas 6-11' },
+            { id: 3, title: 'Parcial 3', range: 'Semanas 12-15' },
         ];
 
         // Invertimos partials para que el parcial más reciente quede arriba
@@ -427,6 +446,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Inicialización
     // Solo renderizar si data.js cargó correctamente
     if (window.notebookData) {
+        applyScheduledUnlocks();
         // Encontrar la semana visible más reciente (semana actual)
         const weeks = Object.keys(window.notebookData);
         if (weeks.length > 0) {
@@ -441,6 +461,17 @@ document.addEventListener('DOMContentLoaded', () => {
             renderSidebar();
             updateView();
         }
+
+        // Revisar cada 15 segundos por si se cumple la hora de desbloqueo con la página abierta
+        setInterval(() => {
+            const newlyUnlocked = applyScheduledUnlocks();
+            if (newlyUnlocked) {
+                currentWeek = newlyUnlocked;
+                currentHour = '1';
+                renderSidebar();
+                updateView();
+            }
+        }, 15000);
     } else {
         mdContent.innerHTML = `<div class="empty-state">
             <p>Error: No se encontró el archivo de contenidos (data.js). Por favor ejecuta el script build.py.</p>

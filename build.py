@@ -25,6 +25,8 @@ for w in range(1, 16):
                     week_data["dateRange"] = meta.get("dateRange", "")
                     week_data["partial"] = meta.get("partial", 1 if w <= 5 else 2 if w <= 10 else 3)
                     week_data["visible"] = meta.get("visible", (w in [1, 2, 3]))
+                    if "unlockAt" in meta:
+                        week_data["unlockAt"] = meta["unlockAt"]
                 except:
                     week_data["title"] = f"Semana {w}"
                     week_data["dateRange"] = ""
