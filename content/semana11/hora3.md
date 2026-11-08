@@ -14,39 +14,66 @@ Continúa en la misma pestaña **`Semana 11 ✉️`**, debajo de la sección de 
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Calendar, Tasks y Evaluación (30 min)</h2>
+<h2>Desarrollo: Calendar, Tasks y Tabla en 2 Columnas (30 min)</h2>
 </section>
 
 <div class="task-grid-2">
-  <div class="task-card accent-purple">
+  <div class="task-card accent-emerald">
     <div class="task-card-header">
       <span class="step-badge">1</span>
-      <span>📅 Google Calendar & Tasks</span>
+      <span>📅 Agendar en Google Calendar y Tasks</span>
     </div>
     <div class="task-card-body">
-      <p>Abre 👉 <strong><a href="https://calendar.google.com" target="_blank" rel="noopener noreferrer">calendar.google.com</a></strong>:</p>
-      <ul>
-        <li>🏇 <strong>16 Nov (Feriado Revolución):</strong> Evento todo el día.</li>
-        <li>📄 <strong>19 Nov (Entrega de Boletas P2):</strong> Evento con recordatorio 1 día antes.</li>
-        <li>📋 <strong>Google Tasks:</strong> Abre el panel lateral derecho, crea 1 tarea escolar o arrastra un correo recibido para volverlo pendiente.</li>
-      </ul>
-      <p style="margin-top:6px; font-size:12px; color:#64748b;">
-        📸 Pega captura de tu Calendar y Tasks en una <strong>tabla 1×2</strong> en Docs.
-      </p>
+      <p>Abre 👉 <strong><a href="https://calendar.google.com" target="_blank" rel="noopener noreferrer">calendar.google.com</a></strong> y registra estos 3 elementos:</p>
+      <table style="width:100%; font-size:11.5px; border-collapse:collapse; margin-top:6px;">
+        <tr style="background:#f1f5f9;">
+          <th style="padding:6px; border:1px solid #cbd5e1; width:24%;">Fecha / App</th>
+          <th style="padding:6px; border:1px solid #cbd5e1;">Título Exacto</th>
+          <th style="padding:6px; border:1px solid #cbd5e1; width:30%;">Ajuste</th>
+        </tr>
+        <tr>
+          <td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">🏇 16 Nov</td>
+          <td style="padding:6px; border:1px solid #cbd5e1;"><code>Suspensión Oficial - Revolución Mexicana</code></td>
+          <td style="padding:6px; border:1px solid #cbd5e1;">Marca casilla <strong>Todo el día</strong>.</td>
+        </tr>
+        <tr>
+          <td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">📄 19 Nov</td>
+          <td style="padding:6px; border:1px solid #cbd5e1;"><code>Entrega de Boletas 2º Parcial a Padres</code></td>
+          <td style="padding:6px; border:1px solid #cbd5e1;">Recordatorio <strong>1 día antes</strong>.</td>
+        </tr>
+        <tr>
+          <td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">📋 Tasks</td>
+          <td style="padding:6px; border:1px solid #cbd5e1;"><code>Estudiar 2º Parcial Cultura Digital I</code></td>
+          <td style="padding:6px; border:1px solid #cbd5e1;">Panel derecho ✔️: Crea 1 tarea o arrastra correo.</td>
+        </tr>
+      </table>
     </div>
   </div>
 
-  <div class="task-card accent-rose">
+  <div class="task-card accent-purple">
     <div class="task-card-header">
       <span class="step-badge">2</span>
-      <span>🛡️ Modalidad de Evaluación Parcial</span>
+      <span>📸 Tabla de Evidencias 2×2 en Docs</span>
     </div>
     <div class="task-card-body">
-      <p><strong>Alineación Oficial SEMS:</strong></p>
-      <ul>
-        <li>📝 <strong>Grupos de Lunes o Regularización:</strong> Presentan en esta sesión su <strong>Examen del Segundo Parcial</strong> en aula.</li>
-        <li>💻 <strong>Grupos Regulares (ya evaluados en S10):</strong> Concluyen la práctica de Calendar/Tasks y cotejan promedios preliminares.</li>
-      </ul>
+      <p>Debajo de tu Dictado 3 en la pestaña <strong><code>Semana 11 ✉️</code></strong>, inserta una tabla de <strong>2 columnas × 2 filas</strong> (texto <strong>Tamaño 10</strong>):</p>
+      <table style="width:100%; font-size:11.5px; border-collapse:collapse; margin-top:6px;">
+        <tr style="background:#f1f5f9;">
+          <th style="padding:6px; border:1px solid #cbd5e1; width:50%;">📸 Captura 1: Eventos en Calendar</th>
+          <th style="padding:6px; border:1px solid #cbd5e1; width:50%;">📸 Captura 2: Pendiente en Tasks</th>
+        </tr>
+        <tr>
+          <td style="padding:10px 6px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
+            <em>(Pega aquí tu captura de los eventos del 16 y 19 de noviembre en Calendar)</em>
+          </td>
+          <td style="padding:10px 6px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
+            <em>(Pega aquí tu captura del panel derecho de Google Tasks con tu tarea creada)</em>
+          </td>
+        </tr>
+      </table>
+      <div style="margin-top:8px; padding:6px 8px; background:#fef2f2; border:1px solid #fecaca; border-radius:6px; font-size:11.5px; color:#991b1b;">
+        🛡️ <strong>Evaluación Parcial (SEMS):</strong> <strong>Grupos de Lunes</strong> aplican hoy su Examen 2º Parcial en aula | <strong>Grupos Regulares</strong> cotejan promedio final.
+      </div>
     </div>
   </div>
 </div>
@@ -61,7 +88,7 @@ Continúa en la misma pestaña **`Semana 11 ✉️`**, debajo de la sección de 
   <div class="cierre-checklist-grid">
     <div>✅ <strong>Dictado 3 completo</strong> en la pestaña `Semana 11 ✉️`</div>
     <div>✅ <strong>Eventos oficiales agendados</strong> en Google Calendar (16 y 19 Nov)</div>
-    <div>✅ <strong>Tarea registrada en Tasks</strong> y captura pegada en Docs</div>
+    <div>✅ <strong>Tabla 2×2 con capturas</strong> de Calendar y Tasks en Docs</div>
     <div>✅ <strong>Evaluación parcial concluida</strong> / Portafolio verificado al 100%</div>
   </div>
 </div>

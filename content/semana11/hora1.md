@@ -14,57 +14,62 @@ Abre tu documento **«Portafolio Digital - Segundo Parcial»** en Google Docs, a
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: El Reto «Bandeja Limpia» en 3 Pasos (30 min)</h2>
+<h2>Desarrollo: Reto «Bandeja Limpia» en 2 Columnas (30 min)</h2>
 </section>
 
-Entra a tu correo: 👉 **[mail.google.com](https://mail.google.com)** con tu cuenta `@dgb.edu.mx`.
-
-<div class="task-grid-3">
-  <div class="task-card accent-rose">
+<div class="task-grid-2">
+  <div class="task-card accent-amber">
     <div class="task-card-header">
       <span class="step-badge">1</span>
-      <span>🗑️ Borrado Masivo</span>
+      <span>🧹 Pasos en Gmail (mail.google.com)</span>
     </div>
     <div class="task-card-body">
-      <ol>
-        <li>Busca arriba: <code>from:classroom.google.com</code></li>
-        <li>Marca la casilla superior izquierda.</li>
-        <li>⚠️ <strong>Clic al centro:</strong> <em>«Seleccionar todas las conversaciones que coincidan...»</em></li>
-        <li>Clic en <strong>Eliminar</strong> 🗑️.</li>
-      </ol>
+      <p>Entra a 👉 <strong><a href="https://mail.google.com" target="_blank" rel="noopener noreferrer">mail.google.com</a></strong> con tu cuenta <code>@dgb.edu.mx</code> y sigue esta tabla:</p>
+      <table style="width:100%; font-size:11.5px; border-collapse:collapse; margin-top:6px;">
+        <tr style="background:#f1f5f9;">
+          <th style="padding:6px; border:1px solid #cbd5e1; width:28%;">Paso</th>
+          <th style="padding:6px; border:1px solid #cbd5e1;">Qué hacer en Gmail</th>
+        </tr>
+        <tr>
+          <td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">1️⃣ Borrado Masivo</td>
+          <td style="padding:6px; border:1px solid #cbd5e1;">Busca arriba <code>from:classroom.google.com</code> ➔ Marca la casilla superior ➔ Clic en <em>«Seleccionar todas las conversaciones...»</em> ➔ <strong>Eliminar 🗑️</strong>.</td>
+        </tr>
+        <tr>
+          <td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">2️⃣ Crear Filtro</td>
+          <td style="padding:6px; border:1px solid #cbd5e1;">En el buscador abre las <strong>3 rayitas</strong> ➔ En <strong>De:</strong> pon <code>classroom.google.com</code> ➔ <strong>Crear filtro</strong> ➔ Marca <strong>Saltar Recibidos</strong> y <strong>Aplicar etiqueta:</strong> <code>Classroom CEB</code>.</td>
+        </tr>
+        <tr>
+          <td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">3️⃣ Papelera</td>
+          <td style="padding:6px; border:1px solid #cbd5e1;">En el menú izquierdo ve a <strong>Más ➔ Papelera</strong> y da clic en <strong>«Vaciar papelera ahora»</strong>.</td>
+        </tr>
+      </table>
     </div>
   </div>
 
   <div class="task-card accent-purple">
     <div class="task-card-header">
       <span class="step-badge">2</span>
-      <span>⚙️ Filtro Automático</span>
+      <span>📸 Tabla de Evidencias 2×2 en Docs</span>
     </div>
     <div class="task-card-body">
-      <ol>
-        <li>En la barra de búsqueda, abre las <strong>3 rayitas de opciones</strong>.</li>
-        <li>En <strong>De:</strong> pon <code>classroom.google.com</code></li>
-        <li>Clic en <strong>Crear filtro</strong> y marca:
-          <br>• [x] <em>Saltar Recibidos</em>
-          <br>• [x] <em>Aplicar etiqueta:</em> <strong>Classroom CEB</strong>
-        </li>
-      </ol>
-    </div>
-  </div>
-
-  <div class="task-card accent-emerald">
-    <div class="task-card-header">
-      <span class="step-badge">3</span>
-      <span>♻️ Papelera y Evidencia</span>
-    </div>
-    <div class="task-card-body">
-      <ol>
-        <li>Ve a <strong>Más ➔ Papelera</strong> y da clic en <strong>«Vaciar papelera ahora»</strong>.</li>
-        <li>Inserta en Docs una <strong>tabla 2×2</strong> con 2 capturas:
-          <br>📸 <em>Captura 1:</em> Filtro/Etiqueta creada.
-          <br>📸 <em>Captura 2:</em> Bandeja limpia.
-        </li>
-      </ol>
+      <p>Debajo de tu Dictado 1 en la pestaña <strong><code>Semana 11 ✉️</code></strong>, inserta una tabla de <strong>2 columnas × 2 filas</strong> (texto <strong>Tamaño 10</strong>):</p>
+      <table style="width:100%; font-size:11.5px; border-collapse:collapse; margin-top:6px;">
+        <tr style="background:#f1f5f9;">
+          <th style="padding:6px; border:1px solid #cbd5e1; width:50%;">📸 Captura 1: Filtro Classroom CEB</th>
+          <th style="padding:6px; border:1px solid #cbd5e1; width:50%;">📸 Captura 2: Bandeja y Papelera Limpia</th>
+        </tr>
+        <tr>
+          <td style="padding:12px 6px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
+            <em>(Pega aquí tu captura donde se vea el filtro o etiqueta <strong>Classroom CEB</strong> creada)</em>
+          </td>
+          <td style="padding:12px 6px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
+            <em>(Pega aquí tu captura de tu bandeja de Recibidos o Papelera ya vacía)</em>
+          </td>
+        </tr>
+      </table>
+      <p style="margin-top:8px; font-size:12px; color:#64748b;">
+        💡 Usa <code>Win + Shift + S</code> (o <code>Cmd + Shift + 4</code>) para recortar solo lo importante.
+      </p>
     </div>
   </div>
 </div>
