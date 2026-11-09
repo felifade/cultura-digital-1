@@ -8,9 +8,10 @@
 - **Asignatura:** Cultura Digital I (1er Semestre — CEB 5/4, DGB / SEMS)
 - **Docente:** Prof. Felipe López Salazar (`d.flopez54@dgb.edu.mx`)
 - **Repositorio GitHub:** `felifade/cultura-digital-1`
-- **Flujo de compilación:**
+- **Flujo de compilación y despliegue (MUY IMPORTANTE):**
   - Los contenidos editables viven en `content/semanaXX/` (`meta.json`, `hora1.md`, `hora2.md`, `hora3.md`, `productos.md`).
   - Al terminar cualquier cambio en `.md` o `meta.json`, **siempre ejecutar `python3 build.py`** para empaquetar todo en `js/data.js` y actualizar el cache-buster (`?v=...`) en `index.html`.
+  - ⚠️ **GitHub Pages sirve desde la rama `gh-pages`:** Siempre publicar en ambas ramas con `git push origin main main:gh-pages`.
 
 ---
 
