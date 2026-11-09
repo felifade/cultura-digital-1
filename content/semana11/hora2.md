@@ -43,7 +43,6 @@ Continúa en la misma pestaña **`Semana 11 ✉️`**, debajo de la tabla anteri
           <td style="padding:6px; border:1px solid #cbd5e1;">
             • 👋 <strong>Saludo:</strong> <em>«Estimado(a) compañero(a) [Nombre]:»</em><br>
             • ☀️ <strong>Mensaje positivo:</strong> Desearle un excelente día y mucho éxito en el cierre del 2º Parcial.<br>
-            • 🔗 <strong>Hipervínculo institucional:</strong> Inserta el enlace a la página oficial del bachillerato: <a href="https://felifade.github.io/cultura-digital-1/" target="_blank" rel="noopener noreferrer">Plataforma Cultura Digital</a> con la palabra <strong><u>Cuaderno Digital</u></strong>.<br>
             • 🤝 <strong>Firma formal:</strong> Tu nombre completo, grupo y CEB 5/4.
           </td>
         </tr>
