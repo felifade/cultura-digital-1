@@ -24,7 +24,7 @@ Continúa en la misma pestaña **`Semana 11 ✉️`**, debajo de la tabla anteri
       <span>✉️ En Parejas: Enviar y Responder en Gmail</span>
     </div>
     <div class="task-card-body">
-      <p>Con tu compañero(a) contiguo(a), envíense un correo formal con saludo institucional y buenos deseos, y respóndanse siguiendo esta tabla:</p>
+      <p>Con tu compañero(a) contiguo(a), envíense un correo formal con saludo institucional y buenos deseos para el inicio del 3er Parcial, y respóndanse siguiendo esta tabla:</p>
       <table style="width:100%; font-size:11.5px; border-collapse:collapse; margin-top:6px;">
         <tr style="background:#f1f5f9;">
           <th style="padding:6px; border:1px solid #cbd5e1; width:28%;">Campo</th>
@@ -42,7 +42,7 @@ Continúa en la misma pestaña **`Semana 11 ✉️`**, debajo de la tabla anteri
           <td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">Cuerpo:</td>
           <td style="padding:6px; border:1px solid #cbd5e1;">
             • 👋 <strong>Saludo:</strong> <em>«Estimado(a) compañero(a) [Nombre]:»</em><br>
-            • ☀️ <strong>Mensaje positivo:</strong> Desearle un excelente día y mucho éxito en el cierre del 2º Parcial.<br>
+            • ☀️ <strong>Mensaje positivo:</strong> Desearle un excelente día y mucho éxito para el inicio del 3er Parcial.<br>
             • 🤝 <strong>Firma formal:</strong> Tu nombre completo, grupo y CEB 5/4.
           </td>
         </tr>
