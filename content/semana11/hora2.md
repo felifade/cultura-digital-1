@@ -24,7 +24,7 @@ Continúa en la misma pestaña **`Semana 11 ✉️`**, debajo de la tabla anteri
       <span>✉️ En Parejas: Enviar y Responder en Gmail</span>
     </div>
     <div class="task-card-body">
-      <p>Con tu compañero(a) de al lado, envíense un correo formal y respóndanse siguiendo esta tabla:</p>
+      <p>Con tu compañero(a) contiguo(a), envíense un correo formal con saludo institucional y buenos deseos, y respóndanse siguiendo esta tabla:</p>
       <table style="width:100%; font-size:11.5px; border-collapse:collapse; margin-top:6px;">
         <tr style="background:#f1f5f9;">
           <th style="padding:6px; border:1px solid #cbd5e1; width:28%;">Campo</th>
@@ -36,19 +36,20 @@ Continúa en la misma pestaña **`Semana 11 ✉️`**, debajo de la tabla anteri
         </tr>
         <tr>
           <td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">Asunto:</td>
-          <td style="padding:6px; border:1px solid #cbd5e1;"><code>[Materia] - [Grupo] - Entrega de Portafolio - [Tu Nombre]</code></td>
+          <td style="padding:6px; border:1px solid #cbd5e1;"><code>[Materia] - [Grupo] - Saludo Institucional - [Tu Nombre]</code></td>
         </tr>
         <tr>
           <td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">Cuerpo:</td>
           <td style="padding:6px; border:1px solid #cbd5e1;">
             • 👋 <strong>Saludo:</strong> <em>«Estimado(a) compañero(a) [Nombre]:»</em><br>
-            • 🔗 <strong>Enlace:</strong> Pega el link de tu Portafolio en modo <strong>Lector</strong>.<br>
-            • 🤝 <strong>Firma:</strong> Tu nombre completo, grupo y CEB 5/4.
+            • ☀️ <strong>Mensaje positivo:</strong> Desearle un excelente día y mucho éxito en el cierre del 2º Parcial.<br>
+            • 🔗 <strong>Hipervínculo institucional:</strong> Inserta el enlace a la página oficial del bachillerato: <a href="https://felifade.github.io/cultura-digital-1/" target="_blank" rel="noopener noreferrer">Plataforma Cultura Digital</a> con la palabra <strong><u>Cuaderno Digital</u></strong>.<br>
+            • 🤝 <strong>Firma formal:</strong> Tu nombre completo, grupo y CEB 5/4.
           </td>
         </tr>
         <tr>
           <td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">Responder ↩️</td>
-          <td style="padding:6px; border:1px solid #cbd5e1;">Abre el correo que recibiste de tu compañero(a), da clic en <strong>Responder ↩️</strong> y confirma que su enlace abre bien.</td>
+          <td style="padding:6px; border:1px solid #cbd5e1;">Abre el correo de tu compañero(a), da clic en <strong>Responder ↩️</strong> y responde agradeciendo el saludo con un mensaje cordial y tu firma.</td>
         </tr>
       </table>
     </div>
@@ -63,15 +64,15 @@ Continúa en la misma pestaña **`Semana 11 ✉️`**, debajo de la tabla anteri
       <p>Debajo de tu Dictado 2 en la pestaña <strong><code>Semana 11 ✉️</code></strong>, inserta una tabla de <strong>2 columnas × 2 filas</strong> (texto <strong>Tamaño 10</strong>):</p>
       <table style="width:100%; font-size:11.5px; border-collapse:collapse; margin-top:6px;">
         <tr style="background:#f1f5f9;">
-          <th style="padding:6px; border:1px solid #cbd5e1; width:50%;">📸 Captura 1: Correo Formal Enviado</th>
+          <th style="padding:6px; border:1px solid #cbd5e1; width:50%;">📸 Captura 1: Correo de Saludo Enviado</th>
           <th style="padding:6px; border:1px solid #cbd5e1; width:50%;">📸 Captura 2: Respuesta Recibida</th>
         </tr>
         <tr>
           <td style="padding:12px 6px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
-            <em>(Pega aquí la captura del correo que enviaste con asunto oficial y enlace)</em>
+            <em>(Pega aquí la captura del correo que enviaste con asunto oficial y saludo de éxito)</em>
           </td>
           <td style="padding:12px 6px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
-            <em>(Pega aquí la captura del correo de respuesta que te mandó tu compañero(a))</em>
+            <em>(Pega aquí la captura de la respuesta cordial que te mandó tu compañero(a))</em>
           </td>
         </tr>
       </table>

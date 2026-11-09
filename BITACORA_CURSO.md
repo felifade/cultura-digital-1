@@ -38,11 +38,26 @@ Para que los grupos de 40+ estudiantes de 1er semestre no se pierdan en el labor
 | **S09** | `Semana 09 📊` | Métricas de Velocidad (Typing.com) y Estadísticas | ✅ `true` | 5 rondas en Typing.com, tabla 2×3 en Docs y `=MAX()`, `=MIN()`, `=PROMEDIO()`. |
 | **S10** | *(Repaso / Examen)* | Nivelación (50%), Torneo Kahoot y Examen 2º Parcial | ✅ `true` | H1: Regularización (50%) • H2: Kahoot (20 reactivos) • H3: Examen P2 (grupos regulares). |
 | **S11** | `Semana 11 ✉️` | Higiene Digital en Gmail, Netiqueta en Parejas y Calendar/Tasks | ✅ `true` | H1: Borrado masivo Classroom + Filtro `Classroom CEB` + Tabla 2×2.<br>H2: Correo formal en parejas + Respuesta ↩️ + Tabla 2×2.<br>H3: Calendar (16 y 19 Nov) + Tasks + Tabla 2×2 + Examen P2 para grupos de lunes. |
-| **S12** | `Semana 12 🎨` | Presentaciones Electrónicas / Diseño Visual (Inicio 3er Parcial) | 🔒 `false` | Pendiente de revisión y simplificación en tablas antes de publicar. |
+| **S12** | `Semana 12 🎬` | Inicio 3er Parcial · Preproducción Audiovisual PEC (Acopio, Tomas A/B y Escaleta 2–3 min) | 🔒 `false` | Articulado con el Cortometraje PEC (2–3 min, MP4 1080p 16:9) para **ambos turnos** (Vespertino: *Raíces que permanecen* / Matutino: *Rumbo al Museo y Cultura de Paz*). |
 
 ---
 
-## 🛠️ 4. Historial de Ajustes Recientes (Changelog)
+## 🎬 4. Insumos Maestros Localizados en Drive para el Tercer Parcial (S12–S16)
+1. **`00_PEC_Tercer_Parcial_Cortometraje_Vespertino.md`:**
+   - **Producto cumbre P3:** Cortometraje Documental Audiovisual (`2:00 a 3:00 min`, `MP4 1080p Full HD`, `Horizontal 16:9`, `< 150 MB`, Cortinilla Institucional CEB 5/4 de `5 seg`, Música *Creative Commons*).
+   - **Ruta S12–S16:**
+     - **Semana 12:** Acopio de Insumos en Drive, Clasificación de Tomas (A-Roll vs B-Roll / 8 tomas clave) y Escaleta de Montaje (2 a 3 min).
+     - **Semana 13:** Montaje del Corte Grueso (Rough Cut), Curaduría Sonora CC y Voz en Off / Audio Ducking.
+     - **Semana 14:** Cortinilla Institucional CEB 5/4 (5 s), Plecas (Lower Thirds), Créditos y Afinación Visual.
+     - **Semana 15:** Renderizado MP4 1080p, Auditoría Técnica y Entrega en Classroom.
+2. **`00_Propuesta_Audiovisual_Smartphone_Matutino.md`:**
+   - Adapta la misma metodología cinematográfica para **ambos turnos**:
+     - **🌙 Turno Vespertino (107–111):** *«Raíces que permanecen: Lo que permanece»* (Tradición, festival 28 oct, memoria e identidad).
+     - **☀️ Turno Matutino (101–106):** *«Ahorramos, emprendemos y viajamos / Conocer al otro para convivir»* (La odisea del ahorro, trabajo en equipo y preparación hacia el Museo Memoria y Tolerancia).
+
+---
+
+## 🛠️ 5. Historial de Ajustes Recientes (Changelog)
 
 ### 📌 07–08 de Noviembre de 2026 — Simplificación Visual en Tablas de Semana 11 y Candado Automático
 - **Problema detectado:** El bloque de `Desarrollo` de la Semana 11 tenía demasiadas tarjetas (3 columnas en H1, 3 bloques en H2) y no mostraba de forma homogénea las tablas de pasos ni la tabla `2×2` de evidencias en Docs, lo que podía confundir a los alumnos.
@@ -51,5 +66,5 @@ Para que los grupos de 40+ estudiantes de 1er semestre no se pierdan en el labor
   - **`content/semana11/hora2.md`:** Se unificó de 3 tarjetas a **2 columnas (`task-grid-2`)**: Columna 1 con tabla de campos del correo en parejas (`Para`, `Asunto`, `Cuerpo`, `Responder ↩️`) y Columna 2 con la **Tabla 2×2 en Docs (Tamaño 10)**.
   - **`content/semana11/hora3.md` y `productos.md`:** Se estructuró en **2 columnas (`task-grid-2`)**: Columna 1 con tabla de las 3 actividades (`16 Nov`, `19 Nov`, `Tasks`) y Columna 2 con la **Tabla 2×2 en Docs (Tamaño 10)** + cintillo compacto de Evaluación SEMS (grupos de lunes).
   - **`index.html`:** Se actualizó el botón de acceso rápido de `Calificaciones Oficiales SAGYC (1er Parcial)` a `Calificaciones Oficiales SAGYC` para que aplique de forma general en todos los parciales.
-  - **Candado Automático (`content/semana11/meta.json`, `build.py` y `js/app.js`):** Se implementó el campo `"unlockAt": "2026-11-09T09:00:00-06:00"` para que la Semana 11 permanezca oculta para los estudiantes hoy domingo y se desbloquee sola el **lunes 9 de noviembre a las 9:00 AM (hora CDMX)** sin intervención manual.
+  - **Activación Semana 11 (`content/semana11/meta.json`):** Activada con `"visible": true` y publicada en `main` y `gh-pages`.
   - Se creó esta bitácora (`BITACORA_CURSO.md`) y su respaldo persistente en `~/.gemini/MEMORIA_CULTURA_DIGITAL.md`.
