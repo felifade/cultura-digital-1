@@ -37,8 +37,8 @@ Para que los grupos de 40+ estudiantes de 1er semestre no se pierdan en el labor
 | **S08** | `Semana 08 📊` | Hojas de Cálculo (Google Sheets) y Presupuesto PEC | ✅ `true` | Regla del `=`, multiplicación `*`, `=SUMA()` y formato `$`. |
 | **S09** | `Semana 09 📊` | Métricas de Velocidad (Typing.com) y Estadísticas | ✅ `true` | 5 rondas en Typing.com, tabla 2×3 en Docs y `=MAX()`, `=MIN()`, `=PROMEDIO()`. |
 | **S10** | *(Repaso / Examen)* | Nivelación (50%), Torneo Kahoot y Examen 2º Parcial | ✅ `true` | H1: Regularización (50%) • H2: Kahoot (20 reactivos) • H3: Examen P2 (grupos regulares). |
-| **S11** | `Semana 11 ✉️` | Higiene Digital en Gmail, Netiqueta en Parejas y Calendar/Tasks | ✅ `true` | H1: Borrado masivo Classroom + Filtro `Classroom CEB` + Tabla 2×2.<br>H2: Correo formal en parejas + Respuesta ↩️ + Tabla 2×2.<br>H3: Calendar (16 y 19 Nov) + Tasks + Tabla 2×2 + Examen P2 para grupos de lunes. |
-| **S12** | `Semana 12 🎬` | Inicio 3er Parcial · Preproducción Audiovisual PEC (Acopio, Tomas A/B y Escaleta 2–3 min) | 🔒 `false` | Articulado con el Cortometraje PEC (2–3 min, MP4 1080p 16:9) para **ambos turnos** (Vespertino: *Raíces que permanecen* / Matutino: *Rumbo al Museo y Cultura de Paz*). |
+| **S11** | `Semana 11 ✉️` | Higiene Digital en Gmail, Netiqueta en Parejas y Calendar/Tasks (Arranque 3er Parcial) | ✅ `true` | H1: Borrado masivo Classroom + Filtro `Classroom CEB` + Tabla 2×2.<br>H2: Correo formal en parejas (saludo 3er Parcial) + Respuesta ↩️ + Tabla 2×2.<br>H3: Calendar (16 y 19 Nov) + Tasks + Tabla 2×2 + Examen P2 para grupos de lunes. |
+| **S12** | `Semana 12 🎬` | 3er Parcial · Preproducción Audiovisual con Smartphone (Mandamientos, 5 Planos y Storyboard 10 Tomas) | 🔒 `false` | Articulado con el Cortometraje PEC (2–3 min, MP4 1080p 16:9) para **ambos turnos** (Vespertino: *Raíces que permanecen* / Matutino: *La Odisea del Ahorro y Museo*). |
 
 ---
 

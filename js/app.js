@@ -302,8 +302,8 @@ document.addEventListener('DOMContentLoaded', () => {
         
         const partials = [
             { id: 1, title: 'Parcial 1', range: 'Semanas 1-5' },
-            { id: 2, title: 'Parcial 2', range: 'Semanas 6-11' },
-            { id: 3, title: 'Parcial 3', range: 'Semanas 12-15' },
+            { id: 2, title: 'Parcial 2', range: 'Semanas 6-10' },
+            { id: 3, title: 'Parcial 3', range: 'Semanas 11-15' },
         ];
 
         // Invertimos partials para que el parcial más reciente quede arriba

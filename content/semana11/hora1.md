@@ -4,7 +4,7 @@
 <h2>Inicio: Dictado en Google Docs</h2>
 </section>
 
-Abre tu documento **«Portafolio Digital - Segundo Parcial»** en Google Docs, agrega una pestaña a la izquierda y nómbrala: **`Semana 11 ✉️`**.
+Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs, agrega una pestaña a la izquierda y nómbrala: **`Semana 11 ✉️`**.
 
 > 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
 

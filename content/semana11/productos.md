@@ -1,4 +1,4 @@
-# Productos de la Semana 11 (Segundo Parcial)
+# Productos de la Semana 11 (Tercer Parcial)
 
 > 🎯 **Objetivo de la Semana:** Limpieza y gestión del almacenamiento en Gmail, redacción formal institucional de correos electrónicos y organización del tiempo escolar en Google Calendar y Tasks.
 
@@ -15,4 +15,4 @@
 ---
 
 > 📌 **Modo de Entrega:**  
-> Todas las evidencias de la semana quedan integradas en la pestaña **`Semana 11 ✉️`** dentro del Portafolio Digital de Google Docs. Con esta sesión se concluye de forma definitiva el Segundo Parcial.
+> Todas las evidencias de la semana quedan integradas en la pestaña **`Semana 11 ✉️`** dentro del documento **«Portafolio Digital - Tercer Parcial»** de Google Docs. Con esta sesión arranca formalmente el Tercer Parcial.
