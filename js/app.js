@@ -398,6 +398,9 @@ document.addEventListener('DOMContentLoaded', () => {
         // Renderizar Markdown
         mdContent.innerHTML = marked.parse(mdText);
 
+        // Inicializar Selector de Turnos (si existe en la vista)
+        initTurnoSelector();
+
         // Actualizar estado del Checkbox
         if (!completedTasks[currentWeek]) completedTasks[currentWeek] = {};
         // markDoneBtn.checked = !!completedTasks[currentWeek][contentKey];
@@ -415,6 +418,43 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
+
+    // 4. AISLAMIENTO Y FILTRADO POR TURNO (PEC)
+    window.switchTurno = function(turno) {
+        try { localStorage.setItem('ceb_preferred_turno', turno); } catch(e) {}
+        applyTurnoFilter(turno);
+    };
+
+    function applyTurnoFilter(turno) {
+        if (!mdContent) return;
+        mdContent.classList.remove('show-matutino-only', 'show-vespertino-only');
+        const selector = mdContent.querySelector('.turno-selector-bar');
+        if (selector) {
+            selector.querySelectorAll('.turno-pill-btn').forEach(b => {
+                b.classList.toggle('active', b.dataset.turno === turno);
+            });
+        }
+        if (turno === 'matutino') {
+            mdContent.classList.add('show-matutino-only');
+        } else if (turno === 'vespertino') {
+            mdContent.classList.add('show-vespertino-only');
+        }
+    }
+
+    function initTurnoSelector() {
+        const selector = mdContent.querySelector('.turno-selector-bar');
+        if (!selector) return;
+        let preferred = 'matutino';
+        try { preferred = localStorage.getItem('ceb_preferred_turno') || 'matutino'; } catch(e) {}
+        applyTurnoFilter(preferred);
+
+        selector.querySelectorAll('.turno-pill-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const t = e.currentTarget.dataset.turno;
+                window.switchTurno(t);
+            });
+        });
+    }
 
     // 5. CÁLCULO DE PROGRESO
     function updateProgress() {

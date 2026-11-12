@@ -38,7 +38,7 @@ Para que los grupos de 40+ estudiantes de 1er semestre no se pierdan en el labor
 | **S09** | `Semana 09 📊` | Métricas de Velocidad (Typing.com) y Estadísticas | ✅ `true` | 5 rondas en Typing.com, tabla 2×3 en Docs y `=MAX()`, `=MIN()`, `=PROMEDIO()`. |
 | **S10** | *(Repaso / Examen)* | Nivelación (50%), Torneo Kahoot y Examen 2º Parcial | ✅ `true` | H1: Regularización (50%) • H2: Kahoot (20 reactivos) • H3: Examen P2 (grupos regulares). |
 | **S11** | `Semana 11 ✉️` | Higiene Digital en Gmail, Netiqueta en Parejas y Calendar/Tasks (Arranque 3er Parcial) | ✅ `true` | H1: Borrado masivo Classroom + Filtro `Classroom CEB` + Tabla 2×2.<br>H2: Correo formal en parejas (saludo 3er Parcial) + Respuesta ↩️ + Tabla 2×2.<br>H3: Calendar (16 y 19 Nov) + Tasks + Tabla 2×2 + Examen P2 para grupos de lunes. |
-| **S12** | `Semana 12 🎬` | 3er Parcial · Preproducción Audiovisual con Smartphone (Mandamientos, 5 Planos y Storyboard 10 Tomas) | 🔒 `false` | Articulado con el Cortometraje PEC (2–3 min, MP4 1080p 16:9) para **ambos turnos** (Vespertino: *Raíces que permanecen* / Matutino: *La Odisea del Ahorro y Museo*). |
+| **S12** | `Semana 12 🎬` | 3er Parcial · Preproducción Audiovisual con Smartphone y Guion PEC (Aislamiento por Turno) | ✅ `true` | H1: 4 Mandamientos y 5 Planos maestos.<br>H2: Selector de Turno + Narrativa PEC (Matutino: Mercado Artesanal 09-Dic / Vespertino: Altar de Muertos) + Pista MP3 Drive.<br>H3: Storyboard 10 tomas en Docs (5×11). |
 
 ---
 
@@ -46,18 +46,29 @@ Para que los grupos de 40+ estudiantes de 1er semestre no se pierdan en el labor
 1. **`00_PEC_Tercer_Parcial_Cortometraje_Vespertino.md`:**
    - **Producto cumbre P3:** Cortometraje Documental Audiovisual (`2:00 a 3:00 min`, `MP4 1080p Full HD`, `Horizontal 16:9`, `< 150 MB`, Cortinilla Institucional CEB 5/4 de `5 seg`, Música *Creative Commons*).
    - **Ruta S12–S16:**
-     - **Semana 12:** Acopio de Insumos en Drive, Clasificación de Tomas (A-Roll vs B-Roll / 8 tomas clave) y Escaleta de Montaje (2 a 3 min).
+     - **Semana 12:** Preproducción con Smartphone, 5 Planos y Storyboard Oficial de 10 tomas en Docs.
      - **Semana 13:** Montaje del Corte Grueso (Rough Cut), Curaduría Sonora CC y Voz en Off / Audio Ducking.
      - **Semana 14:** Cortinilla Institucional CEB 5/4 (5 s), Plecas (Lower Thirds), Créditos y Afinación Visual.
      - **Semana 15:** Renderizado MP4 1080p, Auditoría Técnica y Entrega en Classroom.
-2. **`00_Propuesta_Audiovisual_Smartphone_Matutino.md`:**
-   - Adapta la misma metodología cinematográfica para **ambos turnos**:
-     - **🌙 Turno Vespertino (107–111):** *«Raíces que permanecen: Lo que permanece»* (Tradición, festival 28 oct, memoria e identidad).
-     - **☀️ Turno Matutino (101–106):** *«Ahorramos, emprendemos y viajamos / Conocer al otro para convivir»* (La odisea del ahorro, trabajo en equipo y preparación hacia el Museo Memoria y Tolerancia).
+2. **`00_Minuta_y_Logistica_PEC_Final_Matutino_2026-12-09.md` y `00_Estrategia_Unificada_PEC_Redes_Sociales_Matutino_y_Vespertino_S12-S16.md`:**
+   - **☀️ Turno Matutino (101–106):** *«Ahorramos, Emprendemos y Viajamos»* $\rightarrow$ Campaña Teaser de 45–60 seg para promocionar el **Mercado Artesanal PEC del Miércoles 09 de Diciembre de 2026** (venta de productos artesanales elaborados por alumnos para recaudar fondos para el viaje al Museo Memoria y Tolerancia en CDMX).
+   - **🌙 Turno Vespertino (107–111):** *«Raíces que permanecen: Lo que permanece»* $\rightarrow$ Cortometraje documental poético de 2 a 3 min sobre el Altar de Día de Muertos y memoria viva de los deudos.
+3. **Acervo Oficial BIDIBAN (Biblioteca Digital de Bachillerato - SEP / SEMS) en `Recursos Sitio WEB`:**
+   - **`9788410791428.pdf`:** *Jóvenes y teléfonos móviles en las aulas. Discursos y dinámicas de prohibición, promoción e indeterminación* (Cristina Alonso Cano y Gustavo Herrera Urízar, coords., Octaedro / Horizontes Universidad, 142 pp.). Respaldo científico y pedagógico del smartphone como herramienta activa de indagación y producción.
+   - **`9789689801030.pdf`:** *Cultura Digital I: Ciudadanía Digital* (Daniel Serrano Cortés, Editorial SE / Saber Creativo, 32 pp.). Libro de texto alineado al MCCEMS 2025 con rúbricas de autoevaluación, coevaluación y matrices formativas.
 
 ---
 
 ## 🛠️ 5. Historial de Ajustes Recientes (Changelog)
+
+### 📌 12 de Noviembre de 2026 — Despliegue de Semana 12 con Aislamiento Interactivo por Turno
+- **Implementación del Selector de Turno Dinámico:**
+  - Se añadieron estilos en `css/style.css` (`.turno-selector-bar`, `.turno-pill-btn`, `.turno-banner-matutino`, `.turno-banner-vespertino`) y lógica en `js/app.js` (`window.switchTurno`, `initTurnoSelector`).
+  - Los alumnos pueden alternar con un clic entre `☀️ Turno Matutino (G101–G106)` y `🌙 Turno Vespertino (G107–G111)`. La interfaz oculta completamente el contenido del otro turno para evitar confusiones de tablas o temas, guardando la preferencia en `localStorage`.
+  - **☀️ Matutino:** Focalizado en la campaña audiovisual para el **Mercado Artesanal del 09 de Diciembre** y el fondo del Museo Memoria y Tolerancia.
+  - **🌙 Vespertino:** Focalizado en el cortometraje documental poético **«Raíces que Permanecen»** (Altar de Día de Muertos y memoria familiar).
+  - Semana 12 activada con `"visible": true`.
+- **Registro de Recursos BIDIBAN:** Se registraron formalmente los dos libros oficiales de la Biblioteca Digital de Bachillerato.
 
 ### 📌 07–08 de Noviembre de 2026 — Simplificación Visual en Tablas de Semana 11 y Candado Automático
 - **Problema detectado:** El bloque de `Desarrollo` de la Semana 11 tenía demasiadas tarjetas (3 columnas en H1, 3 bloques en H2) y no mostraba de forma homogénea las tablas de pasos ni la tabla `2×2` de evidencias en Docs, lo que podía confundir a los alumnos.
