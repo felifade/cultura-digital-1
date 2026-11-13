@@ -4,7 +4,7 @@
 <h2>Inicio: Dictado en Google Docs (10 min)</h2>
 </section>
 
-Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs, agrega una pestaña a la izquierda y nómbrala: **`Semana 12 🎬`**.
+Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs desde tu computadora del laboratorio, agrega una pestaña a la izquierda y nómbrala: **`Semana 12 🎬`**.
 
 > 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
 
@@ -50,7 +50,7 @@ Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs, ag
 </tr>
 <tr>
 <td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">4. Storytelling Silente</td>
-<td style="padding:6px; border:1px solid #cbd5e1;">Sin micrófonos con eco; la historia se cuenta con miradas, acciones y música de fondo.</td>
+<td style="padding:6px; border:1px solid #cbd5e1;">Sin micrófonos con eco; la historia se cuenta con miradas, acciones y textos en pantalla.</td>
 </tr>
 </table>
 <div style="margin-top:10px; font-size:11.5px; background:#f8fafc; padding:6px 8px; border-radius:6px; border:1px solid #e2e8f0;">
@@ -62,10 +62,10 @@ Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs, ag
 <div class="task-card accent-purple">
 <div class="task-card-header">
 <span class="step-badge">2</span>
-<span>📸 Tabla de Evidencias 2×2 en Docs (Tamaño 10)</span>
+<span>📸 Transferencia y Tabla 2×2 en Docs (Tamaño 10)</span>
 </div>
 <div class="task-card-body">
-<p>Realiza con tu celular <strong>2 tomas de prueba de 4 segundos</strong> en el aula aplicando 2 planos distintos. Toma captura fija a cada video e insértalas en tu pestaña <strong><code>Semana 12 🎬</code></strong> en una tabla <strong>2×2</strong> (texto <strong>Tamaño 10</strong>):</p>
+<p>Graba con tu celular <strong>2 tomas de prueba de 4 segundos</strong> en el laboratorio en formato horizontal (16:9) aplicando 2 planos distintos. Transfiere las fotos fijas a tu computadora (vía Google Drive o cable USB) e insértalas en tu pestaña <strong><code>Semana 12 🎬</code></strong> en una tabla <strong>2×2</strong> (texto <strong>Tamaño 10</strong>):</p>
 <table style="width:100%; font-size:11.5px; border-collapse:collapse; margin-top:6px;">
 <tr style="background:#f1f5f9;">
 <th style="padding:6px; border:1px solid #cbd5e1; width:50%;">📸 Captura 1: Plano General o Medio</th>
@@ -73,23 +73,23 @@ Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs, ag
 </tr>
 <tr>
 <td style="padding:12px 6px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
-<em>(Pega aquí la foto fija de tu toma amplia o media en el salón de cómputo)</em>
+<em>(Pega aquí la foto transferida de tu toma amplia o media en el aula)</em>
 </td>
 <td style="padding:12px 6px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
-<em>(Pega aquí la foto fija de tu toma de detalle a un objeto o teclado)</em>
+<em>(Pega aquí la foto transferida de tu toma de detalle al teclado o rostro)</em>
 </td>
 </tr>
 <tr>
 <td style="padding:6px; border:1px solid #cbd5e1; font-size:10px; text-align:center; font-weight:700;">
-Tipo de Plano utilizado: [Escribe aquí el plano]
+Tipo de Plano: [Escribe aquí el plano utilizado]
 </td>
 <td style="padding:6px; border:1px solid #cbd5e1; font-size:10px; text-align:center; font-weight:700;">
-Tipo de Plano utilizado: [Escribe aquí el plano]
+Tipo de Plano: [Escribe aquí el plano utilizado]
 </td>
 </tr>
 </table>
 <div style="margin-top:8px; padding:6px 8px; background:#eff6ff; border:1px solid #bfdbfe; border-radius:6px; font-size:11.5px; color:#1e40af;">
-💡 <strong>Tip Técnico:</strong> Graba siempre en formato horizontal (16:9) y mantén la toma completamente quieta durante los 4 segundos.
+💡 <strong>Flujo 100% Digital:</strong> Todo se califica en el monitor de tu computadora. Asegúrate de que las fotos carguen con nitidez en Docs.
 </div>
 </div>
 </div>
@@ -103,9 +103,9 @@ Tipo de Plano utilizado: [Escribe aquí el plano]
 
 <div class="cierre-checklist-box">
 <div class="cierre-checklist-grid">
-<div>✅ <strong>Pestaña `Semana 12 🎬`</strong> creada en Docs con Dictado 1</div>
+<div>✅ <strong>Pestaña `Semana 12 🎬`</strong> en Docs con Dictado 1 completo</div>
 <div>✅ <strong>4 mandamientos del celular</strong> y 5 planos identificados</div>
-<div>✅ <strong>2 tomas de prueba</strong> grabadas horizontalmente en el aula</div>
-<div>✅ <strong>Tabla 2×2 con capturas fijas</strong> pegada en Docs (Tamaño 10)</div>
+<div>✅ <strong>2 fotos transferidas a la computadora</strong> (Drive o cable)</div>
+<div>✅ <strong>Tabla 2×2 con capturas pegada en Docs</strong> (Tamaño 10)</div>
 </div>
 </div>

@@ -218,6 +218,9 @@ Plan de rodaje de <strong>10 tomas de 3 a 5 segundos</strong> para el cortometra
 <td style="padding:3px; border:1px solid #cbd5e1;">Cortinilla CEB y créditos</td>
 </tr>
 </table>
+<p style="margin-top:8px; font-size:11px; color:#475569;">
+💡 <strong>Nota Pedagógica:</strong> La columna de audio planifica la intención sonora (alegre, solemne o foley); la descarga y sincronización del archivo MP3 se realizará en la Semana 13 durante el montaje en CapCut/Canva.
+</p>
 </div>
 </div>
 </div>
@@ -231,9 +234,9 @@ Plan de rodaje de <strong>10 tomas de 3 a 5 segundos</strong> para el cortometra
 
 <div class="cierre-checklist-box">
 <div class="cierre-checklist-grid">
-<div>✅ <strong>Dictado 3 completo</strong> con 5 palabras intervenidas</div>
+<div>✅ <strong>Dictado 3 completo</strong> con 5 palabras intervenidas en Docs</div>
 <div>✅ <strong>4 roles asignados</strong> dentro del equipo de producción</div>
 <div>✅ <strong>Tabla de Storyboard (10 tomas)</strong> completa en Docs (Tamaño 10)</div>
-<div>✅ <strong>Guion técnico autorizado</strong> por el docente para filmar en Semana 13</div>
+<div>✅ <strong>Guion técnico autorizado en pantalla</strong> por el docente para Semana 13</div>
 </div>
 </div>
