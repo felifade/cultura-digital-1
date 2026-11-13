@@ -1,71 +1,57 @@
-# Hora 3: El Guion Técnico (Storyboard Oficial de 10 Tomas)
+# Hora 3: Sesión Colchón y Taller de Nivelación Institucional
 
 <section class="momento momento-inicio">
-<h2>Inicio: Tercer Dictado en Google Docs (10 min)</h2>
+<h2>Inicio: Blindaje contra Suspensiones Escolares (10 min)</h2>
 </section>
 
-Continúa en la misma pestaña **`Semana 12 🎬`**, debajo de la sección de la Hora 2.
-
-> 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
-
-> ### Preproducción y Plan de Filmación
-> *"La **<u>preproducción</u>** 📋 es la fase más importante del cine porque organiza cada detalle antes de comenzar a grabar. Un **<u>storyboard</u>** 🎬 funciona como un mapa visual que describe cada escena segundo a segundo. Planear cada **<u>encuadre</u>** 📐 evita perder tiempo en filmaciones innecesarias y optimiza la **<u>coordinación</u>** 👥 del equipo, garantizando un **<u>resultado</u>** 🏆 profesional."*
-
-> 🎵 **Reto de Lectura de Comprensión:** Tienes **lo que dura la canción de fondo (3 a 4 min)** para realizar tu lectura individual, subrayar las 5 palabras clave con sus emojis y dejar listo tu documento.
+<!-- CAJA EXPLICATIVA SESIÓN COLCHÓN -->
+<div style="background:#f8fafc; border:1.5px solid #cbd5e1; border-left:6px solid #475569; border-radius:8px; padding:12px 14px; margin:10px 0; color:#334155; font-size:12.5px;">
+<strong style="font-size:13px; color:#1e293b;">🛡️ Sesión Estratégica de Colchón y Nivelación Institucional:</strong><br>
+Debido a las <strong>suspensiones oficiales del calendario escolar (2 días por conmemoración de la Revolución Mexicana y gestiones institucionales)</strong>, esta Hora 3 opera como un <strong>comodín flexible</strong> para evitar desfasamientos entre los 11 grupos del CEB 5/4:
+<ul style="margin:6px 0 0 16px; padding:0; font-size:12px; line-height:1.5;">
+<li><strong>Grupos con clases suspendidas:</strong> Cubrieron en las Horas 1 y 2 la técnica de cámara, los 4 mandamientos, el análisis del cortometraje del Mtro. Alfonso y su guion técnico. <em>¡No tienen ningún atraso ni deben tareas extra!</em></li>
+<li><strong>Grupos con horario completo (3 horas):</strong> Tienen esta sesión como taller autónomo para pulir su documento, perfeccionar formatos y dejar su rodaje listo para la Semana 13.</li>
+</ul>
+</div>
 
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Construcción del Storyboard en Equipo (30 min)</h2>
+<h2>Desarrollo: Taller Autónomo de Formato y Pulido en Docs (30 min)</h2>
 </section>
 
-<div style="background:#fdf4ff; border:1px solid #f0abfc; border-left:5px solid #a855f7; padding:8px 12px; border-radius:6px; margin:10px 0; font-size:12px; color:#7e22ce;">
-⏱️ <strong>Reto Autónomo de 10 Minutos (Pantalla Dividida 70/30):</strong> Con este portal al <strong>30%</strong> como guía lateral, el equipo construye de forma autónoma en su Google Docs (<strong>70%</strong>) la <strong>Tabla Oficial de Storyboard (5 columnas × 11 filas)</strong>.
-</div>
-
-<!-- SELECTOR DE TURNO INTERACTIVO -->
-<div class="turno-selector-bar">
-<span style="font-size:0.85rem; font-weight:700; color:var(--text-secondary); margin-right:4px;">🎯 Elige tu Turno:</span>
-<button type="button" class="turno-pill-btn btn-matutino active" data-turno="matutino" onclick="window.switchTurno('matutino')">☀️ Turno Matutino (G101–G106)</button>
-<button type="button" class="turno-pill-btn btn-vespertino" data-turno="vespertino" onclick="window.switchTurno('vespertino')">🌙 Turno Vespertino (G107–G111)</button>
-<button type="button" class="turno-pill-btn btn-ambos" data-turno="ambos" onclick="window.switchTurno('ambos')">👁️ Ver Ambos Turnos</button>
-</div>
-
-<!-- BLOQUE TURNO MATUTINO (STORYBOARD TEASER) -->
-<div class="seccion-matutino">
-<div class="turno-banner-matutino">
-<strong>☀️ TURNO MATUTINO (Grupos 101 al 106) · Storyboard del Mercado Artesanal (09 de Diciembre)</strong><br>
-Plan de rodaje de <strong>10 tomas de 3 a 5 segundos</strong> para promocionar el producto artesanal de tu equipo y el fondo de ahorro para el <strong>Museo Memoria y Tolerancia</strong>.
+<div style="background:#eff6ff; border:1px solid #bfdbfe; border-left:5px solid #2563eb; padding:8px 12px; border-radius:6px; margin:10px 0; font-size:12px; color:#1e40af;">
+🖥️ <strong>Modo Autónomo (Pantalla Dividida 70/30):</strong> Mantén tu Google Docs al <strong>70%</strong> y este portal al <strong>30%</strong> para auditar que tu pestaña <strong><code>Semana 12 🎬</code></strong> cumpla con todos los estándares institucionales.
 </div>
 
 <div class="task-grid-2">
 <div class="task-card accent-amber">
 <div class="task-card-header">
 <span class="step-badge">1</span>
-<span>👥 Roles del Equipo de Emprendimiento (Matutino)</span>
+<span>🔍 Auditoría de Formato en Google Docs</span>
 </div>
 <div class="task-card-body">
-<p>Reúnanse en sus equipos PEC (3 a 4 alumnos) y asignen sus 4 funciones:</p>
+<p>Verifica punto por punto que tu portafolio digital esté impecable:</p>
 <table style="width:100%; font-size:11px; border-collapse:collapse; margin-top:4px;">
 <tr style="background:#fef3c7;">
-<th style="padding:4px; border:1px solid #fde68a; width:36%;">Rol</th>
-<th style="padding:4px; border:1px solid #fde68a;">Misión en el Teaser del Mercado</th>
+<th style="padding:4px; border:1px solid #fde68a; width:35%;">Elemento</th>
+<th style="padding:4px; border:1px solid #fde68a;">Criterio de Calidad</th>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">🎬 Dirección</td>
-<td style="padding:4px; border:1px solid #fde68a;">Vigila el ritmo dinámico y el llamado a comprar el 09 de Diciembre.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">Títulos de Dictados</td>
+<td style="padding:4px; border:1px solid #fde68a;"><strong>Tamaño 20 • Negrita • Centrado</strong> en ambos dictados.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">🎥 Cámara</td>
-<td style="padding:4px; border:1px solid #fde68a;">Graba en horizontal (16:9) planos detalle de la artesanía con luz natural.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">Cuerpo de Texto</td>
+<td style="padding:4px; border:1px solid #fde68a;"><strong>Tamaño 14 • Justificado</strong> sin errores de dedo.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">🛍️ Insumos / Artesano</td>
-<td style="padding:4px; border:1px solid #fde68a;">Alista la artesanía, materiales de confección y cartel del puesto.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">Palabras Clave (5)</td>
+<td style="padding:4px; border:1px solid #fde68a;">Intervenidas con <strong><u>Negrita + Subrayado</u> + Emoji enfrente</strong>.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">💻 Edición</td>
-<td style="padding:4px; border:1px solid #fde68a;">Coordina la pista musical alegre y las plecas con precios en CapCut/Canva.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">Tablas en Docs</td>
+<td style="padding:4px; border:1px solid #fde68a;">Texto compacto en <strong>Tamaño 10</strong>, bordes limpios y alineados.</td>
 </tr>
 </table>
 </div>
@@ -74,153 +60,18 @@ Plan de rodaje de <strong>10 tomas de 3 a 5 segundos</strong> para promocionar e
 <div class="task-card accent-purple">
 <div class="task-card-header">
 <span class="step-badge">2</span>
-<span>📋 Tabla de Storyboard Matutino (10 Tomas en Docs)</span>
+<span>🎬 Afinación de Guion para el Rodaje de Semana 13</span>
 </div>
 <div class="task-card-body">
-<p>Inserta debajo de tu Dictado 3 en Docs una tabla de <strong>5 columnas × 11 filas</strong> (letra <strong>Tamaño 10</strong>):</p>
-<table style="width:100%; font-size:9.5px; border-collapse:collapse; margin-top:4px;">
-<tr style="background:#f1f5f9;">
-<th style="padding:3px; border:1px solid #cbd5e1; width:8%;">No.</th>
-<th style="padding:3px; border:1px solid #cbd5e1; width:22%;">Tipo de Plano</th>
-<th style="padding:3px; border:1px solid #cbd5e1;">¿Qué se ve exactamente en pantalla?</th>
-<th style="padding:3px; border:1px solid #cbd5e1; width:20%;">Movimiento</th>
-<th style="padding:3px; border:1px solid #cbd5e1; width:18%;">Audio / Sonido</th>
-</tr>
-<tr>
-<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">01</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Plano Detalle</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Artesanía terminada exhibida con luz de sol</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Fijo (Trípode humano)</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Música alegre entra</td>
-</tr>
-<tr>
-<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">02</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Plano Detalle</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Manos trenzando hilo / elaborando la pieza</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Acercamiento suave</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Ritmo musical sube</td>
-</tr>
-<tr>
-<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">03 a 08</td>
-<td style="padding:3px; border:1px solid #cbd5e1;"><em>(Variados)</em></td>
-<td style="padding:3px; border:1px solid #cbd5e1;"><em>[Costeo en Sheets, frasco de ahorro para museo, equipo trabajando]</em></td>
-<td style="padding:3px; border:1px solid #cbd5e1;"><em>Fijo o Traveling</em></td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Música instrumental</td>
-</tr>
-<tr>
-<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">09</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Primer Plano</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Cartel con fecha: <em>Miércoles 09 de Dic · Mercado Artesanal</em></td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Fijo</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Música en clímax</td>
-</tr>
-<tr>
-<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">10</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Plano General</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Equipo sonriendo en el patio invitando al público</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Fijo 5 segundos</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Fade out y créditos</td>
-</tr>
-</table>
-</div>
-</div>
-</div>
-</div>
-
-<!-- BLOQUE TURNO VESPERTINO (STORYBOARD ALTAR) -->
-<div class="seccion-vespertino">
-<div class="turno-banner-vespertino">
-<strong>🌙 TURNO VESPERTINO (Grupos 107 al 111) · Storyboard Documental «Raíces que Permanecen»</strong><br>
-Plan de rodaje de <strong>10 tomas de 3 a 5 segundos</strong> para el cortometraje documental sobre el <strong>Altar de Día de Muertos y Memoria Viva</strong>.
-</div>
-
-<div class="task-grid-2">
-<div class="task-card accent-emerald">
-<div class="task-card-header">
-<span class="step-badge">1</span>
-<span>👥 Roles del Equipo Documental (Vespertino)</span>
-</div>
-<div class="task-card-body">
-<p>Reúnanse en sus equipos PEC (3 a 4 alumnos) y asignen sus 4 funciones:</p>
-<table style="width:100%; font-size:11px; border-collapse:collapse; margin-top:4px;">
-<tr style="background:#ede9fe;">
-<th style="padding:4px; border:1px solid #ddd6fe; width:36%;">Rol</th>
-<th style="padding:4px; border:1px solid #ddd6fe;">Misión en el Cortometraje</th>
-</tr>
-<tr>
-<td style="padding:4px; border:1px solid #ddd6fe; font-weight:700;">🎬 Dirección</td>
-<td style="padding:4px; border:1px solid #ddd6fe;">Garantiza el tono poético, emotivo y el respeto a las tradiciones.</td>
-</tr>
-<tr>
-<td style="padding:4px; border:1px solid #ddd6fe; font-weight:700;">🎥 Cámara</td>
-<td style="padding:4px; border:1px solid #ddd6fe;">Tomas estables en penumbra, enfoque manual y planos fijos de velas.</td>
-</tr>
-<tr>
-<td style="padding:4px; border:1px solid #ddd6fe; font-weight:700;">🕯️ Arte / Ofrenda</td>
-<td style="padding:4px; border:1px solid #ddd6fe;">Prepara pétalos de cempasúchil, copal, pan de muerto y fotografías.</td>
-</tr>
-<tr>
-<td style="padding:4px; border:1px solid #ddd6fe; font-weight:700;">💻 Edición y Cortinilla</td>
-<td style="padding:4px; border:1px solid #ddd6fe;">Aplica Cortinilla Oficial CEB 5/4 (5 s), banda sonora y plecas de títulos.</td>
-</tr>
-</table>
-</div>
-</div>
-
-<div class="task-card accent-rose">
-<div class="task-card-header">
-<span class="step-badge">2</span>
-<span>📋 Tabla de Storyboard Vespertino (10 Tomas en Docs)</span>
-</div>
-<div class="task-card-body">
-<p>Inserta debajo de tu Dictado 3 en Docs una tabla de <strong>5 columnas × 11 filas</strong> (letra <strong>Tamaño 10</strong>):</p>
-<table style="width:100%; font-size:9.5px; border-collapse:collapse; margin-top:4px;">
-<tr style="background:#f1f5f9;">
-<th style="padding:3px; border:1px solid #cbd5e1; width:8%;">No.</th>
-<th style="padding:3px; border:1px solid #cbd5e1; width:22%;">Tipo de Plano</th>
-<th style="padding:3px; border:1px solid #cbd5e1;">¿Qué se ve exactamente en pantalla?</th>
-<th style="padding:3px; border:1px solid #cbd5e1; width:20%;">Movimiento</th>
-<th style="padding:3px; border:1px solid #cbd5e1; width:18%;">Audio / Sonido</th>
-</tr>
-<tr>
-<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">01</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Plano Detalle</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Cerillo encendiendo una veladora en la penumbra</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Fijo (Trípode humano)</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Música tradicional suave</td>
-</tr>
-<tr>
-<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">02</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Cámara Lenta / Cenital</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Pétalos de cempasúchil anaranjados cayendo al piso</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Cámara cenital inmóvil</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Sonido de viento / violín</td>
-</tr>
-<tr>
-<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">03 a 08</td>
-<td style="padding:3px; border:1px solid #cbd5e1;"><em>(Variados)</em></td>
-<td style="padding:3px; border:1px solid #cbd5e1;"><em>[Retrato familiar limpiado, pan de muerto, copal, manos de abuela]</em></td>
-<td style="padding:3px; border:1px solid #cbd5e1;"><em>Traveling o Fijo</em></td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Música tradicional</td>
-</tr>
-<tr>
-<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">09</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Contraluz</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Papel picado ondeando con luz dorada del atardecer</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Fijo</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Música en clímax emotivo</td>
-</tr>
-<tr>
-<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">10</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Gran Plano General</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Altar de muertos completamente iluminado de noche</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Fijo 5 segundos</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Cortinilla CEB y créditos</td>
-</tr>
-</table>
-<p style="margin-top:8px; font-size:11px; color:#475569;">
-💡 <strong>Nota Pedagógica:</strong> La columna de audio planifica la intención sonora (alegre, solemne o foley); la descarga y sincronización del archivo MP3 se realizará en la Semana 13 durante el montaje en CapCut/Canva.
-</p>
+<p>Revisa con tu equipo los preparativos técnicos para filmar la próxima semana:</p>
+<ul style="font-size:11.5px; line-height:1.6; margin:6px 0 0 16px; padding:0; color:#334155;">
+<li><strong>Verificación de Objetos:</strong> Que el encargado de Insumos/Arte tenga listas las artesanías (Matutino) o elementos de ofrenda (Vespertino).</li>
+<li><strong>Iluminación:</strong> Identificar qué ventanas del laboratorio o pasillo ofrecen la mejor luz suave sin destellos.</li>
+<li><strong>Estabilidad:</strong> Ensayar la postura del trípode humano con celular en horizontal (16:9).</li>
+<li><strong>Revisión en Monitor:</strong> El docente valida y registra en pantalla el avance de cada equipo sin prisas.</li>
+</ul>
+<div style="margin-top:8px; padding:6px 8px; background:#f0fdf4; border:1px solid #bbf7d0; border-radius:6px; font-size:11px; color:#166534;">
+✨ <strong>Próximo Paso (Semana 13):</strong> Con el guion autorizado, iniciaremos la filmación áulica, la integración de la banda sonora y el montaje rítmico en CapCut/Canva.
 </div>
 </div>
 </div>
@@ -234,9 +85,9 @@ Plan de rodaje de <strong>10 tomas de 3 a 5 segundos</strong> para el cortometra
 
 <div class="cierre-checklist-box">
 <div class="cierre-checklist-grid">
-<div>✅ <strong>Dictado 3 completo</strong> con 5 palabras intervenidas en Docs</div>
-<div>✅ <strong>4 roles asignados</strong> dentro del equipo de producción</div>
-<div>✅ <strong>Tabla de Storyboard (10 tomas)</strong> completa en Docs (Tamaño 10)</div>
-<div>✅ <strong>Guion técnico autorizado en pantalla</strong> por el docente para Semana 13</div>
+<div>✅ <strong>Pestaña `Semana 12 🎬`</strong> auditada y completa en Google Docs</div>
+<div>✅ <strong>2 dictados</strong> con formato reglamentario (20 negrita / 14 justificado)</div>
+<div>✅ <strong>Tabla de Guion Técnico (8 tomas)</strong> afinada en equipo (Tamaño 10)</div>
+<div>✅ <strong>Portafolio digital revisado en monitor</strong> por el docente</div>
 </div>
 </div>

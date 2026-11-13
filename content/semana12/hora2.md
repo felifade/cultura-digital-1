@@ -1,4 +1,4 @@
-# Hora 2: Laboratorio de Rodaje Áulico y Tomas Maestras PEC
+# Hora 2: Planificación Audiovisual y Guion Técnico PEC
 
 <section class="momento momento-inicio">
 <h2>Inicio: Segundo Dictado en Google Docs (10 min)</h2>
@@ -8,25 +8,31 @@ Continúa en la misma pestaña **`Semana 12 🎬`** de tu documento en Google Do
 
 > 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
 
-> ### Composición Visual, Luz Natural y Disciplina de Rodaje
-> *"El éxito de una grabación cinematográfica depende de aprovechar la **<u>iluminación</u>** 💡 natural de ventanas sin generar sombras duras. Ensayar cada **<u>encuadre</u>** 📐 antes de presionar grabar evita tomas defectuosas y ahorra batería. Mantener la **<u>disciplina</u>** 🎬 en el set de filmación asegura el orden escolar y optimiza el **<u>tiempo</u>** ⏱️ de rodaje. La cámara debe buscar la **<u>expresividad</u>** 🎭 en los detalles cotidianos para transmitir emociones auténticas."*
+> ### Narrativa Visual Humana y Respeto Cultural
+> *"El verdadero cine escolar comunica **<u>emociones</u>** ❤️ auténticas sin recurrir a clichés de terror ni fantasmas artificiales. La fuerza de una historia radica en el **<u>respeto</u>** 🕊️ por nuestras raíces, capturando la belleza de los detalles cotidianos. Planificar cada escena en un **<u>guion</u>** 📝 técnico ahorra tiempo y organiza el trabajo colectivo. La luz natural y las miradas sinceras otorgan un valor **<u>cultural</u>** 🌺 y humano que trasciende en nuestra **<u>comunidad</u>** 🤝 escolar."*
 
 > 🎵 **Reto de Lectura de Comprensión:** En lo que suena la **canción instrumental de fondo (3 a 4 min)**, lee el texto en silencio, subraya las 5 palabras clave con sus emojis y mantén tu pantalla dividida (70% Docs / 30% Portal).
 
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Rodaje Áulico (80%) y Protocolo de Salida (20%) (30 min)</h2>
+<h2>Desarrollo: Análisis del Cortometraje Maestro y Guion PEC (30 min)</h2>
 </section>
 
-<!-- PROTOCOLO PASAPORTE DE RODAJE -->
-<div style="background:#fef2f2; border:1.5px solid #f87171; border-left:6px solid #dc2626; border-radius:8px; padding:10px 14px; margin:10px 0; color:#991b1b; font-size:12px;">
-<strong>🛑 PROTOCOLO OFICIAL «PASAPORTE DE RODAJE» PARA EXTERIORES (20%):</strong><br>
-• <strong>80% del Rodaje se hace en el Laboratorio:</strong> Aprovechando la luz natural de las ventanas para planos de detalle (manos, artesanías, alcancía, fotos y pantallas).<br>
-• <strong>Máximo 2 equipos a la vez en pasillos/patio (6 a 8 alumnos en total):</strong> Ningún equipo sale sin autorización.<br>
-• <strong>Requisito en Pantalla:</strong> El equipo debe mostrar en su monitor de Docs las <strong>2 tomas exactas</strong> que grabará afuera.<br>
-• <strong>Cronómetro en Cañón Proyector:</strong> <strong>8 minutos cronometrados</strong> para salir, grabar las 2 tomas y regresar a sus computadoras.<br>
-• <strong>Mientras tanto:</strong> Los demás equipos permanecen en sus lugares vaciando fotos de interior e insertándolas en su tabla de Google Docs.
+<!-- CAJA REFERENCIA CORTOMETRAJE MAESTRO -->
+<div style="background:#f0fdf4; border:1.5px solid #86efac; border-left:6px solid #16a34a; border-radius:8px; padding:12px 14px; margin:10px 0; color:#14532d; font-size:12px;">
+<div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+<div>
+<strong style="font-size:13px;">🎬 Cortometraje Maestro de Referencia (Aporte Mtro. Alfonso Herrera):</strong><br>
+<em>Dirección: Andrés Domz · Guion: Sonia Domínguez · Con: José Domínguez y Teresa Miranda</em>
+</div>
+<a href="https://drive.google.com/file/d/1DMXGThjjZJ99W-ntFUZuKBmyg1JJzSCH/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="background:#16a34a; color:#ffffff; padding:6px 12px; border-radius:6px; font-weight:700; text-decoration:none; font-size:11px; display:inline-block;">▶️ Ver Cortometraje en Drive</a>
+</div>
+<div style="margin-top:8px; font-size:11.5px; line-height:1.5; color:#166534;">
+• <strong>Cero Clichés de Terror:</strong> No hay sustos fáciles ni monstruos; la emoción nace del amor, el silencio y la memoria de una pareja de abuelos frente a su ofrenda.<br>
+• <strong>Composición Magistral:</strong> Planos detalle de flores de cempasúchil, veladoras titilantes, pan de muerto y manos arrugadas entrelazadas sobre el mantel.<br>
+• <strong>Iluminación Íntima:</strong> Luz natural de velas y sombras suaves sin equipo costoso.
+</div>
 </div>
 
 <!-- SELECTOR DE TURNO INTERACTIVO -->
@@ -40,78 +46,92 @@ Continúa en la misma pestaña **`Semana 12 🎬`** de tu documento en Google Do
 <!-- BLOQUE TURNO MATUTINO (MERCADO ARTESANAL) -->
 <div class="seccion-matutino">
 <div class="turno-banner-matutino">
-<strong>☀️ TURNO MATUTINO (Grupos 101 al 106) · Tomas PEC Mercado Artesanal (09 de Diciembre)</strong><br>
-Captura de planos clave para el teaser comercial de 45–60s y el fondo de ahorro para el <strong>Museo Memoria y Tolerancia (CDMX)</strong>.
+<strong>☀️ TURNO MATUTINO (Grupos 101 al 106) · Storyboard Mercado Artesanal (09 de Diciembre)</strong><br>
+Plan de rodaje de <strong>8 tomas clave</strong> para promocionar el producto artesanal de tu equipo y el fondo de ahorro para el <strong>Museo Memoria y Tolerancia (CDMX)</strong>.
 </div>
 
 <div class="task-grid-2">
 <div class="task-card accent-amber">
 <div class="task-card-header">
 <span class="step-badge">1</span>
-<span>🛍️ Catálogo de Tomas PEC (Turno Matutino)</span>
+<span>🛍️ Roles del Equipo PEC (Turno Matutino)</span>
 </div>
 <div class="task-card-body">
-<p>Graben al menos 4 tomas maestras (80% en aula cerca de ventana):</p>
+<p>Asignen los 4 roles de producción para la filmación en Semana 13:</p>
 <table style="width:100%; font-size:11px; border-collapse:collapse; margin-top:4px;">
 <tr style="background:#fef3c7;">
-<th style="padding:4px; border:1px solid #fde68a; width:30%;">Toma</th>
-<th style="padding:4px; border:1px solid #fde68a;">Encuadre y Acción (Luz de Ventana)</th>
+<th style="padding:4px; border:1px solid #fde68a; width:36%;">Rol</th>
+<th style="padding:4px; border:1px solid #fde68a;">Misión en el Teaser del Mercado</th>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">1. Producto Terminado</td>
-<td style="padding:4px; border:1px solid #fde68a;"><strong>Plano Detalle:</strong> La artesanía, pulsera, bordado o vela bajo luz natural.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">🎬 Dirección</td>
+<td style="padding:4px; border:1px solid #fde68a;">Cuida el ritmo dinámico y el llamado a comprar el 09 de Diciembre.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">2. Manos en Acción</td>
-<td style="padding:4px; border:1px solid #fde68a;"><strong>Plano Detalle:</strong> Manos tejiendo, cosiendo o acomodando la mercancía.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">🎥 Cámara</td>
+<td style="padding:4px; border:1px solid #fde68a;">Encuadra en horizontal (16:9) planos detalle con luz natural de ventana.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">3. Costeo Digital</td>
-<td style="padding:4px; border:1px solid #fde68a;"><strong>Plano a Pantalla:</strong> Dedos en el teclado y hoja de cálculo en Sheets.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">🛍️ Insumos / Arte</td>
+<td style="padding:4px; border:1px solid #fde68a;">Alista la artesanía, materiales de confección y cartel del puesto.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">4. Alcancía de Ahorro</td>
-<td style="padding:4px; border:1px solid #fde68a;"><strong>Plano Detalle:</strong> Moneda entrando al frasco etiquetado «Meta: Museo CDMX».</td>
-</tr>
-<tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">5. Exterior (Pasaporte)</td>
-<td style="padding:4px; border:1px solid #fde68a;"><strong>Plano General:</strong> Equipo con cartel del 09-Dic invitando al tianguis (8 min).</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">💻 Edición</td>
+<td style="padding:4px; border:1px solid #fde68a;">Prepara la edición de ritmo y plecas de precios para Semana 13.</td>
 </tr>
 </table>
 </div>
 </div>
 
-<div class="task-card accent-emerald">
+<div class="task-card accent-purple">
 <div class="task-card-header">
 <span class="step-badge">2</span>
-<span>📸 Tabla 2×2 de Evidencias en Docs (Tamaño 10)</span>
+<span>📋 Guion Técnico de 8 Tomas en Docs (Tamaño 10)</span>
 </div>
 <div class="task-card-body">
-<p>Transfiere las fotos del celular a tu computadora (vía Drive o cable USB) e inserta debajo del dictado una tabla de <strong>2 columnas × 2 filas</strong> (letra <strong>Tamaño 10</strong>) con las 4 mejores capturas etiquetadas:</p>
-<table style="width:100%; font-size:10.5px; border-collapse:collapse; margin-top:4px;">
+<p>Inserta debajo de tu Dictado 2 una tabla de <strong>5 columnas × 9 filas</strong> (letra <strong>Tamaño 10</strong>) planificando las 8 tomas:</p>
+<table style="width:100%; font-size:9.5px; border-collapse:collapse; margin-top:4px;">
 <tr style="background:#f1f5f9;">
-<th style="padding:4px; border:1px solid #cbd5e1; width:50%;">📸 Captura 1: Artesanía (Detalle)</th>
-<th style="padding:4px; border:1px solid #cbd5e1; width:50%;">📸 Captura 2: Manos Trabajando</th>
+<th style="padding:3px; border:1px solid #cbd5e1; width:8%;">No.</th>
+<th style="padding:3px; border:1px solid #cbd5e1; width:22%;">Tipo de Plano</th>
+<th style="padding:3px; border:1px solid #cbd5e1;">¿Qué se ve en pantalla?</th>
+<th style="padding:3px; border:1px solid #cbd5e1; width:20%;">Luz / Ángulo</th>
+<th style="padding:3px; border:1px solid #cbd5e1; width:18%;">Texto / Mensaje</th>
 </tr>
 <tr>
-<td style="padding:10px 4px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
-<em>(Pega aquí foto transferida de tu producto con buena luz)</em>
-</td>
-<td style="padding:10px 4px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
-<em>(Pega aquí foto de manos tejiendo o acomodando insumos)</em>
-</td>
-</tr>
-<tr style="background:#f1f5f9;">
-<th style="padding:4px; border:1px solid #cbd5e1;">📸 Captura 3: Costeo en Sheets / Alcancía</th>
-<th style="padding:4px; border:1px solid #cbd5e1;">📸 Captura 4: Equipo o Cartel 09-Dic</th>
+<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">01</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Plano Detalle</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Manos tejiendo, cosiendo o puliendo la artesanía</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Luz de ventana suave</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">«Hecho con talento CEB»</td>
 </tr>
 <tr>
-<td style="padding:10px 4px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
-<em>(Pega foto de la pantalla con datos de Sheets o frasco)</em>
-</td>
-<td style="padding:10px 4px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
-<em>(Pega foto del equipo en patio o con cartel del evento)</em>
-</td>
+<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">02</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Primer Plano</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Rostro concentrado del artesano/estudiante</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Ángulo normal</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Silencio elocuente</td>
+</tr>
+<tr>
+<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">03 a 06</td>
+<td style="padding:3px; border:1px solid #cbd5e1;"><em>(Variados)</em></td>
+<td style="padding:3px; border:1px solid #cbd5e1;"><em>[Producto final terminado, hoja de costeo en Sheets, alcancía del viaje]</em></td>
+<td style="padding:3px; border:1px solid #cbd5e1;"><em>Fijo / Macro</em></td>
+<td style="padding:3px; border:1px solid #cbd5e1;"><em>Precios y ahorro</em></td>
+</tr>
+<tr>
+<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">07</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Plano Medio</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Equipo completo mostrando cartel de invitación</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Fijo horizontal</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">«Miércoles 09 Dic · 9:00 h»</td>
+</tr>
+<tr>
+<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">08</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Cortinilla Final</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Logotipo oficial CEB 5/4 y meta Museo Tolerancia</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Fijo 4 segundos</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Créditos del equipo</td>
 </tr>
 </table>
 </div>
@@ -122,42 +142,38 @@ Captura de planos clave para el teaser comercial de 45–60s y el fondo de ahorr
 <!-- BLOQUE TURNO VESPERTINO (ALTAR DE MUERTOS) -->
 <div class="seccion-vespertino">
 <div class="turno-banner-vespertino">
-<strong>🌙 TURNO VESPERTINO (Grupos 107 al 111) · Tomas Cortometraje «Raíces que Permanecen»</strong><br>
-Captura de planos para el documental poético (2–3 min) sobre el <strong>Altar de Día de Muertos y Memoria Viva</strong>.
+<strong>🌙 TURNO VESPERTINO (Grupos 107 al 111) · Storyboard Cortometraje «Raíces que Permanecen»</strong><br>
+Plan de <strong>8 tomas cinematográficas</strong> de homenaje respetuoso al <strong>Altar de Muertos y Memoria Viva</strong> (sin clichés de terror).
 </div>
 
 <div class="task-grid-2">
 <div class="task-card accent-purple">
 <div class="task-card-header">
 <span class="step-badge">1</span>
-<span>🌺 Catálogo de Tomas PEC (Turno Vespertino)</span>
+<span>🕯️ Roles del Equipo de Rodaje (Vespertino)</span>
 </div>
 <div class="task-card-body">
-<p>Graben al menos 4 tomas maestras (80% en aula con luz suave de ventana o penumbra):</p>
+<p>Asignen funciones inspiradas en el modelo del Mtro. Alfonso:</p>
 <table style="width:100%; font-size:11px; border-collapse:collapse; margin-top:4px;">
 <tr style="background:#ede9fe;">
-<th style="padding:4px; border:1px solid #ddd6fe; width:30%;">Toma</th>
-<th style="padding:4px; border:1px solid #ddd6fe;">Encuadre y Acción (Luz y Misticismo)</th>
+<th style="padding:4px; border:1px solid #ddd6fe; width:36%;">Rol</th>
+<th style="padding:4px; border:1px solid #ddd6fe;">Misión en el Cortometraje Poético</th>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #ddd6fe; font-weight:700;">1. La Veladora</td>
-<td style="padding:4px; border:1px solid #ddd6fe;"><strong>Plano Detalle:</strong> Cerillo encendiendo veladora o flama en penumbra.</td>
+<td style="padding:4px; border:1px solid #ddd6fe; font-weight:700;">🎬 Dirección</td>
+<td style="padding:4px; border:1px solid #ddd6fe;">Garantiza el tono poético, emotivo y el respeto a las tradiciones.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #ddd6fe; font-weight:700;">2. Flor de Cempasúchil</td>
-<td style="padding:4px; border:1px solid #ddd6fe;"><strong>Cenital / Detalle:</strong> Manos deshojando pétalos anaranjados.</td>
+<td style="padding:4px; border:1px solid #ddd6fe; font-weight:700;">🎥 Cámara</td>
+<td style="padding:4px; border:1px solid #ddd6fe;">Tomas estables en penumbra, planos fijos de veladoras y flores.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #ddd6fe; font-weight:700;">3. Retrato del Deudo</td>
-<td style="padding:4px; border:1px solid #ddd6fe;"><strong>Primer Plano:</strong> Mano limpiando con afecto el marco o fotografía.</td>
+<td style="padding:4px; border:1px solid #ddd6fe; font-weight:700;">🌺 Arte / Ofrenda</td>
+<td style="padding:4px; border:1px solid #ddd6fe;">Prepara pétalos de cempasúchil, pan de muerto, copal y retratos.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #ddd6fe; font-weight:700;">4. Ofrenda y Aromas</td>
-<td style="padding:4px; border:1px solid #ddd6fe;"><strong>Traveling a ras de mesa:</strong> Pan de muerto, copal o jarritos de barro.</td>
-</tr>
-<tr>
-<td style="padding:4px; border:1px solid #ddd6fe; font-weight:700;">5. Exterior (Pasaporte)</td>
-<td style="padding:4px; border:1px solid #ddd6fe;"><strong>Contraluz:</strong> Papel picado al viento en el patio con sol vespertino (8 min).</td>
+<td style="padding:4px; border:1px solid #ddd6fe; font-weight:700;">💻 Edición</td>
+<td style="padding:4px; border:1px solid #ddd6fe;">Organiza el montaje con música solemne y créditos para Semana 13.</td>
 </tr>
 </table>
 </div>
@@ -166,34 +182,52 @@ Captura de planos para el documental poético (2–3 min) sobre el <strong>Altar
 <div class="task-card accent-rose">
 <div class="task-card-header">
 <span class="step-badge">2</span>
-<span>📸 Tabla 2×2 de Evidencias en Docs (Tamaño 10)</span>
+<span>📋 Guion Técnico de 8 Tomas en Docs (Tamaño 10)</span>
 </div>
 <div class="task-card-body">
-<p>Transfiere las fotos del celular a tu computadora (vía Drive o cable USB) e inserta debajo del dictado una tabla de <strong>2 columnas × 2 filas</strong> (letra <strong>Tamaño 10</strong>) con las 4 mejores capturas etiquetadas:</p>
-<table style="width:100%; font-size:10.5px; border-collapse:collapse; margin-top:4px;">
+<p>Inserta debajo de tu Dictado 2 una tabla de <strong>5 columnas × 9 filas</strong> (letra <strong>Tamaño 10</strong>):</p>
+<table style="width:100%; font-size:9.5px; border-collapse:collapse; margin-top:4px;">
 <tr style="background:#f1f5f9;">
-<th style="padding:4px; border:1px solid #cbd5e1; width:50%;">📸 Captura 1: Veladora / Cerillo</th>
-<th style="padding:4px; border:1px solid #cbd5e1; width:50%;">📸 Captura 2: Pétalos de Cempasúchil</th>
+<th style="padding:3px; border:1px solid #cbd5e1; width:8%;">No.</th>
+<th style="padding:3px; border:1px solid #cbd5e1; width:22%;">Tipo de Plano</th>
+<th style="padding:3px; border:1px solid #cbd5e1;">¿Qué se ve en pantalla?</th>
+<th style="padding:3px; border:1px solid #cbd5e1; width:20%;">Luz / Movimiento</th>
+<th style="padding:3px; border:1px solid #cbd5e1; width:18%;">Intención Sonora</th>
 </tr>
 <tr>
-<td style="padding:10px 4px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
-<em>(Pega aquí foto transferida de veladora encendida)</em>
-</td>
-<td style="padding:10px 4px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
-<em>(Pega aquí foto de pétalos cayendo o en ofrenda)</em>
-</td>
-</tr>
-<tr style="background:#f1f5f9;">
-<th style="padding:4px; border:1px solid #cbd5e1;">📸 Captura 3: Retrato Familiar Limpiado</th>
-<th style="padding:4px; border:1px solid #cbd5e1;">📸 Captura 4: Pan de Muerto o Altar Completo</th>
+<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">01</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Plano Detalle</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Cerillo encendiendo una veladora en penumbra</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Fijo (Luz de flama)</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Chispa y silencio</td>
 </tr>
 <tr>
-<td style="padding:10px 4px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
-<em>(Pega foto emotiva del retrato del familiar)</em>
-</td>
-<td style="padding:10px 4px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
-<em>(Pega foto de alimentos tradicionales u ofrenda)</em>
-</td>
+<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">02</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Plano Detalle</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Pétalos anaranjados de cempasúchil desgranados</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Cámara fija</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Música tradicional suave</td>
+</tr>
+<tr>
+<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">03 a 06</td>
+<td style="padding:3px; border:1px solid #cbd5e1;"><em>(Variados)</em></td>
+<td style="padding:3px; border:1px solid #cbd5e1;"><em>[Retrato familiar limpiado con ternura, manos entrelazadas, pan de muerto]</em></td>
+<td style="padding:3px; border:1px solid #cbd5e1;"><em>Luz cálida íntima</em></td>
+<td style="padding:3px; border:1px solid #cbd5e1;"><em>Melodía nostálgica</em></td>
+</tr>
+<tr>
+<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">07</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Plano Medio</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Mirada serena hacia el altar recordando al ser querido</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Contraluz de veladora</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Paz y respeto</td>
+</tr>
+<tr>
+<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">08</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Gran Plano General</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Altar de muertos resplandeciente en la penumbra</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Fijo 5 segundos</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Cortinilla CEB 5/4</td>
 </tr>
 </table>
 </div>
@@ -210,8 +244,8 @@ Captura de planos para el documental poético (2–3 min) sobre el <strong>Altar
 <div class="cierre-checklist-box">
 <div class="cierre-checklist-grid">
 <div>✅ <strong>Dictado 2 completo</strong> con 5 palabras intervenidas en Docs</div>
-<div>✅ <strong>Rodaje áulico realizado</strong> (80% cerca de ventana)</div>
-<div>✅ <strong>Pasaporte de rodaje cumplido</strong> en orden (8 min en exterior)</div>
-<div>✅ <strong>Tabla 2×2 con 4 fotos transferidas</strong> pegada en Docs (Tamaño 10)</div>
+<div>✅ <strong>Cortometraje del Profe Alfonso analizado</strong> (cero terror)</div>
+<div>✅ <strong>4 roles de producción asignados</strong> en el equipo</div>
+<div>✅ <strong>Tabla de Guion Técnico (8 tomas)</strong> completa en Docs (Tamaño 10)</div>
 </div>
 </div>
