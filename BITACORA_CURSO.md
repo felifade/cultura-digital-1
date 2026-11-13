@@ -28,9 +28,11 @@ Para que los grupos de 40+ estudiantes de 1er semestre no se pierdan en el labor
 
 ### 🧘‍♂️ 2.1 Técnicas de "Respiro Docente" y Gestión de Autonomía en Laboratorio (Tips de Aula)
 Para grupos masivos de 40+ alumnos donde hablar, dictar y explicar continuamente agota la energía vocal del docente:
-1. **La Técnica de Pantalla Dividida (50/50 en Chrome):**
-   - Enseñarles a organizar dos ventanas contiguas con atajos de teclado (`Win + Flecha Izq` y `Win + Flecha Der` en Windows o `Option + Split` en Mac): a la izquierda el Portal Web de Cultura Digital y a la derecha su Google Docs.
-   - **El Reto de Transcripción / Replicación Autónoma:** Se proyecta la estructura y se les da el reto de transcribir o armar la tabla ellos mismos consultando el portal. Esto genera **8 a 10 minutos de concentración plena y silencio operativo**, dándole un respiro vital al docente para caminar por el aula, monitorear o respirar.
+1. **La Técnica de Pantalla Dividida en Chrome (Regla Proporcional 70/30):**
+   - Enseñarles a organizar dos ventanas o división interna en el navegador Chrome:
+     - **70% de la pantalla:** Su documento de **Google Docs (Portafolio Digital)**, garantizando espacio amplio y cómodo para la edición de texto, diseño de tablas y pegado de capturas sin apreturas.
+     - **30% de la pantalla:** El **Portal Web de Cultura Digital**, que al contar con diseño responsivo y tarjetas compactas funciona perfectamente como panel lateral de instrucciones y lista de verificación.
+   - **El Reto de Transcripción / Replicación Autónoma:** Se proyecta la estructura y se les da el reto de transcribir o armar la tabla ellos mismos consultando el portal lateral (30%). Esto genera **8 a 10 minutos de concentración plena y silencio operativo**, dándole un respiro vital al docente para caminar por el aula, monitorear o descansar la voz.
 2. **Temporizador Musical ("Lo que dura una canción"):**
    - Tras el dictado inicial guiado, se pone **1 canción instrumental de fondo (3 a 4 min)**.
    - Durante ese tema musical, los alumnos realizan de forma autónoma su **lectura de comprensión individual**, identifican las 5 palabras clave, aplican el formato (`<u>Negrita + Subrayado</u>`) y colocan los emojis correspondientes.
