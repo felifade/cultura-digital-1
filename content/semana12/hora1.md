@@ -11,11 +11,17 @@ Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs, ag
 > ### Grabación Cinematográfica con Dispositivos Móviles
 > *"Aprender a grabar con el **<u>celular</u>** 📱 nos permite comunicar ideas sin depender de equipos costosos. Limpiar el **<u>lente</u>** 🔍 y evitar el zoom digital garantiza la nitidez de la **<u>imagen</u>** 🖼️. Adoptar una postura de **<u>estabilidad</u>** 🧘 como trípode humano elimina vibraciones bruscas y mejora la **<u>calidad</u>** 🌟 visual de nuestros proyectos."*
 
+> 🎵 **Reto de Lectura de Comprensión:** Tienes **lo que dura una canción instrumental de fondo (3 a 4 min)** para realizar tu lectura individual, subrayar las 5 palabras clave y colocar los emojis correspondientes.
+
 ---
 
 <section class="momento momento-explicacion">
 <h2>Desarrollo: Técnica de Filmación y Práctica de Planos (30 min)</h2>
 </section>
+
+<div style="background:#eff6ff; border:1px solid #bfdbfe; border-left:5px solid #2563eb; padding:8px 12px; border-radius:6px; margin:10px 0; font-size:12px; color:#1e40af;">
+🖥️ <strong>Tip de Trabajo Autónomo (Pantalla Dividida 70/30):</strong> Acomoda dos ventanas en Chrome: el <strong>70%</strong> para tu Google Docs (escritura y tablas) y el <strong>30%</strong> para este portal como guía lateral de referencia.
+</div>
 
 <div class="task-grid-2">
 <div class="task-card accent-amber">

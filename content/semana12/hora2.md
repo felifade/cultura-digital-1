@@ -11,6 +11,8 @@ Continúa en la misma pestaña **`Semana 12 🎬`**, debajo de la tabla anterior
 > ### Narrativa Visual y Ritmo Audiovisual
 > *"El **<u>storytelling</u>** 📖 es el arte de contar historias que conectan con las emociones del espectador. En un video escolar, el **<u>ritmo</u>** ⏱️ depende de cambiar de toma cada tres o cuatro segundos para mantener el dinamismo. Utilizar una pista de **<u>música</u>** 🎵 instrumental libre de derechos ambienta la escena sin saturar con voces, reforzando el **<u>mensaje</u>** 💬 central y fortaleciendo nuestra **<u>identidad</u>** 🤝 comunitaria."*
 
+> 🎵 **Reto de Lectura de Comprensión:** En lo que suena la **canción de fondo (3 a 4 min)**, lee el texto, subraya las 5 palabras clave con sus emojis y mantén tu pantalla dividida (70% Docs / 30% Portal).
+
 ---
 
 <section class="momento momento-explicacion">

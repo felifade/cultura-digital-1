@@ -11,11 +11,17 @@ Continúa en la misma pestaña **`Semana 12 🎬`**, debajo de la sección de la
 > ### Preproducción y Plan de Filmación
 > *"La **<u>preproducción</u>** 📋 es la fase más importante del cine porque organiza cada detalle antes de comenzar a grabar. Un **<u>storyboard</u>** 🎬 funciona como un mapa visual que describe cada escena segundo a segundo. Planear cada **<u>encuadre</u>** 📐 evita perder tiempo en filmaciones innecesarias y optimiza la **<u>coordinación</u>** 👥 del equipo, garantizando un **<u>resultado</u>** 🏆 profesional."*
 
+> 🎵 **Reto de Lectura de Comprensión:** Tienes **lo que dura la canción de fondo (3 a 4 min)** para realizar tu lectura individual, subrayar las 5 palabras clave con sus emojis y dejar listo tu documento.
+
 ---
 
 <section class="momento momento-explicacion">
 <h2>Desarrollo: Construcción del Storyboard en Equipo (30 min)</h2>
 </section>
+
+<div style="background:#fdf4ff; border:1px solid #f0abfc; border-left:5px solid #a855f7; padding:8px 12px; border-radius:6px; margin:10px 0; font-size:12px; color:#7e22ce;">
+⏱️ <strong>Reto Autónomo de 10 Minutos (Pantalla Dividida 70/30):</strong> Con este portal al <strong>30%</strong> como guía lateral, el equipo construye de forma autónoma en su Google Docs (<strong>70%</strong>) la <strong>Tabla Oficial de Storyboard (5 columnas × 11 filas)</strong>.
+</div>
 
 <!-- SELECTOR DE TURNO INTERACTIVO -->
 <div class="turno-selector-bar">
