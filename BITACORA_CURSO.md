@@ -26,6 +26,18 @@ Para que los grupos de 40+ estudiantes de 1er semestre no se pierdan en el labor
      - **Columna 2 (Qué pegar en Google Docs):** Vista previa visual de la **Tabla de Evidencias (Tamaño 10)** que el alumno debe insertar debajo de su dictado en Google Docs.
    - **🔴 Cierre (10 min):** Checklist rápido de 4 puntos en cuadrícula (`cierre-checklist-box`).
 
+### 🧘‍♂️ 2.1 Técnicas de "Respiro Docente" y Gestión de Autonomía en Laboratorio (Tips de Aula)
+Para grupos masivos de 40+ alumnos donde hablar, dictar y explicar continuamente agota la energía vocal del docente:
+1. **La Técnica de Pantalla Dividida (50/50 en Chrome):**
+   - Enseñarles a organizar dos ventanas contiguas con atajos de teclado (`Win + Flecha Izq` y `Win + Flecha Der` en Windows o `Option + Split` en Mac): a la izquierda el Portal Web de Cultura Digital y a la derecha su Google Docs.
+   - **El Reto de Transcripción / Replicación Autónoma:** Se proyecta la estructura y se les da el reto de transcribir o armar la tabla ellos mismos consultando el portal. Esto genera **8 a 10 minutos de concentración plena y silencio operativo**, dándole un respiro vital al docente para caminar por el aula, monitorear o respirar.
+2. **Temporizador Musical ("Lo que dura una canción"):**
+   - Tras el dictado inicial guiado, se pone **1 canción instrumental de fondo (3 a 4 min)**.
+   - Durante ese tema musical, los alumnos realizan de forma autónoma su **lectura de comprensión individual**, identifican las 5 palabras clave, aplican el formato (`<u>Negrita + Subrayado</u>`) y colocan los emojis correspondientes.
+   - La música actúa como ancla de tiempo: cuando la canción termina, el dictado debe estar 100% formateado y listo.
+3. **Traspaso Gradual al Desarrollo Autónomo:**
+   - Una vez familiarizados con el formato 20/14/10 y las tablas de pasos del portal, los estudiantes no esperan a que el profesor explique cada renglón: leen su Columna 1 del portal y construyen su Columna 2 en Docs, consultando dudas puntuales y fortaleciendo su autonomía digital.
+
 ---
 
 ## 📅 3. Mapa y Estado de Semanas (Segundo y Tercer Parcial)
