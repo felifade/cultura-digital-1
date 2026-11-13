@@ -1610,3 +1610,34 @@ body.dark-mode .turno-banner-vespertino {
 .show-vespertino-only .seccion-matutino {
     display: none !important;
 }
+
+
+/* =========================================
+   ENLACE DISCRETO INSPIRA (Pie de Menú)
+   ========================================= */
+.inspira-discreet-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    width: 100%;
+    padding: 5px 8px;
+    font-size: 0.72rem;
+    font-weight: 500;
+    color: var(--text-tertiary);
+    text-decoration: none;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+    opacity: 0.8;
+}
+
+.inspira-discreet-link:hover {
+    color: var(--text-primary);
+    background: var(--paper-line);
+    opacity: 1;
+}
+
+body.dark-mode .inspira-discreet-link:hover {
+    background: rgba(255, 255, 255, 0.06);
+    color: #f8fafc;
+}
