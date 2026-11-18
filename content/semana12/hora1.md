@@ -1,96 +1,92 @@
-# Hora 1: Los 4 Mandamientos del Celular y los 5 Planos Maestros
+# Hora 1: Configuración del Horario Escolar en Google Calendar
 
 <section class="momento momento-inicio">
 <h2>Inicio: Dictado en Google Docs (10 min)</h2>
 </section>
 
-Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs desde tu computadora del laboratorio, agrega una pestaña a la izquierda y nómbrala: **`Semana 12 🎬`**.
+Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs desde tu computadora del laboratorio, agrega una pestaña a la izquierda y nómbrala: **`Semana 12 📅`**.
 
 > 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
 
-> ### Grabación Cinematográfica con Dispositivos Móviles
-> *"Aprender a grabar con el **<u>celular</u>** 📱 nos permite comunicar ideas sin depender de equipos costosos. Limpiar el **<u>lente</u>** 🔍 y evitar el zoom digital garantiza la nitidez de la **<u>imagen</u>** 🖼️. Adoptar una postura de **<u>estabilidad</u>** 🧘 como trípode humano elimina vibraciones bruscas y mejora la **<u>calidad</u>** 🌟 visual de nuestros proyectos."*
+> ### Gestión del Tiempo y Horarios en la Nube
+> *"Organizar nuestro **<u>horario</u>** 🕒 escolar en la nube evita confusiones y nos ayuda a planificar las materias de cada día. Configurar un evento con **<u>recurrencia</u>** 🔄 semanal garantiza que no tengamos que capturar la información una y otra vez. Asignar un **<u>color</u>** 🎨 diferente para cada asignatura facilita la lectura visual inmediata. Esta disciplina digital fomenta nuestra **<u>autonomía</u>** 🎓 y mejora el **<u>rendimiento</u>** 📈 académico en el bachillerato."*
 
-> 🎵 **Reto de Lectura de Comprensión:** Tienes **lo que dura una canción instrumental de fondo (3 a 4 min)** para realizar tu lectura individual, subrayar las 5 palabras clave y colocar los emojis correspondientes.
+> 🎵 **Reto de Lectura de Comprensión:** Tienes **lo que dura una canción instrumental de fondo (3 a 4 min)** para realizar tu lectura individual en silencio, subrayar las 5 palabras clave y colocar los emojis correspondientes.
 
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Técnica de Filmación y Práctica de Planos (30 min)</h2>
+<h2>Desarrollo: Construcción del Horario Semanal en Calendar (30 min)</h2>
 </section>
 
 <div style="background:#eff6ff; border:1px solid #bfdbfe; border-left:5px solid #2563eb; padding:8px 12px; border-radius:6px; margin:10px 0; font-size:12px; color:#1e40af;">
-🖥️ <strong>Tip de Trabajo Autónomo (Pantalla Dividida 70/30):</strong> Acomoda dos ventanas en Chrome: el <strong>70%</strong> para tu Google Docs (escritura y tablas) y el <strong>30%</strong> para este portal como guía lateral de referencia.
+🖥️ <strong>Tip de Trabajo Autónomo (Pantalla Dividida 70/30):</strong> Acomoda dos ventanas en Chrome: el <strong>70%</strong> para tu Google Calendar (<a href="https://calendar.google.com" target="_blank" rel="noopener noreferrer" style="color:#1d4ed8; font-weight:700;">calendar.google.com</a>) y el <strong>30%</strong> para este portal como guía lateral de materias y horarios.
 </div>
 
 <div class="task-grid-2">
 <div class="task-card accent-amber">
 <div class="task-card-header">
 <span class="step-badge">1</span>
-<span>📱 Los 4 Mandamientos y 5 Planos Cinematográficos</span>
+<span>📅 Configuración de Materias y Recurrencia</span>
 </div>
 <div class="task-card-body">
-<p>Aprende las 4 reglas de oro para erradicar el video escolar deficiente:</p>
-<table style="width:100%; font-size:11.5px; border-collapse:collapse; margin-top:6px;">
-<tr style="background:#f1f5f9;">
-<th style="padding:6px; border:1px solid #cbd5e1; width:35%;">Mandamiento</th>
-<th style="padding:6px; border:1px solid #cbd5e1;">Acción Práctica</th>
+<p>Entra con tu cuenta institucional <code>@dgb.edu.mx</code> y agenda tus asignaturas de lunes a viernes:</p>
+<table style="width:100%; font-size:11px; border-collapse:collapse; margin-top:4px;">
+<tr style="background:#fef3c7;">
+<th style="padding:4px; border:1px solid #fde68a; width:30%;">Paso</th>
+<th style="padding:4px; border:1px solid #fde68a;">Acción en Google Calendar</th>
 </tr>
 <tr>
-<td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">1. Lente Impecable</td>
-<td style="padding:6px; border:1px solid #cbd5e1;">Limpia el cristal de la cámara con tela suave antes de grabar (evita tomas lechosas).</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">1. Crear Bloque</td>
+<td style="padding:4px; border:1px solid #fde68a;">Haz clic en el horario correspondiente a cada módulo de clase (ej. 7:00 a 7:50 o 13:50 a 14:40).</td>
 </tr>
 <tr>
-<td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">2. Cero Zoom Digital</td>
-<td style="padding:6px; border:1px solid #cbd5e1;">Nunca pellizques la pantalla; camina con pasos suaves para acercarte al objeto.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">2. Título Oficial</td>
+<td style="padding:4px; border:1px solid #fde68a;">Escribe: <code>[Nombre de Materia] - [Docente]</code> (ej. <em>Cultura Digital I - Mtro. Felipe López</em>).</td>
 </tr>
 <tr>
-<td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">3. Trípode Humano</td>
-<td style="padding:6px; border:1px solid #cbd5e1;">Sostén con ambas manos, codos pegados a las costillas y rodillas semi-flexionadas.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">3. Recurrencia</td>
+<td style="padding:4px; border:1px solid #fde68a;">En la opción de repetición selecciona: <strong>«Se repite cada semana el [día]»</strong>.</td>
 </tr>
 <tr>
-<td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">4. Storytelling Silente</td>
-<td style="padding:6px; border:1px solid #cbd5e1;">Sin micrófonos con eco; la historia se cuenta con miradas, acciones y textos en pantalla.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">4. Ubicación</td>
+<td style="padding:4px; border:1px solid #fde68a;">Indica el espacio físico: <code>Lab de Cómputo</code>, <code>Aula de Grupo</code> o <code>Audiorama</code>.</td>
 </tr>
 </table>
-<div style="margin-top:10px; font-size:11.5px; background:#f8fafc; padding:6px 8px; border-radius:6px; border:1px solid #e2e8f0;">
-🎥 <strong>5 Planos Maestros:</strong> <strong>General</strong> (entorno) • <strong>Medio</strong> (de la cintura a la cabeza) • <strong>Primer Plano</strong> (rostro/emoción) • <strong>Detalle / Macro</strong> (objeto clave) • <strong>A ras de suelo / Traveling</strong> (movimiento suave).
-</div>
 </div>
 </div>
 
 <div class="task-card accent-purple">
 <div class="task-card-header">
 <span class="step-badge">2</span>
-<span>📸 Transferencia y Tabla 2×2 en Docs (Tamaño 10)</span>
+<span>🎨 Código de Colores y Evidencia en Docs</span>
 </div>
 <div class="task-card-body">
-<p>Graba con tu celular <strong>2 tomas de prueba de 4 segundos</strong> en el laboratorio en formato horizontal (16:9) aplicando 2 planos distintos. Transfiere las fotos fijas a tu computadora (vía Google Drive o cable USB) e insértalas en tu pestaña <strong><code>Semana 12 🎬</code></strong> en una tabla <strong>2×2</strong> (texto <strong>Tamaño 10</strong>):</p>
-<table style="width:100%; font-size:11.5px; border-collapse:collapse; margin-top:6px;">
+<p>Distingue visualmente tus materias por área disciplinar usando colores:</p>
+<ul style="font-size:11px; line-height:1.5; margin:4px 0 6px 16px; padding:0; color:#334155;">
+<li>🟦 <strong>Cultura Digital I:</strong> Azul Pavo Real o Azul Marino.</li>
+<li>🟩 <strong>Ciencias Naturales (CNET I):</strong> Verde Salvia o Albahaca.</li>
+<li>🟨 <strong>Pensamiento Matemático I:</strong> Amarillo Plátano o Mandarina.</li>
+<li>🟥 <strong>Lengua y Comunicación I:</strong> Rojo Tomate o Flamingo.</li>
+<li>🟪 <strong>Sociales / Humanidades:</strong> Uva o Lavanda.</li>
+<li>🟧 <strong>Artísticas / Inglés / Tutoría:</strong> Grafito o Tangerina.</li>
+</ul>
+<p style="font-size:11px; margin-top:6px;">Toma una <strong>captura de pantalla completa</strong> de tu vista semanal (Lunes a Viernes) y pégala en tu pestaña <strong><code>Semana 12 📅</code></strong> en una tabla de 1 fila × 1 columna (texto <strong>Tamaño 10</strong>):</p>
+<table style="width:100%; font-size:10.5px; border-collapse:collapse; margin-top:4px;">
 <tr style="background:#f1f5f9;">
-<th style="padding:6px; border:1px solid #cbd5e1; width:50%;">📸 Captura 1: Plano General o Medio</th>
-<th style="padding:6px; border:1px solid #cbd5e1; width:50%;">📸 Captura 2: Plano Detalle o Primer Plano</th>
+<th style="padding:4px; border:1px solid #cbd5e1; text-align:center;">📸 Captura de Pantalla: Vista Semanal Horario Escolar</th>
 </tr>
 <tr>
 <td style="padding:12px 6px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
-<em>(Pega aquí la foto transferida de tu toma amplia o media en el aula)</em>
-</td>
-<td style="padding:12px 6px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
-<em>(Pega aquí la foto transferida de tu toma de detalle al teclado o rostro)</em>
+<em>(Pega aquí la captura recortada y nítida de tu Google Calendar de Lunes a Viernes)</em>
 </td>
 </tr>
 <tr>
-<td style="padding:6px; border:1px solid #cbd5e1; font-size:10px; text-align:center; font-weight:700;">
-Tipo de Plano: [Escribe aquí el plano utilizado]
-</td>
-<td style="padding:6px; border:1px solid #cbd5e1; font-size:10px; text-align:center; font-weight:700;">
-Tipo de Plano: [Escribe aquí el plano utilizado]
+<td style="padding:4px; border:1px solid #cbd5e1; font-size:9.5px; text-align:center; font-weight:700;">
+Horario Escolar Oficial CEB 5/4 · Cuenta Institucional @dgb.edu.mx
 </td>
 </tr>
 </table>
-<div style="margin-top:8px; padding:6px 8px; background:#eff6ff; border:1px solid #bfdbfe; border-radius:6px; font-size:11.5px; color:#1e40af;">
-💡 <strong>Flujo 100% Digital:</strong> Todo se califica en el monitor de tu computadora. Asegúrate de que las fotos carguen con nitidez en Docs.
-</div>
 </div>
 </div>
 </div>
@@ -103,9 +99,9 @@ Tipo de Plano: [Escribe aquí el plano utilizado]
 
 <div class="cierre-checklist-box">
 <div class="cierre-checklist-grid">
-<div>✅ <strong>Pestaña `Semana 12 🎬`</strong> en Docs con Dictado 1 completo</div>
-<div>✅ <strong>4 mandamientos del celular</strong> y 5 planos identificados</div>
-<div>✅ <strong>2 fotos transferidas a la computadora</strong> (Drive o cable)</div>
-<div>✅ <strong>Tabla 2×2 con capturas pegada en Docs</strong> (Tamaño 10)</div>
+<div>✅ <strong>Pestaña `Semana 12 📅`</strong> creada en Google Docs con Dictado 1</div>
+<div>✅ <strong>Todas las materias agendadas</strong> en Google Calendar (Lunes a Viernes)</div>
+<div>✅ <strong>Recurrencia semanal activada</strong> (no capturar día por día)</div>
+<div>✅ <strong>Código de colores aplicado</strong> y captura pegada en Docs (Tamaño 10)</div>
 </div>
 </div>

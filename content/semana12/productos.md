@@ -1,9 +1,9 @@
 # Productos de la Semana 12 (Tercer Parcial)
 
-> 🎯 **Objetivo de la Semana:** Dominar los principios cinematográficos con smartphone en un entorno 100% digital dentro de Google Docs, analizar el cortometraje maestro de referencia del Mtro. Alfonso Herrera (enfoque en memoria y respeto cultural, sin clichés de terror) y estructurar el Guion Técnico oficial de 8 tomas para filmar en la Semana 13:
-> * ☀️ **Turno Matutino:** Campaña Teaser para el **Mercado Artesanal (09 de Diciembre)** y Fondo para el **Museo Memoria y Tolerancia (CDMX)**.
-> * 🌙 **Turno Vespertino:** Cortometraje Poético sobre el **Altar de Día de Muertos y Memoria Viva (Raíces que Permanecen)**.
-> * 🛡️ **Blindaje de Calendario:** La Hora 3 opera como **sesión colchón** para absorber las suspensiones de 2 días (Revolución Mexicana y gestiones institucionales), garantizando que ningún grupo quede desfasado.
+> 🎯 **Objetivo de la Semana:** Consolidar la organización del tiempo y la productividad académica del estudiante mediante la configuración del horario escolar completo en **Google Calendar** (con recurrencia semanal, código de colores por área disciplinar y aulas), la programación de **notificaciones proactivas** y la gestión de pendientes con **Google Tasks**, integrando las evidencias de forma 100% digital en **Google Docs**:
+> * 📅 **Google Calendar:** Horario escolar de Lunes a Viernes con recurrencia automática y alertas de 10 min.
+> * 📝 **Google Tasks:** Lista de 3 tareas prioritarias del 3er Parcial (Mercado PEC, evidencias de Docs y exámenes).
+> * 🛡️ **Blindaje Institucional:** La Hora 3 opera como sesión colchón para absorber las suspensiones de 2 días escolares (Revolución Mexicana y gestiones administrativas).
 
 ---
 
@@ -11,11 +11,11 @@
 
 | Hora | Actividad | Espacio de Trabajo | Entregable y Características en Google Docs |
 | :---: | :--- | :---: | :--- |
-| **Hora 1** | **Los 4 Mandamientos del Celular y los 5 Planos Maestros** | 💻 Google Docs<br>📱 Smartphone | • **Dictado 1:** Título 20 negrita centrado, texto 14 justificado con 5 palabras clave intervenidas.<br>• **Pequeña Práctica Fija:** 2 tomas de prueba estáticas en el aula (16:9) transferidas a la PC (Drive o cable).<br>• **Tabla 2×2:** Capturas fijas pegadas en Docs en **tamaño 10**. |
-| **Hora 2** | **Planificación Audiovisual y Guion Técnico PEC** | 💻 Google Docs<br>🎬 Referente Maestro | • **Dictado 2:** Narrativa visual humana y respeto cultural (cero clichés de terror/fantasmas).<br>• **Análisis de Referencia:** Cortometraje del Mtro. Alfonso Herrera (luz cálida, planos detalle y emoción).<br>• **4 Roles de Producción:** Dirección, Cámara, Insumos/Arte y Edición asignados.<br>• **Guion Técnico (Tabla 5×9):** Plan de 8 tomas en **tamaño 10** en Docs listo para filmar en S13. |
-| **Hora 3** | **Sesión Colchón y Taller de Nivelación Institucional** | 🛡️ Comodín Flexible<br>💻 Google Docs | • **Absorción de Suspensiones:** Protege a los grupos que pierden clases por los 2 días feriados/institucionales.<br>• **Taller Autónomo (70/30 en Chrome):** Auditoría de formato en Docs (Título 20, texto 14, palabras clave y tablas 10).<br>• **Revisión en Monitor:** Visto bueno y registro en pantalla por el docente sin prisas ni desorden. |
+| **Hora 1** | **Configuración del Horario Escolar en Google Calendar** | 💻 Google Calendar<br>📄 Google Docs | • **Dictado 1:** Título 20 negrita centrado, texto 14 justificado con 5 palabras clave intervenidas.<br>• **Horario Semanal:** Materias de lunes a viernes con recurrencia semanal y código de colores.<br>• **Tabla 1×1:** Captura nítida de vista semanal pegada en Docs en **tamaño 10**. |
+| **Hora 2** | **Notificaciones Inteligentes, Recordatorios y Tasks** | 💻 Google Calendar<br>📋 Google Tasks | • **Dictado 2:** Notificaciones proactivas y gestión de tareas (20/14) con 5 palabras clave.<br>• **Alertas Previas:** Notificación emergente de 10 min en materias y evento del Mercado PEC.<br>• **Tabla 2×2:** Captura de evento con alerta + captura de panel Google Tasks en **tamaño 10**. |
+| **Hora 3** | **Sesión Colchón, Sincronización Móvil y Nivelación** | 🛡️ Comodín Flexible<br>📱 Smartphone / PC | • **Absorción de Suspensiones:** Protección contra retrasos para grupos con clases suspendidas.<br>• **Sincronización:** Vinculación de cuenta institucional `@dgb.edu.mx` en el celular.<br>• **Revisión en Monitor:** Visto bueno y calificación en pantalla por el docente en el laboratorio. |
 
 ---
 
 > 📌 **Modo de Entrega y Calificación:**  
-> Todo el trabajo se concentra de forma 100% digital en la pestaña **`Semana 12 🎬`** del documento **«Portafolio Digital - Tercer Parcial»** en Google Docs. La revisión se realiza directamente en las pantallas del laboratorio de cómputo. No se sale a pasillos a grabar en la Semana 12; la filmación se ejecutará de forma ágil y ordenada en la Semana 13 con el guion previamente autorizado.
+> Todo el portafolio se gestiona de forma 100% digital en la pestaña **`Semana 12 📅`** del documento **«Portafolio Digital - Tercer Parcial»** en Google Docs. La revisión se realiza directamente en las pantallas de las computadoras del laboratorio de cómputo. No se utiliza libreta física ni papel.

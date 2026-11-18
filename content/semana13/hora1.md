@@ -1,6 +1,111 @@
-# Hora 1: Apertura
+# Hora 1: Los 4 Mandamientos del Celular y los 5 Planos Maestros
 
-**Objetivo:** Introducción al tema de El Lenguaje de las Máquinas.
+<section class="momento momento-inicio">
+<h2>Inicio: Dictado en Google Docs (10 min)</h2>
+</section>
 
-### Actividad
-Explicación de qué es una "Variable" (una caja que guarda datos que cambian, como la edad) y una "Constante" (algo que no cambia, como la fecha de nacimiento o PI).
+Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs desde tu computadora del laboratorio, agrega una pestaña a la izquierda y nómbrala: **`Semana 13 🎬`**.
+
+> 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
+
+> ### Grabación Cinematográfica con Dispositivos Móviles
+> *"Aprender a grabar con el **<u>celular</u>** 📱 nos permite comunicar ideas sin depender de equipos costosos. Limpiar el **<u>lente</u>** 🔍 y evitar el zoom digital garantiza la nitidez de la **<u>imagen</u>** 🖼️. Adoptar una postura de **<u>estabilidad</u>** 🧘 como trípode humano elimina vibraciones bruscas y mejora la **<u>calidad</u>** 🌟 visual de nuestros proyectos."*
+
+> 🎵 **Reto de Lectura de Comprensión:** Tienes **lo que dura una canción instrumental de fondo (3 a 4 min)** para realizar tu lectura individual, subrayar las 5 palabras clave y colocar los emojis correspondientes.
+
+---
+
+<section class="momento momento-explicacion">
+<h2>Desarrollo: Técnica de Filmación y Práctica de Planos (30 min)</h2>
+</section>
+
+<div style="background:#eff6ff; border:1px solid #bfdbfe; border-left:5px solid #2563eb; padding:8px 12px; border-radius:6px; margin:10px 0; font-size:12px; color:#1e40af;">
+🖥️ <strong>Tip de Trabajo Autónomo (Pantalla Dividida 70/30):</strong> Acomoda dos ventanas en Chrome: el <strong>70%</strong> para tu Google Docs (escritura y tablas) y el <strong>30%</strong> para este portal como guía lateral de referencia.
+</div>
+
+<div class="task-grid-2">
+<div class="task-card accent-amber">
+<div class="task-card-header">
+<span class="step-badge">1</span>
+<span>📱 Los 4 Mandamientos y 5 Planos Cinematográficos</span>
+</div>
+<div class="task-card-body">
+<p>Aprende las 4 reglas de oro para erradicar el video escolar deficiente:</p>
+<table style="width:100%; font-size:11.5px; border-collapse:collapse; margin-top:6px;">
+<tr style="background:#f1f5f9;">
+<th style="padding:6px; border:1px solid #cbd5e1; width:35%;">Mandamiento</th>
+<th style="padding:6px; border:1px solid #cbd5e1;">Acción Práctica</th>
+</tr>
+<tr>
+<td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">1. Lente Impecable</td>
+<td style="padding:6px; border:1px solid #cbd5e1;">Limpia el cristal de la cámara con tela suave antes de grabar (evita tomas lechosas).</td>
+</tr>
+<tr>
+<td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">2. Cero Zoom Digital</td>
+<td style="padding:6px; border:1px solid #cbd5e1;">Nunca pellizques la pantalla; camina con pasos suaves para acercarte al objeto.</td>
+</tr>
+<tr>
+<td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">3. Trípode Humano</td>
+<td style="padding:6px; border:1px solid #cbd5e1;">Sostén con ambas manos, codos pegados a las costillas y rodillas semi-flexionadas.</td>
+</tr>
+<tr>
+<td style="padding:6px; border:1px solid #cbd5e1; font-weight:700;">4. Storytelling Silente</td>
+<td style="padding:6px; border:1px solid #cbd5e1;">Sin micrófonos con eco; la historia se cuenta con miradas, acciones y textos en pantalla.</td>
+</tr>
+</table>
+<div style="margin-top:10px; font-size:11.5px; background:#f8fafc; padding:6px 8px; border-radius:6px; border:1px solid #e2e8f0;">
+🎥 <strong>5 Planos Maestros:</strong> <strong>General</strong> (entorno) • <strong>Medio</strong> (de la cintura a la cabeza) • <strong>Primer Plano</strong> (rostro/emoción) • <strong>Detalle / Macro</strong> (objeto clave) • <strong>A ras de suelo / Traveling</strong> (movimiento suave).
+</div>
+</div>
+</div>
+
+<div class="task-card accent-purple">
+<div class="task-card-header">
+<span class="step-badge">2</span>
+<span>📸 Transferencia y Tabla 2×2 en Docs (Tamaño 10)</span>
+</div>
+<div class="task-card-body">
+<p>Graba con tu celular <strong>2 tomas de prueba de 4 segundos</strong> en el laboratorio en formato horizontal (16:9) aplicando 2 planos distintos. Transfiere las fotos fijas a tu computadora (vía Google Drive o cable USB) e insértalas en tu pestaña <strong><code>Semana 13 🎬</code></strong> en una tabla <strong>2×2</strong> (texto <strong>Tamaño 10</strong>):</p>
+<table style="width:100%; font-size:11.5px; border-collapse:collapse; margin-top:6px;">
+<tr style="background:#f1f5f9;">
+<th style="padding:6px; border:1px solid #cbd5e1; width:50%;">📸 Captura 1: Plano General o Medio</th>
+<th style="padding:6px; border:1px solid #cbd5e1; width:50%;">📸 Captura 2: Plano Detalle o Primer Plano</th>
+</tr>
+<tr>
+<td style="padding:12px 6px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
+<em>(Pega aquí la foto transferida de tu toma amplia o media en el aula)</em>
+</td>
+<td style="padding:12px 6px; border:1px solid #cbd5e1; text-align:center; color:#64748b;">
+<em>(Pega aquí la foto transferida de tu toma de detalle al teclado o rostro)</em>
+</td>
+</tr>
+<tr>
+<td style="padding:6px; border:1px solid #cbd5e1; font-size:10px; text-align:center; font-weight:700;">
+Tipo de Plano: [Escribe aquí el plano utilizado]
+</td>
+<td style="padding:6px; border:1px solid #cbd5e1; font-size:10px; text-align:center; font-weight:700;">
+Tipo de Plano: [Escribe aquí el plano utilizado]
+</td>
+</tr>
+</table>
+<div style="margin-top:8px; padding:6px 8px; background:#eff6ff; border:1px solid #bfdbfe; border-radius:6px; font-size:11.5px; color:#1e40af;">
+💡 <strong>Flujo 100% Digital:</strong> Todo se califica en el monitor de tu computadora. Asegúrate de que las fotos carguen con nitidez en Docs.
+</div>
+</div>
+</div>
+</div>
+
+---
+
+<section class="momento momento-cierre">
+<h2>Cierre: Checklist de Salida (10 min)</h2>
+</section>
+
+<div class="cierre-checklist-box">
+<div class="cierre-checklist-grid">
+<div>✅ <strong>Pestaña `Semana 13 🎬`</strong> en Docs con Dictado 1 completo</div>
+<div>✅ <strong>4 mandamientos del celular</strong> y 5 planos identificados</div>
+<div>✅ <strong>2 fotos transferidas a la computadora</strong> (Drive o cable)</div>
+<div>✅ <strong>Tabla 2×2 con capturas pegada en Docs</strong> (Tamaño 10)</div>
+</div>
+</div>
