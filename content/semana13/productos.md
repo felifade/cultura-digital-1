@@ -1,21 +1,20 @@
 # Productos de la Semana 13 (Tercer Parcial)
 
-> 🎯 **Objetivo de la Semana:** Dominar los principios cinematográficos con smartphone en un entorno 100% digital dentro de Google Docs, analizar el cortometraje maestro de referencia del Mtro. Alfonso Herrera (enfoque en memoria y respeto cultural, sin clichés de terror) y estructurar el Guion Técnico oficial de 8 tomas para filmar en la Semana 13:
-> * ☀️ **Turno Matutino:** Campaña Teaser para el **Mercado Artesanal (09 de Diciembre)** y Fondo para el **Museo Memoria y Tolerancia (CDMX)**.
-> * 🌙 **Turno Vespertino:** Cortometraje Poético sobre el **Altar de Día de Muertos y Memoria Viva (Raíces que Permanecen)**.
-> * 🛡️ **Blindaje de Calendario:** La Hora 3 opera como **sesión colchón** para absorber las suspensiones de 2 días (Revolución Mexicana y gestiones institucionales), garantizando que ningún grupo quede desfasado.
+> 🎯 **Objetivo de la Semana:** Dominar el diseño visual y colaborativo en **Presentaciones de Google (`slides.google.com`)** mediante trabajo individual en computadora (cero cuentas externas y cero archivos compartidos para asegurar el aprendizaje de cada estudiante), integrando fotografía móvil limpia dentro de su portafolio digital en **Google Docs**:
+> * ☀️ **Turno Matutino (`101–106`):** Diseño individual de **Flyer Publicitario (4:5 vertical)** para el **Tianguis Artesanal “Manos que tejen PAZ”** (Miércoles 09 de diciembre de 2026 · 9:00 a 11:40 am) con fotografía propia de artesanía.
+> * 🌙 **Turno Vespertino (`107–111`):** Análisis del cortometraje maestro del Mtro. Alfonso Herrera (sin clichés de terror) y diseño individual de **Storyboard Visual en 2 diapositivas (16:9)** para el proyecto **«Raíces que Permanecen»**.
 
 ---
 
-### 📦 Resumen de Entregas y Actividades (100% en Computadora):
+### 📦 Resumen de Entregas y Actividades (100% Individual en Computadora):
 
-| Hora | Actividad | Espacio de Trabajo | Entregable y Características en Google Docs |
+| Hora | Actividad | Herramienta | Entregable y Características en Google Docs (`Semana 13 🎨`) |
 | :---: | :--- | :---: | :--- |
-| **Hora 1** | **Los 4 Mandamientos del Celular y los 5 Planos Maestros** | 💻 Google Docs<br>📱 Smartphone | • **Dictado 1:** Título 20 negrita centrado, texto 14 justificado con 5 palabras clave intervenidas.<br>• **Pequeña Práctica Fija:** 2 tomas de prueba estáticas en el aula (16:9) transferidas a la PC (Drive o cable).<br>• **Tabla 2×2:** Capturas fijas pegadas en Docs en **tamaño 10**. |
-| **Hora 2** | **Planificación Audiovisual y Guion Técnico PEC** | 💻 Google Docs<br>🎬 Referente Maestro | • **Dictado 2:** Narrativa visual humana y respeto cultural (cero clichés de terror/fantasmas).<br>• **Análisis de Referencia:** Cortometraje del Mtro. Alfonso Herrera (luz cálida, planos detalle y emoción).<br>• **4 Roles de Producción:** Dirección, Cámara, Insumos/Arte y Edición asignados.<br>• **Guion Técnico (Tabla 5×9):** Plan de 8 tomas en **tamaño 10** en Docs listo para filmar en S13. |
-| **Hora 3** | **Sesión Colchón y Taller de Nivelación Institucional** | 🛡️ Comodín Flexible<br>💻 Google Docs | • **Absorción de Suspensiones:** Protege a los grupos que pierden clases por los 2 días feriados/institucionales.<br>• **Taller Autónomo (70/30 en Chrome):** Auditoría de formato en Docs (Título 20, texto 14, palabras clave y tablas 10).<br>• **Revisión en Monitor:** Visto bueno y registro en pantalla por el docente sin prisas ni desorden. |
+| **Hora 1** | **Los 4 Mandamientos del Celular y Fotografía de Insumo** | 📱 Smartphone<br>📄 Google Docs | • **Dictado 1:** Título 20 negrita centrado, texto 14 justificado con 5 palabras clave intervenidas.<br>• **Pequeña Práctica en Aula:** 2 capturas nítidas con luz de ventana (Plano General/Medio + Plano Detalle de artesanía u objeto).<br>• **Tabla 2×2:** Fotos transferidas y pegadas en Docs en **Tamaño 10**. |
+| **Hora 2** | **Diseño Individual en Presentaciones de Google** | 🎨 Google Slides<br>📄 Google Docs | • **Dictado 2:** Diseño visual, jerarquía y narrativa humana (20/14 con 5 palabras clave).<br>• ☀️ **Matutino:** 1 Diapositiva vertical (`20 × 25 cm`) con Flyer oficial del Tianguis y foto recortada en forma, exportada en **PNG** a tabla `1×1` en Docs.<br>• 🌙 **Vespertino:** 2 Diapositivas (`16:9`) con análisis del corto de referencia y escaleta de 6 a 8 tomas (archivo 28-oct + tomas en casa/aula), exportadas en **PNG** a tabla `1×2` en Docs. |
+| **Hora 3** | **Pulido Profesional en Slides y Auditoría del Portafolio** | ✨ Google Slides<br>🔍 Revisión Monitor | • **Acabado Gráfico:** Uso de capas (`Ordenar`), sombra paralela, guías rojas de alineación y ortografía verificada.<br>• **Nivelación Individual:** Cierre de actividades pendientes del portafolio sin atrasos.<br>• **Evaluación en Pantalla:** Revisión y visto bueno directo en el monitor del laboratorio. |
 
 ---
 
 > 📌 **Modo de Entrega y Calificación:**  
-> Todo el trabajo se concentra de forma 100% digital en la pestaña **`Semana 13 🎬`** del documento **«Portafolio Digital - Tercer Parcial»** en Google Docs. La revisión se realiza directamente en las pantallas del laboratorio de cómputo. No se sale a pasillos a grabar en la Semana 13; la filmación final y montaje se ejecutarán con el guion autorizado con el guion previamente autorizado.
+> Toda la evidencia de la semana queda integrada de forma individual en la pestaña **`Semana 13 🎨`** del documento **«Portafolio Digital - Tercer Parcial»** en Google Docs mediante capturas y archivos **PNG** exportados desde **Presentaciones de Google**. No se utiliza libreta física ni papel.
