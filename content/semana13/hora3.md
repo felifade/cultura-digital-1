@@ -1,57 +1,57 @@
-# Hora 3: Pulido Avanzado en Google Slides y Auditoría en Docs
+# Hora 3: Fotos en Galería, Transiciones y Revisión en Pantalla
 
 <section class="momento momento-inicio">
-<h2>Inicio: Nivelación Individual y Mejora Visual (10 min)</h2>
+<h2>Inicio: Nivelación Individual y Toque Final (10 min)</h2>
 </section>
 
 <!-- CAJA DE SESIÓN DE PULIDO Y NIVELACIÓN -->
 <div style="background:#f8fafc; border:1.5px solid #cbd5e1; border-left:6px solid #475569; border-radius:8px; padding:12px 14px; margin:10px 0; color:#334155; font-size:12.5px;">
-<strong style="font-size:13px; color:#1e293b;">🎯 Sesión de Consolidación y Acabado Profesional:</strong><br>
-Esta tercera hora está destinada a nivelar cualquier actividad pendiente de tu portafolio digital y perfeccionar el acabado gráfico de tu trabajo en <strong>Presentaciones de Google</strong> antes de la revisión final en pantalla:
+<strong style="font-size:13px; color:#1e293b;">🎯 Sesión de Consolidación, Fotos y Acabado en Presentaciones:</strong><br>
+Esta tercera hora sirve para nivelar cualquier pendiente de tu portafolio o completar tus 5 diapositivas, guardar tus fotografías dentro de la <strong>Diapositiva 5 (Galería)</strong> y dejar tu trabajo listo para evaluar:
 <ul style="margin:6px 0 0 16px; padding:0; font-size:12px; line-height:1.5;">
-<li><strong>Si tienes actividades pendientes:</strong> Aprovecha este bloque para completar con calma tu configuración en Google Calendar/Docs o terminar de diseñar y exportar tu archivo de Google Slides.</li>
-<li><strong>Si ya completaste la Hora 1 y Hora 2:</strong> Aplica técnicas de acabado profesional (capas, alineación y sombras) en tu diseño de <code>slides.google.com</code> y actualiza el PNG en Docs.</li>
+<li><strong>Si tienes actividades pendientes:</strong> Aprovecha este bloque para cerrar con calma tu horario de Calendar o terminar tus Diapositivas 1 a 5 en <code>slides.google.com</code>.</li>
+<li><strong>Si ya completaste las Diapositivas 1 a 5:</strong> Toma <strong>2 fotos reales</strong> en tu lugar, guárdalas directo en la <strong>Diapositiva 5</strong>, agrega transiciones sobrias y presenta en pantalla completa.</li>
 </ul>
 </div>
 
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Acabado Gráfico en Slides y Auditoría del Portafolio (30 min)</h2>
+<h2>Desarrollo: Guardar Fotos, Transiciones y Auditoría en Docs (30 min)</h2>
 </section>
 
 <div style="background:#eff6ff; border:1px solid #bfdbfe; border-left:5px solid #2563eb; padding:8px 12px; border-radius:6px; margin:10px 0; font-size:12px; color:#1e40af;">
-🖥️ <strong>Modo Autónomo (Pantalla Dividida 70/30):</strong> Coloca tu trabajo de <strong>Google Slides / Google Docs</strong> al <strong>70%</strong> y este portal al <strong>30%</strong> como lista de verificación en tu computadora.
+🖥️ <strong>Modo Autónomo (Pantalla Dividida 70/30):</strong> Coloca tu archivo de <strong>Google Slides / Google Docs</strong> al <strong>70%</strong> y este portal al <strong>30%</strong> como lista de verificación en tu computadora.
 </div>
 
 <div class="task-grid-2">
 <div class="task-card accent-amber">
 <div class="task-card-header">
 <span class="step-badge">1</span>
-<span>✨ Pulido Profesional en Google Slides</span>
+<span>📸 Guardar Fotos en Diapositiva 5 y Transiciones</span>
 </div>
 <div class="task-card-body">
-<p>Eleva la calidad estética de tu Flyer (☀️ Matutino) o tu Storyboard (🌙 Vespertino) con estas 4 herramientas:</p>
+<p>Solo si ya terminaste tus 5 diapositivas teóricas y PEC, da este salto final:</p>
 <table style="width:100%; font-size:11px; border-collapse:collapse; margin-top:4px;">
 <tr style="background:#fef3c7;">
-<th style="padding:4px; border:1px solid #fde68a; width:36%;">Herramienta</th>
-<th style="padding:4px; border:1px solid #fde68a;">Para qué aplicarla hoy</th>
+<th style="padding:4px; border:1px solid #fde68a; width:36%;">Acción en Slides</th>
+<th style="padding:4px; border:1px solid #fde68a;">Cómo aplicarlo hoy</th>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">1. Orden de Capas</td>
-<td style="padding:4px; border:1px solid #fde68a;"><code>Clic derecho &gt; Ordenar &gt; Enviar al fondo / Traer al frente</code> para que ninguna forma tape tus textos.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">1. Guardar Fotos<br>(Diapositiva 5)</td>
+<td style="padding:4px; border:1px solid #fde68a;">Toma <strong>2 fotos fijas en tu banca</strong> con luz de ventana (artesanía u objeto), súbelas a Drive e insértalas directo en los marcos de tu <strong>Diapositiva 5</strong> (y una en tu cartel si es Matutino).</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">2. Sombra Paralela</td>
-<td style="padding:4px; border:1px solid #fde68a;">Selecciona tu título o foto ➔ <code>Opciones de formato &gt; Sombra paralela</code> para darle relieve profesional.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">2. Recorte y Capas</td>
+<td style="padding:4px; border:1px solid #fde68a;">Usa <strong>Recortar imagen &gt; Forma</strong> + <code>Opciones de formato &gt; Sombra paralela</code> y revisa capas con <code>Ordenar</code>.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">3. Guías Rojas</td>
-<td style="padding:4px; border:1px solid #fde68a;">Mueve tus cuadros hasta ver la línea roja central para centrar textos e imágenes con precisión.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">3. Transiciones</td>
+<td style="padding:4px; border:1px solid #fde68a;">Entra a <code>Diapositiva &gt; Transición</code> ➔ Elige <em>Disolver</em> o <em>Deslizar</em> (velocidad media) ➔ Clic en <strong>Aplicar a todas las diapositivas</strong>.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">4. Contraste y Datos</td>
-<td style="padding:4px; border:1px solid #fde68a;">Comprueba ortografía en fechas (<code>09 de diciembre · 9:00 a 11:40 am</code>) o títulos, y re-exporta tu <strong>PNG</strong> limpio.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">4. Prueba en Vivo</td>
+<td style="padding:4px; border:1px solid #fde68a;">Haz clic en <strong>Presentación de diapositivas</strong> (arriba derecha) para comprobar que todo luzca legible sin cortarse.</td>
 </tr>
 </table>
 </div>
@@ -60,18 +60,17 @@ Esta tercera hora está destinada a nivelar cualquier actividad pendiente de tu 
 <div class="task-card accent-purple">
 <div class="task-card-header">
 <span class="step-badge">2</span>
-<span>🔍 Auditoría en Google Docs y Firma en Monitor</span>
+<span>🔍 Integración en Google Docs y Revisión en Monitor</span>
 </div>
 <div class="task-card-body">
-<p>Antes de solicitar la revisión del docente en tu pantalla, audita que tu pestaña <strong><code>Semana 13 🎨</code></strong> cumpla al 100%:</p>
+<p>Concentra toda tu calificación dentro de la pestaña <strong><code>Semana 13 🎨</code></strong> en Google Docs:</p>
 <ul style="font-size:11.5px; line-height:1.55; margin:4px 0 8px 16px; padding:0; color:#334155;">
 <li><strong>Títulos de Dictados (2):</strong> Tamaño <strong>20 • Negrita • Centrado</strong>.</li>
 <li><strong>Cuerpo de Texto (2):</strong> Tamaño <strong>14 • Justificado</strong> con sus <strong>5 palabras clave</strong> intervenidas (<u>negrita + subrayado</u> + emoji).</li>
-<li><strong>Tabla de Hora 1 (2×2):</strong> Tus 2 fotografías capturadas con celular y transferidas en <strong>Tamaño 10</strong>.</li>
-<li><strong>Tabla de Hora 2:</strong> Tu diseño exportado en <strong>PNG</strong> desde Google Slides (1 Flyer en Matutino / 2 láminas de Storyboard en Vespertino) pegado con nitidez.</li>
+<li><strong>Evidencia de Slides en Docs:</strong> Ubícate en tu <strong>Diapositiva 4</strong> (Cartel o Escaleta), ve a <code>Archivo &gt; Descargar &gt; Imagen PNG (.png)</code> y pégala en una tabla <strong>1×1</strong> (<strong>Tamaño 10</strong>) debajo del Dictado 2, junto con el enlace de tu presentación (<code>Compartir &gt; Cualquier usuario con el enlace: Lector</code>).</li>
 </ul>
 <div style="padding:6px 8px; background:#f0fdf4; border:1px solid #bbf7d0; border-radius:6px; font-size:11px; color:#166534;">
-🏆 <strong>Selección Comunitaria:</strong> Los flyers mejor logrados del Turno Matutino y los storyboards más sólidos del Vespertino servirán de base para la difusión final en Semana 14.
+✅ <strong>Revisión en Pantalla:</strong> Muestra al docente en tu monitor tanto tu pestaña <code>Semana 13 🎨</code> en Docs como tu presentación de 5 diapositivas en Slides.
 </div>
 </div>
 </div>
@@ -85,9 +84,9 @@ Esta tercera hora está destinada a nivelar cualquier actividad pendiente de tu 
 
 <div class="cierre-checklist-box">
 <div class="cierre-checklist-grid">
-<div>✅ <strong>Pestaña `Semana 13 🎨`</strong> auditada con ambos dictados (20/14)</div>
-<div>✅ <strong>Diseño en Google Slides pulido</strong> (capas, sombras y alineación)</div>
-<div>✅ <strong>Imagen(es) PNG actualizadas</strong> y pegadas en Docs (Tamaño 10)</div>
-<div>✅ <strong>Portafolio calificado en monitor</strong> directamente por el docente</div>
+<div>✅ <strong>Presentación de 5 diapositivas</strong> (Temas + Cartel/Escaleta + Galería)</div>
+<div>✅ <strong>Fotos guardadas en Diapositiva 5</strong> (o marcos listos con etiquetas)</div>
+<div>✅ <strong>Transiciones sobrias aplicadas</strong> y ortografía verificada</div>
+<div>✅ <strong>PNG / Enlace y 2 dictados</strong> revisados en Docs en el monitor</div>
 </div>
 </div>

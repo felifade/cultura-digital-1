@@ -1,27 +1,26 @@
-# Hora 2: Diseño en Presentaciones de Google (Google Slides)
+# Hora 2: Cartel PEC / Guion Visual y Galería en la Misma Presentación
 
 <section class="momento momento-inicio">
 <h2>Inicio: Segundo Dictado en Google Docs (10 min)</h2>
 </section>
 
-Continúa en la misma pestaña **`Semana 13 🎨`** de tu documento en Google Docs, debajo de la tabla de la Hora 1.
+Continúa en la misma pestaña **`Semana 13 🎨`** de tu documento en Google Docs, debajo del Dictado 1 de la Hora 1.
 
 > 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
 
-> ### Diseño Visual, Composición y Narrativa Humana
-> *"Una presentación efectiva comunica **<u>mensajes</u>** 💬 claros mediante la **<u>jerarquía</u>** 🎨 de títulos, colores armónicos e imágenes nítidas. Al diseñar un cartel o un guion visual sin recurrir a **<u>clichés</u>** 🚫 artificiales, fortalecemos el **<u>respeto</u>** 🕊️ por nuestras tradiciones e identidad. Ordenar cada elemento gráfico con intención mejora el impacto real en nuestra **<u>comunidad</u>** 🤝 escolar."*
+> ### Diseño Visual, Jerarquía y Narrativa Humana
+> *"Una lámina bien diseñada comunica **<u>mensajes</u>** 💬 directos mediante la **<u>jerarquía</u>** 🎨 de títulos, colores armónicos e imágenes nítidas. Al crear un anuncio o historia visual sin recurrir a **<u>clichés</u>** 🚫 artificiales, fortalecemos el **<u>respeto</u>** 🕊️ por nuestras tradiciones e identidad. Preparar una diapositiva exclusiva para organizar fotografías e insumos agiliza el trabajo creativo en nuestra **<u>comunidad</u>** 🤝 escolar."*
 
-> 🎵 **Reto de Lectura de Comprensión:** En lo que suena la **canción instrumental de fondo (3 a 4 min)**, lee el texto en silencio, subraya las 5 palabras clave con sus emojis y mantén tu pantalla dividida (70% Presentaciones de Google / 30% Portal).
+> 🎵 **Reto de Lectura de Comprensión:** En lo que suena la **canción instrumental de fondo (3 a 4 min)**, lee el texto en silencio, subraya las 5 palabras clave con sus emojis y mantén tu pantalla dividida (70% Slides / 30% Portal).
 
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Práctica Individual en Presentaciones de Google (30 min)</h2>
+<h2>Desarrollo: Diapositivas 4 y 5 en tu Misma Presentación (30 min)</h2>
 </section>
 
-<!-- REGLA DE TRABAJO INDIVIDUAL EN SLIDES -->
 <div style="background:#eff6ff; border:1.5px solid #bfdbfe; border-left:6px solid #2563eb; border-radius:8px; padding:10px 14px; margin:10px 0; color:#1e40af; font-size:12px;">
-💻 <strong>Trabajo 100% Individual en tu Propia Computadora:</strong> Ingresa a 👉 <strong><a href="https://slides.google.com" target="_blank" rel="noopener noreferrer" style="color:#1d4ed8;">slides.google.com</a></strong> con tu cuenta institucional <code>@dgb.edu.mx</code> y crea una <strong>Presentación en blanco</strong>. <em>No compartas el archivo</em>: cada estudiante diseña, recorta formas y exporta su propia imagen PNG para aprender todas las herramientas.
+💻 <strong>Todo en 1 Archivo Panorámico (16:9):</strong> Continúa en tu misma presentación <code>PEC_Semana13_[Tu_Nombre]</code> (sin cambiar tamaño de hoja) agregando las <strong>Diapositivas 4 y 5</strong> de acuerdo con tu turno.
 </div>
 
 <!-- SELECTOR DE TURNO INTERACTIVO -->
@@ -32,76 +31,63 @@ Continúa en la misma pestaña **`Semana 13 🎨`** de tu documento en Google Do
 <button type="button" class="turno-pill-btn btn-ambos" data-turno="ambos" onclick="window.switchTurno('ambos')">👁️ Ver Ambos Turnos</button>
 </div>
 
-<!-- BLOQUE TURNO MATUTINO (FLYER EN GOOGLE SLIDES) -->
+<!-- BLOQUE TURNO MATUTINO (CARTEL 16:9 + GALERÍA) -->
 <div class="seccion-matutino">
 <div class="turno-banner-matutino">
-<strong>☀️ TURNO MATUTINO (Grupos 101 al 106) · Flyer Oficial: Tianguis Artesanal “Manos que tejen PAZ”</strong><br>
-Diseña <strong>1 diapositiva vertical (4:5)</strong> en Presentaciones de Google con los datos oficiales del evento para promover tu producto y el ahorro rumbo al <strong>Museo Memoria y Tolerancia (CDMX)</strong>.
+<strong>☀️ TURNO MATUTINO (Grupos 101 al 106) · Cartel Promocional y Galería “Manos que tejen PAZ”</strong><br>
+Diseña tu anuncio panorámico (<strong>Diapositiva 4</strong>) en formato <code>16:9</code> ideal para proyector y Facebook, y prepara tu álbum para guardar fotos (<strong>Diapositiva 5</strong>).
 </div>
 
 <div class="task-grid-2">
 <div class="task-card accent-amber">
 <div class="task-card-header">
 <span class="step-badge">1</span>
-<span>📐 Configurar Lienzo Vertical y Modelo Guía</span>
+<span>🎨 Diapositiva 4: Cartel Horizontal (16:9)</span>
 </div>
 <div class="task-card-body">
-<p>Observa la jerarquía visual del modelo guía y configura tu hoja en <strong>Presentaciones de Google</strong>:</p>
-<div style="text-align:center; margin:8px 0;">
-<img src="./assets/semana13/Flyer_Tianguis_Manos_que_tejen_PAZ.png" alt="Cartel Modelo Tianguis Manos que tejen PAZ" style="max-width:210px; width:100%; height:auto; border-radius:8px; border:1px solid #cbd5e1; box-shadow:0 2px 6px rgba(0,0,0,0.08);">
+<p>Toma los datos y colores del modelo guía y adáptalos a una lámina horizontal <strong>16:9</strong>:</p>
+<div style="text-align:center; margin:6px 0;">
+<img src="./assets/semana13/Flyer_Tianguis_Manos_que_tejen_PAZ.png" alt="Cartel Modelo Tianguis Manos que tejen PAZ" style="max-width:190px; width:100%; height:auto; border-radius:8px; border:1px solid #cbd5e1; box-shadow:0 2px 6px rgba(0,0,0,0.08);">
 </div>
-<table style="width:100%; font-size:10.5px; border-collapse:collapse; margin-top:6px;">
-<tr style="background:#fef3c7;">
-<th style="padding:4px; border:1px solid #fde68a; width:34%;">Paso en Slides</th>
-<th style="padding:4px; border:1px solid #fde68a;">Configuración Exacta</th>
-</tr>
-<tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">1. Tamaño Vertical</td>
-<td style="padding:4px; border:1px solid #fde68a;"><code>Archivo</code> ➔ <code>Configuración de la página</code> ➔ <strong>Personalizada: 20 × 25 cm</strong>.</td>
-</tr>
-<tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">2. Fondo y Formas</td>
-<td style="padding:4px; border:1px solid #fde68a;">Elige color de fondo claro y usa <code>Insertar &gt; Forma</code> para crear la franja superior y el recuadro central de datos.</td>
-</tr>
-<tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">3. Datos Oficiales</td>
-<td style="padding:4px; border:1px solid #fde68a;">Redacta respetando jerarquía: <strong>Título grande</strong>, fecha y sede bien legibles.</td>
-</tr>
-</table>
+<ul style="font-size:10.5px; line-height:1.45; margin:4px 0 0 16px; padding:0; color:#334155;">
+<li><strong>Encabezado:</strong> CEB 5/4 “Profr. Rafael Ramírez” · Primer Semestre · Turno Matutino.</li>
+<li><strong>Título y Lema:</strong> <strong>Tianguis Artesanal: “Manos que tejen PAZ”</strong> <em>(Ahorramos, Emprendemos y Viajamos)</em>.</li>
+<li><strong>Fecha y Horario:</strong> <strong>Miércoles 09 de diciembre de 2026 · 9:00 a 11:40 am</strong> <em>(Inauguración 9:00 am)</em>.</li>
+<li><strong>Sede y Stand:</strong> <strong>Estacionamiento exterior y Audiorama</strong> · Deja visible: <code>Stand #__</code>.</li>
+<li><strong>Identidad Propia:</strong> Nombre de tu proyecto + marco lateral (<code>Insertar &gt; Forma</code>) reservado para la foto de tu artesanía.</li>
+</ul>
 </div>
 </div>
 
 <div class="task-card accent-purple">
 <div class="task-card-header">
 <span class="step-badge">2</span>
-<span>🖼️ Datos, Foto de Producto y Exportación PNG</span>
+<span>🖼️ Diapositiva 5: Galería para Guardar Fotos</span>
 </div>
 <div class="task-card-body">
-<p>Incluye obligatoriamente estos 5 bloques de texto en tu Flyer:</p>
+<p>Agrega la <strong>Diapositiva 5</strong> titulada: <code>Galería de Nuestra Artesanía</code>:</p>
 <ul style="font-size:11px; line-height:1.5; margin:4px 0 8px 16px; padding:0; color:#334155;">
-<li><strong>Encabezado:</strong> CEB 5/4 “Profr. Rafael Ramírez” · Primer Semestre · Turno Matutino.</li>
-<li><strong>Título y Lema:</strong> <strong>Tianguis Artesanal: “Manos que tejen PAZ”</strong> <em>(Ahorramos, Emprendemos y Viajamos)</em>.</li>
-<li><strong>Fecha y Horario:</strong> <strong>Miércoles 09 de diciembre de 2026 · 9:00 a 11:40 am</strong> <em>(Inauguración 9:00 am)</em>.</li>
-<li><strong>Lugar y Stand:</strong> <strong>Estacionamiento exterior y Audiorama</strong> · Deja espacio visible para: <code>Stand #__</code>.</li>
-<li><strong>Tu Emprendimiento:</strong> Nombre de tu proyecto + tu nombre.</li>
+<li>Usa <code>Insertar &gt; Forma</code> para trazar <strong>2 a 4 marcos ordenados</strong> (rectángulos redondeados o círculos) dejando el espacio listo para guardar ahí tus fotografías reales en cuanto las tomes.</li>
+<li>Coloca debajo de cada marco una etiqueta descriptiva breve:
+  <br>1. <em>Foto 1: Artesanía terminada (Plano Detalle)</em>
+  <br>2. <em>Foto 2: Proceso de elaboración / Manos</em>
+  <br>3. <em>Foto 3: Etiqueta y precio justo</em>
+</li>
 </ul>
 <div style="background:#f8fafc; border:1px solid #e2e8f0; border-radius:6px; padding:8px; font-size:11px; color:#334155;">
-<strong>✂️ Inserta y Recorta tu Foto (de Hora 1):</strong><br>
-1. <code>Insertar &gt; Imagen</code> (desde Drive o computadora) con tu foto de artesanía.<br>
-2. Selecciónala y toca la flecha junto a <strong>Recortar imagen</strong> ➔ <code>Enmascarar imagen &gt; Formas</code> (elige círculo o rectángulo redondeado) y añádele un borde limpio.<br><br>
-<strong>📥 Entrega en Google Docs:</strong><br>
-Ve a <code>Archivo &gt; Descargar &gt; Imagen PNG (.png)</code> y pega tu cartel en tu pestaña <strong><code>Semana 13 🎨</code></strong> dentro de una tabla <strong>1×1</strong> (texto <strong>Tamaño 10</strong>).
+📸 <strong>¿Cuándo metemos las fotos reales?</strong><br>
+Una vez que domines y termines tu presentación de 5 láminas, podrás tomar y guardar las fotos directo en estos marcos (al cierre en Hora 3 o en Semana 14) sin desorden en el laboratorio.
 </div>
 </div>
 </div>
 </div>
 </div>
 
-<!-- BLOQUE TURNO VESPERTINO (STORYBOARD INDIVIDUAL EN GOOGLE SLIDES) -->
+<!-- BLOQUE TURNO VESPERTINO (REFERENTE ALFONSO + ESCALETA + GALERÍA) -->
 <div class="seccion-vespertino">
 <div class="turno-banner-vespertino">
-<strong>🌙 TURNO VESPERTINO (Grupos 107 al 111) · Storyboard Visual en Google Slides «Raíces que Permanecen»</strong><br>
-Analiza el referente cinematográfico del Mtro. Alfonso y diseña de forma individual <strong>2 diapositivas (16:9)</strong> en Presentaciones de Google con tu propuesta visual.
+<strong>🌙 TURNO VESPERTINO (Grupos 107 al 111) · Cortometraje Referente y Galería «Raíces que Permanecen»</strong><br>
+Analiza el cortometraje del Mtro. Alfonso, estructura tu escaleta en la <strong>Diapositiva 4</strong> y prepara tu álbum de evidencias en la <strong>Diapositiva 5</strong>.
 </div>
 
 <!-- CAJA REFERENCIA CORTOMETRAJE MAESTRO (VESPERTINO) -->
@@ -114,7 +100,7 @@ Analiza el referente cinematográfico del Mtro. Alfonso y diseña de forma indiv
 <a href="https://drive.google.com/file/d/1DMXGThjjZJ99W-ntFUZuKBmyg1JJzSCH/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="background:#16a34a; color:#ffffff; padding:6px 12px; border-radius:6px; font-weight:700; text-decoration:none; font-size:11px; display:inline-block;">▶️ Ver Cortometraje en Drive</a>
 </div>
 <div style="margin-top:6px; font-size:11px; line-height:1.45; color:#166534;">
-• <strong>Cero Clichés de Terror:</strong> Sin monstruos ni sustos; la emoción nace del amor, el silencio y la memoria viva frente a la ofrenda.<br>
+• <strong>Cero Clichés de Terror:</strong> Sin monstruos ni sustos; la emoción nace del amor, el silencio y la memoria viva.<br>
 • <strong>Composición y Luz Íntima:</strong> Planos detalle de flores, veladoras y manos arrugadas con iluminación cálida natural.
 </div>
 </div>
@@ -123,25 +109,10 @@ Analiza el referente cinematográfico del Mtro. Alfonso y diseña de forma indiv
 <div class="task-card accent-purple">
 <div class="task-card-header">
 <span class="step-badge">1</span>
-<span>🎬 Diapositiva 1: Portada y Análisis Visual (16:9)</span>
+<span>🎬 Diapositiva 4: Referente y Escaleta de 6 Escenas</span>
 </div>
 <div class="task-card-body">
-<p>En <strong>Presentaciones de Google</strong> (formato panorámico <code>16:9</code> predeterminado), diseña tu <strong>Diapositiva 1</strong>:</p>
-<ul style="font-size:11px; line-height:1.5; margin:4px 0 6px 16px; padding:0; color:#334155;">
-<li><strong>Título y Datos:</strong> <em>«Raíces que Permanecen: Lo que Permanece»</em>, tu nombre completo, grupo y el rol que desempeñarás (Dirección, Cámara, Arte o Edición).</li>
-<li><strong>3 Lecciones del Corto:</strong> Anota en un recuadro con bordes suaves qué 3 recursos visuales del video del Mtro. Alfonso aplicarás (luz cálida, planos detalle, respeto cultural sin terror).</li>
-<li><strong>Tu Foto de Hora 1:</strong> Inserta tu foto de Plano Detalle y usa <strong>Recortar imagen &gt; Enmascarar en Forma</strong> (círculo o marco redondeado).</li>
-</ul>
-</div>
-</div>
-
-<div class="task-card accent-rose">
-<div class="task-card-header">
-<span class="step-badge">2</span>
-<span>📋 Diapositiva 2: Escenas (6 a 8 Tomas) y PNG en Docs</span>
-</div>
-<div class="task-card-body">
-<p>Agrega una <strong>Diapositiva 2</strong> (<code>+</code> arriba a la izquierda) e inserta una tabla (<code>Insertar &gt; Tabla &gt; 4×7 u 4×9</code>) planeando de <strong>6 a 8 escenas</strong>:</p>
+<p>En la <strong>Diapositiva 4</strong> escribe brevemente tu rol elegido + 3 lecciones del corto del Profe Alfonso e inserta una tabla (<code>4×7</code>) planeando 6 escenas:</p>
 <table style="width:100%; font-size:9.5px; border-collapse:collapse; margin-top:4px;">
 <tr style="background:#f1f5f9;">
 <th style="padding:3px; border:1px solid #cbd5e1; width:10%;">No.</th>
@@ -152,25 +123,40 @@ Analiza el referente cinematográfico del Mtro. Alfonso y diseña de forma indiv
 <tr>
 <td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">01</td>
 <td style="padding:3px; border:1px solid #cbd5e1;">Detalle</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Encendido de veladora o manos sosteniendo retrato</td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Veladora o manos sosteniendo fotografía familiar</td>
 <td style="padding:3px; border:1px solid #cbd5e1;">Música instrumental suave</td>
 </tr>
 <tr>
-<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">02–05</td>
+<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">02–04</td>
 <td style="padding:3px; border:1px solid #cbd5e1;">Variados</td>
-<td style="padding:3px; border:1px solid #cbd5e1;"><em>[Clips/fotos del festival 28-oct + escenas en casa/aula]</em></td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Voz en off o textos</td>
+<td style="padding:3px; border:1px solid #cbd5e1;"><em>[Clips/fotos del festival 28-oct + escenas sencillas en casa]</em></td>
+<td style="padding:3px; border:1px solid #cbd5e1;">Voz en off / textos</td>
 </tr>
 <tr>
-<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">06–08</td>
+<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">05–06</td>
 <td style="padding:3px; border:1px solid #cbd5e1;">Medio / General</td>
 <td style="padding:3px; border:1px solid #cbd5e1;">Reflexión «Lo que permanece» + Cortinilla CEB 5/4</td>
 <td style="padding:3px; border:1px solid #cbd5e1;">Cierre y créditos</td>
 </tr>
 </table>
-<p style="font-size:10.5px; margin-top:6px; color:#334155;">
-📥 <strong>Entrega en Docs:</strong> En cada diapositiva ve a <code>Archivo &gt; Descargar &gt; Imagen PNG (.png)</code> y pega ambas imágenes en una tabla <strong>1×2</strong> en tu pestaña <strong><code>Semana 13 🎨</code></strong> (Tamaño 10).
-</p>
+</div>
+</div>
+
+<div class="task-card accent-rose">
+<div class="task-card-header">
+<span class="step-badge">2</span>
+<span>🖼️ Diapositiva 5: Galería de Referencias y Fotos</span>
+</div>
+<div class="task-card-body">
+<p>Agrega la <strong>Diapositiva 5</strong> titulada: <code>Galería de Referencias y Evidencias</code>:</p>
+<ul style="font-size:11px; line-height:1.5; margin:4px 0 8px 16px; padding:0; color:#334155;">
+<li>Traza <strong>2 a 4 recuadros con forma</strong> (<code>Insertar &gt; Forma</code>) destinados a guardar tus fotografías del festival (28-oct) o tomas de prueba.</li>
+<li>Etiqueta cada marco: <em>Captura Festival 28-Oct</em>, <em>Plano Detalle Luz Cálida</em> y <em>Reflexión «Lo que permanece»</em>.</li>
+</ul>
+<div style="background:#f8fafc; border:1px solid #e2e8f0; border-radius:6px; padding:8px; font-size:11px; color:#334155;">
+📸 <strong>¿Cuándo guardamos las fotos reales?</strong><br>
+Una vez listas las 5 láminas de la presentación, integrarás aquí tus fotos reales (en Hora 3 si da tiempo o en Semana 14) recortadas en forma.
+</div>
 </div>
 </div>
 </div>
@@ -185,8 +171,8 @@ Analiza el referente cinematográfico del Mtro. Alfonso y diseña de forma indiv
 <div class="cierre-checklist-box">
 <div class="cierre-checklist-grid">
 <div>✅ <strong>Dictado 2 completo</strong> con 5 palabras intervenidas en Docs</div>
-<div>✅ <strong>Presentación individual creada</strong> en <code>slides.google.com</code></div>
-<div>✅ <strong>Foto de Hora 1 recortada en forma</strong> dentro de tu diseño</div>
-<div>✅ <strong>Imagen(es) PNG descargadas</strong> y pegadas en Docs (Tamaño 10)</div>
+<div>✅ <strong>Diapositiva 4 lista</strong> (Cartel 16:9 en TM / Escaleta en TV)</div>
+<div>✅ <strong>Diapositiva 5 preparada</strong> con marcos para guardar fotografías</div>
+<div>✅ <strong>Todo guardado en 1 solo archivo</strong> de <code>slides.google.com</code></div>
 </div>
 </div>
