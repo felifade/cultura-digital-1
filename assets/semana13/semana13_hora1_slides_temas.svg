@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 480" width="100%" height="100%" style="background:#ffffff; font-family:'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;">
+  <defs>
+    <filter id="softShadow" x="-2%" y="-2%" width="104%" height="106%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.10"/>
+    </filter>
+    <filter id="slideShadow" x="-3%" y="-3%" width="106%" height="108%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000000" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+
+  <!-- Ventana Principal Google Slides -->
+  <rect x="4" y="4" width="872" height="472" rx="8" fill="#f1f3f4" stroke="#dadce0" stroke-width="1" filter="url(#softShadow)"/>
+
+  <!-- Header Superior -->
+  <rect x="4" y="4" width="872" height="58" rx="8" fill="#ffffff"/>
+  <rect x="4" y="54" width="872" height="8" fill="#ffffff"/>
+
+  <!-- Icono Oficial Google Slides (Amarillo) -->
+  <g transform="translate(18, 15)">
+    <rect x="0" y="0" width="24" height="32" rx="3" fill="#f4b400"/>
+    <path d="M16,0 L24,8 L16,8 Z" fill="#e09000"/>
+    <rect x="4" y="13" width="16" height="12" rx="1.5" fill="#ffffff"/>
+    <rect x="6" y="15" width="12" height="8" rx="0.5" fill="#f4b400"/>
+  </g>
+
+  <!-- Titulo Archivo + En Drive -->
+  <text x="52" y="28" fill="#202124" font-size="13.5" font-weight="600">PEC_Semana13_Juan_Perez</text>
+  <rect x="284" y="16" width="56" height="17" rx="4" fill="#e8f0fe"/>
+  <text x="312" y="28" fill="#1967d2" font-size="9.5" font-weight="600" text-anchor="middle">En Drive</text>
+
+  <!-- Menu -->
+  <text x="52" y="48" fill="#444746" font-size="11">Archivo   Editar   Ver   Insertar   Formato   Diapositiva   Ordenar   Herramientas   Ayuda</text>
+
+  <!-- Boton Presentar + Privado -->
+  <rect x="642" y="14" width="118" height="30" rx="15" fill="#ffffff" stroke="#dadce0" stroke-width="1"/>
+  <polygon points="658,24 658,34 666,29" fill="#444746"/>
+  <text x="708" y="33" fill="#202124" font-size="11" font-weight="600" text-anchor="middle">Presentar</text>
+
+  <rect x="768" y="14" width="94" height="30" rx="15" fill="#c2e7ff"/>
+  <text x="815" y="33" fill="#001d35" font-size="11" font-weight="600" text-anchor="middle">🔒 Privado</text>
+
+  <!-- Toolbar -->
+  <rect x="4" y="62" width="872" height="30" fill="#edf2fa" stroke="#dadce0" stroke-width="1"/>
+  <g transform="translate(18, 70)" fill="#444746" font-size="11.5">
+    <rect x="0" y="-2" width="20" height="18" rx="3" fill="#d3e3fd"/>
+    <text x="10" y="11" font-weight="800" fill="#041e49" text-anchor="middle">+</text>
+    <text x="30" y="11">↶   ↷   🖨️</text>
+    <line x1="98" y1="0" x2="98" y2="14" stroke="#cbd5e1"/>
+    <text x="110" y="11" font-weight="600">T</text>
+    <text x="132" y="11">🖼️ Imagen</text>
+    <text x="198" y="11">▲ Forma</text>
+    <line x1="258" y1="0" x2="258" y2="14" stroke="#cbd5e1"/>
+    <text x="270" y="11">Fondo   |   Diseño   |   Tema   |   Transición</text>
+  </g>
+
+  <!-- Panel Izquierdo Miniaturas -->
+  <rect x="4" y="92" width="142" height="384" fill="#ffffff" stroke="#dadce0" stroke-width="1"/>
+  <g transform="translate(0, 92)">
+    
+    <g transform="translate(8, 10)">
+      <text x="8" y="34" fill="#5f6368" font-size="10" font-weight="500" text-anchor="middle">1</text>
+      <rect x="18" y="0" width="108" height="60" rx="4" fill="#ffffff" stroke="#dadce0" stroke-width="1"/>
+      <rect x="23" y="5" width="98" height="10" rx="2" fill="#003366" opacity="0.85"/>
+      <rect x="23" y="19" width="60" height="4" rx="1" fill="#94a3b8"/>
+      <rect x="23" y="26" width="85" height="4" rx="1" fill="#cbd5e1"/>
+      <text x="23" y="53" fill="#475569" font-size="8.5" font-weight="600">1. Portada CEB</text>
+    </g>
+    <g transform="translate(8, 80)">
+      <text x="8" y="34" fill="#5f6368" font-size="10" font-weight="500" text-anchor="middle">2</text>
+      <rect x="18" y="0" width="108" height="60" rx="4" fill="#ffffff" stroke="#dadce0" stroke-width="1"/>
+      <rect x="23" y="5" width="98" height="10" rx="2" fill="#003366" opacity="0.85"/>
+      <rect x="23" y="19" width="60" height="4" rx="1" fill="#94a3b8"/>
+      <rect x="23" y="26" width="85" height="4" rx="1" fill="#cbd5e1"/>
+      <text x="23" y="53" fill="#475569" font-size="8.5" font-weight="600">2. 4 Mandamientos</text>
+    </g>
+    <g transform="translate(8, 150)">
+      <text x="8" y="34" fill="#5f6368" font-size="10" font-weight="700" text-anchor="middle">3</text>
+      <rect x="18" y="0" width="108" height="60" rx="4" fill="#fef7e0" stroke="#e37400" stroke-width="2"/>
+      <rect x="23" y="5" width="98" height="10" rx="2" fill="#003366" opacity="0.85"/>
+      <rect x="23" y="19" width="60" height="4" rx="1" fill="#94a3b8"/>
+      <rect x="23" y="26" width="85" height="4" rx="1" fill="#cbd5e1"/>
+      <text x="23" y="53" fill="#475569" font-size="8.5" font-weight="600">3. 5 Planos Web</text>
+    </g>
+    <g transform="translate(8, 220)">
+      <text x="8" y="34" fill="#5f6368" font-size="10" font-weight="500" text-anchor="middle">4</text>
+      <rect x="18" y="0" width="108" height="60" rx="4" fill="#ffffff" stroke="#dadce0" stroke-width="1"/>
+      <rect x="23" y="5" width="98" height="10" rx="2" fill="#b45309" opacity="0.85"/>
+      <rect x="23" y="19" width="60" height="4" rx="1" fill="#94a3b8"/>
+      <rect x="23" y="26" width="85" height="4" rx="1" fill="#cbd5e1"/>
+      <text x="23" y="53" fill="#475569" font-size="8.5" font-weight="600">4. Cartel/Escaleta</text>
+    </g>
+    <g transform="translate(8, 290)">
+      <text x="8" y="34" fill="#5f6368" font-size="10" font-weight="500" text-anchor="middle">5</text>
+      <rect x="18" y="0" width="108" height="60" rx="4" fill="#ffffff" stroke="#dadce0" stroke-width="1"/>
+      <rect x="23" y="5" width="98" height="10" rx="2" fill="#003366" opacity="0.85"/>
+      <rect x="23" y="19" width="60" height="4" rx="1" fill="#94a3b8"/>
+      <rect x="23" y="26" width="85" height="4" rx="1" fill="#cbd5e1"/>
+      <text x="23" y="53" fill="#475569" font-size="8.5" font-weight="600">5. Galería Fotos</text>
+    </g>
+  </g>
+  
+  <!-- Lienzo 16:9 Centrado (Diapositiva 3) -->
+  <g transform="translate(166, 114)">
+    <rect x="0" y="0" width="686" height="340" rx="4" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" filter="url(#slideShadow)"/>
+    <!-- Encabezado de Diapositiva -->
+    <rect x="0" y="0" width="686" height="54" fill="#003366"/>
+    <rect x="0" y="54" width="686" height="4" fill="#f59e0b"/>
+    <text x="26" y="34" fill="#ffffff" font-size="19" font-weight="700">Los 5 Planos Maestros (Regla 6×6)</text>
+    <text x="660" y="32" fill="#fde68a" font-size="11" font-weight="600" text-anchor="end">Cultura Digital I · CEB 5/4</text>
+
+    <!-- Columna Izquierda: 5 Planos en Tarjetas 6x6 -->
+    <g transform="translate(24, 74)">
+      <rect x="0" y="0" width="380" height="42" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+      <text x="12" y="18" fill="#0f172a" font-size="12" font-weight="700">1. Plano General</text>
+      <text x="12" y="34" fill="#475569" font-size="11">Muestra todo el entorno o lugar completo.</text>
+
+      <rect x="0" y="50" width="380" height="42" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+      <text x="12" y="68" fill="#0f172a" font-size="12" font-weight="700">2. Plano Medio</text>
+      <text x="12" y="84" fill="#475569" font-size="11">Encuadra de la cintura hacia la cabeza.</text>
+
+      <rect x="0" y="100" width="380" height="42" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+      <text x="12" y="118" fill="#0f172a" font-size="12" font-weight="700">3. Primer Plano</text>
+      <text x="12" y="134" fill="#475569" font-size="11">Rostro cercano para transmitir emoción.</text>
+
+      <rect x="0" y="150" width="380" height="42" rx="6" fill="#fffbeb" stroke="#f59e0b" stroke-width="1.5"/>
+      <text x="12" y="168" fill="#92400e" font-size="12" font-weight="700">4. Plano Detalle / Macro</text>
+      <text x="12" y="184" fill="#78350f" font-size="11">Enfoca un objeto clave o manos trabajando.</text>
+
+      <rect x="0" y="200" width="380" height="42" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+      <text x="12" y="218" fill="#0f172a" font-size="12" font-weight="700">5. A ras de mesa / Traveling</text>
+      <text x="12" y="234" fill="#475569" font-size="11">Cámara baja con movimiento suave.</text>
+    </g>
+
+    <!-- Columna Derecha: 2 Imagenes Buscadas desde Web -->
+    <g transform="translate(422, 74)">
+      <!-- Imagen Ejemplo 1: Plano General -->
+      <rect x="0" y="0" width="238" height="114" rx="8" fill="#e0f2fe" stroke="#0284c7" stroke-width="1.5"/>
+      <path d="M0,84 Q60,55 120,80 T238,72 L238,114 L0,114 Z" fill="#7dd3fc"/>
+      <circle cx="195" cy="30" r="14" fill="#fde047"/>
+      <rect x="24" y="55" width="44" height="38" fill="#0369a1" rx="2"/>
+      <rect x="10" y="8" width="128" height="18" rx="4" fill="#0369a1"/>
+      <text x="74" y="20" fill="#ffffff" font-size="9.5" font-weight="700" text-anchor="middle">🌐 Web: Plano General</text>
+
+      <!-- Imagen Ejemplo 2: Plano Detalle -->
+      <rect x="0" y="128" width="238" height="114" rx="8" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+      <circle cx="119" cy="188" r="32" fill="#f59e0b" opacity="0.25"/>
+      <circle cx="119" cy="188" r="22" fill="#d97706" opacity="0.45"/>
+      <path d="M75,195 Q119,170 163,195" stroke="#92400e" stroke-width="5" fill="none" stroke-linecap="round"/>
+      <path d="M85,205 Q119,180 153,205" stroke="#b45309" stroke-width="4" fill="none" stroke-linecap="round"/>
+      <rect x="10" y="136" width="128" height="18" rx="4" fill="#b45309"/>
+      <text x="74" y="148" fill="#ffffff" font-size="9.5" font-weight="700" text-anchor="middle">🌐 Web: Plano Detalle</text>
+    </g>
+  </g>
+</svg>

@@ -66,6 +66,9 @@ Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs des
 </div>
 </div>
 
+### 🖥️ Ejemplo Visual en Presentaciones de Google (Diapositivas 1 a 3):
+![Ejemplo Visual en Google Slides - Diapositivas 1 a 3](./assets/semana13/semana13_hora1_slides_temas.svg)
+
 ---
 
 <section class="momento momento-cierre">

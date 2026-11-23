@@ -81,6 +81,9 @@ Una vez que domines y termines tu presentación de 5 láminas, podrás tomar y g
 </div>
 </div>
 </div>
+
+### 🖥️ Ejemplo Visual Matutino (Diapositiva 4 · Cartel 16:9 en Google Slides):
+![Ejemplo Visual Matutino - Cartel en Google Slides](./assets/semana13/semana13_hora2_matutino_cartel.svg)
 </div>
 
 <!-- BLOQUE TURNO VESPERTINO (REFERENTE ALFONSO + ESCALETA + GALERÍA) -->
@@ -160,6 +163,9 @@ Una vez listas las 5 láminas de la presentación, integrarás aquí tus fotos r
 </div>
 </div>
 </div>
+
+### 🖥️ Ejemplo Visual Vespertino (Diapositiva 4 · Escaleta en Google Slides):
+![Ejemplo Visual Vespertino - Escaleta en Google Slides](./assets/semana13/semana13_hora2_vespertino_escaleta.svg)
 </div>
 
 ---

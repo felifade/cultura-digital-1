@@ -76,6 +76,9 @@ Esta tercera hora sirve para nivelar cualquier pendiente de tu portafolio o comp
 </div>
 </div>
 
+### 🖥️ Ejemplo Visual: Diapositiva 5 (Galería de Fotos) y Transiciones en Slides
+![Ejemplo Visual Hora 3 - Galería y Transiciones en Google Slides](./assets/semana13/semana13_hora3_galeria_transicion.svg)
+
 ---
 
 <section class="momento momento-cierre">
