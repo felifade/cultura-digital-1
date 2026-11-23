@@ -1,23 +1,23 @@
-# Hora 3: Fotos en Galería, Transiciones y Revisión en Pantalla
+# Hora 3: Diapositiva 6 (Galería de Fotos), Transiciones y Revisión
 
 <section class="momento momento-inicio">
-<h2>Inicio: Nivelación Individual y Toque Final (10 min)</h2>
+<h2>Inicio: Nivelación Individual y Construcción de Diapositiva 6 (10 min)</h2>
 </section>
 
 <!-- CAJA DE SESIÓN DE PULIDO Y NIVELACIÓN -->
 <div style="background:#f8fafc; border:1.5px solid #cbd5e1; border-left:6px solid #475569; border-radius:8px; padding:12px 14px; margin:10px 0; color:#334155; font-size:12.5px;">
-<strong style="font-size:13px; color:#1e293b;">🎯 Sesión de Consolidación, Fotos y Acabado en Presentaciones:</strong><br>
-Esta tercera hora sirve para nivelar cualquier pendiente de tu portafolio o completar tus 5 diapositivas, guardar tus fotografías dentro de la <strong>Diapositiva 5 (Galería)</strong> y dejar tu trabajo listo para evaluar:
+<strong style="font-size:13px; color:#1e293b;">🎯 Sesión de Consolidación, Fotos en Galería y Acabado Final:</strong><br>
+En esta tercera hora cierras tu presentación de <strong>6 diapositivas</strong> creando la <strong>Diapositiva 6 (Galería de Evidencias)</strong>, guardando dentro tus fotografías y aplicando transiciones profesionales:
 <ul style="margin:6px 0 0 16px; padding:0; font-size:12px; line-height:1.5;">
-<li><strong>Si tienes actividades pendientes:</strong> Aprovecha este bloque para cerrar con calma tu horario de Calendar o terminar tus Diapositivas 1 a 5 en <code>slides.google.com</code>.</li>
-<li><strong>Si ya completaste las Diapositivas 1 a 5:</strong> Toma <strong>2 fotos reales</strong> en tu lugar, guárdalas directo en la <strong>Diapositiva 5</strong>, agrega transiciones sobrias y presenta en pantalla completa.</li>
+<li><strong>Si tienes actividades pendientes:</strong> Aprovecha este bloque para completar con calma tu horario de Calendar o terminar tus Diapositivas 1 a 5 en <code>slides.google.com</code>.</li>
+<li><strong>Si ya completaste las Diapositivas 1 a 5:</strong> Agrega la <strong>Diapositiva 6</strong>, toma <strong>2 fotos reales</strong> en tu lugar, guárdalas dentro con recorte en forma, pon transiciones y muestra en pantalla completa.</li>
 </ul>
 </div>
 
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Guardar Fotos, Transiciones y Auditoría en Docs (30 min)</h2>
+<h2>Desarrollo: Galería (Diapositiva 6), Transiciones y Docs (30 min)</h2>
 </section>
 
 <div style="background:#eff6ff; border:1px solid #bfdbfe; border-left:5px solid #2563eb; padding:8px 12px; border-radius:6px; margin:10px 0; font-size:12px; color:#1e40af;">
@@ -27,19 +27,19 @@ Esta tercera hora sirve para nivelar cualquier pendiente de tu portafolio o comp
 <div class="task-grid-2">
 <div class="task-card accent-amber">
 <div class="task-card-header">
-<span class="step-badge">1</span>
-<span>📸 Guardar Fotos en Diapositiva 5 y Transiciones</span>
+<span class="step-badge">6</span>
+<span>📸 Diapositiva 6 (Galería) y Transiciones en Slides</span>
 </div>
 <div class="task-card-body">
-<p>Solo si ya terminaste tus 5 diapositivas teóricas y PEC, da este salto final:</p>
+<p>Crea tu última lámina titulada <code>Galería de Evidencias</code> y dale acabado profesional a toda la presentación:</p>
 <table style="width:100%; font-size:11px; border-collapse:collapse; margin-top:4px;">
 <tr style="background:#fef3c7;">
 <th style="padding:4px; border:1px solid #fde68a; width:36%;">Acción en Slides</th>
 <th style="padding:4px; border:1px solid #fde68a;">Cómo aplicarlo hoy</th>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">1. Guardar Fotos<br>(Diapositiva 5)</td>
-<td style="padding:4px; border:1px solid #fde68a;">Toma <strong>2 fotos fijas en tu banca</strong> con luz de ventana (artesanía u objeto), súbelas a Drive e insértalas directo en los marcos de tu <strong>Diapositiva 5</strong> (y una en tu cartel si es Matutino).</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">1. Guardar Fotos<br>(Diapositiva 6)</td>
+<td style="padding:4px; border:1px solid #fde68a;">Toma <strong>2 fotos limpias en tu banca</strong> con luz de ventana (artesanía u objeto), súbelas a Drive e insértalas en tu <strong>Diapositiva 6</strong> (y una en tu cartel si es Matutino).</td>
 </tr>
 <tr>
 <td style="padding:4px; border:1px solid #fde68a; font-weight:700;">2. Recorte y Capas</td>
@@ -51,7 +51,7 @@ Esta tercera hora sirve para nivelar cualquier pendiente de tu portafolio o comp
 </tr>
 <tr>
 <td style="padding:4px; border:1px solid #fde68a; font-weight:700;">4. Prueba en Vivo</td>
-<td style="padding:4px; border:1px solid #fde68a;">Haz clic en <strong>Presentación de diapositivas</strong> (arriba derecha) para comprobar que todo luzca legible sin cortarse.</td>
+<td style="padding:4px; border:1px solid #fde68a;">Haz clic en <strong>Presentar</strong> (arriba derecha) para comprobar las 6 láminas a pantalla completa sin cortes.</td>
 </tr>
 </table>
 </div>
@@ -67,16 +67,16 @@ Esta tercera hora sirve para nivelar cualquier pendiente de tu portafolio o comp
 <ul style="font-size:11.5px; line-height:1.55; margin:4px 0 8px 16px; padding:0; color:#334155;">
 <li><strong>Títulos de Dictados (2):</strong> Tamaño <strong>20 • Negrita • Centrado</strong>.</li>
 <li><strong>Cuerpo de Texto (2):</strong> Tamaño <strong>14 • Justificado</strong> con sus <strong>5 palabras clave</strong> intervenidas (<u>negrita + subrayado</u> + emoji).</li>
-<li><strong>Evidencia de Slides en Docs:</strong> Ubícate en tu <strong>Diapositiva 4</strong> (Cartel o Escaleta), ve a <code>Archivo &gt; Descargar &gt; Imagen PNG (.png)</code> y pégala en una tabla <strong>1×1</strong> (<strong>Tamaño 10</strong>) debajo del Dictado 2, junto con el enlace de tu presentación (<code>Compartir &gt; Cualquier usuario con el enlace: Lector</code>).</li>
+<li><strong>Evidencia de Slides en Docs:</strong> Ubícate en tu <strong>Diapositiva 5</strong> (Cartel o Escaleta), ve a <code>Archivo &gt; Descargar &gt; Imagen PNG (.png)</code> y pégala en una tabla <strong>1×1</strong> (<strong>Tamaño 10</strong>) debajo del Dictado 2, junto con el enlace de tu presentación (<code>Compartir &gt; Cualquier usuario con el enlace: Lector</code>).</li>
 </ul>
 <div style="padding:6px 8px; background:#f0fdf4; border:1px solid #bbf7d0; border-radius:6px; font-size:11px; color:#166534;">
-✅ <strong>Revisión en Pantalla:</strong> Muestra al docente en tu monitor tanto tu pestaña <code>Semana 13 🎨</code> en Docs como tu presentación de 5 diapositivas en Slides.
+✅ <strong>Revisión en Pantalla:</strong> Muestra al docente en tu monitor tanto tu pestaña <code>Semana 13 🎨</code> en Docs como tu presentación de 6 diapositivas en Slides.
 </div>
 </div>
 </div>
 </div>
 
-### 🖥️ Ejemplo Visual: Diapositiva 5 (Galería de Fotos) y Transiciones en Slides
+### 🖥️ Ejemplo Visual: Diapositiva 6 (Galería de Fotos) y Transiciones en Slides
 ![Ejemplo Visual Hora 3 - Galería y Transiciones en Google Slides](./assets/semana13/semana13_hora3_galeria_transicion.svg)
 
 ---
@@ -87,9 +87,9 @@ Esta tercera hora sirve para nivelar cualquier pendiente de tu portafolio o comp
 
 <div class="cierre-checklist-box">
 <div class="cierre-checklist-grid">
-<div>✅ <strong>Presentación de 5 diapositivas</strong> (Temas + Cartel/Escaleta + Galería)</div>
-<div>✅ <strong>Fotos guardadas en Diapositiva 5</strong> (o marcos listos con etiquetas)</div>
-<div>✅ <strong>Transiciones sobrias aplicadas</strong> y ortografía verificada</div>
-<div>✅ <strong>PNG / Enlace y 2 dictados</strong> revisados en Docs en el monitor</div>
+<div>✅ <strong>Presentación de 6 diapositivas</strong> completa (incluyendo Ruta PEC 6 puntos)</div>
+<div>✅ <strong>Fotos guardadas en Diapositiva 6</strong> con recorte en forma y sombra</div>
+<div>✅ <strong>Transiciones sobrias aplicadas</strong> a todas las láminas y ortografía verificada</div>
+<div>✅ <strong>PNG (Lám. 5) / Enlace y 2 dictados</strong> revisados en Docs en el monitor</div>
 </div>
 </div>

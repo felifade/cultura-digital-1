@@ -1,4 +1,4 @@
-# Hora 1: Presentaciones Electrónicas y Diapositivas de los Temas
+# Hora 1: Portada, Ruta PEC en 6 Puntos y Mandamientos Móviles
 
 <section class="momento momento-inicio">
 <h2>Inicio: Dictado en Google Docs (10 min)</h2>
@@ -16,58 +16,151 @@ Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs des
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Tu Presentación de Temas en Google Slides (30 min)</h2>
+<h2>Desarrollo: Diapositivas 1, 2 y 3 en Google Slides (30 min)</h2>
 </section>
 
 <div style="background:#eff6ff; border:1px solid #bfdbfe; border-left:5px solid #2563eb; padding:8px 12px; border-radius:6px; margin:10px 0; font-size:12px; color:#1e40af;">
-🖥️ <strong>Trabajo 100% Individual en Pantalla Dividida (70/30):</strong> Coloca <strong><a href="https://slides.google.com" target="_blank" rel="noopener noreferrer" style="color:#1d4ed8;">slides.google.com</a></strong> al <strong>70%</strong> y este portal al <strong>30%</strong>. Crea una <strong>Presentación en blanco (16:9)</strong> y nómbrala: <code>PEC_Semana13_[Tu_Nombre]</code>. <em>No compartas el archivo</em>: cada estudiante diseña sus propias diapositivas.
+🖥️ <strong>Trabajo 100% Individual en Pantalla Dividida (70/30):</strong> Coloca <strong><a href="https://slides.google.com" target="_blank" rel="noopener noreferrer" style="color:#1d4ed8;">slides.google.com</a></strong> al <strong>70%</strong> y este portal al <strong>30%</strong>. Crea una <strong>Presentación en blanco (16:9)</strong> y nómbrala: <code>PEC_Semana13_[Tu_Nombre]</code>. <em>No compartas el archivo</em>: cada estudiante construirá sus propias <strong>6 diapositivas</strong>.
 </div>
 
 <div class="task-grid-2">
 <div class="task-card accent-amber">
 <div class="task-card-header">
 <span class="step-badge">1</span>
-<span>🖥️ Diapositivas 1 y 2: Portada y Mandamientos del Celular</span>
+<span>🖥️ Diapositiva 1: Portada Institucional</span>
 </div>
 <div class="task-card-body">
-<p>Aún <strong>sin sacar el celular</strong>, plasma la teoría de la semana aplicando la <strong>Regla 6×6</strong> (frases cortas, cero bloques largos):</p>
-<table style="width:100%; font-size:11px; border-collapse:collapse; margin-top:4px;">
-<tr style="background:#fef3c7;">
-<th style="padding:4px; border:1px solid #fde68a; width:34%;">Diapositiva</th>
-<th style="padding:4px; border:1px solid #fde68a;">Qué debe contener</th>
-</tr>
-<tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">Diapositiva 1:<br>Portada</td>
-<td style="padding:4px; border:1px solid #fde68a;">Elige un <strong>Tema</strong> limpio (panel derecho). Título: <code>Cultura Digital I · Lenguaje Visual y PEC</code>. Agrega tu Nombre completo, Grupo, Docente (<em>Mtro. Felipe López Salazar</em>) y Plantel (<em>CEB 5/4</em>).</td>
-</tr>
-<tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">Diapositiva 2:<br>4 Mandamientos</td>
-<td style="padding:4px; border:1px solid #fde68a;">Usa <code>Insertar &gt; Forma</code> para crear 4 tarjetas con lo que cuidarás al tomar fotos después:<br>1. 🧼 <strong>Lente Impecable</strong> (limpiar cristal)<br>2. 🚶 <strong>Cero Zoom Digital</strong> (acercarse físicamente)<br>3. 📐 <strong>Trípode Humano</strong> (ambas manos y luz de ventana)<br>4. 🔇 <strong>Encuadre Limpio</strong> (sin distractores atrás)</td>
-</tr>
-</table>
+<p>En la primera lámina configura un <strong>Tema</strong> visual limpio (panel derecho) con buen contraste:</p>
+<ul style="font-size:11px; line-height:1.5; margin:4px 0 0 16px; padding:0; color:#334155;">
+<li><strong>Título principal:</strong> <code>Cultura Digital I · Lenguaje Visual y PEC</code></li>
+<li><strong>Datos institucionales:</strong> Tu nombre completo, Grupo, Docente (<em>Mtro. Felipe López Salazar</em>) y Plantel (<em>CEB 5/4 “Profr. Rafael Ramírez”</em>).</li>
+<li><strong>Decoración limpia:</strong> Agrega 1 o 2 líneas o franjas con <code>Insertar &gt; Forma</code>.</li>
+</ul>
 </div>
 </div>
 
 <div class="task-card accent-purple">
 <div class="task-card-header">
 <span class="step-badge">2</span>
-<span>🎥 Diapositiva 3: Los 5 Planos con Búsqueda Web</span>
+<span>📱 Diapositiva 3: Los 4 Mandamientos del Celular</span>
 </div>
 <div class="task-card-body">
-<p>Agrega una <strong>Diapositiva 3</strong> (botón <code>+</code> arriba a la izquierda) titulada: <code>Los 5 Planos Maestros</code>:</p>
-<ul style="font-size:11px; line-height:1.5; margin:4px 0 6px 16px; padding:0; color:#334155;">
-<li>Inserta una tabla o 5 cuadros de texto resumiendo en pocas palabras: <strong>General</strong> (entorno), <strong>Medio</strong> (cintura a cabeza), <strong>Primer Plano</strong> (rostro/emoción), <strong>Detalle / Macro</strong> (objeto protagonista) y <strong>A ras de mesa</strong>.</li>
-<li><strong>Ilustra desde la Web (sin celular hoy):</strong> Entra a <code>Insertar &gt; Imagen &gt; Buscar en la web</code> dentro de Slides, busca ejemplos visuales (ej. <em>«manos trabajando artesania»</em> o <em>«paisaje gran plano»</em>) y coloca al menos <strong>2 imágenes de muestra</strong> recortadas limpio con <code>Recortar imagen</code>.</li>
-</ul>
-<div style="margin-top:8px; padding:6px 8px; background:#eff6ff; border:1px solid #bfdbfe; border-radius:6px; font-size:11px; color:#1e40af;">
-💡 <strong>Ventaja de la Opción 1:</strong> Primero dominas Presentaciones de Google ordenando los temas; las fotos reales de tu proyecto se guardarán dentro de esta misma presentación más adelante.
-</div>
+<p><em>(Después de tu Diapositiva 2 de abajo)</em>, agrega la <strong>Diapositiva 3</strong> resumiendo en 4 tarjetas (<code>Insertar &gt; Forma</code>) qué cuidarás cuando tomes fotografías:</p>
+<ol style="font-size:11px; line-height:1.5; margin:4px 0 0 16px; padding:0; color:#334155;">
+<li>🧼 <strong>Lente Impecable:</strong> Limpiar el cristal antes de disparar.</li>
+<li>🚶 <strong>Cero Zoom Digital:</strong> Acercarse físicamente al objeto.</li>
+<li>📐 <strong>Trípode Humano:</strong> Ambas manos y luz suave de ventana.</li>
+<li>🔇 <strong>Encuadre Limpio:</strong> Sin mochilas ni distractores atrás.</li>
+</ol>
 </div>
 </div>
 </div>
 
-### 🖥️ Ejemplo Visual en Presentaciones de Google (Diapositivas 1 a 3):
-![Ejemplo Visual en Google Slides - Diapositivas 1 a 3](./assets/semana13/semana13_hora1_slides_temas.svg)
+<!-- SELECTOR DE TURNO PARA DIAPOSITIVA 2 (6 PUNTOS DEL PEC) -->
+<div class="turno-selector-bar">
+<span style="font-size:0.85rem; font-weight:700; color:var(--text-secondary); margin-right:4px;">🎯 Elige tu Turno (Para Diapositiva 2):</span>
+<button type="button" class="turno-pill-btn btn-matutino active" data-turno="matutino" onclick="window.switchTurno('matutino')">☀️ Turno Matutino (G101–G106)</button>
+<button type="button" class="turno-pill-btn btn-vespertino" data-turno="vespertino" onclick="window.switchTurno('vespertino')">🌙 Turno Vespertino (G107–G111)</button>
+<button type="button" class="turno-pill-btn btn-ambos" data-turno="ambos" onclick="window.switchTurno('ambos')">👁️ Ver Ambos Turnos</button>
+</div>
+
+<!-- DIAPOSITIVA 2 MATUTINO -->
+<div class="seccion-matutino">
+<div class="turno-banner-matutino">
+<strong>☀️ DIAPOSITIVA 2 (Matutino): ¿Qué tenemos que hacer en nuestro PEC? (6 Puntos)</strong><br>
+Diseña 6 recuadros numerados (<code>Insertar &gt; Forma</code>) aplicando la <strong>Regla 6×6</strong> para resumir tu ruta del <strong>Tianguis Artesanal “Manos que tejen PAZ”</strong>:
+</div>
+
+<table style="width:100%; font-size:11px; border-collapse:collapse; margin-top:6px;">
+<tr style="background:#fef3c7;">
+<th style="padding:5px; border:1px solid #fde68a; width:10%; text-align:center;">Punto</th>
+<th style="padding:5px; border:1px solid #fde68a; width:28%;">Título Corto</th>
+<th style="padding:5px; border:1px solid #fde68a;">Texto breve para tu tarjeta en Slides (Regla 6×6)</th>
+</tr>
+<tr>
+<td style="padding:5px; border:1px solid #fde68a; text-align:center; font-weight:700;">1</td>
+<td style="padding:5px; border:1px solid #fde68a; font-weight:700;">Meta de Piezas</td>
+<td style="padding:5px; border:1px solid #fde68a;">Completar 30 artesanías por equipo, embolsadas y con etiqueta.</td>
+</tr>
+<tr>
+<td style="padding:5px; border:1px solid #fde68a; font-weight:700;">2</td>
+<td style="padding:5px; border:1px solid #fde68a; font-weight:700;">Marca y Costeo</td>
+<td style="padding:5px; border:1px solid #fde68a;">Logo propio del equipo y precios justos calculados en Sheets.</td>
+</tr>
+<tr>
+<td style="padding:5px; border:1px solid #fde68a; font-weight:700;">3</td>
+<td style="padding:5px; border:1px solid #fde68a; font-weight:700;">Cartel Digital</td>
+<td style="padding:5px; border:1px solid #fde68a;">Diseñar cartel oficial del 09 de diciembre (9:00 a 11:40 am).</td>
+</tr>
+<tr>
+<td style="padding:5px; border:1px solid #fde68a; font-weight:700;">4</td>
+<td style="padding:5px; border:1px solid #fde68a; font-weight:700;">Galería Visual</td>
+<td style="padding:5px; border:1px solid #fde68a;">Tomar y guardar fotos limpias de sus productos en Slides (Lám. 6).</td>
+</tr>
+<tr>
+<td style="padding:5px; border:1px solid #fde68a; font-weight:700;">5</td>
+<td style="padding:5px; border:1px solid #fde68a; font-weight:700;">Tianguis 09 Dic</td>
+<td style="padding:5px; border:1px solid #fde68a;">Montar puesto a las 8:00 am y vender de 9:00 a 11:40 am.</td>
+</tr>
+<tr>
+<td style="padding:5px; border:1px solid #fde68a; font-weight:700;">6</td>
+<td style="padding:5px; border:1px solid #fde68a; font-weight:700;">Ahorro del Viaje</td>
+<td style="padding:5px; border:1px solid #fde68a;">Contar ganancias para el viaje al Museo Memoria y Tolerancia.</td>
+</tr>
+</table>
+
+### 🖥️ Ejemplo Visual Matutino (Diapositiva 2 en Google Slides):
+![Ejemplo Visual Matutino - Diapositiva 2 PEC 6 Puntos](./assets/semana13/semana13_hora1_matutino_slide2_pec.svg)
+</div>
+
+<!-- DIAPOSITIVA 2 VESPERTINO -->
+<div class="seccion-vespertino">
+<div class="turno-banner-vespertino">
+<strong>🌙 DIAPOSITIVA 2 (Vespertino): ¿Qué tenemos que hacer en nuestro PEC? (6 Puntos)</strong><br>
+Diseña 6 recuadros numerados (<code>Insertar &gt; Forma</code>) aplicando la <strong>Regla 6×6</strong> para resumir tu ruta del cortometraje <strong>«Raíces que Permanecen»</strong>:
+</div>
+
+<table style="width:100%; font-size:11px; border-collapse:collapse; margin-top:6px;">
+<tr style="background:#ede9fe;">
+<th style="padding:5px; border:1px solid #ddd6fe; width:10%; text-align:center;">Punto</th>
+<th style="padding:5px; border:1px solid #ddd6fe; width:28%;">Título Corto</th>
+<th style="padding:5px; border:1px solid #ddd6fe;">Texto breve para tu tarjeta en Slides (Regla 6×6)</th>
+</tr>
+<tr>
+<td style="padding:5px; border:1px solid #ddd6fe; text-align:center; font-weight:700;">1</td>
+<td style="padding:5px; border:1px solid #ddd6fe; font-weight:700;">Acopio Visual</td>
+<td style="padding:5px; border:1px solid #ddd6fe;">Reunir fotos y videos del 28 de octubre y material familiar.</td>
+</tr>
+<tr>
+<td style="padding:5px; border:1px solid #ddd6fe; font-weight:700;">2</td>
+<td style="padding:5px; border:1px solid #ddd6fe; font-weight:700;">Guion y Roles</td>
+<td style="padding:5px; border:1px solid #ddd6fe;">Asignar 4 roles y planear de 6 a 8 escenas (cero terror).</td>
+</tr>
+<tr>
+<td style="padding:5px; border:1px solid #ddd6fe; font-weight:700;">3</td>
+<td style="padding:5px; border:1px solid #ddd6fe; font-weight:700;">Reflexión Escrita</td>
+<td style="padding:5px; border:1px solid #ddd6fe;">Incluir el texto humano de Humanidades «Lo que permanece».</td>
+</tr>
+<tr>
+<td style="padding:5px; border:1px solid #ddd6fe; font-weight:700;">4</td>
+<td style="padding:5px solid #ddd6fe; font-weight:700;">Audio y Textos</td>
+<td style="padding:5px; border:1px solid #ddd6fe;">Elegir música libre de derechos y colocar subtítulos legibles.</td>
+</tr>
+<tr>
+<td style="padding:5px; border:1px solid #ddd6fe; font-weight:700;">5</td>
+<td style="padding:5px; border:1px solid #ddd6fe; font-weight:700;">Identidad Oficial</td>
+<td style="padding:5px; border:1px solid #ddd6fe;">Insertar Cortinilla CEB 5/4 al inicio y créditos finales.</td>
+</tr>
+<tr>
+<td style="padding:5px; border:1px solid #ddd6fe; font-weight:700;">6</td>
+<td style="padding:5px; border:1px solid #ddd6fe; font-weight:700;">Exportar y Mostrar</td>
+<td style="padding:5px; border:1px solid #ddd6fe;">Guardar video MP4 horizontal (16:9) para la muestra comunitaria.</td>
+</tr>
+</table>
+
+### 🖥️ Ejemplo Visual Vespertino (Diapositiva 2 en Google Slides):
+![Ejemplo Visual Vespertino - Diapositiva 2 PEC 6 Puntos](./assets/semana13/semana13_hora1_vespertino_slide2_pec.svg)
+</div>
 
 ---
 
@@ -78,8 +171,8 @@ Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs des
 <div class="cierre-checklist-box">
 <div class="cierre-checklist-grid">
 <div>✅ <strong>Pestaña `Semana 13 🎨`</strong> creada en Docs con Dictado 1 completo</div>
-<div>✅ <strong>Presentación `16:9` individual</strong> creada en <code>slides.google.com</code></div>
-<div>✅ <strong>Diapositivas 1, 2 y 3</strong> listas aplicando Regla 6×6 y contraste</div>
-<div>✅ <strong>Al menos 2 imágenes de referencia</strong> insertadas desde la web</div>
+<div>✅ <strong>Diapositiva 1 (Portada)</strong> lista en <code>slides.google.com</code> (16:9)</div>
+<div>✅ <strong>Diapositiva 2 (6 Puntos PEC)</strong> elaborada con Regla 6×6</div>
+<div>✅ <strong>Diapositiva 3 (4 Mandamientos)</strong> lista con tarjetas visuales</div>
 </div>
 </div>
