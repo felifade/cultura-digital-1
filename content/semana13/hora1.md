@@ -9,7 +9,7 @@ Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs des
 > 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
 
 > ### ¿Para qué nos sirven las Presentaciones Digitales?
-> *"Saber hacer una buena presentación nos ayuda en la vida diaria a **<u>explicar</u>** 🗣️ cualquier tema frente al grupo sin leer de corrido ni aburrir a nadie. También nos sirve para **<u>vender</u>** 🛍️ una idea, promocionar un negocio familiar o presentar un proyecto en la universidad o el **<u>trabajo</u>** 💼. Cuando usamos imágenes limpias, colores agradables y poco **<u>texto</u>** ✂️, logramos captar el **<u>interés</u>** 👀 de las personas desde el primer segundo."*
+> *"Saber hacer una buena presentación nos ayuda en la vida diaria a **<u>explicar</u>** 🗣️ cualquier tema frente al grupo sin leer de corrido ni aburrir a nadie. También nos sirve para **<u>vender</u>** 🛍️ una idea, promocionar un negocio familiar o presentar un proyecto en el bachillerato o en el **<u>trabajo</u>** 💼. Cuando usamos imágenes limpias, colores agradables y poco **<u>texto</u>** ✂️, logramos captar el **<u>interés</u>** 👀 de las personas desde el primer segundo."*
 >
 > *"Afuera de la escuela vas a usar esta misma habilidad muchas veces: para armar un catálogo de productos en WhatsApp, proponer un viaje con tus amigos o defender un proyecto escolar. Dominar Presentaciones de Google hoy logra que tus ideas se entiendan rápido y se vean claras en cualquier pantalla."*
 

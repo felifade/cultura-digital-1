@@ -11,7 +11,7 @@ Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs des
 > ### ¿Para qué nos sirve tener nuestro Horario en el Celular?
 > *"Traer nuestro **<u>horario</u>** 🕒 escolar guardado en Google Calendar nos ahorra estar preguntando qué **<u>clase</u>** 📚 toca o buscando hojas arrugadas en la mochila. Con solo ponerlo que se repita cada semana y darle un **<u>color</u>** 🎨 distinto a cada materia, sabemos en segundos dónde nos toca. También sirve en la vida diaria para acomodar citas médicas, **<u>entrenos</u>** ⚽ o salidas sin olvidar ningún **<u>compromiso</u>** 📅."*
 >
-> *"Además, guardar todo en la nube tiene una gran ventaja: si un día cambias de celular o trabajas desde otra computadora, no pierdes nada; basta con abrir tu cuenta institucional para ver tu semana completa y organizarte mejor rumbo a la universidad o el trabajo."*
+> *"Además, guardar todo en la nube tiene una gran ventaja: si un día cambias de celular o trabajas desde otra computadora, no pierdes nada; basta con abrir tu cuenta institucional para ver tu semana completa y organizarte mejor durante todo el bachillerato."*
 
 > 🎵 **Reto de Lectura de Comprensión:** Tienes **lo que dura una canción instrumental de fondo (3 a 4 min)** para realizar tu lectura individual en silencio, subrayar las 5 palabras clave y colocar los emojis correspondientes.
 
