@@ -8,8 +8,8 @@ Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs des
 
 > 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
 
-> ### Presentaciones Electrónicas y Regla 6×6
-> *"Una presentación electrónica funciona como un apoyo **<u>visual</u>** 👀 claro que acompaña nuestras ideas sin saturar al público de texto. Aplicar la regla de **<u>síntesis</u>** ✂️ de seis líneas por lámina evita leer párrafos interminables en pantalla. Elegir colores con buen **<u>contraste</u>** 🎨 y tipografía legible mejora de inmediato la **<u>atención</u>** 🎯 del espectador. Además, mantener un orden lógico y respetar los márgenes proyecta gran **<u>profesionalismo</u>** 🏆 en cada exposición."*
+> ### ¿Para qué nos sirven las Presentaciones Digitales?
+> *"Saber hacer una buena presentación nos ayuda en la vida diaria a **<u>explicar</u>** 🗣️ cualquier tema frente al grupo sin leer de corrido ni aburrir a nadie. También nos sirve para **<u>vender</u>** 🛍️ una idea, promocionar un negocio familiar o presentar un proyecto en la universidad o el **<u>trabajo</u>** 💼. Cuando usamos imágenes limpias, colores agradables y poco **<u>texto</u>** ✂️, logramos captar el **<u>interés</u>** 👀 de las personas desde el primer segundo."*
 
 > 🎵 **Reto de Lectura de Comprensión:** Tienes **lo que dura una canción instrumental de fondo (3 a 4 min)** para realizar tu lectura individual, subrayar las 5 palabras clave y colocar los emojis correspondientes.
 

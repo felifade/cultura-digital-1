@@ -8,8 +8,8 @@ Continúa en la misma pestaña **`Semana 13 🎨`** de tu documento en Google Do
 
 > 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
 
-> ### Diseño Visual, Jerarquía y Narrativa Humana
-> *"Una lámina bien diseñada comunica **<u>mensajes</u>** 💬 directos mediante la **<u>jerarquía</u>** 🎨 de títulos, colores armónicos e imágenes nítidas. Al crear un anuncio o historia visual sin recurrir a **<u>clichés</u>** 🚫 artificiales, fortalecemos el **<u>respeto</u>** 🕊️ por nuestras tradiciones e identidad. Preparar una diapositiva exclusiva para organizar fotografías e insumos agiliza el trabajo creativo en nuestra **<u>comunidad</u>** 🤝 escolar."*
+> ### Usar Imágenes y Fotos con Intención en la Vida Diaria
+> *"Tomar buenas **<u>fotos</u>** 📸 y ordenarlas en una presentación no solo sirve para entregar tareas escolares, también nos ayuda a compartir **<u>recuerdos</u>** 💛 familiares o anunciar algo que queramos ofrecer por internet. Si acercamos la cámara a los **<u>detalles</u>** 🔍 importantes y cuidamos la luz, cualquier **<u>cartel</u>** 🎨 o historia se entiende al instante y transmite **<u>confianza</u>** 🤝 a quienes nos ven o nos compran."*
 
 > 🎵 **Reto de Lectura de Comprensión:** En lo que suena la **canción instrumental de fondo (3 a 4 min)**, lee el texto en silencio, subraya las 5 palabras clave con sus emojis y mantén tu pantalla dividida (70% Slides / 30% Portal).
 
