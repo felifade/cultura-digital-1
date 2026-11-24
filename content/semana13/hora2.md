@@ -11,11 +11,7 @@ Continúa en la misma pestaña **`Semana 13 🎨`** de tu documento en Google Do
 > ### Usar Imágenes y Fotos con Intención en la Vida Diaria
 > *"Tomar buenas **<u>fotos</u>** 📸 y ordenarlas en una presentación no solo sirve para entregar tareas escolares, también nos ayuda a compartir **<u>recuerdos</u>** 💛 familiares o anunciar algo que queramos ofrecer por internet. Si acercamos la cámara a los **<u>detalles</u>** 🔍 importantes y cuidamos la luz, cualquier **<u>cartel</u>** 🎨 o historia se entiende al instante y transmite **<u>confianza</u>** 🤝 a quienes nos ven o nos compran."*
 >
-> *"Todos los días vemos cientos de imágenes en redes sociales, grupos de WhatsApp y anuncios de la calle, pero casi siempre pasamos de largo las que salen borrosas, oscuras o llenas de desorden atrás. En cambio, nos detenemos cuando una fotografía tiene buena luz natural, el lente limpio y muestra exactamente lo que importa sin elementos que distraigan."*
->
-> *"Lo mismo pasa cuando queremos contar una historia valiosa o promocionar algo que hicimos con nuestras propias manos: no hace falta comprar la cámara más cara ni meter efectos exagerados. Basta con pensar qué queremos que sienta la persona que lo va a ver, buscar un espacio junto a una ventana y cuidar que los textos sean breves, grandes y fáciles de leer en un teléfono."*
->
-> *"Cuando combinas imágenes cuidadas con un diseño limpio dentro de una presentación digital, conviertes recuerdos sencillos o productos cotidianos en mensajes que llegan directo al corazón o convencen a un cliente. Aprender a mirar y ordenar lo visual con intención te sirve tanto para guardar momentos importantes de tu familia como para destacar cualquier proyecto personal."*
+> *"No hace falta tener el teléfono más caro ni llenar de efectos exagerados una imagen para llamar la atención. Basta con buscar buena luz junto a una ventana, limpiar el lente y escribir textos cortos y fáciles de leer para que tanto tus recuerdos familiares como cualquier producto se vean increíbles."*
 
 > 🎵 **Reto de Lectura de Comprensión:** En lo que suena la **canción instrumental de fondo (3 a 4 min)**, lee el texto en silencio, subraya las 5 palabras clave con sus emojis y mantén tu pantalla dividida (70% Slides / 30% Portal).
 
