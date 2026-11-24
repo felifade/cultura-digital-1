@@ -10,6 +10,12 @@ Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs des
 
 > ### ¿Para qué nos sirven las Presentaciones Digitales?
 > *"Saber hacer una buena presentación nos ayuda en la vida diaria a **<u>explicar</u>** 🗣️ cualquier tema frente al grupo sin leer de corrido ni aburrir a nadie. También nos sirve para **<u>vender</u>** 🛍️ una idea, promocionar un negocio familiar o presentar un proyecto en la universidad o el **<u>trabajo</u>** 💼. Cuando usamos imágenes limpias, colores agradables y poco **<u>texto</u>** ✂️, logramos captar el **<u>interés</u>** 👀 de las personas desde el primer segundo."*
+>
+> *"Seguramente te ha tocado ver exposiciones llenas de letras pequeñitas donde quien habla solo voltea hacia el pizarrón a leer párrafos enteros de espalda al grupo. Eso cansa rápido a cualquiera y hace que nadie ponga atención, aunque el tema sea muy bueno o interesante."*
+>
+> *"En cambio, una presentación bien pensada funciona como un apoyo limpio que resume solo lo esencial en frases cortas, fotos claras y datos fáciles de ver desde el fondo del salón. De esa manera las diapositivas ayudan a que la gente entienda rápido lo que quieres comunicar mientras tú mantienes la vista en el público y hablas con seguridad."*
+>
+> *"Afuera de la escuela vas a ocupar esta misma habilidad muchísimas veces: para armar un catálogo de productos en WhatsApp, proponer un viaje o evento con tus amigos, mostrar cotizaciones a un cliente o defender un proyecto universitario. Dominar Presentaciones de Google hoy te da una herramienta real para que tus ideas se vean claras, ordenadas y convincentes en cualquier lugar."*
 
 > 🎵 **Reto de Lectura de Comprensión:** Tienes **lo que dura una canción instrumental de fondo (3 a 4 min)** para realizar tu lectura individual, subrayar las 5 palabras clave y colocar los emojis correspondientes.
 

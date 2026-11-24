@@ -10,6 +10,12 @@ Continúa en la misma pestaña **`Semana 12 📅`** de tu documento en Google Do
 
 > ### Recordatorios y Listas para que no se te pase nada
 > *"Poner una **<u>alarma</u>** 🔔 diez minutos antes en el calendario evita que llegues tarde o se te olvide el material que pedía el maestro. Anotar tus **<u>pendientes</u>** 📝 en una lista de tareas te quita el **<u>estrés</u>** 😌 de querer acordarte de todo de memoria, ya sea estudiar para un examen, pagar un recibo o comprar algo en casa. Cumplir a **<u>tiempo</u>** ⏱️ te deja más horas **<u>libres</u>** 🎧 para descansar sin pendientes en la cabeza."*
+>
+> *"Nuestra mente funciona mucho mejor para pensar, crear ideas o resolver problemas que para guardar listas largas de mandados, fechas de entrega o recados familiares. Cuando confías todo a la memoria, es muy fácil distraerse con el celular o con la plática y olvidar justo la tarea que valía más puntos en el parcial."*
+>
+> *"Al escribir cada deber en Google Tasks con su fecha límite, puedes ir tachando poco a poco lo que ya terminaste y ver con claridad qué falta por hacer. Ver que la lista se va vaciando da una sensación real de alivio y te ayuda a saber qué cosas son urgentes para hoy y cuáles pueden esperar al fin de semana."*
+>
+> *"Este hábito tan sencillo sirve igual en tu vida personal y familiar: puedes anotar cuándo vence el internet, qué día es el cumpleaños de alguien querido o qué ingredientes hacen falta para la comida. Quien apunta y programa recordatorios vive con más calma y casi nunca anda corriendo a última hora."*
 
 > 🎵 **Reto de Lectura de Comprensión:** En lo que suena la **canción instrumental de fondo (3 a 4 min)**, lee el texto en silencio, subraya las 5 palabras clave con sus emojis y mantén tu pantalla dividida (70% Docs o Calendar / 30% Portal).
 
