@@ -8,8 +8,8 @@ Abre tu documento **«Portafolio Digital - Tercer Parcial»** en Google Docs des
 
 > 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
 
-> ### Gestión del Tiempo y Horarios en la Nube
-> *"Organizar nuestro **<u>horario</u>** 🕒 escolar en la nube evita confusiones y nos ayuda a planificar las materias de cada día. Configurar un evento con **<u>recurrencia</u>** 🔄 semanal garantiza que no tengamos que capturar la información una y otra vez. Asignar un **<u>color</u>** 🎨 diferente para cada asignatura facilita la lectura visual inmediata. Esta disciplina digital fomenta nuestra **<u>autonomía</u>** 🎓 y mejora el **<u>rendimiento</u>** 📈 académico en el bachillerato."*
+> ### ¿Para qué nos sirve tener nuestro Horario en el Celular?
+> *"Traer nuestro **<u>horario</u>** 🕒 escolar guardado en Google Calendar nos ahorra estar preguntando qué **<u>clase</u>** 📚 toca o buscando hojas arrugadas en la mochila. Con solo ponerlo que se repita cada semana y darle un **<u>color</u>** 🎨 distinto a cada materia, sabemos en segundos dónde nos toca. También sirve en la vida diaria para acomodar citas médicas, **<u>entrenos</u>** ⚽ o salidas sin olvidar ningún **<u>compromiso</u>** 📅."*
 
 > 🎵 **Reto de Lectura de Comprensión:** Tienes **lo que dura una canción instrumental de fondo (3 a 4 min)** para realizar tu lectura individual en silencio, subrayar las 5 palabras clave y colocar los emojis correspondientes.
 

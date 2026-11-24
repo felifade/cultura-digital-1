@@ -11,8 +11,8 @@
 
 | Hora | Actividad | Espacio de Trabajo | Entregable y Características en Google Docs |
 | :---: | :--- | :---: | :--- |
-| **Hora 1** | **Configuración del Horario Escolar en Google Calendar** | 💻 Google Calendar<br>📄 Google Docs | • **Dictado 1:** Título 20 negrita centrado, texto 14 justificado con 5 palabras clave intervenidas.<br>• **Horario Semanal:** Materias de lunes a viernes con recurrencia semanal y código de colores.<br>• **Tabla 1×1:** Captura nítida de vista semanal pegada en Docs en **tamaño 10**. |
-| **Hora 2** | **Notificaciones Inteligentes, Recordatorios y Tasks** | 💻 Google Calendar<br>📋 Google Tasks | • **Dictado 2:** Notificaciones proactivas y gestión de tareas (20/14) con 5 palabras clave.<br>• **Alertas Previas:** Notificación emergente de 10 min en materias y evento del Mercado PEC.<br>• **Tabla 2×2:** Captura de evento con alerta + captura de panel Google Tasks en **tamaño 10**. |
+| **Hora 1** | **Configuración del Horario Escolar en Google Calendar** | 💻 Google Calendar<br>📄 Google Docs | • **Dictado 1:** ¿Para qué nos sirve tener nuestro Horario en el Celular? (`20/14` + 5 palabras clave).<br>• **Horario Semanal:** Materias de lunes a viernes con recurrencia semanal y código de colores.<br>• **Tabla 1×1:** Captura nítida de vista semanal pegada en Docs en **tamaño 10**. |
+| **Hora 2** | **Notificaciones Inteligentes, Recordatorios y Tasks** | 💻 Google Calendar<br>📋 Google Tasks | • **Dictado 2:** Recordatorios y Listas para que no se te pase nada (`20/14` + 5 palabras clave).<br>• **Alertas Previas:** Notificación emergente de 10 min en materias y evento del Mercado PEC.<br>• **Tabla 2×2:** Captura de evento con alerta + captura de panel Google Tasks en **tamaño 10**. |
 | **Hora 3** | **Sesión Colchón, Sincronización Móvil y Nivelación** | 🛡️ Comodín Flexible<br>📱 Smartphone / PC | • **Absorción de Suspensiones:** Protección contra retrasos para grupos con clases suspendidas.<br>• **Sincronización:** Vinculación de cuenta institucional `@dgb.edu.mx` en el celular.<br>• **Revisión en Monitor:** Visto bueno y calificación en pantalla por el docente en el laboratorio. |
 
 ---

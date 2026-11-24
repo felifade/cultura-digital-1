@@ -8,8 +8,8 @@ Continúa en la misma pestaña **`Semana 12 📅`** de tu documento en Google Do
 
 > 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
 
-> ### Notificaciones Proactivas y Gestión de Tareas
-> *"Configurar una **<u>notificación</u>** 🔔 previa en el celular o computadora nos avisa a tiempo antes de que inicie una clase importante. Integrar una lista de **<u>tareas</u>** 📝 mediante Google Tasks permite desglosar proyectos grandes en pasos sencillos. Establecer una **<u>prioridad</u>** 🎯 para cada entrega evita la procrastinación en el bachillerato. El seguimiento constante de los **<u>plazos</u>** ⏳ fortalece nuestra **<u>responsabilidad</u>** 🤝 escolar."*
+> ### Recordatorios y Listas para que no se te pase nada
+> *"Poner una **<u>alarma</u>** 🔔 diez minutos antes en el calendario evita que llegues tarde o se te olvide el material que pedía el maestro. Anotar tus **<u>pendientes</u>** 📝 en una lista de tareas te quita el **<u>estrés</u>** 😌 de querer acordarte de todo de memoria, ya sea estudiar para un examen, pagar un recibo o comprar algo en casa. Cumplir a **<u>tiempo</u>** ⏱️ te deja más horas **<u>libres</u>** 🎧 para descansar sin pendientes en la cabeza."*
 
 > 🎵 **Reto de Lectura de Comprensión:** En lo que suena la **canción instrumental de fondo (3 a 4 min)**, lee el texto en silencio, subraya las 5 palabras clave con sus emojis y mantén tu pantalla dividida (70% Docs o Calendar / 30% Portal).
 
