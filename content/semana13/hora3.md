@@ -25,8 +25,35 @@ Continúa en tu pestaña **`Semana 13 🎨`** de Google Docs, debajo de tus apun
 🖥️ <strong>Modo Autónomo (Pantalla Dividida 70/30):</strong> Coloca tu archivo de <strong>Google Slides / Google Docs</strong> al <strong>70%</strong> y este portal al <strong>30%</strong>. <em>(Si aún debes alguna de las Diapositivas 1 a 5, complétala primero con calma antes de pasar a tus fotos).</em>
 </div>
 
-### 📱 Comparativa Visual: Qué Evitar vs. Regla de los Tercios (Sin Zoom)
-![Comparativa Sin Zoom y Regla de los Tercios](./assets/semana13/semana13_hora3_tercios_comparativa.svg)
+### 📱 Comparativa Fotorrealista: Sin Técnica vs. Regla de los Tercios (Sin Zoom)
+
+<div class="task-grid-2">
+<div class="task-card accent-rose">
+<div class="task-card-header">
+<span class="step-badge">❌</span>
+<span>EVITA ESTO: Con Zoom y Sin Tercios</span>
+</div>
+<div class="task-card-body">
+<img src="./assets/semana13/foto_sin_tercios_zoom.jpg" alt="Ejemplo mal encuadre con zoom borroso y mochila atrás" style="margin:4px 0 8px 0; width:100%; height:auto; border-radius:6px; border:1.5px solid #fca5a5;">
+<p style="font-size:11px; color:#991b1b; margin:0;">
+<strong>Fallas comunes:</strong> Objeto borroso por usar zoom digital, clavado justo al centro sin aire visual, reflejo duro del foco del techo y distractores atrás (mochila y botella).
+</p>
+</div>
+</div>
+
+<div class="task-card accent-emerald">
+<div class="task-card-header">
+<span class="step-badge">✅</span>
+<span>HAZ ESTO: Sin Zoom + Tercios (3×3)</span>
+</div>
+<div class="task-card-body">
+<img src="./assets/semana13/foto_con_tercios_sin_zoom.jpg" alt="Ejemplo fotorrealista con luz de ventana y regla de tercios 3x3" style="margin:4px 0 8px 0; width:100%; height:auto; border-radius:6px; border:1.5px solid #86efac;">
+<p style="font-size:11px; color:#166534; margin:0;">
+<strong>Acierto visual:</strong> Lente limpio sin zoom (te acercas caminando), luz suave junto a la ventana y artesanía ubicada en el <strong>punto verde de tercios</strong> dejando espacio limpio a la izquierda.
+</p>
+</div>
+</div>
+</div>
 
 <div class="task-grid-2">
 <div class="task-card accent-amber">
