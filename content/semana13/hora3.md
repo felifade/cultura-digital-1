@@ -1,57 +1,61 @@
-# Hora 3: Diapositiva 6 (Galería de Fotos), Transiciones y Revisión
+# Hora 3: Regla de los Tercios, Pruebas Móviles y Galería en Slides
 
 <section class="momento momento-inicio">
-<h2>Inicio: Nivelación Individual y Construcción de Diapositiva 6 (10 min)</h2>
+<h2>Inicio: Tercer Dictado en Google Docs (10 min)</h2>
 </section>
 
-<!-- CAJA DE SESIÓN DE PULIDO Y NIVELACIÓN -->
-<div style="background:#f8fafc; border:1.5px solid #cbd5e1; border-left:6px solid #475569; border-radius:8px; padding:12px 14px; margin:10px 0; color:#334155; font-size:12.5px;">
-<strong style="font-size:13px; color:#1e293b;">🎯 Sesión de Consolidación, Fotos en Galería y Acabado Final:</strong><br>
-En esta tercera hora cierras tu presentación de <strong>6 diapositivas</strong> creando la <strong>Diapositiva 6 (Galería de Evidencias)</strong>, guardando dentro tus fotografías y aplicando transiciones profesionales:
-<ul style="margin:6px 0 0 16px; padding:0; font-size:12px; line-height:1.5;">
-<li><strong>Si tienes actividades pendientes:</strong> Aprovecha este bloque para completar con calma tu horario de Calendar o terminar tus Diapositivas 1 a 5 en <code>slides.google.com</code>.</li>
-<li><strong>Si ya completaste las Diapositivas 1 a 5:</strong> Agrega la <strong>Diapositiva 6</strong>, toma <strong>2 fotos reales</strong> en tu lugar, guárdalas dentro con recorte en forma, pon transiciones y muestra en pantalla completa.</li>
-</ul>
-</div>
+Continúa en tu pestaña **`Semana 13 🎨`** de Google Docs, debajo de tus apuntes anteriores.
+
+> 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
+
+> ### ¿Por qué importa cuidar el Encuadre y usar la Regla de los Tercios?
+> *"Activar la **<u>cuadrícula</u>** 📐 en la cámara de tu celular cambia por completo cómo se ven tus fotos todos los días. En lugar de dejar todo pegado en el **<u>centro</u>** 🎯 sin espacio, colocar a una persona o producto sobre los puntos donde se cruzan las líneas hace que cualquier toma parezca de **<u>revista</u>** ✨. Además, acercarte caminando sin usar **<u>zoom</u>** 🔍 digital evita que la imagen salga borrosa o pixelada al momento de compartirla por **<u>redes</u>** 📱."*
+>
+> *"Cuidar estos pequeños detalles tiene mucha importancia en la vida real: una buena foto vende más rápido un producto familiar, hace lucir mejor un recuerdo con tus amigos y transmite orden cuando entregas un trabajo escolar. Con un poco de luz natural y estos dos trucos gratuitos, tu teléfono toma imágenes claras sin gastar un peso."*
+
+> 🎵 **Reto de Lectura de Comprensión:** Tienes **lo que dura una canción instrumental de fondo (3 a 4 min)** para leer el texto en silencio, subrayar las 5 palabras clave y colocar los emojis correspondientes.
 
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Galería (Diapositiva 6), Transiciones y Docs (30 min)</h2>
+<h2>Desarrollo: Regla de los Tercios, Pruebas con Celular y Galería (30 min)</h2>
 </section>
 
 <div style="background:#eff6ff; border:1px solid #bfdbfe; border-left:5px solid #2563eb; padding:8px 12px; border-radius:6px; margin:10px 0; font-size:12px; color:#1e40af;">
-🖥️ <strong>Modo Autónomo (Pantalla Dividida 70/30):</strong> Coloca tu archivo de <strong>Google Slides / Google Docs</strong> al <strong>70%</strong> y este portal al <strong>30%</strong> como lista de verificación en tu computadora.
+🖥️ <strong>Modo Autónomo (Pantalla Dividida 70/30):</strong> Coloca tu archivo de <strong>Google Slides / Google Docs</strong> al <strong>70%</strong> y este portal al <strong>30%</strong>. <em>(Si aún debes alguna de las Diapositivas 1 a 5, complétala primero con calma antes de pasar a tus fotos).</em>
 </div>
+
+### 📱 Comparativa Visual: Qué Evitar vs. Regla de los Tercios (Sin Zoom)
+![Comparativa Sin Zoom y Regla de los Tercios](./assets/semana13/semana13_hora3_tercios_comparativa.svg)
 
 <div class="task-grid-2">
 <div class="task-card accent-amber">
 <div class="task-card-header">
 <span class="step-badge">6</span>
-<span>📸 Diapositiva 6 (Galería) y Transiciones en Slides</span>
+<span>📸 Pruebas con Celular (3×3) y Diapositiva 6</span>
 </div>
 <div class="task-card-body">
-<p>Crea tu última lámina titulada <code>Galería de Evidencias</code> y dale acabado profesional a toda la presentación:</p>
+<p>En tu propia banca (sin salir del salón), activa la <strong>Cuadrícula (3×3)</strong> en los ajustes de tu cámara y haz <strong>2 fotos de prueba sin usar zoom (1.0x)</strong>:</p>
 <table style="width:100%; font-size:11px; border-collapse:collapse; margin-top:4px;">
 <tr style="background:#fef3c7;">
-<th style="padding:4px; border:1px solid #fde68a; width:36%;">Acción en Slides</th>
-<th style="padding:4px; border:1px solid #fde68a;">Cómo aplicarlo hoy</th>
+<th style="padding:4px; border:1px solid #fde68a; width:34%;">Turno / Paso</th>
+<th style="padding:4px; border:1px solid #fde68a;">Prueba Práctica en tu Lugar</th>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">1. Guardar Fotos<br>(Diapositiva 6)</td>
-<td style="padding:4px; border:1px solid #fde68a;">Toma <strong>2 fotos limpias en tu banca</strong> con luz de ventana (artesanía u objeto), súbelas a Drive e insértalas en tu <strong>Diapositiva 6</strong> (y una en tu cartel si es Matutino).</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">☀️ Matutino</td>
+<td style="padding:4px; border:1px solid #fde68a;">Toma tu artesanía, boceto o material en un <strong>punto de cruce</strong> dejando espacio limpio libre al lado para texto o precio.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">2. Recorte y Capas</td>
-<td style="padding:4px; border:1px solid #fde68a;">Usa <strong>Recortar imagen &gt; Forma</strong> + <code>Opciones de formato &gt; Sombra paralela</code> y revisa capas con <code>Ordenar</code>.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">🌙 Vespertino</td>
+<td style="padding:4px; border:1px solid #fde68a;">Toma un objeto o encuadre cercano con luz de ventana ubicando el foco o mirada en la <strong>línea superior de tercios</strong>.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">3. Transiciones</td>
-<td style="padding:4px; border:1px solid #fde68a;">Entra a <code>Diapositiva &gt; Transición</code> ➔ Elige <em>Disolver</em> o <em>Deslizar</em> (velocidad media) ➔ Clic en <strong>Aplicar a todas las diapositivas</strong>.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">🖼️ Diapositiva 6</td>
+<td style="padding:4px; border:1px solid #fde68a;">Sube ambas fotos a Drive, guárdalas en tu <strong>Diapositiva 6 (Galería)</strong> usando <strong>Recortar en Forma</strong> + <code>Sombra paralela</code>.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">4. Prueba en Vivo</td>
-<td style="padding:4px; border:1px solid #fde68a;">Haz clic en <strong>Presentar</strong> (arriba derecha) para comprobar las 6 láminas a pantalla completa sin cortes.</td>
+<td style="padding:4px; border:1px solid #fde68a; font-weight:700;">✨ Transiciones</td>
+<td style="padding:4px; border:1px solid #fde68a;"><code>Diapositiva &gt; Transición</code> ➔ <em>Disolver</em> o <em>Deslizar</em> ➔ <strong>Aplicar a todas las diapositivas</strong> y prueba en <strong>Presentar</strong>.</td>
 </tr>
 </table>
 </div>
@@ -60,17 +64,17 @@ En esta tercera hora cierras tu presentación de <strong>6 diapositivas</strong>
 <div class="task-card accent-purple">
 <div class="task-card-header">
 <span class="step-badge">2</span>
-<span>🔍 Integración en Google Docs y Revisión en Monitor</span>
+<span>🔍 Auditoría en Google Docs y Firma en Monitor</span>
 </div>
 <div class="task-card-body">
-<p>Concentra toda tu calificación dentro de la pestaña <strong><code>Semana 13 🎨</code></strong> en Google Docs:</p>
+<p>Concentra toda tu evidencia final dentro de la pestaña <strong><code>Semana 13 🎨</code></strong> en Google Docs:</p>
 <ul style="font-size:11.5px; line-height:1.55; margin:4px 0 8px 16px; padding:0; color:#334155;">
-<li><strong>Títulos de Dictados (2):</strong> Tamaño <strong>20 • Negrita • Centrado</strong>.</li>
-<li><strong>Cuerpo de Texto (2):</strong> Tamaño <strong>14 • Justificado</strong> con sus <strong>5 palabras clave</strong> intervenidas (<u>negrita + subrayado</u> + emoji).</li>
-<li><strong>Evidencia de Slides en Docs:</strong> Ubícate en tu <strong>Diapositiva 5</strong> (Cartel o Escaleta), ve a <code>Archivo &gt; Descargar &gt; Imagen PNG (.png)</code> y pégala en una tabla <strong>1×1</strong> (<strong>Tamaño 10</strong>) debajo del Dictado 2, junto con el enlace de tu presentación (<code>Compartir &gt; Cualquier usuario con el enlace: Lector</code>).</li>
+<li><strong>3 Dictados Completos:</strong> Títulos <strong>20 • Negrita • Centrado</strong> | Textos <strong>14 • Justificado</strong> con sus 5 palabras clave intervenidas.</li>
+<li><strong>Evidencia de Slides en Docs:</strong> Descarga en <strong>PNG</strong> tu <strong>Diapositiva 5</strong> (Cartel/Escaleta) o <strong>Diapositiva 6</strong> (Galería con Tercios) desde <code>Archivo &gt; Descargar &gt; Imagen PNG (.png)</code> y pégala en una tabla <strong>1×1</strong> (<strong>Tamaño 10</strong>).</li>
+<li><strong>Enlace de tu Presentación:</strong> Pega debajo tu enlace de Slides (<code>Compartir &gt; Cualquier usuario con el enlace: Lector</code>).</li>
 </ul>
 <div style="padding:6px 8px; background:#f0fdf4; border:1px solid #bbf7d0; border-radius:6px; font-size:11px; color:#166534;">
-✅ <strong>Revisión en Pantalla:</strong> Muestra al docente en tu monitor tanto tu pestaña <code>Semana 13 🎨</code> en Docs como tu presentación de 6 diapositivas en Slides.
+✅ <strong>Revisión en Pantalla:</strong> Muestra al docente en tu monitor tus 3 dictados en Docs y tus 6 diapositivas en Slides.
 </div>
 </div>
 </div>
@@ -87,9 +91,9 @@ En esta tercera hora cierras tu presentación de <strong>6 diapositivas</strong>
 
 <div class="cierre-checklist-box">
 <div class="cierre-checklist-grid">
-<div>✅ <strong>Presentación de 6 diapositivas</strong> completa (incluyendo Ruta PEC 6 puntos)</div>
-<div>✅ <strong>Fotos guardadas en Diapositiva 6</strong> con recorte en forma y sombra</div>
-<div>✅ <strong>Transiciones sobrias aplicadas</strong> a todas las láminas y ortografía verificada</div>
-<div>✅ <strong>PNG (Lám. 5) / Enlace y 2 dictados</strong> revisados en Docs en el monitor</div>
+<div>✅ <strong>3 dictados completos</strong> en pestaña <code>Semana 13 🎨</code> (formato 20/14)</div>
+<div>✅ <strong>2 pruebas con cuadrícula 3×3</strong> sin zoom digital tomadas en el aula</div>
+<div>✅ <strong>Presentación de 6 diapositivas</strong> con fotos en Galería y transiciones</div>
+<div>✅ <strong>PNG y enlace de Slides</strong> revisados en monitor por el docente</div>
 </div>
 </div>
