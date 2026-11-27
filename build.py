@@ -69,6 +69,7 @@ if os.path.exists(index_html):
         html_content = f.read()
     html_content = re.sub(r"data\.js\?v=\d+", f"data.js?v={timestamp}", html_content)
     html_content = re.sub(r"app\.js\?v=\d+", f"app.js?v={timestamp}", html_content)
+    html_content = re.sub(r"style\.css\?v=\d+", f"style.css?v={timestamp}", html_content)
     with open(index_html, "w", encoding="utf-8") as f:
         f.write(html_content)
 

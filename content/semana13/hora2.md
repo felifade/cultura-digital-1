@@ -52,60 +52,58 @@ Continúa en la misma pestaña **`Semana 13 🎨`** de tu documento en Google Do
 Antes de diseñar el cartel (que haremos en <strong>Semana 14</strong> ya con tus fotos propias), deja plasmado en una tabla clara qué le toca preparar a tu equipo para el <strong>Miércoles 09 de Diciembre</strong>.
 </div>
 
-<div class="task-grid-2">
-<div class="task-card accent-amber">
+<div class="task-card accent-amber" style="margin-bottom:14px;">
 <div class="task-card-header">
 <span class="step-badge">1</span>
 <span>🧭 Qué Incluir Arriba (3 Tarjetas Clave)</span>
 </div>
 <div class="task-card-body">
 <p>En la parte superior de tu <strong>Diapositiva 5</strong> resume en 3 recuadros cortos:</p>
-<ul style="font-size:11px; line-height:1.5; margin:4px 0 8px 16px; padding:0; color:#334155;">
+<ul style="font-size:13px; line-height:1.6; margin:4px 0 8px 18px; padding:0; color:#334155;">
 <li><strong>🧶 Meta 30 Piezas:</strong> Qué artesanía harán y cuántas piezas aporta cada integrante.</li>
 <li><strong>💰 Precio en Sheets:</strong> Costo de material y precio justo de venta.</li>
 <li><strong>🕘 Montaje 8:00 am:</strong> Estacionamiento exterior y Audiorama (venta <strong>9:00 a 11:40 am</strong> · <code>Stand #__</code>).</li>
 </ul>
-<div style="background:#fffbeb; border:1px solid #fde68a; border-radius:6px; padding:6px 8px; font-size:10.5px; color:#92400e;">
+<div style="background:#fffbeb; border:1px solid #fde68a; border-radius:6px; padding:8px 10px; font-size:12.5px; color:#92400e;">
 📅 <strong>Nota:</strong> El <strong>Cartel Promocional 16:9</strong> se diseñará hasta la <strong>Semana 14</strong> usando la foto real que tomarás en la Hora 3.
 </div>
 </div>
 </div>
 
-<div class="task-card accent-purple">
+<div class="task-card accent-purple" style="margin-bottom:14px;">
 <div class="task-card-header">
 <span class="step-badge">2</span>
 <span>📋 Tabla de Organización (3×5) en Slides</span>
 </div>
 <div class="task-card-body">
 <p>Debajo inserta una tabla (<code>Insertar &gt; Tabla &gt; 3×5</code>) dejando por escrito los 4 frentes de tu equipo:</p>
-<table style="width:100%; font-size:9.5px; border-collapse:collapse; margin-top:4px;">
-<tr style="background:#fef3c7;">
-<th style="padding:3px; border:1px solid #fde68a; width:28%;">Qué Preparamos</th>
-<th style="padding:3px; border:1px solid #fde68a;">Meta Concreta de Mi Equipo</th>
-<th style="padding:3px; border:1px solid #fde68a; width:28%;">Responsable / Fecha</th>
+<table style="width:100%; font-size:12.5px; border-collapse:collapse; margin-top:6px;">
+<tr>
+<th style="padding:7px 9px; border:1px solid #d97706; background:#92400e; color:#ffffff; text-align:left; width:26%;">Qué Preparamos</th>
+<th style="padding:7px 9px; border:1px solid #d97706; background:#92400e; color:#ffffff; text-align:left;">Meta Concreta de Mi Equipo</th>
+<th style="padding:7px 9px; border:1px solid #d97706; background:#92400e; color:#ffffff; text-align:left; width:28%;">Responsable / Fecha</th>
 </tr>
 <tr>
-<td style="padding:3px; border:1px solid #fde68a; font-weight:700;">1. Producto</td>
-<td style="padding:3px; border:1px solid #fde68a;">Piezas embolsadas y etiquetadas</td>
-<td style="padding:3px; border:1px solid #fde68a;">Equipo · Previo 09 Dic</td>
+<td style="padding:7px 9px; border:1px solid #fde68a; font-weight:700;">1. Producto</td>
+<td style="padding:7px 9px; border:1px solid #fde68a;">Piezas embolsadas y etiquetadas</td>
+<td style="padding:7px 9px; border:1px solid #fde68a;">Equipo · Previo 09 Dic</td>
 </tr>
 <tr>
-<td style="padding:3px; border:1px solid #fde68a; font-weight:700;">2. Marca/Precio</td>
-<td style="padding:3px; border:1px solid #fde68a;">Nombre del stand + precio Sheets</td>
-<td style="padding:3px; border:1px solid #fde68a;">Tesorería · Listo</td>
+<td style="padding:7px 9px; border:1px solid #fde68a; font-weight:700;">2. Marca y Precio</td>
+<td style="padding:7px 9px; border:1px solid #fde68a;">Nombre del stand + precio Sheets</td>
+<td style="padding:7px 9px; border:1px solid #fde68a;">Tesorería · Listo</td>
 </tr>
 <tr>
-<td style="padding:3px; border:1px solid #fde68a; font-weight:700;">3. Mesa/Letrero</td>
-<td style="padding:3px; border:1px solid #fde68a;">Mantel, cambio y letrero de precios</td>
-<td style="padding:3px; border:1px solid #fde68a;">Montaje · 09 Dic 8:00 am</td>
+<td style="padding:7px 9px; border:1px solid #fde68a; font-weight:700;">3. Mesa y Letrero</td>
+<td style="padding:7px 9px; border:1px solid #fde68a;">Mantel, cambio y letrero de precios</td>
+<td style="padding:7px 9px; border:1px solid #fde68a;">Montaje · 09 Dic 8:00 am</td>
 </tr>
 <tr>
-<td style="padding:3px; border:1px solid #fde68a; font-weight:700;">4. Venta/Viaje</td>
-<td style="padding:3px; border:1px solid #fde68a;">Turnos de venta y corte de ahorro</td>
-<td style="padding:3px; border:1px solid #fde68a;">Museo Memoria y Tol.</td>
+<td style="padding:7px 9px; border:1px solid #fde68a; font-weight:700;">4. Venta y Ahorro</td>
+<td style="padding:7px 9px; border:1px solid #fde68a;">Turnos de venta y corte de ahorro</td>
+<td style="padding:7px 9px; border:1px solid #fde68a;">Museo Memoria y Tol.</td>
 </tr>
 </table>
-</div>
 </div>
 </div>
 
@@ -135,55 +133,53 @@ Analiza el cortometraje maestro del Mtro. Alfonso Herrera y diseña en tu <stron
 </div>
 </div>
 
-<div class="task-grid-2">
-<div class="task-card accent-purple">
+<div class="task-card accent-purple" style="margin-bottom:14px;">
 <div class="task-card-header">
 <span class="step-badge">1</span>
 <span>🎬 Análisis Visual y Rol en Diapositiva 5</span>
 </div>
 <div class="task-card-body">
 <p>En la parte superior de tu <strong>Diapositiva 5</strong> anota:</p>
-<ul style="font-size:11px; line-height:1.5; margin:4px 0 0 16px; padding:0; color:#334155;">
+<ul style="font-size:13px; line-height:1.6; margin:4px 0 0 18px; padding:0; color:#334155;">
 <li><strong>Tu Rol PEC:</strong> Dirección, Cámara, Arte o Edición.</li>
 <li><strong>3 Lecciones del Corto:</strong> 🕯️ Luz cálida íntima, 🔍 Planos detalle y 🕊️ Cero clichés de terror (respeto y amor).</li>
 </ul>
 </div>
 </div>
 
-<div class="task-card accent-rose">
+<div class="task-card accent-rose" style="margin-bottom:14px;">
 <div class="task-card-header">
 <span class="step-badge">2</span>
 <span>📋 Tabla de Escaleta (6 Escenas) en Slides</span>
 </div>
 <div class="task-card-body">
 <p>Debajo inserta una tabla (<code>Insertar &gt; Tabla &gt; 4×7</code>) planeando 6 escenas reales:</p>
-<table style="width:100%; font-size:9.5px; border-collapse:collapse; margin-top:4px;">
-<tr style="background:#f1f5f9;">
-<th style="padding:3px; border:1px solid #cbd5e1; width:10%;">No.</th>
-<th style="padding:3px; border:1px solid #cbd5e1; width:22%;">Plano</th>
-<th style="padding:3px; border:1px solid #cbd5e1;">Qué se ve (Archivo 28-Oct o Casa/Aula)</th>
-<th style="padding:3px; border:1px solid #cbd5e1; width:24%;">Audio / Reflexión</th>
+<table style="width:100%; font-size:12.5px; border-collapse:collapse; margin-top:6px;">
+<tr>
+<th style="padding:7px 8px; border:1px solid #6d28d9; background:#4c1d95; color:#ffffff; text-align:center; width:12%;">No.</th>
+<th style="padding:7px 8px; border:1px solid #6d28d9; background:#4c1d95; color:#ffffff; text-align:left; width:20%;">Plano</th>
+<th style="padding:7px 8px; border:1px solid #6d28d9; background:#4c1d95; color:#ffffff; text-align:left;">Qué se ve (Archivo 28-Oct o Casa/Aula)</th>
+<th style="padding:7px 8px; border:1px solid #6d28d9; background:#4c1d95; color:#ffffff; text-align:left; width:24%;">Audio / Reflexión</th>
 </tr>
 <tr>
-<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">01</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Detalle</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Veladora o manos sosteniendo retrato</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Música suave</td>
+<td style="padding:7px 8px; border:1px solid #d8b4fe; text-align:center; font-weight:700;">01</td>
+<td style="padding:7px 8px; border:1px solid #d8b4fe;">Detalle</td>
+<td style="padding:7px 8px; border:1px solid #d8b4fe;">Veladora o manos sosteniendo retrato</td>
+<td style="padding:7px 8px; border:1px solid #d8b4fe;">Música suave</td>
 </tr>
 <tr>
-<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">02–04</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Variados</td>
-<td style="padding:3px; border:1px solid #cbd5e1;"><em>[Clips/fotos 28-oct + escenas casa/aula]</em></td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Voz en off / textos</td>
+<td style="padding:7px 8px; border:1px solid #d8b4fe; text-align:center; font-weight:700;">02–04</td>
+<td style="padding:7px 8px; border:1px solid #d8b4fe;">Variados</td>
+<td style="padding:7px 8px; border:1px solid #d8b4fe;"><em>[Clips/fotos 28-oct + escenas casa/aula]</em></td>
+<td style="padding:7px 8px; border:1px solid #d8b4fe;">Voz en off / textos</td>
 </tr>
 <tr>
-<td style="padding:3px; border:1px solid #cbd5e1; text-align:center; font-weight:700;">05–06</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Medio / Gral.</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Reflexión «Lo que permanece» + Cortinilla</td>
-<td style="padding:3px; border:1px solid #cbd5e1;">Créditos finales</td>
+<td style="padding:7px 8px; border:1px solid #d8b4fe; text-align:center; font-weight:700;">05–06</td>
+<td style="padding:7px 8px; border:1px solid #d8b4fe;">Medio / Gral.</td>
+<td style="padding:7px 8px; border:1px solid #d8b4fe;">Reflexión «Lo que permanece» + Cortinilla</td>
+<td style="padding:7px 8px; border:1px solid #d8b4fe;">Créditos finales</td>
 </tr>
 </table>
-</div>
 </div>
 </div>
 

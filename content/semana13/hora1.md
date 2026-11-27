@@ -172,7 +172,7 @@ Diseña 6 recuadros numerados (<code>Insertar &gt; Forma</code>) aplicando la <s
 
 <div class="cierre-checklist-box">
 <div class="cierre-checklist-grid">
-<div>✅ <strong>Pestaña `Semana 13 🎨`</strong> creada en Docs con Dictado 1 completo</div>
+<div>✅ <strong>Pestaña <code>Semana 13 🎨</code></strong> creada en Docs con Dictado 1 completo</div>
 <div>✅ <strong>Diapositiva 1 (Portada)</strong> lista en <code>slides.google.com</code> (16:9)</div>
 <div>✅ <strong>Diapositiva 2 (6 Puntos PEC)</strong> elaborada con Regla 6×6</div>
 <div>✅ <strong>Diapositiva 3 (4 Mandamientos)</strong> lista con tarjetas visuales</div>

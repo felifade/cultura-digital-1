@@ -18,25 +18,22 @@ Finaliza la pestaña **`Semana 14 🏁`** de tu documento en Google Docs, debajo
 ---
 
 <section class="momento momento-explicacion">
-<h2>Desarrollo: Auditoría de 4 Pestañas y Guía del Examen (30 min)</h2>
+<h2>Desarrollo: Cierre del Portafolio y Guía del Examen (30 min)</h2>
 </section>
 
-<div class="task-grid-2">
-<div class="task-card accent-emerald">
+<div class="task-card accent-emerald" style="margin-bottom:16px;">
 <div class="task-card-header">
 <span class="step-badge">1</span>
-<span>📁 Cierre Oficial del Portafolio en Google Docs</span>
+<span>📁 Paso 1: Entrega Final en Google Docs (<code>Semana 14 🏁</code>)</span>
 </div>
 <div class="task-card-body">
-<p>Completa tu entrega final dentro de la pestaña <strong><code>Semana 14 🏁</code></strong>:</p>
-<ul style="font-size:11.5px; line-height:1.55; margin:4px 0 8px 16px; padding:0; color:#334155;">
-<li><strong>Captura de Lámina 7:</strong> En Slides entra a <code>Archivo &gt; Descargar &gt; Imagen PNG (.png)</code> sobre tu <strong>Diapositiva 7</strong> (Cartel 16:9 en TM / Compromiso PEC en TV) y pégala en una tabla <strong><code>1×1</code></strong> (<strong>Tamaño 10</strong>).</li>
-<li><strong>Enlace Verificado:</strong> Pega debajo el enlace de tu presentación completa de 7 láminas (<code>Compartir &gt; Cualquier usuario con el enlace: Lector</code>).</li>
-<li><strong>Auditoría de 4 Pestañas:</strong> Revisa el panel izquierdo de tu archivo <em>«Portafolio Digital - Tercer Parcial»</em> y verifica que no falte ninguna semana:
-<br><code>Semana 11 ✉️</code> · <code>Semana 12 📅</code> · <code>Semana 13 🎨</code> · <code>Semana 14 🏁</code>.</li>
-</ul>
-<div style="padding:6px 8px; background:#f0fdf4; border:1px solid #bbf7d0; border-radius:6px; font-size:11px; color:#166534;">
-✅ <strong>Cotejo en Monitor:</strong> Muestra al docente tus 4 pestañas en Docs y tus 7 diapositivas en Slides para registrar tu calificación práctica del parcial.
+<ol style="font-size:13.5px; line-height:1.65; margin:4px 0 10px 18px; padding:0; color:#334155;">
+<li><strong>Pega tu Lámina 7 en PNG:</strong> En Slides entra a <code>Archivo &gt; Descargar &gt; Imagen PNG (.png)</code> sobre tu <strong>Diapositiva 7</strong> (Cartel 16:9 en TM / Compromiso PEC en TV) y pégala en una tabla <strong>1×1</strong> (<strong>Tamaño 10</strong>).</li>
+<li><strong>Pega tu Enlace:</strong> Copia el enlace de tu presentación completa (<code>Compartir &gt; Cualquier usuario con el enlace: Lector</code>) debajo de la tabla.</li>
+<li><strong>Revisa tus 4 Pestañas:</strong> Confirma a la izquierda que estén completas: <code>Semana 11 ✉️</code> · <code>Semana 12 📅</code> · <code>Semana 13 🎨</code> · <code>Semana 14 🏁</code>.</li>
+</ol>
+<div style="padding:8px 12px; background:#f0fdf4; border:1px solid #bbf7d0; border-radius:6px; font-size:13px; color:#166534;">
+✅ <strong>Cotejo en Monitor:</strong> Muestra al docente tus 4 pestañas en Docs y tus 7 láminas en Slides para registrar tu calificación práctica.
 </div>
 </div>
 </div>
@@ -44,33 +41,32 @@ Finaliza la pestaña **`Semana 14 🏁`** de tu documento en Google Docs, debajo
 <div class="task-card accent-purple">
 <div class="task-card-header">
 <span class="step-badge">2</span>
-<span>📖 Guía de Estudio: Examen del 3er Parcial (40 Reactivos)</span>
+<span>📖 Paso 2: Guía de Estudio — Examen del 3er Parcial (40 Reactivos)</span>
 </div>
 <div class="task-card-body">
-<p>Tu evaluación del <strong>3er Parcial</strong> se aplicará del <strong>9 al 15 de diciembre</strong> (según horario oficial de grupo) con <strong>10 reactivos por semana</strong>. Repasa directamente desde tus apuntes:</p>
-<table style="width:100%; font-size:10.5px; border-collapse:collapse; margin-top:4px;">
-<tr style="background:#f3e8ff;">
-<th style="padding:4px; border:1px solid #d8b4fe; width:26%;">Semana</th>
-<th style="padding:4px; border:1px solid #d8b4fe;">Qué Repasar (10 Reactivos c/u)</th>
+<p>Tu examen se aplicará entre el <strong>9 y el 15 de diciembre</strong> (según horario de grupo) con <strong>10 reactivos por semana</strong>. Repasa directo de tus apuntes:</p>
+<table style="width:100%; font-size:13px; border-collapse:collapse; margin-top:8px;">
+<tr>
+<th style="padding:8px 10px; border:1px solid #6d28d9; background:#5b21b6; color:#ffffff; text-align:left; width:28%;">Semana</th>
+<th style="padding:8px 10px; border:1px solid #6d28d9; background:#5b21b6; color:#ffffff; text-align:left;">Qué Repasar (10 Reactivos c/u)</th>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #d8b4fe; font-weight:700;">Semana 11 ✉️</td>
-<td style="padding:4px; border:1px solid #d8b4fe;">Limpieza en Gmail (<code>from:</code>, etiquetas, papelera), asunto formal y acuse de recibo.</td>
+<td style="padding:8px 10px; border:1px solid #d8b4fe; font-weight:700;">Semana 11 ✉️</td>
+<td style="padding:8px 10px; border:1px solid #d8b4fe;">Limpieza en Gmail (<code>from:</code>, filtros, papelera), asunto formal y acuse de recibo.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #d8b4fe; font-weight:700;">Semana 12 📅</td>
-<td style="padding:4px; border:1px solid #d8b4fe;">Horario escolar recurrente en Google Calendar, colores, alertas (10 min) y Tasks.</td>
+<td style="padding:8px 10px; border:1px solid #d8b4fe; font-weight:700;">Semana 12 📅</td>
+<td style="padding:8px 10px; border:1px solid #d8b4fe;">Horario escolar en Google Calendar, colores, alertas de 10 min y Google Tasks.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #d8b4fe; font-weight:700;">Semana 13 🎨</td>
-<td style="padding:4px; border:1px solid #d8b4fe;">Slides <code>16:9</code>, Regla <code>6×6</code>, 4 Mandamientos (sin zoom), 5 Planos y Regla de Tercios <code>3×3</code>.</td>
+<td style="padding:8px 10px; border:1px solid #d8b4fe; font-weight:700;">Semana 13 🎨</td>
+<td style="padding:8px 10px; border:1px solid #d8b4fe;">Slides 16:9, Regla 6×6, 4 Mandamientos (sin zoom), 5 Planos y Tercios 3×3.</td>
 </tr>
 <tr>
-<td style="padding:4px; border:1px solid #d8b4fe; font-weight:700;">Semana 14 🏁</td>
-<td style="padding:4px; border:1px solid #d8b4fe;">Autoría y permiso de imágenes, claridad de compromisos PEC y orden del Portafolio.</td>
+<td style="padding:8px 10px; border:1px solid #d8b4fe; font-weight:700;">Semana 14 🏁</td>
+<td style="padding:8px 10px; border:1px solid #d8b4fe;">Uso ético y permiso de imágenes, claridad del plan PEC y orden del Portafolio.</td>
 </tr>
 </table>
-</div>
 </div>
 </div>
 
@@ -84,7 +80,7 @@ Finaliza la pestaña **`Semana 14 🏁`** de tu documento en Google Docs, debajo
 <div class="cierre-checklist-grid">
 <div>✅ <strong>Pestaña <code>Semana 14 🏁</code> completa</strong> (3 dictados + PNG Lámina 7 + enlace)</div>
 <div>✅ <strong>Las 4 pestañas (S11–S14) revisadas</strong> y evaluadas en el monitor del aula</div>
-<div>✅ <strong>Presentación de 7 láminas</strong> completa (Plan PEC, Galería 3×3 y Cartel/Cierre PEC)</div>
-<div>✅ <strong>Guía de 4 semanas lista</strong> para presentar el Examen del 3er Parcial (9–15 Dic)</div>
+<div>✅ <strong>Presentación de 7 láminas</strong> completa (Plan PEC, Galería 3×3 y Cartel/Cierre)</div>
+<div>✅ <strong>Guía de 4 semanas lista</strong> para el Examen del 3er Parcial (9–15 Dic)</div>
 </div>
 </div>
