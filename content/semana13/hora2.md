@@ -1,4 +1,4 @@
-# Hora 2: Planos Maestros y Cartel / Escaleta PEC en Slides
+# Hora 2: Planos Maestros y Plan / Escaleta PEC en Slides
 
 <section class="momento momento-inicio">
 <h2>Inicio: Segundo Dictado en Google Docs (10 min)</h2>
@@ -9,7 +9,7 @@ Continúa en la misma pestaña **`Semana 13 🎨`** de tu documento en Google Do
 > 📐 **Regla de Formato:** Título: **Tamaño 20 • Negrita • Centrado** | Texto: **Tamaño 14 • Justificado** | 5 Palabras Clave: **<u>Negrita + Subrayado</u> + Emoji enfrente**
 
 > ### Usar Imágenes y Fotos con Intención en la Vida Diaria
-> *"Tomar buenas **<u>fotos</u>** 📸 y ordenarlas en una presentación no solo sirve para entregar tareas escolares, también nos ayuda a compartir **<u>recuerdos</u>** 💛 familiares o anunciar algo que queramos ofrecer por internet. Si acercamos la cámara a los **<u>detalles</u>** 🔍 importantes y cuidamos la luz, cualquier **<u>cartel</u>** 🎨 o historia se entiende al instante y transmite **<u>confianza</u>** 🤝 a quienes nos ven o nos compran."*
+> *"Tomar buenas **<u>fotos</u>** 📸 y ordenarlas en una presentación no solo sirve para entregar tareas escolares, también nos ayuda a compartir **<u>recuerdos</u>** 💛 familiares o anunciar algo que queramos ofrecer por internet. Si acercamos la cámara a los **<u>detalles</u>** 🔍 importantes y cuidamos la luz, cualquier **<u>anuncio</u>** 📣 o historia se entiende al instante y transmite **<u>confianza</u>** 🤝 a quienes nos ven o nos compran."*
 >
 > *"No hace falta tener el teléfono más caro ni llenar de efectos exagerados una imagen para llamar la atención. Basta con buscar buena luz junto a una ventana, limpiar el lente y escribir textos cortos y fáciles de leer para que tanto tus recuerdos familiares como cualquier producto se vean increíbles."*
 
@@ -45,23 +45,28 @@ Continúa en la misma pestaña **`Semana 13 🎨`** de tu documento en Google Do
 <button type="button" class="turno-pill-btn btn-ambos" data-turno="ambos" onclick="window.switchTurno('ambos')">👁️ Ver Ambos Turnos</button>
 </div>
 
-<!-- BLOQUE TURNO MATUTINO (DIAPOSITIVA 5: CARTEL 16:9) -->
+<!-- BLOQUE TURNO MATUTINO (DIAPOSITIVA 5: PLAN DE EQUIPO PEC) -->
 <div class="seccion-matutino">
 <div class="turno-banner-matutino">
-<strong>☀️ DIAPOSITIVA 5 (Matutino · G101–G106): Cartel Promocional Horizontal “Manos que tejen PAZ”</strong><br>
-Diseña el anuncio panorámico (<code>16:9</code>) oficial del evento con paleta cálida e institucional ideal para pantallas y Facebook.
+<strong>☀️ DIAPOSITIVA 5 (Matutino · G101–G106): Plan de Equipo y Roles «Manos que tejen PAZ»</strong><br>
+Antes de diseñar el cartel (que haremos en <strong>Semana 14</strong> ya con tus fotos propias), deja plasmado en una tabla clara qué le toca preparar a tu equipo para el <strong>Miércoles 09 de Diciembre</strong>.
 </div>
 
 <div class="task-grid-2">
 <div class="task-card accent-amber">
 <div class="task-card-header">
 <span class="step-badge">1</span>
-<span>🎨 Cartel Modelo Oficial</span>
+<span>🧭 Qué Incluir Arriba (3 Tarjetas Clave)</span>
 </div>
 <div class="task-card-body">
-<p>Toma como referencia el equilibrio visual de colores y tipografía del cartel guía:</p>
-<div style="text-align:center; margin:6px 0;">
-<img src="./assets/semana13/Flyer_Tianguis_Manos_que_tejen_PAZ.png" alt="Cartel Modelo Tianguis Manos que tejen PAZ" style="max-width:200px; width:100%; height:auto; border-radius:8px; border:1px solid #cbd5e1; box-shadow:0 2px 6px rgba(0,0,0,0.08);">
+<p>En la parte superior de tu <strong>Diapositiva 5</strong> resume en 3 recuadros cortos:</p>
+<ul style="font-size:11px; line-height:1.5; margin:4px 0 8px 16px; padding:0; color:#334155;">
+<li><strong>🧶 Meta 30 Piezas:</strong> Qué artesanía harán y cuántas piezas aporta cada integrante.</li>
+<li><strong>💰 Precio en Sheets:</strong> Costo de material y precio justo de venta.</li>
+<li><strong>🕘 Montaje 8:00 am:</strong> Estacionamiento exterior y Audiorama (venta <strong>9:00 a 11:40 am</strong> · <code>Stand #__</code>).</li>
+</ul>
+<div style="background:#fffbeb; border:1px solid #fde68a; border-radius:6px; padding:6px 8px; font-size:10.5px; color:#92400e;">
+📅 <strong>Nota:</strong> El <strong>Cartel Promocional 16:9</strong> se diseñará hasta la <strong>Semana 14</strong> usando la foto real que tomarás en la Hora 3.
 </div>
 </div>
 </div>
@@ -69,26 +74,43 @@ Diseña el anuncio panorámico (<code>16:9</code>) oficial del evento con paleta
 <div class="task-card accent-purple">
 <div class="task-card-header">
 <span class="step-badge">2</span>
-<span>📋 5 Bloques Obligatorios en tu Diapositiva 5</span>
+<span>📋 Tabla de Organización (3×5) en Slides</span>
 </div>
 <div class="task-card-body">
-<p>Adapta estos datos al formato horizontal <code>16:9</code> dentro de Google Slides:</p>
-<ul style="font-size:11px; line-height:1.5; margin:4px 0 8px 16px; padding:0; color:#334155;">
-<li><strong>Encabezado:</strong> CEB 5/4 “Profr. Rafael Ramírez” · Primer Semestre · Turno Matutino.</li>
-<li><strong>Título y Lema:</strong> <strong>Tianguis Artesanal: “Manos que tejen PAZ”</strong> <em>(Ahorramos, Emprendemos y Viajamos)</em>.</li>
-<li><strong>Fecha y Horario:</strong> <strong>Miércoles 09 de diciembre de 2026 · 9:00 a 11:40 am</strong> <em>(Inauguración 9:00 am)</em>.</li>
-<li><strong>Sede y Stand:</strong> <strong>Estacionamiento exterior y Audiorama</strong> · Deja visible: <code>Stand #__</code>.</li>
-<li><strong>Tu Proyecto:</strong> Nombre de tu equipo + marco lateral (<code>Insertar &gt; Forma</code>) reservado para la fotografía de tu artesanía.</li>
-</ul>
-<div style="background:#f8fafc; border:1px solid #e2e8f0; border-radius:6px; padding:6px 8px; font-size:10.5px; color:#334155;">
-💡 En la <strong>Hora 3</strong> crearemos la <strong>Diapositiva 6 (Galería)</strong> y guardaremos las fotos reales.
-</div>
+<p>Debajo inserta una tabla (<code>Insertar &gt; Tabla &gt; 3×5</code>) dejando por escrito los 4 frentes de tu equipo:</p>
+<table style="width:100%; font-size:9.5px; border-collapse:collapse; margin-top:4px;">
+<tr style="background:#fef3c7;">
+<th style="padding:3px; border:1px solid #fde68a; width:28%;">Qué Preparamos</th>
+<th style="padding:3px; border:1px solid #fde68a;">Meta Concreta de Mi Equipo</th>
+<th style="padding:3px; border:1px solid #fde68a; width:28%;">Responsable / Fecha</th>
+</tr>
+<tr>
+<td style="padding:3px; border:1px solid #fde68a; font-weight:700;">1. Producto</td>
+<td style="padding:3px; border:1px solid #fde68a;">Piezas embolsadas y etiquetadas</td>
+<td style="padding:3px; border:1px solid #fde68a;">Equipo · Previo 09 Dic</td>
+</tr>
+<tr>
+<td style="padding:3px; border:1px solid #fde68a; font-weight:700;">2. Marca/Precio</td>
+<td style="padding:3px; border:1px solid #fde68a;">Nombre del stand + precio Sheets</td>
+<td style="padding:3px; border:1px solid #fde68a;">Tesorería · Listo</td>
+</tr>
+<tr>
+<td style="padding:3px; border:1px solid #fde68a; font-weight:700;">3. Mesa/Letrero</td>
+<td style="padding:3px; border:1px solid #fde68a;">Mantel, cambio y letrero de precios</td>
+<td style="padding:3px; border:1px solid #fde68a;">Montaje · 09 Dic 8:00 am</td>
+</tr>
+<tr>
+<td style="padding:3px; border:1px solid #fde68a; font-weight:700;">4. Venta/Viaje</td>
+<td style="padding:3px; border:1px solid #fde68a;">Turnos de venta y corte de ahorro</td>
+<td style="padding:3px; border:1px solid #fde68a;">Museo Memoria y Tol.</td>
+</tr>
+</table>
 </div>
 </div>
 </div>
 
-### 🖥️ Ejemplo Visual Matutino (Diapositiva 5 · Cartel 16:9 en Google Slides):
-![Ejemplo Visual Matutino - Cartel en Google Slides](./assets/semana13/semana13_hora2_matutino_cartel.svg)
+### 🖥️ Ejemplo Visual Matutino (Diapositiva 5 · Plan de Equipo en Google Slides):
+![Ejemplo Visual Matutino - Plan de Equipo en Google Slides](./assets/semana13/semana13_hora2_matutino_plan.svg)
 </div>
 
 <!-- BLOQUE TURNO VESPERTINO (DIAPOSITIVA 5: REFERENTE ALFONSO + ESCALETA) -->
@@ -179,7 +201,7 @@ Analiza el cortometraje maestro del Mtro. Alfonso Herrera y diseña en tu <stron
 <div class="cierre-checklist-grid">
 <div>✅ <strong>Dictado 2 completo</strong> con 5 palabras intervenidas en Docs</div>
 <div>✅ <strong>Diapositiva 4 lista</strong> (5 Planos con 2 imágenes buscadas en web)</div>
-<div>✅ <strong>Diapositiva 5 lista</strong> (Cartel 16:9 en TM / Escaleta en TV)</div>
+<div>✅ <strong>Diapositiva 5 lista</strong> (Plan PEC 16:9 en TM / Escaleta en TV)</div>
 <div>✅ <strong>Todo en 1 solo archivo</strong> de <code>slides.google.com</code> (Láminas 1–5)</div>
 </div>
 </div>

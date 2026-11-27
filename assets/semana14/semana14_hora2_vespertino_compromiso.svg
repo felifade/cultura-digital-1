@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 480" width="100%" height="100%" style="background:#ffffff; font-family:'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;">
+  <defs>
+    <filter id="softShadow" x="-2%" y="-2%" width="104%" height="106%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.10"/>
+    </filter>
+    <filter id="slideShadow" x="-3%" y="-3%" width="106%" height="108%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000000" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+
+  <rect x="4" y="4" width="872" height="472" rx="8" fill="#f1f3f4" stroke="#dadce0" stroke-width="1" filter="url(#softShadow)"/>
+  <rect x="4" y="4" width="872" height="58" rx="8" fill="#ffffff"/>
+  <rect x="4" y="54" width="872" height="8" fill="#ffffff"/>
+
+  <g transform="translate(18, 15)">
+    <rect x="0" y="0" width="24" height="32" rx="3" fill="#f4b400"/>
+    <path d="M16,0 L24,8 L16,8 Z" fill="#e09000"/>
+    <rect x="4" y="13" width="16" height="12" rx="1.5" fill="#ffffff"/>
+    <rect x="6" y="15" width="12" height="8" rx="0.5" fill="#f4b400"/>
+  </g>
+
+  <text x="52" y="28" fill="#202124" font-size="13.5" font-weight="600">PEC_Semana13_Carlos_Ruiz</text>
+  <rect x="284" y="16" width="56" height="17" rx="4" fill="#e8f0fe"/>
+  <text x="312" y="28" fill="#1967d2" font-size="9.5" font-weight="600" text-anchor="middle">En Drive</text>
+  <text x="52" y="48" fill="#444746" font-size="11">Archivo   Editar   Ver   Insertar   Formato   Diapositiva   Ordenar   Herramientas   Ayuda</text>
+
+  <rect x="642" y="14" width="118" height="30" rx="15" fill="#ffffff" stroke="#dadce0" stroke-width="1"/>
+  <polygon points="658,24 658,34 666,29" fill="#444746"/>
+  <text x="708" y="33" fill="#202124" font-size="11" font-weight="600" text-anchor="middle">Presentar</text>
+  <rect x="768" y="14" width="94" height="30" rx="15" fill="#c2e7ff"/>
+  <text x="815" y="33" fill="#001d35" font-size="11" font-weight="600" text-anchor="middle">🔒 Privado</text>
+
+  <rect x="4" y="62" width="872" height="30" fill="#edf2fa" stroke="#dadce0" stroke-width="1"/>
+  <g transform="translate(18, 70)" fill="#444746" font-size="11.5">
+    <rect x="0" y="-2" width="20" height="18" rx="3" fill="#d3e3fd"/>
+    <text x="10" y="11" font-weight="800" fill="#041e49" text-anchor="middle">+</text>
+    <text x="30" y="11">↶   ↷   🖨️</text>
+    <line x1="98" y1="0" x2="98" y2="14" stroke="#cbd5e1"/>
+    <text x="110" y="11" font-weight="600">T</text>
+    <text x="132" y="11">🖼️ Imagen</text>
+    <text x="198" y="11">▲ Forma</text>
+    <line x1="258" y1="0" x2="258" y2="14" stroke="#cbd5e1"/>
+    <text x="270" y="11">Fondo   |   Diseño   |   Tema   |   Transición</text>
+  </g>
+
+  <rect x="4" y="92" width="142" height="384" fill="#ffffff" stroke="#dadce0" stroke-width="1"/>
+  <g transform="translate(0, 92)">
+    
+    <g transform="translate(6, 7)">
+      <text x="8" y="25" fill="#5f6368" font-size="9" font-weight="500" text-anchor="middle">1</text>
+      <rect x="18" y="0" width="110" height="46" rx="4" fill="#ffffff" stroke="#dadce0" stroke-width="1"/>
+      <rect x="23" y="4" width="100" height="7" rx="1.5" fill="#003366" opacity="0.88"/>
+      <rect x="23" y="14" width="60" height="3" rx="1" fill="#94a3b8"/>
+      <rect x="23" y="20" width="85" height="3" rx="1" fill="#cbd5e1"/>
+      <text x="23" y="40" fill="#475569" font-size="7.5" font-weight="600">1. Portada CEB</text>
+    </g>
+    <g transform="translate(6, 60)">
+      <text x="8" y="25" fill="#5f6368" font-size="9" font-weight="500" text-anchor="middle">2</text>
+      <rect x="18" y="0" width="110" height="46" rx="4" fill="#ffffff" stroke="#dadce0" stroke-width="1"/>
+      <rect x="23" y="4" width="100" height="7" rx="1.5" fill="#003366" opacity="0.88"/>
+      <rect x="23" y="14" width="60" height="3" rx="1" fill="#94a3b8"/>
+      <rect x="23" y="20" width="85" height="3" rx="1" fill="#cbd5e1"/>
+      <text x="23" y="40" fill="#475569" font-size="7.5" font-weight="600">2. PEC (6 Puntos)</text>
+    </g>
+    <g transform="translate(6, 113)">
+      <text x="8" y="25" fill="#5f6368" font-size="9" font-weight="500" text-anchor="middle">3</text>
+      <rect x="18" y="0" width="110" height="46" rx="4" fill="#ffffff" stroke="#dadce0" stroke-width="1"/>
+      <rect x="23" y="4" width="100" height="7" rx="1.5" fill="#003366" opacity="0.88"/>
+      <rect x="23" y="14" width="60" height="3" rx="1" fill="#94a3b8"/>
+      <rect x="23" y="20" width="85" height="3" rx="1" fill="#cbd5e1"/>
+      <text x="23" y="40" fill="#475569" font-size="7.5" font-weight="600">3. 4 Mandamientos</text>
+    </g>
+    <g transform="translate(6, 166)">
+      <text x="8" y="25" fill="#5f6368" font-size="9" font-weight="500" text-anchor="middle">4</text>
+      <rect x="18" y="0" width="110" height="46" rx="4" fill="#ffffff" stroke="#dadce0" stroke-width="1"/>
+      <rect x="23" y="4" width="100" height="7" rx="1.5" fill="#003366" opacity="0.88"/>
+      <rect x="23" y="14" width="60" height="3" rx="1" fill="#94a3b8"/>
+      <rect x="23" y="20" width="85" height="3" rx="1" fill="#cbd5e1"/>
+      <text x="23" y="40" fill="#475569" font-size="7.5" font-weight="600">4. 5 Planos Web</text>
+    </g>
+    <g transform="translate(6, 219)">
+      <text x="8" y="25" fill="#5f6368" font-size="9" font-weight="500" text-anchor="middle">5</text>
+      <rect x="18" y="0" width="110" height="46" rx="4" fill="#ffffff" stroke="#dadce0" stroke-width="1"/>
+      <rect x="23" y="4" width="100" height="7" rx="1.5" fill="#0f766e" opacity="0.88"/>
+      <rect x="23" y="14" width="60" height="3" rx="1" fill="#94a3b8"/>
+      <rect x="23" y="20" width="85" height="3" rx="1" fill="#cbd5e1"/>
+      <text x="23" y="40" fill="#475569" font-size="7.5" font-weight="600">5. Plan PEC / Escaleta</text>
+    </g>
+    <g transform="translate(6, 272)">
+      <text x="8" y="25" fill="#5f6368" font-size="9" font-weight="500" text-anchor="middle">6</text>
+      <rect x="18" y="0" width="110" height="46" rx="4" fill="#ffffff" stroke="#dadce0" stroke-width="1"/>
+      <rect x="23" y="4" width="100" height="7" rx="1.5" fill="#003366" opacity="0.88"/>
+      <rect x="23" y="14" width="60" height="3" rx="1" fill="#94a3b8"/>
+      <rect x="23" y="20" width="85" height="3" rx="1" fill="#cbd5e1"/>
+      <text x="23" y="40" fill="#475569" font-size="7.5" font-weight="600">6. Galería Fotos</text>
+    </g>
+    <g transform="translate(6, 325)">
+      <text x="8" y="25" fill="#5f6368" font-size="9" font-weight="700" text-anchor="middle">7</text>
+      <rect x="18" y="0" width="110" height="46" rx="4" fill="#fef7e0" stroke="#e37400" stroke-width="2"/>
+      <rect x="23" y="4" width="100" height="7" rx="1.5" fill="#4c1d95" opacity="0.88"/>
+      <rect x="23" y="14" width="60" height="3" rx="1" fill="#94a3b8"/>
+      <rect x="23" y="20" width="85" height="3" rx="1" fill="#cbd5e1"/>
+      <text x="23" y="40" fill="#475569" font-size="7.5" font-weight="600">7. Cierre PEC / Cartel</text>
+    </g>
+  </g>
+  <g transform="translate(166, 114)">
+    <rect x="0" y="0" width="686" height="340" rx="4" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" filter="url(#slideShadow)"/>
+    <rect x="0" y="0" width="686" height="54" fill="#4c1d95"/>
+    <rect x="0" y="54" width="686" height="4" fill="#f59e0b"/>
+    <text x="24" y="34" fill="#ffffff" font-size="17.5" font-weight="700">¿Qué me toca hacer en el cierre PEC?</text>
+    <text x="664" y="32" fill="#ede9fe" font-size="10.5" font-weight="600" text-anchor="end">Diapositiva 7 · Vespertino</text>
+
+    <g transform="translate(26, 76)">
+      <rect x="0" y="0" width="634" height="32" fill="#f5f3ff" stroke="#ddd6fe" stroke-width="1.2"/>
+      <text x="115" y="21" fill="#4c1d95" font-size="11.5" font-weight="800" text-anchor="middle">Pregunta Clave</text>
+      <text x="430" y="21" fill="#4c1d95" font-size="11.5" font-weight="800" text-anchor="middle">Mi Compromiso Concreto («Raíces que Permanecen»)</text>
+
+      <rect x="0" y="32" width="634" height="54" fill="#ffffff" stroke="#cbd5e1"/>
+      <text x="14" y="55" fill="#0f172a" font-size="11" font-weight="700">1. ¿Qué archivo visual</text>
+      <text x="14" y="71" fill="#0f172a" font-size="11" font-weight="700">y permisos aporto?</text>
+      <text x="244" y="55" fill="#334155" font-size="10.5">2 fotos/clips del 28 de octubre + toma de veladora en casa.</text>
+      <text x="244" y="72" fill="#4c1d95" font-size="10">Con permiso familiar y crédito de autor (Progresión 10).</text>
+
+      <rect x="0" y="86" width="634" height="54" fill="#f8fafc" stroke="#cbd5e1"/>
+      <text x="14" y="109" fill="#0f172a" font-size="11" font-weight="700">2. ¿Cuál es mi frase</text>
+      <text x="14" y="125" fill="#0f172a" font-size="11" font-weight="700">de Humanidades?</text>
+      <text x="244" y="109" fill="#334155" font-size="10.5">«Lo que permanece es el recuerdo vivo compartido en familia».</text>
+      <text x="244" y="126" fill="#4c1d95" font-size="10">Lista para subtítulos limpios o voz en off (cero terror).</text>
+
+      <rect x="0" y="140" width="634" height="54" fill="#ffffff" stroke="#cbd5e1"/>
+      <text x="14" y="163" fill="#0f172a" font-size="11" font-weight="700">3. ¿Qué rol cumplo</text>
+      <text x="14" y="179" fill="#0f172a" font-size="11" font-weight="700">el 09 y 17 de Dic?</text>
+      <text x="244" y="163" fill="#334155" font-size="10.5">Rol: Cámara / Edición con música libre y Cortinilla CEB 5/4.</text>
+      <text x="244" y="180" fill="#4c1d95" font-size="10">Entrega MP4 (16:9) el 09 Dic y Muestra Institucional el 17 Dic.</text>
+
+      <line x1="230" y1="0" x2="230" y2="194" stroke="#cbd5e1" stroke-width="1.2"/>
+    </g>
+
+    <rect x="26" y="286" width="634" height="36" rx="8" fill="#f5f3ff" stroke="#ddd6fe"/>
+    <text x="343" y="308" fill="#4c1d95" font-size="10.5" font-weight="700" text-anchor="middle">🎤 Expón tus 7 láminas en modo Presentar (2 min) verificando escaleta, permisos y fechas.</text>
+  </g>
+</svg>

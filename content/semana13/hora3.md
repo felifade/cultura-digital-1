@@ -97,7 +97,7 @@ Continúa en tu pestaña **`Semana 13 🎨`** de Google Docs, debajo de tus apun
 <p>Concentra toda tu evidencia final dentro de la pestaña <strong><code>Semana 13 🎨</code></strong> en Google Docs:</p>
 <ul style="font-size:11.5px; line-height:1.55; margin:4px 0 8px 16px; padding:0; color:#334155;">
 <li><strong>3 Dictados Completos:</strong> Títulos <strong>20 • Negrita • Centrado</strong> | Textos <strong>14 • Justificado</strong> con sus 5 palabras clave intervenidas.</li>
-<li><strong>Evidencia de Slides en Docs:</strong> Descarga en <strong>PNG</strong> tu <strong>Diapositiva 5</strong> (Cartel/Escaleta) o <strong>Diapositiva 6</strong> (Galería con Tercios) desde <code>Archivo &gt; Descargar &gt; Imagen PNG (.png)</code> y pégala en una tabla <strong>1×1</strong> (<strong>Tamaño 10</strong>).</li>
+<li><strong>Evidencia de Slides en Docs:</strong> Descarga en <strong>PNG</strong> tu <strong>Diapositiva 5</strong> (Plan PEC/Escaleta) o <strong>Diapositiva 6</strong> (Galería con Tercios) desde <code>Archivo &gt; Descargar &gt; Imagen PNG (.png)</code> y pégala en una tabla <strong>1×1</strong> (<strong>Tamaño 10</strong>).</li>
 <li><strong>Enlace de tu Presentación:</strong> Pega debajo tu enlace de Slides (<code>Compartir &gt; Cualquier usuario con el enlace: Lector</code>).</li>
 </ul>
 <div style="padding:6px 8px; background:#f0fdf4; border:1px solid #bbf7d0; border-radius:6px; font-size:11px; color:#166534;">

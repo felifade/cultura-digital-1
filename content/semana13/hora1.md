@@ -91,8 +91,8 @@ Diseña 6 recuadros numerados (<code>Insertar &gt; Forma</code>) aplicando la <s
 </tr>
 <tr>
 <td style="padding:5px; border:1px solid #fde68a; font-weight:700;">3</td>
-<td style="padding:5px; border:1px solid #fde68a; font-weight:700;">Cartel Digital</td>
-<td style="padding:5px; border:1px solid #fde68a;">Diseñar cartel oficial del 09 de diciembre (9:00 a 11:40 am).</td>
+<td style="padding:5px; border:1px solid #fde68a; font-weight:700;">Cartel (Sem. 14)</td>
+<td style="padding:5px; border:1px solid #fde68a;">Diseñar el cartel oficial la próxima semana (16:9).</td>
 </tr>
 <tr>
 <td style="padding:5px; border:1px solid #fde68a; font-weight:700;">4</td>
